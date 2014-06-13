@@ -8,8 +8,7 @@ import collections
 import pickle
 import os
 from maxent import MaxentModel
-import xml.etree.ElementTree as ET
-import re
+
 import pdb
 
 # Set __DEBUG__ to True to display debugging messages.
@@ -108,78 +107,8 @@ def processFeatExtract():
     
     saveFeatureMap()
     
-s_pattern_C = re.compile("(id\([a-z]{1}[0-9]{1}[a-z]{2}[0-9]{1}[gf]{1}\.)([0-9])")
 
-def reconstructDial(dialogueAct):
     
-    tree_moves = ET.parse("move_test/"+dialogueAct+".moves.xml")
-    root_moves = tree_moves.getroot()
-    tag_units = []
-    prefix = ""
-    for child in root_moves:
-        
-        if(child.tag == "move"):
-            cc = child.find("{http://nite.sourceforge.net/}child")
-            ss = cc.get('href').split("#")[1]
-            #print ss
-            str = s_pattern_C.sub(r"\2", ss).replace(")"," ")
-            prefix = ss[3:].split(".")[0]
-            
-            start = 0
-            end = 0
-           
-            pages = [s.strip() for s in str.split("..")]
-            
-            #print pages
-            if(len(pages)==2):
-                val0 = float(pages[0]) if pages[0].find(".")!=-1 else int(pages[0])
-                val1 = float(pages[1]) if pages[1].find(".")!=-1 else int(pages[1])
-                (start, end) = (val0, val1)
-                #print (val0, val1)
-            elif(len(pages)==1):
-                val = float(pages[0]) if pages[0].find(".")!=-1 else int(pages[0])
-                (start, end) = (val, val)
-            label = child.get('label')
-            tag_units.append((start, end, label))
-        
-    # end for child in root_moves
-    
-    timed_tree = ET.parse("timed/"+dialogueAct+".timed-units.xml")
-    root_timed = timed_tree.getroot()
-    
-    wordsByNum = []
-    for child in root_timed:
-        if(child.tag=="sil" or child.tag=="tu"):
-            ID = child.attrib["id"]
-            prefix = ID.split(".")[0]
-            num = ID[len(prefix)+1:]
-           
-            wordsByNum.append((float(num), child.text, float(child.attrib['start'])))
-    
-    utts = []
-    for (start, end, label) in tag_units:
-        uttArray = []
-        startOfmove = 0.0
-        for (num, word,startTime) in wordsByNum:
-           # print "num : %f, start : %d, end : %d" %(num, start, end)
-            if(num>=start and num<end+1):
-                if(word!=None):
-                    uttArray.append(word)
-                    if(startOfmove<startTime):
-                    
-                        startOfmove = startTime
-                #print (num, word)
-            else:
-                continue
-        if(uttArray!=None):
-            utt = " ".join(uttArray)
-        utts.append((utt,label,startOfmove))
-        utt = ""
-       
-    sorted(utts, key=lambda (a,b,c): c)
-    for stn,label,startOfmove in utts:
-        print dialogueAct[len(dialogueAct)-1], label, startOfmove, stn
-      
 #def getDialogActsLabel():
 #    transPathName = "Tr_test"
 #    filelist = os.listdir(transPathName)
@@ -229,17 +158,13 @@ def testExtractNgram():
     fe = FeatureExtractor(g_fm)
     fe.toContext(stn.lower().split("\t")[1])
 
-    
-    
 def mappping(grams, itmap, timap):
     for gram in grams.keys():
         idx = len(g_fm.timap)
         g_fm.timap[gram] = idx
         g_fm.itmap[idx] = gram
-        
+
+
+       
 if __name__=="__main__":
-    #processFeatExtract()
-    #testExtractNgram("S\tMy Name is")
-    #testExtractNgram()
-    reconstructDial("q1ec1.g")
-    reconstructDial("q1ec1.f")
+    
