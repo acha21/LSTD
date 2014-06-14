@@ -4,7 +4,8 @@ Created on Fri Jun 13 15:21:46 2014
 In the MapCorpus, all the words are tagged, and the utternces are splited by tokens(word).
 So we need to build dialouge data from the MapCorpus
 
-This program 
+This program process mapcourpus and build dialog text
+ 
 @author: yeonchan
 """
 
@@ -12,6 +13,9 @@ import xml.etree.ElementTree as ET
 import re
 import optparse as OPT
 import sys
+from os import listdir
+from os.path import isfile, join
+
 
 __DEBUG__ = False
 
@@ -48,7 +52,8 @@ def reconstructDial(dialogueAct):
                 val = float(pages[0]) if pages[0].find(".")!=-1 else int(pages[0])
                 (start, end) = (val, val)
             label = child.get('label')
-            tag_units.append((start, end, label))
+            moveID = child.get('id')
+            tag_units.append((start, end, label, moveID))
         
     # end for child in root_moves
     timed_tree = ET.parse(timed_unit_path+dialogueAct+".timed-units.xml")
@@ -63,11 +68,11 @@ def reconstructDial(dialogueAct):
             wordsByNum.append((float(num), child.text, float(child.attrib['start'])))
     
     utts = []
-    for (start, end, label) in tag_units:
+    for (start, end, label, moveID) in tag_units:
         uttArray = []
         startOfmove = 0.0
         for (num, word,startTime) in wordsByNum:
-           # print "num : %f, start : %d, end : %d" %(num, start, end)
+            
             if(num>=start and num<end+1):
                 if(word!=None):
                     uttArray.append(word)
@@ -78,38 +83,38 @@ def reconstructDial(dialogueAct):
                 continue
         if(uttArray!=None):
             utt = " ".join(uttArray)
-        utts.append((utt,label,startOfmove))
+        #print "%s, %s" %(moveID, utt)
+        utts.append((utt,label,startOfmove,moveID))
         utt = ""
        
     return utts
 
-# this functio returns a list of (speaker, label, stn, time)
+# this function returns a list of (speaker, label, stn)
 def getDialogFromMapCorpus(dialName):
     total_utters = []
     g_utters = reconstructDial(dialName+".g")
     for lis in g_utters:
-       total_utters.append(("g", lis[0],lis[1],lis[2]))
+       total_utters.append(("g", lis[0],lis[1],lis[2], lis[3]))
     
     f_utters = reconstructDial(dialName+".f")
     for lis in f_utters:
-       total_utters.append(("f", lis[0],lis[1],lis[2]))
+       total_utters.append(("f", lis[0],lis[1],lis[2], lis[3]))
        
-    turns = sorted(total_utters, key=lambda (a,b,c,d): d)
+    turns = sorted(total_utters, key=lambda (a,b,c,d,e): d)
     if __DEBUG__:
-        for speaker, stn,label,startOfmove in turns:
-            print "%s (%s) %s" % (speaker, label, stn)
+        for speaker, stn,label,_id, startOfmove,  in turns:
+            print "%s (%s) %s, %s" % (speaker, label, _id, stn)
     
     return turns
 
 def writeDialog(fName, turns):
     with open(fName,"w") as f:
         for turn in turns:
+            #f.write(turn[4]+","+turn[0]+","+turn[2]+","+turn[1]+"\n")
             f.write(turn[0]+","+turn[2]+","+turn[1]+"\n")
         
-from os import listdir
-from os.path import isfile, join
 
-
+    
 if __name__=="__main__":
     
     p = OPT.OptionParser(description="This program process mapcourpus and build dialog text",
@@ -131,7 +136,9 @@ if __name__=="__main__":
             turns = getDialogFromMapCorpus(name)
             writeDialog("dialog/"+name+".dg", turns)
     
+    out = baseline_mostFreqLabel(dialog)
     
+    eval_classification(out)
     
     
     

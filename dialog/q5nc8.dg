@@ -1,0 +1,123 @@
+g,ready,right
+f,reply_y,aye
+g,align,do you see the start point above the stony desert
+f,reply_y,aye
+g,instruct,ehm heading towards the left for about two centimetres 'til you reach s-- above a-- equal to the end of the stony desert
+f,acknowledge,aye right
+g,instruct,ehm then start sloping downwards to the left
+f,acknowledge,right
+g,instruct,towards the bottom so you should be about an inch from the top from the bottom of the page
+f,acknowledge,right
+g,uncodable,ehm
+g,query_yn,do you see the site of the plane crash
+f,reply_n,no
+g,acknowledge,no
+f,reply_y,oh yeah i do
+f,check,right up at the top
+g,reply_n,oh
+g,reply_n,no no
+f,explain,no you must have another one
+g,ready,right okay ehm
+g,instruct,he-- keep heading towards the le-- in a straight line towards the l-- the left of the page 'til you're about ehm an inch and a half away from the the left the far left-hand side of the page
+f,acknowledge,right
+g,instruct,and then start sloping up
+g,query_yn,do you see the collapsed shelter
+f,reply_y,mmhmm
+g,ready,right ehm
+g,instruct,if you start sloping upwards slightly towards the right 'til you're about parallel with the top of the collapsed shelter but still oh about an inch and a half from the left-hand side of the page
+f,acknowledge,right
+g,instruct,so that should be about three and a half inches
+f,acknowledge,mmhmm
+g,ready,right
+g,instruct,so then start heading towards the right of the page ehm over the top of the collapsed shelter about three inches
+f,acknowledge,right
+g,align,ehm so you should be just at about the end of the collapsed shelter
+f,reply_y,aye
+g,instruct,right so go down to just down the side of the the down the right-hand side of the collapsed shelter 'til you're equal with about the bottom of it
+f,acknowledge,right
+g,ready,now
+g,query_yn,do you see the savannah
+f,reply_y,aye
+g,ready,right ehm
+g,instruct,it should be about if you s-- a slight slope upwards to the bottom of the savannah it should be about three inches
+f,acknowledge,aye
+g,ready,right
+g,instruct,so if you just head up towards the bottom of the savannah
+f,acknowledge,right
+g,instruct,not underneath it though
+g,uncodable,ehm
+f,acknowledge,right
+g,ready,right mm
+g,query_yn,do you see the slate mountain
+f,reply_n,no
+g,acknowledge,no ehm never mind
+g,instruct,ehm once you get to the side of the s-- head up the left-hand side of the savannah about four inches
+f,acknowledge,right
+g,instruct,ehm now about an inch and a half back to the left
+f,acknowledge,right
+g,query_yn,ehm do you see the hot wells
+f,check,hot springs
+g,reply_y,hot springs yeah
+f,reply_y,aye
+g,instruct,ehm from from where you are at the moment to about the bottom of the hot springs in a sort of d-- if you slope towards the bottom in a d-- uh the middle halfway you know underneath the middle of them about like a forty-five degree line
+f,acknowledge,aye right
+f,acknowledge,right
+g,ready,right
+g,instruct,and now go to the left about an inch just un-- so that you're going under the hot wells
+f,acknowledge,right
+g,ready,then
+g,instruct,another sort of diagonal slope downwards but ehm slightly steeper than forty-five degree line
+f,acknowledge,aye
+g,instruct,forty-five degrees for about an inch
+f,acknowledge,right
+g,ready,ehm
+g,ready,right
+g,ready,then ehm
+g,query_yn,do you see the white mountain
+f,reply_y,mmhmm
+g,ready,right
+g,instruct,well you want to curve up towards it but making where from where you are now so that it looks like the bottom of a basin curving up to the side of the white mountains it's about six or seven inches maybe not as much as that
+f,acknowledge,right i think so
+f,query_w,where is it i need to end up the left or the right side of the white mountain
+g,reply_w,ehm the left
+f,acknowledge,right
+g,ready,mm
+g,instruct,so go up the left-hand side of the mountain as if you were climbing it
+f,acknowledge,right
+g,ready,and then ehm
+g,instruct,head upwards straight in a straight line to about two and a half inches
+f,check,past the round rocks
+g,explain,ehm well yeah i don't have that so
+f,acknowledge,right
+g,clarify,just keep going straight up
+g,query_yn,ehm uh do you see the lake
+f,reply_y,uh-huh
+g,ready,right
+f,acknowledge,right
+g,instruct,if you start heading towards the lake in a straight line about three in-- just about three inches 'til you get to the the edge of the lake
+g,instruct,then you're going round the lake in a clockwise direction
+f,acknowledge,right
+g,instruct,but not right round it
+f,acknowledge,uh-huh
+g,query_yn,do you see the roman baths
+f,reply_n,nope
+g,acknowledge,no eh never mind
+g,instruct,ehm just come round the lake and then as if you were heading back to the left-hand side of the page but but just if you just stop where you're parallel to where you started going round the lake about an inch down from there
+f,acknowledge,ah right aye right got you
+g,ready,right
+g,query_yn,and then do you see the where the antelopes are
+f,reply_y,uh-huh
+g,instruct,if you just head down about three or four inches straight down and go down the left-hand side of them
+f,check,the left-hand side
+g,reply_y,yeah
+f,acknowledge,right
+g,reply_y,uh-huh
+g,clarify,just keep going straight down
+g,ready,and then
+g,align,so you should be just underneath the antelope
+f,reply_y,mmhmm
+g,ready,then just
+g,instruct,go in a straight line towards the right about two inches and that's your finishing point
+f,acknowledge,right
+f,check,that's it
+g,reply_y,yeah

@@ -57,28 +57,32 @@ class FeatureExtractor(object):
                 self.fMap.unigrams[wordlist[i]]+=1
                 i+=1
     
-    def toContext(self, stn):
+    def toContext(self, stn, unigram=True, bigram=False, trigram=False  ):
         wordlist = stn.lower().split()
         
         context = []
-        
-        for i in range(0,len(wordlist)):
-            context.append("u_"+wordlist[i]) #unigram
-            if(i+1 >= len(wordlist)):
-                context.append("b_"+wordlist[i]+"_END")
-            elif(i+1 < len(wordlist)):
-                context.append("b_"+wordlist[i]+"_"+wordlist[i+1])
-                           
-            if((len(wordlist)-i)==2):
-                context.append("t_"+wordlist[i]+"_"+wordlist[i+1]+"_END")
+        if(unigram):
+            for i in range(0,len(wordlist)):
+                context.append("u_"+wordlist[i]) #unigram
                 
-            if((len(wordlist)-i)==1):
-                context.append("t_"+wordlist[i]+"_END_END")
-                
-            if((len(wordlist)-i)>=3):
-                context.append("t_"+wordlist[i]+"_"+wordlist[i+1]+"_"+wordlist[i+2])
+        if(bigram):
+            for i in range(0,len(wordlist)):
+                if(i+1 >= len(wordlist)):
+                    context.append("b_"+wordlist[i]+"_END")
+                elif(i+1 < len(wordlist)):
+                    context.append("b_"+wordlist[i]+"_"+wordlist[i+1])
+        if(trigram):       
+            for i in range(0,len(wordlist)):
+                               
+                if((len(wordlist)-i)==2):
+                    context.append("t_"+wordlist[i]+"_"+wordlist[i+1]+"_END")
+                    
+                if((len(wordlist)-i)==1):
+                    context.append("t_"+wordlist[i]+"_END_END")
+                    
+                if((len(wordlist)-i)>=3):
+                    context.append("t_"+wordlist[i]+"_"+wordlist[i+1]+"_"+wordlist[i+2])
             
-        print wordlist, context      
         return context
 
 def loadFeatureMap():
@@ -167,4 +171,4 @@ def mappping(grams, itmap, timap):
 
        
 if __name__=="__main__":
-    
+    pass

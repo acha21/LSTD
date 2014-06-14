@@ -1,0 +1,707 @@
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="transaction.q1nc1">
+<its id="q1nc1.transaction.0.5">
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.2.5)"/>
+</its>
+<transaction type="normal" id="q1nc1.transaction.1" map_start_point="1" map_end_point="2">
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.1)..id(q1nc1.g.move.3.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.3)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.4)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.5.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.4.5)..id(q1nc1.g.move.5.4)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.6)..id(q1nc1.f.move.7.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.5.9)..id(q1nc1.g.move.8.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.8)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.9)"/>
+</transaction>
+<its id="q1nc1.transaction.1.5">
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.12.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.9.5)"/>
+</its>
+<transaction id="q1nc1.transaction.2" type="review" map_start_point="1" map_end_point="2">
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.10)..id(q1nc1.g.move.13.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.13)..id(q1nc1.f.move.14.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.14)..id(q1nc1.g.move.15.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.15)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.16)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.16.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.18.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.17)..id(q1nc1.f.move.21.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.19)..id(q1nc1.g.move.24.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.22)..id(q1nc1.f.move.28.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.25)..id(q1nc1.g.move.30.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.29)..id(q1nc1.f.move.32.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.31)..id(q1nc1.g.move.34.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.33)..id(q1nc1.f.move.38.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.35)..id(q1nc1.g.move.39.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.39)..id(q1nc1.f.move.40.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.40)..id(q1nc1.g.move.41.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.41)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.42)..id(q1nc1.g.move.44.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.43)..id(q1nc1.f.move.46.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.45)..id(q1nc1.g.move.50.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.47)..id(q1nc1.f.move.51.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.51)..id(q1nc1.g.move.52.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.52)..id(q1nc1.f.move.53.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.53)..id(q1nc1.g.move.55.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.54)..id(q1nc1.f.move.56.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.56)..id(q1nc1.g.move.57.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.57)"/>
+</transaction>
+<its id="q1nc1.transaction.2.5">
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.59.5)"/>
+</its>
+<transaction type="normal" id="q1nc1.transaction.3" map_start_point="2" map_end_point="4">
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.58)..id(q1nc1.g.move.61.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.60)..id(q1nc1.f.move.65.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.62)..id(q1nc1.g.move.67.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.66)..id(q1nc1.f.move.68.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.68)..id(q1nc1.g.move.69.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.69)..id(q1nc1.f.move.72.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.70)..id(q1nc1.g.move.72)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.73)..id(q1nc1.f.move.74)"/>
+</transaction>
+<its id="q1nc1.transaction.3.5">
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.75.5)"/>
+</its>
+<transaction id="q1nc1.transaction.4" type="review" map_start_point="1" map_end_point="2">
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.75)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.76)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.76.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.77.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.77)..id(q1nc1.f.move.78.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.78)..id(q1nc1.g.move.79.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.79)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.80)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.80.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.81.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.81)..id(q1nc1.f.move.82.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.82)..id(q1nc1.g.move.83.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.83)..id(q1nc1.f.move.85.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.84)..id(q1nc1.g.move.86.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.86)..id(q1nc1.f.move.88.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.87)..id(q1nc1.g.move.91.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.89)..id(q1nc1.f.move.95.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.92)..id(q1nc1.g.move.93.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.96)..id(q1nc1.f.move.96.4)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.94)..id(q1nc1.g.move.97.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.96.9)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.98)..id(q1nc1.g.move.98.4)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.97)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.98.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.99.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.98.9)..id(q1nc1.g.move.100.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.100)..id(q1nc1.f.move.101.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.101)..id(q1nc1.g.move.102.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.102)..id(q1nc1.f.move.103.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.103)..id(q1nc1.g.move.106.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.104)..id(q1nc1.f.move.108.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.107)..id(q1nc1.g.move.109.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.109)..id(q1nc1.f.move.114.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.110)..id(q1nc1.g.move.115.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.115)..id(q1nc1.f.move.117.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.116)..id(q1nc1.g.move.118.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.118)..id(q1nc1.f.move.119.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.119)..id(q1nc1.g.move.120.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.120)..id(q1nc1.f.move.123.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.121)..id(q1nc1.g.move.122)"/>
+</transaction>
+<its id="q1nc1.transaction.4.5">
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.122.5)"/>
+</its>
+<transaction id="q1nc1.transaction.5" type="review" map_start_point="2" map_end_point="4">
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.123)..id(q1nc1.g.move.125.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.124)..id(q1nc1.f.move.128.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.126)..id(q1nc1.g.move.130.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.129)..id(q1nc1.f.move.131.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.131)..id(q1nc1.g.move.132.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.132)..id(q1nc1.f.move.134.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.133)..id(q1nc1.g.move.135.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.135)..id(q1nc1.f.move.136.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.136)..id(q1nc1.g.move.137.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.137)..id(q1nc1.f.move.138.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.138)..id(q1nc1.g.move.139.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.139)..id(q1nc1.f.move.140.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.140)..id(q1nc1.g.move.141.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.141)..id(q1nc1.f.move.143.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.142)..id(q1nc1.g.move.147.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.144)..id(q1nc1.f.move.148.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.148)..id(q1nc1.g.move.149.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.149)..id(q1nc1.f.move.150.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.150)..id(q1nc1.g.move.151.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.151)..id(q1nc1.f.move.152.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.152)..id(q1nc1.g.move.153.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.153)..id(q1nc1.f.move.154.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.154)..id(q1nc1.g.move.155.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.155)..id(q1nc1.f.move.157.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.156)..id(q1nc1.g.move.158.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.158)..id(q1nc1.f.move.159.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.159)..id(q1nc1.g.move.160.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.160)..id(q1nc1.f.move.162.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.161)..id(q1nc1.g.move.165.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.163)..id(q1nc1.f.move.167.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.166)..id(q1nc1.g.move.168.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.168)..id(q1nc1.f.move.169.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.169)..id(q1nc1.g.move.170.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.170)..id(q1nc1.f.move.172.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.171)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.173)..id(q1nc1.f.move.173.4)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.172)..id(q1nc1.g.move.173.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.173.9)..id(q1nc1.f.move.174.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.174)..id(q1nc1.g.move.175.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.175)..id(q1nc1.f.move.176.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.176)..id(q1nc1.g.move.177.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.177)..id(q1nc1.f.move.179.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.178)..id(q1nc1.g.move.181.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.180)..id(q1nc1.f.move.184.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.182)..id(q1nc1.g.move.186.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.185)..id(q1nc1.f.move.187.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.187)..id(q1nc1.g.move.188.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.188)..id(q1nc1.f.move.189.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.189)..id(q1nc1.g.move.191.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.190)..id(q1nc1.f.move.190.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.192)..id(q1nc1.g.move.192.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.191)..id(q1nc1.f.move.195.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.193)"/>
+</transaction>
+<transaction id="q1nc1.transaction.6" type="review" map_start_point="2" map_end_point="3">
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.194)..id(q1nc1.g.move.195)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.196)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.196.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.198.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.197)..id(q1nc1.g.move.198)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.199)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.199.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.200.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.200)..id(q1nc1.g.move.201.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.201)..id(q1nc1.f.move.202.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.202)..id(q1nc1.g.move.203.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.203)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.204)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.207.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.205)..id(q1nc1.g.move.207)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.208)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.208.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.209.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.209)..id(q1nc1.g.move.209.4)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.210)..id(q1nc1.f.move.210.4)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.209.9)..id(q1nc1.g.move.210.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.210.9)..id(q1nc1.f.move.211.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.211)..id(q1nc1.g.move.212.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.212)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.213)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.212.4)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.214.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.212.9)..id(q1nc1.f.move.218.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.215)..id(q1nc1.g.move.220.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.219)..id(q1nc1.f.move.223.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.221)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.224)"/>
+</transaction>
+<its id="q1nc1.transaction.6.5">
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.221.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.224.4)"/>
+</its>
+<transaction id="q1nc1.transaction.7" type="review" map_start_point="3" map_end_point="4">
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.222)..id(q1nc1.g.move.225.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.224.9)..id(q1nc1.f.move.225)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.226)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.227.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.226.5)..id(q1nc1.g.move.228.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.228)..id(q1nc1.f.move.230.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.229)..id(q1nc1.g.move.231.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.231)..id(q1nc1.f.move.232.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.232)..id(q1nc1.g.move.233.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.233)..id(q1nc1.f.move.234.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.234)..id(q1nc1.g.move.235.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.235)..id(q1nc1.f.move.238.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.236)..id(q1nc1.g.move.239.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.239)..id(q1nc1.f.move.241.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.240)..id(q1nc1.g.move.242.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.242)..id(q1nc1.f.move.244.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.243)..id(q1nc1.g.move.244)"/>
+</transaction>
+<its id="q1nc1.transaction.7.5">
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.246.5)"/>
+</its>
+<transaction id="q1nc1.transaction.8" type="review" map_start_point="2" map_end_point="3">
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.245)..id(q1nc1.f.move.247.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.247)..id(q1nc1.g.move.249.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.248)..id(q1nc1.f.move.253.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.250)..id(q1nc1.g.move.252)"/>
+</transaction>
+<transaction id="q1nc1.transaction.9" type="review" map_start_point="1" map_end_point="2">
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.253)..id(q1nc1.g.move.255.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.254)..id(q1nc1.f.move.258.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.256)..id(q1nc1.g.move.260.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.259)..id(q1nc1.f.move.262.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.261)..id(q1nc1.g.move.264.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.263)..id(q1nc1.f.move.269.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.265)..id(q1nc1.g.move.270.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.270)..id(q1nc1.f.move.273.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.271)..id(q1nc1.g.move.275.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.274)..id(q1nc1.f.move.276.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.276)..id(q1nc1.g.move.278.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.277)..id(q1nc1.f.move.281.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.279)..id(q1nc1.g.move.282.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.282)..id(q1nc1.f.move.284.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.283)..id(q1nc1.g.move.285.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.285)..id(q1nc1.f.move.286.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.286)..id(q1nc1.g.move.288.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.287)..id(q1nc1.f.move.290.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.289)..id(q1nc1.g.move.291.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.291)"/>
+</transaction>
+<its id="q1nc1.transaction.9.5">
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.292.5)"/>
+</its>
+<transaction id="q1nc1.transaction.10" type="review" map_start_point="3" map_end_point="4">
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.292)..id(q1nc1.g.move.293.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.293)..id(q1nc1.f.move.295.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.294)..id(q1nc1.g.move.296.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.296)..id(q1nc1.f.move.298.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.297)..id(q1nc1.g.move.299.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.299)..id(q1nc1.f.move.301.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.300)..id(q1nc1.g.move.302.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.302)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.303)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.304.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.304)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.305)"/>
+</transaction>
+<its id="q1nc1.transaction.10.5">
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.305.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.310.5)"/>
+</its>
+<transaction type="normal" id="q1nc1.transaction.11" map_start_point="4" map_end_point="5">
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.306)..id(q1nc1.g.move.312.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.311)..id(q1nc1.f.move.313.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.313)..id(q1nc1.g.move.314.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.314)..id(q1nc1.f.move.316.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.315)..id(q1nc1.g.move.317.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.317)..id(q1nc1.f.move.318.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.318)..id(q1nc1.g.move.319.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.319)..id(q1nc1.f.move.320.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.320)..id(q1nc1.g.move.321.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.321)..id(q1nc1.f.move.322.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.322)..id(q1nc1.g.move.325.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.323)..id(q1nc1.f.move.326.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.326)..id(q1nc1.g.move.328.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.327)..id(q1nc1.f.move.331.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.329)..id(q1nc1.g.move.332.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.332)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.333)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.334.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.333.5)..id(q1nc1.g.move.335.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.335)..id(q1nc1.f.move.336.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.336)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.337)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.337.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.338.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.338)..id(q1nc1.g.move.339.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.339)"/>
+</transaction>
+<its id="q1nc1.transaction.11.5">
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.340.5)"/>
+</its>
+<transaction type="normal" id="q1nc1.transaction.12" map_start_point="5" map_end_point="6">
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.340)..id(q1nc1.g.move.341.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.341)..id(q1nc1.f.move.343.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.342)..id(q1nc1.g.move.344.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.344)..id(q1nc1.f.move.347.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.345)..id(q1nc1.g.move.348.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.348)..id(q1nc1.f.move.350.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.349)..id(q1nc1.g.move.352.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.351)..id(q1nc1.f.move.354.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.353)..id(q1nc1.g.move.356.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.355)..id(q1nc1.f.move.360.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.357)..id(q1nc1.g.move.361.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.361)..id(q1nc1.f.move.364.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.362)..id(q1nc1.g.move.366.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.365)..id(q1nc1.f.move.367.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.367)..id(q1nc1.g.move.368.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.368)..id(q1nc1.f.move.371.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.369)..id(q1nc1.g.move.373.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.372)..id(q1nc1.f.move.374.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.374)..id(q1nc1.g.move.375.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.375)..id(q1nc1.f.move.376.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.376)..id(q1nc1.g.move.378.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.377)..id(q1nc1.f.move.378)"/>
+</transaction>
+<its id="q1nc1.transaction.12.5">
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.379.5)"/>
+</its>
+<transaction type="normal" id="q1nc1.transaction.13" map_start_point="6" map_end_point="10">
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.379)..id(q1nc1.g.move.380.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.380)..id(q1nc1.f.move.381.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.381)..id(q1nc1.g.move.382.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.382)..id(q1nc1.f.move.384.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.383)..id(q1nc1.g.move.389.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.385)..id(q1nc1.f.move.390.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.390)..id(q1nc1.g.move.391.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.391)..id(q1nc1.f.move.393.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.392)..id(q1nc1.g.move.394.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.394)..id(q1nc1.f.move.395.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.395)..id(q1nc1.g.move.396.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.396)..id(q1nc1.f.move.397.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.397)..id(q1nc1.g.move.399.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.398)..id(q1nc1.f.move.400.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.400)..id(q1nc1.g.move.401.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.401)..id(q1nc1.f.move.402.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.402)"/>
+</transaction>
+<its id="q1nc1.transaction.13.5">
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.407.5)"/>
+</its>
+<transaction id="q1nc1.transaction.14" type="review" map_start_point="5" map_end_point="6">
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.403)..id(q1nc1.f.move.408.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.408)..id(q1nc1.g.move.409.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.409)..id(q1nc1.f.move.410.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.410)..id(q1nc1.g.move.411.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.411)..id(q1nc1.f.move.415.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.412)..id(q1nc1.g.move.416.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.416)..id(q1nc1.f.move.418.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.417)..id(q1nc1.g.move.419.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.419)..id(q1nc1.f.move.420.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.420)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.421)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.424.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.421.5)..id(q1nc1.f.move.425.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.425)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.426)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.427.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.426.5)..id(q1nc1.f.move.427)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.428)..id(q1nc1.g.move.430)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.431.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.431)..id(q1nc1.g.move.432.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.432)..id(q1nc1.f.move.433.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.433)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.434)"/>
+</transaction>
+<its id="q1nc1.transaction.14.5">
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.434.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.436.5)"/>
+</its>
+<transaction id="q1nc1.transaction.15" type="review" map_start_point="4" map_end_point="5">
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.435)..id(q1nc1.g.move.437.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.437)..id(q1nc1.f.move.438.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.438)..id(q1nc1.g.move.439.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.439)..id(q1nc1.f.move.440.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.440)..id(q1nc1.g.move.441.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.441)..id(q1nc1.f.move.443.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.442)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.444)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.442.5)..id(q1nc1.g.move.443)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.445)..id(q1nc1.f.move.448)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.448.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.449.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.449)..id(q1nc1.g.move.451.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.450)..id(q1nc1.f.move.451)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.452)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.452.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.453.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.453)..id(q1nc1.f.move.460.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.454)..id(q1nc1.g.move.454.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.461)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.455)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.461.4)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.455.5)..id(q1nc1.g.move.459)"/>
+</transaction>
+<its id="q1nc1.transaction.15.5">
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.459.1)"/>
+</its>
+<transaction id="q1nc1.transaction.16" type="review" map_start_point="5" map_end_point="6">
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.460)..id(q1nc1.g.move.461.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.461.9)..id(q1nc1.f.move.462.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.462)..id(q1nc1.g.move.465.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.463)..id(q1nc1.f.move.467.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.466)..id(q1nc1.g.move.468.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.468)..id(q1nc1.f.move.470.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.469)..id(q1nc1.g.move.474.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.471)..id(q1nc1.f.move.476.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.475)..id(q1nc1.g.move.477.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.477)..id(q1nc1.f.move.479.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.478)..id(q1nc1.g.move.480.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.480)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.481)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.482.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.481.5)..id(q1nc1.g.move.482)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.483)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.484.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.483.5)..id(q1nc1.f.move.485.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.485)..id(q1nc1.g.move.488.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.486)..id(q1nc1.f.move.489.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.489)..id(q1nc1.g.move.490.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.490)..id(q1nc1.f.move.492.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.491)..id(q1nc1.g.move.491.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.493)..id(q1nc1.f.move.493.4)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.492)..id(q1nc1.g.move.493.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.493.9)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.494)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.497.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.495.5)..id(q1nc1.g.move.497)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.498)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.498.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.499.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.499)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.500)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.500.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.501.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.501)..id(q1nc1.g.move.502.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.502)..id(q1nc1.f.move.503.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.503)..id(q1nc1.g.move.504.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.504)..id(q1nc1.f.move.505.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.505)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.506)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.506.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.508.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.507)..id(q1nc1.g.move.509.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.509)"/>
+</transaction>
+<transaction type="normal" id="q1nc1.transaction.17" map_start_point="6" map_end_point="7">
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.510)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.513.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.510.5)..id(q1nc1.g.move.514.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.514)..id(q1nc1.f.move.515.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.515)..id(q1nc1.g.move.517)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.516)..id(q1nc1.f.move.518.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.518)..id(q1nc1.g.move.519.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.519)..id(q1nc1.f.move.521.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.520)..id(q1nc1.g.move.522.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.522)..id(q1nc1.f.move.524.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.523)"/>
+</transaction>
+<its id="q1nc1.transaction.17.5">
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.523.5)"/>
+</its>
+<transaction id="q1nc1.transaction.18" type="review" map_start_point="5" map_end_point="6">
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.524)..id(q1nc1.g.move.529.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.525)..id(q1nc1.f.move.530.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.530)..id(q1nc1.g.move.531.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.531)..id(q1nc1.f.move.532.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.532)..id(q1nc1.g.move.533.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.533)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.534)..id(q1nc1.g.move.535.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.535)"/>
+</transaction>
+<its id="q1nc1.transaction.18.5">
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.537.5)"/>
+</its>
+<transaction id="q1nc1.transaction.19" type="review" map_start_point="6" map_end_point="7">
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.536)..id(q1nc1.g.move.538.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.538)..id(q1nc1.f.move.539.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.539)..id(q1nc1.g.move.540.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.540)..id(q1nc1.f.move.543.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.541)..id(q1nc1.g.move.542.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.544)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.543)..id(q1nc1.g.move.545)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.545.5)..id(q1nc1.f.move.547.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.547)..id(q1nc1.g.move.548.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.548)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.549)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.552.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.550)..id(q1nc1.g.move.555.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.553)..id(q1nc1.f.move.555)"/>
+</transaction>
+<its id="q1nc1.transaction.19.5">
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.556.5)"/>
+</its>
+<transaction type="normal" id="q1nc1.transaction.20" map_start_point="7" map_end_point="8">
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.556)"/>
+</transaction>
+<its id="q1nc1.transaction.20.5">
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.557.5)"/>
+</its>
+<transaction type="normal" id="q1nc1.transaction.21" map_start_point="8" map_end_point="9">
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.557)..id(q1nc1.f.move.558.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.558)..id(q1nc1.g.move.560.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.559)..id(q1nc1.f.move.561.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.561)..id(q1nc1.g.move.562.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.562)..id(q1nc1.f.move.564.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.563)..id(q1nc1.g.move.569.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.565)..id(q1nc1.f.move.569)"/>
+</transaction>
+<its id="q1nc1.transaction.21.5">
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.570.5)"/>
+</its>
+<transaction id="q1nc1.transaction.22" type="review" map_start_point="6" map_end_point="7">
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.570)..id(q1nc1.g.move.571.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.571)..id(q1nc1.f.move.572.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.572)..id(q1nc1.g.move.573.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.573)"/>
+</transaction>
+<its id="q1nc1.transaction.22.5">
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.574.5)"/>
+</its>
+<transaction id="q1nc1.transaction.23" type="review" map_start_point="7" map_end_point="8">
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.574)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.575)..id(q1nc1.f.move.577)"/>
+</transaction>
+<its id="q1nc1.transaction.23.5">
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.577.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.579.5)"/>
+</its>
+<transaction id="q1nc1.transaction.24" type="review" map_start_point="8" map_end_point="9">
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.578)..id(q1nc1.g.move.580.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.580)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.581)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.581.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.582.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.582)..id(q1nc1.f.move.584.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.583)..id(q1nc1.g.move.585.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.585)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.586)"/>
+</transaction>
+<its id="q1nc1.transaction.24.5">
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.588.5)"/>
+</its>
+<transaction id="q1nc1.transaction.25" type="review" map_start_point="7" map_end_point="9">
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.587)..id(q1nc1.g.move.588)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.589)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.590.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.590)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.591)..id(q1nc1.g.move.592.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.592)..id(q1nc1.f.move.593.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.593)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.594)"/>
+</transaction>
+<its id="q1nc1.transaction.25.5">
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.594.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.595.5)"/>
+</its>
+<transaction type="normal" id="q1nc1.transaction.26" map_start_point="9" map_end_point="10">
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.595)..id(q1nc1.g.move.596.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.596)..id(q1nc1.f.move.597.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.597)..id(q1nc1.g.move.598.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.598)..id(q1nc1.f.move.599.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.599)..id(q1nc1.g.move.601.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.600)..id(q1nc1.f.move.602.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.602)..id(q1nc1.g.move.604.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.603)..id(q1nc1.f.move.604)"/>
+</transaction>
+<its id="q1nc1.transaction.26.5">
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.605.5)"/>
+</its>
+<transaction type="normal" id="q1nc1.transaction.27" map_start_point="10" map_end_point="11">
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.605)..id(q1nc1.g.move.610.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.606)..id(q1nc1.f.move.611.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.611)..id(q1nc1.g.move.612.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.612)..id(q1nc1.f.move.613.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.613)..id(q1nc1.g.move.614.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.614)..id(q1nc1.f.move.615.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.615)..id(q1nc1.g.move.616.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.616)..id(q1nc1.f.move.618.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.617)..id(q1nc1.g.move.619.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.619)..id(q1nc1.f.move.620.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.620)..id(q1nc1.g.move.621.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.621)..id(q1nc1.f.move.623.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.622)..id(q1nc1.g.move.623)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.624)"/>
+</transaction>
+<its id="q1nc1.transaction.27.5">
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.624.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.625.5)"/>
+</its>
+<transaction id="q1nc1.transaction.28" type="review" map_start_point="7" map_end_point="11">
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.625)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.626)..id(q1nc1.f.move.627)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.627.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.628.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.628)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.629)"/>
+</transaction>
+<its id="q1nc1.transaction.28.5">
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.629.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.630.5)"/>
+</its>
+<transaction id="q1nc1.transaction.29" type="review" map_start_point="9" map_end_point="10">
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.630)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.631)..id(q1nc1.f.move.632)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.635.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.633)..id(q1nc1.f.move.636.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.636)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.637)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.637.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.638.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.638)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.639)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.639.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.640.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.640)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.641)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.641.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.643.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.642)..id(q1nc1.g.move.645.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.644)..id(q1nc1.f.move.646.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.646)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.647)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.648.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.648)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.649)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.651.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.650)"/>
+</transaction>
+<transaction id="q1nc1.transaction.30" type="review" map_start_point="10" map_end_point="11">
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.651)..id(q1nc1.g.move.652.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.652)..id(q1nc1.f.move.653.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.653)..id(q1nc1.g.move.654.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.654)..id(q1nc1.f.move.656.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.655)..id(q1nc1.g.move.656)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.657)"/>
+</transaction>
+<its id="q1nc1.transaction.30.5">
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.658.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.657.5)"/>
+</its>
+<transaction id="q1nc1.transaction.31" type="review" map_start_point="9" map_end_point="10">
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.658)..id(q1nc1.f.move.662.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.659)..id(q1nc1.g.move.662)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.663)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.663.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.664.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.664)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.665)..id(q1nc1.f.move.667)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.667.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.668.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.668)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.669)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.670.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.670)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.671)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.672.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.671.5)..id(q1nc1.g.move.675.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.673)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.676)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.677.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.676.5)..id(q1nc1.g.move.679.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.678)..id(q1nc1.f.move.681.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.680)..id(q1nc1.g.move.681)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.682)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.683.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.683)..id(q1nc1.f.move.684.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.684)..id(q1nc1.g.move.685.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.685)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.686)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.686.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.687.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.687)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.688)"/>
+</transaction>
+<its id="q1nc1.transaction.31.5">
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.688.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.689.5)"/>
+</its>
+<transaction id="q1nc1.transaction.32" type="review" map_start_point="10" map_end_point="11">
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.689)..id(q1nc1.f.move.690.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.690)..id(q1nc1.g.move.692.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.691)..id(q1nc1.f.move.694.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.693)..id(q1nc1.g.move.695.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.695)..id(q1nc1.f.move.696.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.696)..id(q1nc1.g.move.698.5)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.697)..id(q1nc1.f.move.699.5)"/>
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.699)"/>
+<nite:child href="q1nc1.f.moves.xml#id(q1nc1.f.move.700)"/>
+</transaction>
+<its id="q1nc1.transaction.32.5">
+<nite:child href="q1nc1.g.moves.xml#id(q1nc1.g.move.699.4)"/>
+</its>
+</nite:root>

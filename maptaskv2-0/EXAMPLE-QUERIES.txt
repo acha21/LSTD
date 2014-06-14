@@ -1,0 +1,206 @@
+-----------------------------------------------------------------
+EXAMPLE-QUERIES.TXT                     31 October 2006
+-----------------------------------------------------------------
+This file contains some example queries and command line calls over just
+one dialogue (q3nc3) to get the user started.  
+
+---------------------------------------
+QUERIES ON MAIN DIALOGUE CORPUS
+---------------------------------------
+
+------------
+Output dialogue moves in transcription order, with who spoke and the 
+textual content:
+
+
+java SortedOutput -c maptask.xml -o q3nc3 -q '($m move):' -t -atts who
+
+------------
+Count the number of "timed units" (words) in a dialogue:
+
+java CountQueryResults -c maptask.xml -o q3nc3 -q '($w tu):' 
+
+------------
+Count the number of "timed units" (words) in a dialogue that are also in 
+some dialogue move:
+
+java CountQueryResults -c maptask.xml -o q3nc3 -q '($w tu):($w=$w)::($m move):($m^$w)'
+
+The $w=$w is always true, and is there just because the query language
+parser can't deal with queries that have no conditions.  The complex
+query first finds timed units, and then removes those from return list
+for which it can't find a move that fits the condition specified.
+
+------------
+Count the number of "timed units" that are not in any dialogue move:
+
+java CountQueryResults -c maptask.xml -o q3nc3 -q '($w tu)(forall $m move):!($m^$w)'
+
+
+
+------------
+Count the number of instruct moves.
+
+java CountQueryResults -c maptask.xml -o q3nc3 -q '($m move):($m@label="instruct")'
+
+------------
+Count the number of reply moves (whether they are reply_y or reply_n).
+
+java CountQueryResults -c maptask.xml -o q3nc3 -q '($m move):($m@label~/reply.*/)'
+
+------------
+Show the determiners.
+
+
+java SortedOutput -c maptask.xml -o q3nc3  -q '($p tw):($p@tag="dt")' -t -atts tag
+
+
+------------
+Count the determiners that don't start with "th".
+
+java CountQueryResults -c maptask.xml -o q3nc3  -q '($p tw):($p@tag="dt")::($t tu):($p^$t) && !(TEXT($t)~/th.*/)'
+
+------------
+Give the spoken form of every referring expression in order, along with 
+whether it's a first or subsequent mention and the referring expression code.
+
+ java SortedOutput -c maptask.xml -o q3nc3  -q '($s landmark_reference):' -t -atts men def
+
+
+------------
+
+Give the spoken form of every reference to the finish point only, in
+order, along with whether it's a first or subsequent mention and the
+referring expression code.
+
+java SortedOutput -c maptask.xml -o q3nc3  -q '($s landmark_reference):($s=$s)::($l landmark):($s>$l) && ($l@name="finish")' -t -atts men def
+
+------------
+Show the start and end times of all the times the route giver looked up, in 
+order.
+
+
+java SortedOutput -c maptask.xml -o q3ec3  -q '($l look):($l@who="g")::($t gaze-type):($l > $t) && ($t@name="up")' -atts start end
+
+-----------
+Show the start and end times of all the times anyone looked up for more than 2 seconds.
+
+java SortedOutput -c maptask.xml -o q3ec3  -q '($l look):DURATION($l)>"1.0"::($t gaze-type):($l > $t) && ($t@name="up")' -atts start end
+
+------------
+Count the number of times the two participants were both looking up at 
+the same time.
+
+
+java CountQueryResults -c maptask.xml -o q3ec3  -q '($g look)($f look):($g@who="g") && ($f@who="f") && ($g # $f)::($gt gaze-type):($g > $gt) && ($gt@name="up")::($ft gaze-type):($f > $ft) && ($ft@name="up")'
+
+-----------
+Find out which of the trials are all-Glaswegian. 
+
+java SortedOutput -c maptask.xml -o q3ec3  -q '($c conv):($c=$c)::($g speaker)($f speaker):($c >"g" $g) && ($c>"f" $f) && ($g@category="Glasgow") && ($f@category="Glasgow")' -atts id
+
+-----------
+Find conjunctions (using the part of speech tagging) that start with 
+letter "b".  (Plain query, try it using "search" interface available from
+menu of named entity or dialogue act coder.)
+
+($p tw):($p@tag="cs")::($t tu):($p ^ $t) && (TEXT($t) ~ /b.*/)
+
+The pos works over not just timed units (tu's) but also tokens
+(sub-timed-units, used to split e.g. we from +re in we're) and other
+transcription level elements like sils and nois. So a safer query
+is 
+
+($p tw):($p@tag="cs")::($t):($p ^ $t) && (TEXT($t) ~ /b.*/)
+
+i.e., without specifying the type of the lower element.
+
+----------
+
+Disfluencies containing landmark references (i.e., containing words
+that are also in a landmark reference).
+
+($d disf):($d = $d)::($t tu | token):($d ^ $t)::($l landmark_reference):($l ^ $t)
+
+------
+
+The text of filled pauses.
+
+java SortedOutput -o q1nc1 -c maptask.xml -q '($f fp):' -t -atts id
+
+--------
+
+Count the number of instruct games that don't contain an instruct move.
+(Any you find are, of course, errors.)
+
+java CountQueryResults -c maptask.xml -q '($m game):($m@type="instruct")::(forall $d move):!($m ^ $d) || ($d@label != "instruct")'  > gametypecheck.txt
+
+
+--------
+
+Count the number of games where the first move isn't a ready and the game
+doesn't share the same type as the first move. (These might be suspect.) 
+
+java CountQueryResults -c maptask.xml -q '($g game):($g=$g)::($m move):($g ^ $m) && ($g@initiator!=$m@who) && ($m@label != "ready") && ($g@type = $m@label)::(forall $n move):(($g ^ $n) && ($m != $n)) -> (START($n) > START($m))' 
+
+--------
+
+Output a table for eaq1c1 of timed units, their start times, and their
+part of speech
+
+java FunctionQuery  -corpus maptask.xml  -o q1ec1  -q '($w tu)' -atts '$w' start '@extract(($p tw):($p ^ $w),$p@tag)'
+
+Note that for some timed units, there is no part of speech - this is because
+the part of speech tagging applies to tokens which subdivide words like 
+"there's".  
+
+Try, e.g., 
+
+java FunctionQuery  -corpus maptask.xml  -o q1ec1  -q '($w tu | token)' -atts '$w' start '@extract(($p tw):($p ^ $w),$p@tag)'
+
+which shows both timed unit and tokens for these cases.  To avoid getting
+the tus where there are tokens as well,
+
+java FunctionQuery  -corpus maptask.xml  -o q1ec1  -q '($p tw)' -atts tag '@extract(($w tu | token):($p ^ $w),$w@start)' '@extract(($w tu | token):($p ^ $w),$w)'
+
+Using this view, we can see that the pos-tagging includes non-word
+categories.  To get information about all the pos tags, use e.g.
+
+java FunctionQuery  -corpus maptask.xml  -o q1ec1  -q '($p tw)' -atts tag '@extract(($w):($p ^ $w),$w@start)' '@extract(($w):($p ^ $w),$w)'
+
+---------------------------------------------
+QUERIES ON SECONDARY WORDLIST CORPUS
+--------------------------------------------
+
+count number of citation forms for subject q1eta1.
+
+java CountQueryResults -o q1eta1 -c /disk/scratch/maptask/NXT-format/Data/maptask-wordlists.xml -q '($c citation)'
+
+------------
+
+count words in the word lists for subject q1eta1
+
+java CountQueryResults -o q1eta1 -c /disk/scratch/maptask/NXT-format/Data/maptask-wordlists.xml -q '($t wl-tu):($t=$t)::($c citation):($c^$t)'
+
+----------
+
+get citation start and end times
+
+java SortedOutput -o q1eta1 -c /disk/scratch/maptask/NXT-format/Data/maptask-wordlists.xml -q '($c citation):' -t -atts start end
+
+---------
+
+restrict citation start and end times to citations to start point
+
+java SortedOutput -o q1eta1 -c /disk/scratch/maptask/NXT-format/Data/maptask-wordlists.xml -q '($c citation):($c=$c)::($l landmark):($c >"landmark" $l) && ($l@name="start")' -t -atts start end 
+
+-------------
+
+Get citation start and end times just for females
+
+java SortedOutput -c /disk/scratch/maptask/NXT-format/Data/maptask-wordlists.xml -q '($c citation):($c=$c)::($s speaker):($c@obs ==ID($s)) && ($s@gender="f")' -t -atts start end
+
+-----------
+Count first mentions
+
+java CountQueryResults -o q1eta1 -c /disk/scratch/maptask/NXT-format/Data/maptask-wordlists.xml -q '($c citation):($c@repetition="1")'

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
+<gaze-type id="gtype_0" name="gaze-root" xmlns:nite="http://nite.sourceforge.net/" xmlns:xlink="http://www.w3.org/1999/xlink">
+   <!-- up means the participant is looking up -->
+   <gaze-type id="gtype_up" name="up"  keystroke="typed 1" gloss="up" abbrev="up"/>
+   <!-- down means the participant is looking down (at the map) -->
+   <gaze-type id="gtype_down" name="down"  keystroke="typed 2" gloss="down" abbrev="down"/>
+   <!-- off means the participant is off camera -->
+   <gaze-type id="gtype_off" name="off"  keystroke="typed 3" gloss="off" abbrev="off"/>
+</gaze-type>

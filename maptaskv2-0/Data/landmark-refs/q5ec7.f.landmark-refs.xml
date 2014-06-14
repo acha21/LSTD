@@ -1,0 +1,58 @@
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="landmark-refs.q5ec7.f">
+<landmark_reference id="q5ec7.f.ref.1" stat="0" lit="l" def="def" men="rep0" plural="0" part_reference="no">
+  <nite:child href="q5ec7.f.timed-units.xml#id(q5ec7f.80)..id(q5ec7f.82)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m12_old_mill)"/>
+</landmark_reference>
+<landmark_reference id="q5ec7.f.ref.2" stat="0" lit="l" def="def" men="rep0" plural="0" part_reference="no">
+  <nite:child href="q5ec7.f.timed-units.xml#id(q5ec7f.130)..id(q5ec7f.132)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m12_abandoned_cottage)"/>
+</landmark_reference>
+<landmark_reference id="q5ec7.f.ref.3" stat="0" lit="l" def="def" men="rep0" plural="0" part_reference="no">
+  <nite:child href="q5ec7.f.timed-units.xml#id(q5ec7f.146)..id(q5ec7f.148)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m12_abandoned_cottage)"/>
+</landmark_reference>
+<landmark_reference id="q5ec7.f.ref.4" part_reference="yes" stat="0" def="def" men="rep0" lit="none" plural="0">
+  <nite:child href="q5ec7.f.timed-units.xml#id(q5ec7f.150)..id(q5ec7f.154)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m12_abandoned_cottage)"/>
+</landmark_reference>
+<landmark_reference id="q5ec7.f.ref.5" stat="0" lit="l" def="def" men="intro" plural="0" part_reference="no">
+  <nite:child href="q5ec7.f.timed-units.xml#id(q5ec7f.207)..id(q5ec7f.208)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m12_start)"/>
+</landmark_reference>
+<landmark_denial id="q5ec7.f.ref.6" stat="0" part_reference="no">
+  <nite:child href="q5ec7.f.timed-units.xml#id(q5ec7f.218)..id(q5ec7f.222)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m12_fenced_meadow)"/>
+</landmark_denial>
+<landmark_reference id="q5ec7.f.ref.7" stat="0" def="numpro" men="rep0" lit="none" plural="0" part_reference="no">
+  <nite:child href="q5ec7.f.timed-units.xml#id(q5ec7f.222)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m12_fenced_meadow)"/>
+</landmark_reference>
+<landmark_denial id="q5ec7.f.ref.8" stat="0" part_reference="no">
+  <nite:child href="q5ec7.f.timed-units.xml#id(q5ec7f.235)..id(q5ec7f.240)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m12_trig_point)"/>
+</landmark_denial>
+<landmark_reference id="q5ec7.f.ref.9" stat="0" def="numpro" men="rep0" lit="none" plural="0" part_reference="no">
+  <nite:child href="q5ec7.f.timed-units.xml#id(q5ec7f.240)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m12_trig_point)"/>
+</landmark_reference>
+<landmark_reference id="q5ec7.f.ref.10" part_reference="yes" stat="0" def="numpro" men="rep0" lit="none" plural="0">
+  <nite:child href="q5ec7.f.timed-units.xml#id(q5ec7f.247)..id(q5ec7f.248)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m12_west_lake)"/>
+</landmark_reference>
+<landmark_reference id="q5ec7.f.ref.11" part_reference="yes" stat="0" def="numpro" men="rep0" lit="none" plural="0">
+  <nite:child href="q5ec7.f.timed-units.xml#id(q5ec7f.247)..id(q5ec7f.248)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m12_west_lake)"/>
+</landmark_reference>
+<landmark_reference id="q5ec7.f.ref.12" stat="0" def="demnum" men="rep0" lit="none" plural="0" part_reference="no">
+  <nite:child href="q5ec7.f.timed-units.xml#id(q5ec7f.252)..id(q5ec7f.253)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m12_west_lake)"/>
+</landmark_reference>
+<landmark_reference id="q5ec7.f.ref.13" stat="0" def="pro" men="rep0" lit="none" plural="0" part_reference="no">
+  <nite:child href="q5ec7.f.timed-units.xml#id(q5ec7f.260)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m12_west_lake)"/>
+</landmark_reference>
+<landmark_reference id="q5ec7.f.ref.14" part_reference="yes" stat="0" def="indef" men="rep0" lit="none" plural="0">
+  <nite:child href="q5ec7.f.timed-units.xml#id(q5ec7f.263)..id(q5ec7f.264)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m12_west_lake)"/>
+</landmark_reference>
+</nite:root>

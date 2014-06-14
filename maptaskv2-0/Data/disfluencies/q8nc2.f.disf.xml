@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<nite:root id='q8nc2' xmlns:nite='http://nite.sourceforge.net/'>
+<disf overlap='no_overlap' id='q8nc2.f.disf.1' type='d' start='111.9500' end='112.4901' len='0.5' complex='c'>
+<junk id='q8nc2.junk.1'>
+<disf overlap='no_overlap' complex='simple' id='q8nc2.f.disf.2' type='r' start='111.9500' end='112.4901' len='1'>
+<junk id='q8nc2.junk.2'>
+<dw overlap='no_overlap' complex='simple' parenthetical='not_parenthetical' edit='not_edit' frag='no_frag' cccctype='none' ccctype='none' cctype='none' ctype='none' id='q8nc2.f.disf.3' type='r'><nite:child href='q8nc2.f.timed-units.xml#id(q8nc2f.101)'/></dw>
+</junk>
+<ip complex='simple' id='q8nc2.f.disf.4' time='112.2728'/>
+<fix id='q8nc2.fix.1'>
+<dw overlap='no_overlap' complex='simple' parenthetical='not_parenthetical' edit='not_edit' cccctype='none' ccctype='none' cctype='none' id='q8nc2.f.disf.5' ctype='d_' type='r_' frag='frag'><nite:child href='q8nc2.f.timed-units.xml#id(q8nc2f.102)'/></dw>
+</fix>
+</disf>
+</junk>
+<ip id='q8nc2.f.disf.6' time='112.4901' complex='c'/>
+<fix id='q8nc2.fix.2'>
+</fix>
+</disf>
+</nite:root>

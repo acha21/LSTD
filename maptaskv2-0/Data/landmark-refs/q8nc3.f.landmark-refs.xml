@@ -1,0 +1,14 @@
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="landmark-refs.q8nc3.f">
+<landmark_denial id="q8nc3.f.ref.1" stat="0" part_reference="no">
+  <nite:child href="q8nc3.f.timed-units.xml#id(q8nc3f.54)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m7_remote_village)"/>
+</landmark_denial>
+<landmark_reference id="q8nc3.f.ref.2" stat="0" lit="l" def="def" men="rep0" plural="0" part_reference="no">
+  <nite:child href="q8nc3.f.timed-units.xml#id(q8nc3f.107)..id(q8nc3f.110)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m7_concealed_hideout)"/>
+</landmark_reference>
+<landmark_denial id="q8nc3.f.ref.3" stat="0" part_reference="no">
+  <nite:child href="q8nc3.f.timed-units.xml#id(q8nc3f.164)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m7_coconut_palm)"/>
+</landmark_denial>
+</nite:root>

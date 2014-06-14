@@ -1,0 +1,82 @@
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="landmark-refs.q8nc7.f">
+<landmark_reference id="q8nc7.f.ref.1" stat="0" def="pro" men="rep0" lit="none" plural="0" part_reference="no">
+  <nite:child href="q8nc7.f.timed-units.xml#id(q8nc7f.8)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m13_start)"/>
+</landmark_reference>
+<landmark_reference id="q8nc7.f.ref.2" stat="0" def="pro" men="rep0" lit="none" plural="0" part_reference="no">
+  <nite:child href="q8nc7.f.timed-units.xml#id(q8nc7f.15)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m13_extinct_volcano)"/>
+</landmark_reference>
+<landmark_reference id="q8nc7.f.ref.3" stat="0" lit="l" def="def" men="rep0" plural="0" part_reference="no">
+  <nite:child href="q8nc7.f.timed-units.xml#id(q8nc7f.36)..id(q8nc7f.40)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m13_extinct_volcano)"/>
+</landmark_reference>
+<landmark_reference id="q8nc7.f.ref.4" stat="0" def="pro" men="rep0" lit="none" plural="0" part_reference="no">
+  <nite:child href="q8nc7.f.timed-units.xml#id(q8nc7f.57)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m13_extinct_volcano)"/>
+</landmark_reference>
+<landmark_reference id="q8nc7.f.ref.5" part_reference="yes" stat="0" def="def" men="rep0" lit="none" plural="0">
+  <nite:child href="q8nc7.f.timed-units.xml#id(q8nc7f.68)..id(q8nc7f.69)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m13_extinct_volcano)"/>
+</landmark_reference>
+<landmark_reference id="q8nc7.f.ref.6" part_reference="yes" stat="0" def="def" men="rep0" lit="none" plural="0">
+  <nite:child href="q8nc7.f.timed-units.xml#id(q8nc7f.76)..id(q8nc7f.77)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m13_extinct_volcano)"/>
+</landmark_reference>
+<landmark_denial id="q8nc7.f.ref.7" stat="0" part_reference="no">
+  <nite:child href="q8nc7.f.timed-units.xml#id(q8nc7f.83)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m13_tribal_settlement)"/>
+</landmark_denial>
+<landmark_reference id="q8nc7.f.ref.8" stat="0" lit="l" def="def" men="intro" plural="0" part_reference="no">
+  <nite:child href="q8nc7.f.timed-units.xml#id(q8nc7f.121)..id(q8nc7f.122)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m13_machete)"/>
+</landmark_reference>
+<landmark_reference id="q8nc7.f.ref.9" stat="0" lit="l" def="indef" men="rep0" plural="0" part_reference="no">
+  <nite:child href="q8nc7.f.timed-units.xml#id(q8nc7f.129)..id(q8nc7f.130)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m13_machete)"/>
+</landmark_reference>
+<landmark_reference id="q8nc7.f.ref.10" stat="0" lit="l" def="indef" men="intro_q" plural="0" part_reference="no">
+  <nite:child href="q8nc7.f.timed-units.xml#id(q8nc7f.190)..id(q8nc7f.191)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m13_crevasse)"/>
+</landmark_reference>
+<landmark_reference id="q8nc7.f.ref.11" stat="0" lit="l" def="def" men="rep0" plural="0" part_reference="no">
+  <nite:child href="q8nc7.f.timed-units.xml#id(q8nc7f.204)..id(q8nc7f.206)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m13_saxon_barn)"/>
+</landmark_reference>
+<landmark_reference id="q8nc7.f.ref.12" stat="0" def="pro" men="rep0" lit="none" plural="0" part_reference="no">
+  <nite:child href="q8nc7.f.timed-units.xml#id(q8nc7f.218)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m13_saxon_barn)"/>
+</landmark_reference>
+<landmark_reference id="q8nc7.f.ref.13" stat="0" lit="l" def="null" men="rep0" plural="0" part_reference="no">
+  <nite:child href="q8nc7.f.timed-units.xml#id(q8nc7f.254)..id(q8nc7f.255)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m13_saxon_barn)"/>
+</landmark_reference>
+<landmark_reference id="q8nc7.f.ref.14" stat="0" def="pro" men="rep0" lit="none" plural="0" part_reference="no">
+  <nite:child href="q8nc7.f.timed-units.xml#id(q8nc7f.273)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m13_saxon_barn)"/>
+</landmark_reference>
+<landmark_reference id="q8nc7.f.ref.15" stat="0" lit="l" def="null" men="intro_l" plural="0" part_reference="no">
+  <nite:child href="q8nc7.f.timed-units.xml#id(q8nc7f.319)..id(q8nc7f.320)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m13_golden_beach)"/>
+</landmark_reference>
+<landmark_reference id="q8nc7.f.ref.16" stat="0" def="el" men="rep0" lit="none" plural="0" part_reference="no">
+  <nite:child href="q8nc7.f.timed-units.xml#id(q8nc7f.339)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m13_golden_beach)"/>
+</landmark_reference>
+<landmark_denial id="q8nc7.f.ref.17" stat="0" part_reference="no">
+  <nite:child href="q8nc7.f.timed-units.xml#id(q8nc7f.341)..id(q8nc7f.344)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m13_golden_beach)"/>
+</landmark_denial>
+<landmark_reference id="q8nc7.f.ref.18" stat="0" def="pro" men="rep0" lit="none" plural="0" part_reference="no">
+  <nite:child href="q8nc7.f.timed-units.xml#id(q8nc7f.363)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m13_white_mountain)"/>
+</landmark_reference>
+<landmark_reference id="q8nc7.f.ref.19" stat="0" lit="l" def="def" men="rep0" plural="0" part_reference="no">
+  <nite:child href="q8nc7.f.timed-units.xml#id(q8nc7f.385)..id(q8nc7f.387)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m13_slate_mountain)"/>
+</landmark_reference>
+<landmark_reference id="q8nc7.f.ref.20" stat="0" def="el" men="rep0" lit="none" plural="0" part_reference="no">
+  <nite:child href="q8nc7.f.timed-units.xml#id(q8nc7f.397)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m13_slate_mountain)"/>
+</landmark_reference>
+</nite:root>

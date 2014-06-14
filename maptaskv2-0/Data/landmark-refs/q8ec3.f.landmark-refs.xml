@@ -1,0 +1,94 @@
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="landmark-refs.q8ec3.f">
+<landmark_reference id="q8ec3.f.ref.1" part_reference="yes" stat="0" def="def" men="rep0" lit="none" plural="0">
+  <nite:child href="q8ec3.f.timed-units.xml#id(q8ec3f.27)..id(q8ec3f.28)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m7_burnt_forest)"/>
+</landmark_reference>
+<landmark_reference id="q8ec3.f.ref.2" stat="0" lit="l" def="def" men="rep0" plural="0" part_reference="no">
+  <nite:child href="q8ec3.f.timed-units.xml#id(q8ec3f.46)..id(q8ec3f.48)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m7_burnt_forest)"/>
+</landmark_reference>
+<landmark_reference id="q8ec3.f.ref.3" stat="0" lit="l" def="indef" men="intro_q" plural="0" part_reference="no">
+  <nite:child href="q8ec3.f.timed-units.xml#id(q8ec3f.63)..id(q8ec3f.66)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m7_carpenters_cottage)"/>
+</landmark_reference>
+<landmark_reference id="q8ec3.f.ref.4" stat="0" lit="l" def="def" men="rep0" plural="0" part_reference="no">
+  <nite:child href="q8ec3.f.timed-units.xml#id(q8ec3f.85)..id(q8ec3f.86)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m7_ravine)"/>
+</landmark_reference>
+<landmark_reference id="q8ec3.f.ref.5" stat="0" def="pro" men="rep0" lit="none" plural="0" part_reference="no">
+  <nite:child href="q8ec3.f.timed-units.xml#id(q8ec3f.124)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m7_carpenters_cottage)"/>
+</landmark_reference>
+<landmark_reference id="q8ec3.f.ref.6" stat="0" def="dctc" men="rep0" lit="none" plural="0" part_reference="no">
+  <nite:child href="q8ec3.f.timed-units.xml#id(q8ec3f.129)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m7_burnt_forest)"/>
+</landmark_reference>
+<landmark_reference id="q8ec3.f.ref.7" stat="0" def="dctc" men="rep0" lit="none" plural="0" part_reference="no">
+  <nite:child href="q8ec3.f.timed-units.xml#id(q8ec3f.136)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m7_carpenters_cottage)"/>
+</landmark_reference>
+<landmark_reference id="q8ec3.f.ref.8" stat="0" def="pro" men="rep0" lit="none" plural="0" part_reference="no">
+  <nite:child href="q8ec3.f.timed-units.xml#id(q8ec3f.159)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m7_ravine)"/>
+</landmark_reference>
+<landmark_reference id="q8ec3.f.ref.9" stat="0" def="el" men="rep0" lit="none" plural="0" part_reference="no">
+  <nite:child href="q8ec3.f.timed-units.xml#id(q8ec3f.165)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m7_remote_village)"/>
+</landmark_reference>
+<landmark_denial id="q8ec3.f.ref.10" stat="0" part_reference="no">
+  <nite:child href="q8ec3.f.timed-units.xml#id(q8ec3f.165)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m7_remote_village)"/>
+</landmark_denial>
+<landmark_reference id="q8ec3.f.ref.11" stat="0" lit="nl" def="indef" men="intro_l" plural="0" part_reference="no">
+  <nite:child href="q8ec3.f.timed-units.xml#id(q8ec3f.172)..id(q8ec3f.175)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m7_tilled_land)"/>
+</landmark_reference>
+<landmark_reference id="q8ec3.f.ref.12" stat="0" def="dctc" men="rep0" lit="none" plural="0" part_reference="no">
+  <nite:child href="q8ec3.f.timed-units.xml#id(q8ec3f.178)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m7_ravine)"/>
+</landmark_reference>
+<landmark_reference id="q8ec3.f.ref.13" stat="0" lit="l" def="indef" men="intro_l" plural="0" part_reference="no">
+  <nite:child href="q8ec3.f.timed-units.xml#id(q8ec3f.201)..id(q8ec3f.202)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m7_avalanche)"/>
+</landmark_reference>
+<landmark_reference id="q8ec3.f.ref.14" stat="0" def="pro" men="rep0" lit="none" plural="0" part_reference="no">
+  <nite:child href="q8ec3.f.timed-units.xml#id(q8ec3f.216)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m7_avalanche)"/>
+</landmark_reference>
+<landmark_reference id="q8ec3.f.ref.15" stat="0" lit="l" def="indef" men="rep0" plural="0" part_reference="no">
+  <nite:child href="q8ec3.f.timed-units.xml#id(q8ec3f.238)..id(q8ec3f.239)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m7_avalanche)"/>
+</landmark_reference>
+<landmark_reference id="q8ec3.f.ref.16" stat="0" def="dctc" men="rep0" lit="none" plural="0" part_reference="no">
+  <nite:child href="q8ec3.f.timed-units.xml#id(q8ec3f.242)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m7_concealed_hideout)"/>
+</landmark_reference>
+<landmark_reference id="q8ec3.f.ref.17" stat="0" def="el" men="rep0" lit="none" plural="0" part_reference="no">
+  <nite:child href="q8ec3.f.timed-units.xml#id(q8ec3f.254)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m7_avalanche)"/>
+</landmark_reference>
+<landmark_reference id="q8ec3.f.ref.18" stat="0" def="pro" men="rep0" lit="none" plural="0" part_reference="no">
+  <nite:child href="q8ec3.f.timed-units.xml#id(q8ec3f.259)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m7_concealed_hideout)"/>
+</landmark_reference>
+<landmark_reference id="q8ec3.f.ref.19" stat="0" def="pro" men="rep0" lit="none" plural="0" part_reference="no">
+  <nite:child href="q8ec3.f.timed-units.xml#id(q8ec3f.286)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m7_concealed_hideout)"/>
+</landmark_reference>
+<landmark_reference id="q8ec3.f.ref.20" stat="0" def="pro" men="intro_l" lit="none" plural="0" part_reference="no">
+  <nite:child href="q8ec3.f.timed-units.xml#id(q8ec3f.308)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m7_boat_house)"/>
+</landmark_reference>
+<landmark_denial id="q8ec3.f.ref.21" stat="0" part_reference="no">
+  <nite:child href="q8ec3.f.timed-units.xml#id(q8ec3f.351)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m7_coconut_palm)"/>
+</landmark_denial>
+<landmark_reference id="q8ec3.f.ref.22" stat="0" def="pro" men="rep0" lit="none" plural="0" part_reference="no">
+  <nite:child href="q8ec3.f.timed-units.xml#id(q8ec3f.374)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m7_pebbled_shore)"/>
+</landmark_reference>
+<landmark_reference id="q8ec3.f.ref.23" stat="0" lit="l" def="null" men="intro_l" plural="0" part_reference="no">
+  <nite:child href="q8ec3.f.timed-units.xml#id(q8ec3f.385)..id(q8ec3f.386)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m7_washed_stones)"/>
+</landmark_reference>
+</nite:root>

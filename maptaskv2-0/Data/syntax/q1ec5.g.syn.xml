@@ -1,0 +1,2607 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="pos.q1ec5.g">
+<text>
+<para type="trivial" n="1" id="q1ec5.g.1">
+<utt rule="utt(2)" dur="0.6456" start="0.0000">
+   <starter rule="utt(1)" dur="0.5830" start="0.0000" abort="not_abort">
+      <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.1)..id(q1ec5g.pos.2)"/></twseq>
+   </starter>
+   <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.3)"/></twseq>
+</utt>
+</para>
+<para type="utt" n="2" id="q1ec5.g.2">
+<utt rule="utt(2)" dur="4.6556" start="0.6456">
+   <starter rule="utt(1)" dur="0.7938" start="0.6456" abort="not_abort">
+      <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.4)..id(q1ec5g.pos.5)"/></twseq>
+   </starter>
+   <s vform="fin" rule="utt(utt1)" dur="3.1158" start="1.4394" dum="not_dum" abort="not_abort" conj="none" inv="not_inv">
+      <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.6)"/></twseq>
+      <s vform="fin" rule="main(s03)" dur="2.9742" start="1.5810" dum="not_dum" abort="not_abort" conj="none" inv="not_inv">
+         <np type="pro" pers="2" case="subj" rule="main(np05)" dur="0.0758" start="1.5810" num="sing" abort="not_abort" dum="not_dum" sem="any" wh="not_wh" refl="not_refl">
+            <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.7)"/></twseq>
+         </np>
+         <vp clitic="clitic" pers="2" vform="fin" rule="main(vp14)" dur="2.8984" start="1.5810" num="sing" abort="not_abort" aux="not_aux" mod="not_mod" tns="pres">
+            <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.8)"/></twseq>
+            <vp vform="ing" rule="main(vp05)" dur="2.8226" start="1.6568" num="sing" pers="3" clitic="not_clitic" abort="not_abort" aux="not_aux" mod="not_mod" tns="pres">
+               <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.9)..id(q1ec5g.pos.12)"/></twseq>
+               <pp prep="above" rule="main(pp02a)" dur="1.3553" start="3.1242" conj="none" abort="not_abort" wh="not_wh">
+                  <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.13)"/></twseq>
+                  <np rule="main(np01)" dur="1.0292" start="3.4503" num="sing" pers="3" case="obj" abort="not_abort" dum="not_dum" type="norm" sem="any" wh="not_wh" refl="not_refl">
+                     <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.14)..id(q1ec5g.pos.16)"/></twseq>
+                  </np>
+               </pp>
+            </vp>
+         </vp>
+      </s>
+   </s>
+   <closer rule="utt(1)" dur="0.7180" start="4.4796" abort="not_abort">
+      <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.17)..id(q1ec5g.pos.18)"/></twseq>
+   </closer>
+   <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.19)"/></twseq>
+</utt>
+</para>
+<para type="utt" n="3" id="q1ec5.g.3">
+<utt rule="utt(2)" dur="4.4512" start="5.2256">
+   <s conj="and" vform="fin" rule="main(s08)" dur="3.9390" start="5.2256" dum="not_dum" abort="not_abort" inv="not_inv">
+      <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.20)..id(q1ec5g.pos.23)"/></twseq>
+      <s vform="fin" rule="main(s03)" dur="1.7998" start="7.3650" dum="not_dum" abort="not_abort" conj="none" inv="not_inv">
+         <np case="subj" rule="main(np01)" dur="0.5104" start="7.3650" num="sing" pers="3" abort="not_abort" dum="not_dum" type="norm" sem="any" wh="not_wh" refl="not_refl">
+            <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.24)..id(q1ec5g.pos.25)"/></twseq>
+         </np>
+         <vp vform="fin" rule="main(vp05)" dur="1.2894" start="7.8755" num="sing" pers="3" clitic="not_clitic" abort="not_abort" aux="not_aux" mod="not_mod" tns="pres">
+            <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.26)"/></twseq>
+            <pp prep="below" rule="main(rp07)" dur="1.1049" start="8.0600" conj="none" abort="not_abort" wh="not_wh">
+               <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.27)"/></twseq>
+               <pp prep="to" rule="main(pp02a)" dur="0.7954" start="8.3696" conj="none" abort="not_abort" wh="not_wh">
+                  <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.28)"/></twseq>
+                  <np rule="main(np01)" dur="0.6406" start="8.5244" num="sing" pers="3" case="obj" abort="not_abort" dum="not_dum" type="norm" sem="any" wh="not_wh" refl="not_refl">
+                     <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.29)..id(q1ec5g.pos.30)"/></twseq>
+                  </np>
+               </pp>
+            </pp>
+         </vp>
+      </s>
+   </s>
+   <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.31)"/></twseq>
+</utt>
+</para>
+<para type="trivial" n="4" id="q1ec5.g.4">
+<utt rule="utt(2)" dur="0.1877" start="9.6772">
+   <starter rule="utt(1)" dur="0.1449" start="9.6772" abort="not_abort">
+      <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.32)"/></twseq>
+   </starter>
+   <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.33)"/></twseq>
+</utt>
+</para>
+<gap>
+<twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.34)..id(q1ec5g.pos.37)"/></twseq>
+</gap>
+<para type="utt" n="5" id="q1ec5.g.5">
+<utt rule="utt(2)" dur="10.9268" start="10.4546">
+   <s conj="until" vform="fin" rule="disf(3)" dur="9.1065" start="10.4546" dum="not_dum" abort="not_abort" inv="not_inv">
+      <s vform="imp" rule="main(s12)" dur="3.3102" start="10.4546" dum="not_dum" abort="not_abort" conj="none" inv="not_inv">
+         <vp pers="2" vform="fin" rule="main(vp33)" dur="3.3102" start="10.4546" num="sing" clitic="not_clitic" abort="not_abort" aux="not_aux" mod="not_mod" tns="pres">
+            <vp pers="2" vform="fin" rule="main(vp31)" dur="2.2315" start="10.4546" num="sing" clitic="not_clitic" abort="not_abort" aux="not_aux" mod="not_mod" tns="pres">
+               <advp rule="main(advp02)" dur="0.1251" start="10.4546" abort="not_abort" deg="pos" wh="not_wh">
+                  <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.38)"/></twseq>
+               </advp>
+               <vp pers="2" vform="fin" rule="main(vp05)" dur="2.1064" start="10.5797" num="sing" clitic="not_clitic" abort="not_abort" aux="not_aux" mod="not_mod" tns="pres">
+                  <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.39)..id(q1ec5g.pos.41)"/></twseq>
+                  <pp prep="south" rule="disf(main(new_pp01))" dur="1.1973" start="11.4888" conj="none" abort="not_abort" wh="not_wh">
+                     <pp prep="south" rule="main(rp07)" dur="0.6456" start="11.4888" conj="none" abort="not_abort" wh="not_wh">
+                        <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.42)"/></twseq>
+                     </pp>
+                     <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.43)"/></twseq>
+                  </pp>
+               </vp>
+            </vp>
+            <pp prep="from" rule="main(pp02a)" dur="1.0787" start="12.6861" conj="none" abort="not_abort" wh="not_wh">
+               <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.44)"/></twseq>
+               <np rule="main(np01)" dur="0.7378" start="13.0270" num="sing" pers="3" case="obj" abort="not_abort" dum="not_dum" type="norm" sem="any" wh="not_wh" refl="not_refl">
+                  <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.45)..id(q1ec5g.pos.47)"/></twseq>
+               </np>
+            </pp>
+         </vp>
+      </s>
+      <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.48)..id(q1ec5g.pos.51)"/></twseq>
+      <s conj="until" vform="fin" rule="main(s06)" dur="4.1938" start="15.3673" dum="not_dum" abort="not_abort" inv="not_inv">
+         <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.52)..id(q1ec5g.pos.54)"/></twseq>
+         <s vform="fin" rule="main(s03)" dur="3.3745" start="16.1866" dum="not_dum" abort="not_abort" conj="none" inv="not_inv">
+            <np num="undef_num" type="pro" pers="2" case="subj" rule="disf(main(s03))" dur="1.4550" start="16.1866" abort="not_abort" dum="not_dum" sem="any" wh="not_wh" refl="not_refl">
+               <np num="undef_num" type="pro" pers="2" case="subj" rule="main(np05)" dur="0.3780" start="16.1866" abort="not_abort" dum="not_dum" sem="any" wh="not_wh" refl="not_refl">
+                  <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.55)"/></twseq>
+               </np>
+               <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.56)..id(q1ec5g.pos.57)"/></twseq>
+            </np>
+            <vp pers="2" num="undef_num" vform="fin" rule="main(vp05)" dur="1.9195" start="17.6416" clitic="not_clitic" abort="not_abort" aux="not_aux" mod="not_mod" tns="pres">
+               <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.58)..id(q1ec5g.pos.59)"/></twseq>
+               <advp rule="main(advp02)" dur="0.3277" start="18.2189" abort="not_abort" deg="pos" wh="not_wh">
+                  <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.60)"/></twseq>
+               </advp>
+               <pp prep="above" rule="main(pp02a)" dur="1.0145" start="18.5466" conj="none" abort="not_abort" wh="not_wh">
+                  <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.61)"/></twseq>
+                  <np rule="main(np01)" dur="0.6687" start="18.8925" num="sing" pers="3" case="obj" abort="not_abort" dum="not_dum" type="norm" sem="any" wh="not_wh" refl="not_refl">
+                     <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.62)..id(q1ec5g.pos.63)"/></twseq>
+                  </np>
+               </pp>
+            </vp>
+         </s>
+      </s>
+   </s>
+   <closer rule="utt(1)" dur="1.5799" start="19.5612" abort="not_abort">
+      <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.64)..id(q1ec5g.pos.69)"/></twseq>
+   </closer>
+   <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.70)"/></twseq>
+</utt>
+</para>
+<para type="utt" n="6" id="q1ec5.g.6">
+<utt rule="utt(2)" dur="8.2690" start="21.3818">
+   <starter rule="utt(1)" dur="0.3450" start="21.3818" abort="not_abort">
+      <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.71)"/></twseq>
+   </starter>
+   <s conj="if" vform="fin" rule="utt(utt1)" dur="0.4783" start="21.7268" dum="not_dum" abort="not_abort" inv="not_inv">
+      <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.72)"/></twseq>
+      <s conj="if" vform="fin" rule="main(s06)" dur="0.3894" start="21.8157" dum="not_dum" abort="not_abort" inv="not_inv">
+         <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.73)"/></twseq>
+         <s vform="fin" rule="main(s03)" dur="0.3087" start="21.8964" dum="not_dum" abort="not_abort" conj="none" inv="not_inv">
+            <np type="pro" pers="2" case="subj" rule="main(np05)" dur="0.0741" start="21.8964" num="sing" abort="not_abort" dum="not_dum" sem="any" wh="not_wh" refl="not_refl">
+               <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.74)"/></twseq>
+            </np>
+            <vp pers="2" vform="fin" rule="main(vp11)" dur="0.2346" start="21.9705" num="sing" clitic="not_clitic" abort="not_abort" aux="not_aux" mod="not_mod" tns="pres">
+               <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.75)"/></twseq>
+               <np type="pro" rule="main(np05)" dur="0.0716" start="22.1336" num="sing" pers="3" case="obj" abort="not_abort" dum="not_dum" sem="any" wh="not_wh" refl="not_refl">
+                  <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.76)"/></twseq>
+               </np>
+            </vp>
+         </s>
+      </s>
+   </s>
+   <s vform="fin" rule="disf(2)" dur="4.2861" start="22.2052" dum="not_dum" abort="not_abort" conj="none" inv="not_inv">
+      <s vform="fin" abort="abort" rule="main(s03)" dur="3.2461" start="22.2052" dum="not_dum" conj="none" inv="not_inv">
+         <np wh="wh" type="pro" case="subj" rule="main(np05)" dur="0.2948" start="22.2052" num="sing" pers="3" abort="not_abort" dum="not_dum" sem="any" refl="not_refl">
+            <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.77)"/></twseq>
+         </np>
+         <vp clitic="clitic" vform="fin" abort="abort" rule="main(vp05)" dur="2.9513" start="22.2052" num="sing" pers="3" aux="not_aux" mod="not_mod" tns="pres">
+            <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.78)"/></twseq>
+            <pp prep="to" abort="abort" rule="main(pp02a)" dur="2.6565" start="22.5000" conj="none" wh="not_wh">
+               <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.79)"/></twseq>
+               <np abort="abort" rule="main(np14)" dur="2.5898" start="22.5667" num="sing" pers="3" case="obj" dum="not_dum" type="norm" sem="any" wh="not_wh" refl="not_refl">
+                  <np rule="disf(main(pp09))" dur="1.2393" start="22.5667" num="sing" pers="3" case="obj" abort="not_abort" dum="not_dum" type="norm" sem="any" wh="not_wh" refl="not_refl">
+                     <np rule="main(np01)" dur="0.6852" start="22.5667" num="sing" pers="3" case="obj" abort="not_abort" dum="not_dum" type="norm" sem="any" wh="not_wh" refl="not_refl">
+                        <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.80)..id(q1ec5g.pos.81)"/></twseq>
+                     </np>
+                     <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.82)..id(q1ec5g.pos.84)"/></twseq>
+                  </np>
+                  <pp prep="at" abort="abort" rule="disf(main(s09))" dur="1.3505" start="23.8060" conj="none" wh="not_wh">
+                     <pp prep="at" abort="abort" rule="main(pp02a)" dur="0.5649" start="23.8060" conj="none" wh="not_wh">
+                        <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.85)"/></twseq>
+                        <np abort="abort" rule="main(abort(np01))" dur="0.2446" start="24.1263" num="sing" pers="3" case="obj" dum="not_dum" type="norm" sem="any" wh="not_wh" refl="not_refl">
+                           <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.86)"/></twseq>
+                        </np>
+                     </pp>
+                     <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.87)..id(q1ec5g.pos.88)"/></twseq>
+                  </pp>
+               </np>
+            </pp>
+         </vp>
+      </s>
+      <s vform="fin" rule="main(s03)" dur="1.0400" start="25.1565" dum="not_dum" abort="not_abort" conj="none" inv="not_inv">
+         <np wh="wh" type="pro" case="subj" rule="main(np05)" dur="0.2141" start="25.1565" num="sing" pers="3" abort="not_abort" dum="not_dum" sem="any" refl="not_refl">
+            <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.89)"/></twseq>
+         </np>
+         <vp clitic="clitic" vform="fin" rule="main(vp05)" dur="0.8259" start="25.1565" num="sing" pers="3" abort="not_abort" aux="not_aux" mod="not_mod" tns="pres">
+            <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.90)"/></twseq>
+            <pp prep="to" rule="main(pp02a)" dur="0.6118" start="25.3706" conj="none" abort="not_abort" wh="not_wh">
+               <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.91)"/></twseq>
+               <np rule="main(np01)" dur="0.5451" start="25.4373" num="sing" pers="3" case="obj" abort="not_abort" dum="not_dum" type="norm" sem="any" wh="not_wh" refl="not_refl">
+                  <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.92)..id(q1ec5g.pos.93)"/></twseq>
+               </np>
+            </pp>
+         </vp>
+      </s>
+   </s>
+   <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.94)"/></twseq>
+</utt>
+</para>
+<para type="utt" n="7" id="q1ec5.g.7">
+<utt rule="utt(3)" dur="1.5621" start="29.1420">
+   <np num="plur" rule="main(np02)" dur="0.4916" start="29.1420" pers="3" case="obj" abort="not_abort" dum="not_dum" type="norm" sem="any" wh="not_wh" refl="not_refl">
+      <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.95)"/></twseq>
+   </np>
+   <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.96)"/></twseq>
+</utt>
+</para>
+<para type="utt" n="8" id="q1ec5.g.8">
+<utt rule="utt(3)" dur="2.3730" start="30.7041">
+   <starter rule="utt(1)" dur="0.1779" start="30.7041" abort="not_abort">
+      <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.97)"/></twseq>
+   </starter>
+   <np rule="main(np01)" dur="1.9555" start="30.7041" num="sing" pers="3" case="obj" abort="not_abort" dum="not_dum" type="norm" sem="any" wh="not_wh" refl="not_refl">
+      <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.98)"/></twseq>
+      <ap rule="main(ap11)" dur="1.3512" start="30.8820" abort="not_abort" deg="pos" wh="not_wh">
+         <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.99)..id(q1ec5g.pos.101)"/></twseq>
+      </ap>
+      <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.102)"/></twseq>
+   </np>
+   <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.103)"/></twseq>
+</utt>
+</para>
+<gap>
+<twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.104)..id(q1ec5g.pos.105)"/></twseq>
+</gap>
+<para type="utt" n="9" id="q1ec5.g.9">
+<utt rule="utt(2)" dur="7.7766" start="33.7500">
+   <starter rule="utt(1)" dur="3.2468" start="33.7500" abort="not_abort">
+      <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.106)..id(q1ec5g.pos.109)"/></twseq>
+   </starter>
+   <s conj="and" inv="inv" vform="fin" rule="main(s08)" dur="1.8042" start="36.9969" dum="not_dum" abort="not_abort">
+      <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.110)..id(q1ec5g.pos.111)"/></twseq>
+      <s vform="fin" inv="inv" rule="main(s01)" dur="0.9717" start="37.8294" dum="not_dum" abort="not_abort" conj="none">
+         <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.112)"/></twseq>
+         <np num="undef_num" type="pro" pers="2" case="subj" rule="main(np05)" dur="0.1112" start="37.9142" abort="not_abort" dum="not_dum" sem="any" wh="not_wh" refl="not_refl">
+            <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.113)"/></twseq>
+         </np>
+         <vp pers="2" num="undef_num" vform="bse" rule="main(vp11)" dur="0.7757" start="38.0254" clitic="not_clitic" abort="not_abort" aux="not_aux" mod="not_mod" tns="pres">
+            <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.114)"/></twseq>
+            <np rule="main(np01)" dur="0.6341" start="38.1670" num="sing" pers="3" case="obj" abort="not_abort" dum="not_dum" type="norm" sem="any" wh="not_wh" refl="not_refl">
+               <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.115)..id(q1ec5g.pos.116)"/></twseq>
+            </np>
+         </vp>
+      </s>
+   </s>
+   <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.117)"/></twseq>
+</utt>
+</para>
+<para type="utt" n="10" id="q1ec5.g.10">
+<utt rule="utt(2)" dur="5.7814" start="41.5267">
+   <s vform="fin" inv="inv" rule="main(s01)" dur="2.1491" start="41.5267" dum="not_dum" abort="not_abort" conj="none">
+      <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.118)"/></twseq>
+      <np num="undef_num" type="pro" pers="2" case="subj" rule="main(np05)" dur="0.1202" start="41.6749" abort="not_abort" dum="not_dum" sem="any" wh="not_wh" refl="not_refl">
+         <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.119)"/></twseq>
+      </np>
+      <vp pers="2" num="undef_num" vform="bse" rule="main(vp33)" dur="1.8807" start="41.7951" clitic="not_clitic" abort="not_abort" aux="not_aux" mod="not_mod" tns="pres">
+         <vp pers="2" num="undef_num" vform="bse" rule="main(vp11)" dur="1.4410" start="41.7951" clitic="not_clitic" abort="not_abort" aux="not_aux" mod="not_mod" tns="pres">
+            <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.120)"/></twseq>
+            <np rule="disf(main(pp09))" dur="1.2295" start="42.0066" num="sing" pers="3" case="obj" abort="not_abort" dum="not_dum" type="norm" sem="any" wh="not_wh" refl="not_refl">
+               <np rule="main(np01)" dur="0.9545" start="42.0066" num="sing" pers="3" case="obj" abort="not_abort" dum="not_dum" type="norm" sem="any" wh="not_wh" refl="not_refl">
+                  <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.121)"/></twseq>
+                  <ap rule="main(ap11)" dur="0.5731" start="42.0817" abort="not_abort" deg="pos" wh="not_wh">
+                     <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.122)..id(q1ec5g.pos.123)"/></twseq>
+                  </ap>
+                  <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.124)"/></twseq>
+               </np>
+               <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.125)"/></twseq>
+            </np>
+         </vp>
+         <pp prep="in" rule="main(pp02a)" dur="0.4397" start="43.2362" conj="none" abort="not_abort" wh="not_wh">
+            <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.126)"/></twseq>
+            <np rule="main(np01)" dur="0.3854" start="43.2905" num="sing" pers="3" case="obj" abort="not_abort" dum="not_dum" type="norm" sem="any" wh="not_wh" refl="not_refl">
+               <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.127)..id(q1ec5g.pos.128)"/></twseq>
+            </np>
+         </pp>
+      </vp>
+   </s>
+   <closer rule="utt(1)" dur="0.0725" start="43.6759" abort="not_abort">
+      <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.129)"/></twseq>
+   </closer>
+   <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.130)"/></twseq>
+</utt>
+</para>
+<para type="trivial" n="11" id="q1ec5.g.11">
+<utt rule="utt(2)" dur="0.7057" start="47.3082">
+   <starter rule="utt(1)" dur="0.6159" start="47.3082" abort="not_abort">
+      <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.131)..id(q1ec5g.pos.132)"/></twseq>
+   </starter>
+   <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.133)"/></twseq>
+</utt>
+</para>
+<gap>
+<twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.134)..id(q1ec5g.pos.135)"/></twseq>
+</gap>
+<para type="utt" n="12" id="q1ec5.g.12">
+<utt rule="utt(2)" dur="4.2536" start="50.4389">
+   <s vform="imp" rule="main(s12)" dur="2.2551" start="50.4389" dum="not_dum" abort="not_abort" conj="none" inv="not_inv">
+      <vp pers="2" vform="fin" rule="main(vp33)" dur="2.2551" start="50.4389" num="sing" clitic="not_clitic" abort="not_abort" aux="not_aux" mod="not_mod" tns="pres">
+         <vp pers="2" vform="fin" rule="main(vp31)" dur="1.2086" start="50.4389" num="sing" clitic="not_clitic" abort="not_abort" aux="not_aux" mod="not_mod" tns="pres">
+            <advp rule="main(advp02)" dur="0.1416" start="50.4389" abort="not_abort" deg="pos" wh="not_wh">
+               <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.136)"/></twseq>
+            </advp>
+            <vp pers="2" vform="fin" rule="main(vp05)" dur="1.0670" start="50.5806" num="sing" clitic="not_clitic" abort="not_abort" aux="not_aux" mod="not_mod" tns="pres">
+               <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.137)..id(q1ec5g.pos.139)"/></twseq>
+               <pp prep="right" rule="disf(main(new_pp01))" dur="0.4520" start="51.1957" conj="none" abort="not_abort" wh="not_wh">
+                  <pp prep="right" rule="main(rp07)" dur="0.2059" start="51.1957" conj="none" abort="not_abort" wh="not_wh">
+                     <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.140)"/></twseq>
+                  </pp>
+                  <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.141)"/></twseq>
+               </pp>
+            </vp>
+         </vp>
+         <pp prep="from" rule="main(pp02a)" dur="1.0465" start="51.6478" conj="none" abort="not_abort" wh="not_wh">
+            <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.142)"/></twseq>
+            <np rule="main(np01)" dur="0.7361" start="51.9582" num="sing" pers="3" case="obj" abort="not_abort" dum="not_dum" type="norm" sem="any" wh="not_wh" refl="not_refl">
+               <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.143)..id(q1ec5g.pos.145)"/></twseq>
+            </np>
+         </pp>
+      </vp>
+   </s>
+   <closer rule="utt(1)" dur="1.9631" start="52.6944" abort="not_abort">
+      <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.146)..id(q1ec5g.pos.147)"/></twseq>
+   </closer>
+   <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.148)"/></twseq>
+</utt>
+</para>
+<gap>
+<twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.149)..id(q1ec5g.pos.150)"/></twseq>
+</gap>
+<para type="notok" n="13" id="q1ec5.g.13">
+<s conj="and" vform="fin" rule="main(s08)" dur="6.0624" start="55.2141" dum="not_dum" abort="not_abort" inv="not_inv">
+   <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.151)..id(q1ec5g.pos.155)"/></twseq>
+   <s vform="fin" rule="main(s03)" dur="0.9529" start="60.3236" dum="not_dum" abort="not_abort" conj="none" inv="not_inv">
+      <np type="pro" pers="2" case="subj" rule="main(np05)" dur="0.1425" start="60.3236" num="sing" abort="not_abort" dum="not_dum" sem="any" wh="not_wh" refl="not_refl">
+         <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.156)"/></twseq>
+      </np>
+      <vp clitic="clitic" pers="2" vform="fin" rule="main(vp14)" dur="0.8104" start="60.3236" num="sing" abort="not_abort" aux="not_aux" mod="not_mod" tns="pres">
+         <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.157)"/></twseq>
+         <vp vform="en" rule="main(vp14)" dur="0.6679" start="60.4661" num="sing" pers="3" clitic="not_clitic" abort="not_abort" aux="not_aux" mod="not_mod" tns="pres">
+            <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.158)"/></twseq>
+            <vp vform="to" rule="main(vp14)" dur="0.5180" start="60.6160" num="sing" pers="3" clitic="not_clitic" abort="not_abort" aux="not_aux" mod="not_mod" tns="pres">
+               <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.159)"/></twseq>
+               <vp pers="undef_pers" num="undef_num" vform="bse" rule="main(vpintrans)" dur="0.4653" start="60.6687" clitic="not_clitic" abort="not_abort" aux="not_aux" mod="not_mod" tns="pres">
+                  <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.160)..id(q1ec5g.pos.161)"/></twseq>
+               </vp>
+            </vp>
+         </vp>
+      </vp>
+   </s>
+</s>
+<s dum="dum" vform="fin" rule="main(s03)" dur="1.3215" start="61.1340" abort="not_abort" conj="none" inv="not_inv">
+   <np type="pro" dum="dum" case="subj" rule="main(np05)" dur="0.1218" start="61.1340" num="sing" pers="3" abort="not_abort" sem="any" wh="not_wh" refl="not_refl">
+      <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.162)"/></twseq>
+   </np>
+   <vp clitic="clitic" vform="fin" rule="main(vp11)" dur="1.1997" start="61.1340" num="sing" pers="3" abort="not_abort" aux="not_aux" mod="not_mod" tns="pres">
+      <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.163)"/></twseq>
+      <advp rule="main(advp02)" dur="0.3417" start="61.2558" abort="not_abort" deg="pos" wh="not_wh">
+         <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.164)"/></twseq>
+      </advp>
+      <np rule="main(np01)" dur="0.7362" start="61.5975" num="sing" pers="3" case="obj" abort="not_abort" dum="not_dum" type="norm" sem="any" wh="not_wh" refl="not_refl">
+         <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.165)..id(q1ec5g.pos.166)"/></twseq>
+      </np>
+   </vp>
+</s>
+<twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.167)"/></twseq>
+<np rule="main(np13)" dur="2.0132" start="62.4704" num="sing" pers="3" case="obj" abort="not_abort" dum="not_dum" type="norm" sem="any" wh="not_wh" refl="not_refl">
+   <np rule="main(np01)" dur="0.3030" start="62.4704" num="sing" pers="3" case="obj" abort="not_abort" dum="not_dum" type="norm" sem="any" wh="not_wh" refl="not_refl">
+      <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.168)..id(q1ec5g.pos.169)"/></twseq>
+   </np>
+   <pp prep="of" rule="main(pp12)" dur="1.7102" start="62.7734" conj="none" abort="not_abort" wh="not_wh">
+      <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.170)"/></twseq>
+      <np rule="disf(main(pp09))" dur="1.6279" start="62.8558" num="sing" pers="3" case="obj" abort="not_abort" dum="not_dum" type="norm" sem="any" wh="not_wh" refl="not_refl">
+         <np rule="main(np01)" dur="0.6587" start="62.8558" num="sing" pers="3" case="obj" abort="not_abort" dum="not_dum" type="norm" sem="any" wh="not_wh" refl="not_refl">
+            <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.171)..id(q1ec5g.pos.173)"/></twseq>
+         </np>
+         <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.174)..id(q1ec5g.pos.175)"/></twseq>
+      </np>
+   </pp>
+</np>
+<pp prep="on" rule="main(pp02a)" dur="0.5229" start="64.4837" conj="none" abort="not_abort" wh="not_wh">
+   <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.176)"/></twseq>
+   <np rule="main(np01)" dur="0.4200" start="64.5866" num="sing" pers="3" case="obj" abort="not_abort" dum="not_dum" type="norm" sem="any" wh="not_wh" refl="not_refl">
+      <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.177)..id(q1ec5g.pos.178)"/></twseq>
+   </np>
+</pp>
+<twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.179)..id(q1ec5g.pos.182)"/></twseq>
+<np rule="main(np01)" dur="0.5738" start="66.9459" num="sing" pers="3" case="obj" abort="not_abort" dum="not_dum" type="norm" sem="any" wh="not_wh" refl="not_refl">
+   <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.183)..id(q1ec5g.pos.185)"/></twseq>
+</np>
+<pp prep="as" rule="main(pp02a)" dur="0.6588" start="67.5198" conj="none" abort="not_abort" wh="not_wh">
+   <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.186)"/></twseq>
+   <np rule="main(np01)" dur="0.4875" start="67.6911" num="sing" pers="3" case="obj" abort="not_abort" dum="not_dum" type="norm" sem="any" wh="not_wh" refl="not_refl">
+      <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.187)..id(q1ec5g.pos.189)"/></twseq>
+   </np>
+</pp>
+<twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.190)..id(q1ec5g.pos.192)"/></twseq>
+<s conj="and" vform="fin" rule="main(s08)" dur="3.4163" start="68.6273" dum="not_dum" abort="not_abort" inv="not_inv">
+   <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.193)"/></twseq>
+   <s conj="so" vform="fin" rule="main(s06)" dur="3.2854" start="68.7583" dum="not_dum" abort="not_abort" inv="not_inv">
+      <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.194)"/></twseq>
+      <s vform="fin" rule="disf(2)" dur="3.1816" start="68.8621" dum="not_dum" abort="not_abort" conj="none" inv="not_inv">
+         <s vform="fin" abort="abort" rule="main(s03)" dur="0.8851" start="68.8621" dum="not_dum" conj="none" inv="not_inv">
+            <np num="undef_num" type="pro" pers="2" case="subj" rule="main(np05)" dur="0.1004" start="68.8621" abort="not_abort" dum="not_dum" sem="any" wh="not_wh" refl="not_refl">
+               <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.195)"/></twseq>
+            </np>
+            <vp clitic="clitic" pers="2" num="undef_num" vform="fin" abort="abort" rule="main(vp14)" dur="0.7847" start="68.8621" aux="not_aux" mod="not_mod" tns="pres">
+               <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.196)"/></twseq>
+               <vp vform="ing" abort="abort" rule="main(vp14)" dur="0.6843" start="68.9625" num="sing" pers="3" clitic="not_clitic" aux="not_aux" mod="not_mod" tns="pres">
+                  <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.197)"/></twseq>
+                  <vp vform="to" abort="abort" rule="main(abort(vp02))" dur="0.5081" start="68.9625" num="sing" pers="3" clitic="not_clitic" aux="not_aux" mod="not_mod" tns="pres">
+                     <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.198)..id(q1ec5g.pos.200)"/></twseq>
+                  </vp>
+               </vp>
+            </vp>
+         </s>
+         <s vform="fin" rule="main(s03)" dur="2.2965" start="69.4706" dum="not_dum" abort="not_abort" conj="none" inv="not_inv">
+            <np num="undef_num" type="pro" pers="2" case="subj" rule="main(np05)" dur="0.1193" start="69.4706" abort="not_abort" dum="not_dum" sem="any" wh="not_wh" refl="not_refl">
+               <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.201)"/></twseq>
+            </np>
+            <vp clitic="clitic" pers="2" num="undef_num" vform="fin" rule="main(vp14)" dur="2.1772" start="69.4706" abort="not_abort" aux="not_aux" mod="not_mod" tns="pres">
+               <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.202)"/></twseq>
+               <vp vform="ing" rule="main(vp14)" dur="2.0579" start="69.5899" num="sing" pers="3" clitic="not_clitic" abort="not_abort" aux="not_aux" mod="not_mod" tns="pres">
+                  <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.203)"/></twseq>
+                  <vp vform="to" rule="main(vp14)" dur="1.8907" start="69.5899" num="sing" pers="3" clitic="not_clitic" abort="not_abort" aux="not_aux" mod="not_mod" tns="pres">
+                     <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.204)"/></twseq>
+                     <vp pers="undef_pers" num="undef_num" vform="bse" rule="main(vp32)" dur="1.7235" start="69.7571" clitic="not_clitic" abort="not_abort" aux="not_aux" mod="not_mod" tns="pres">
+                        <vp pers="undef_pers" num="undef_num" vform="bse" rule="main(vp05)" dur="1.3233" start="69.7571" clitic="not_clitic" abort="not_abort" aux="not_aux" mod="not_mod" tns="pres">
+                           <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.205)"/></twseq>
+                           <pp prep="by" rule="main(pp02a)" dur="1.0244" start="70.0560" conj="none" abort="not_abort" wh="not_wh">
+                              <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.206)"/></twseq>
+                              <np rule="main(np01)" dur="0.6649" start="70.4155" num="sing" pers="3" case="obj" abort="not_abort" dum="not_dum" type="norm" sem="any" wh="not_wh" refl="not_refl">
+                                 <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.207)..id(q1ec5g.pos.209)"/></twseq>
+                              </np>
+                           </pp>
+                        </vp>
+                        <advp rule="main(advp02)" dur="0.4002" start="71.0804" abort="not_abort" deg="pos" wh="not_wh">
+                           <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.210)..id(q1ec5g.pos.211)"/></twseq>
+                        </advp>
+                     </vp>
+                  </vp>
+               </vp>
+            </vp>
+         </s>
+      </s>
+   </s>
+</s>
+<twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.212)"/></twseq>
+</para>
+<gap>
+<twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.213)..id(q1ec5g.pos.216)"/></twseq>
+</gap>
+<para type="notok" n="14" id="q1ec5.g.14">
+<s conj="and_then" vform="fin" abort="abort" rule="main(s08)" dur="4.0133" start="73.2956" dum="not_dum" inv="not_inv">
+   <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.217)..id(q1ec5g.pos.218)"/></twseq>
+   <s vform="fin" abort="abort" rule="main(s03)" dur="3.6989" start="73.6100" dum="not_dum" conj="none" inv="not_inv">
+      <np type="pro" pers="2" case="subj" rule="main(np05)" dur="0.1285" start="73.6100" num="sing" abort="not_abort" dum="not_dum" sem="any" wh="not_wh" refl="not_refl">
+         <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.219)"/></twseq>
+      </np>
+      <vp clitic="clitic" pers="2" vform="fin" abort="abort" rule="main(vp14)" dur="3.5704" start="73.6100" num="sing" aux="not_aux" mod="not_mod" tns="pres">
+         <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.220)"/></twseq>
+         <vp vform="ing" abort="abort" rule="main(vp14)" dur="3.4419" start="73.7385" num="sing" pers="3" clitic="not_clitic" aux="not_aux" mod="not_mod" tns="pres">
+            <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.221)"/></twseq>
+            <vp vform="to" abort="abort" rule="main(vp14)" dur="3.2887" start="73.8917" num="sing" pers="3" clitic="not_clitic" aux="not_aux" mod="not_mod" tns="pres">
+               <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.222)"/></twseq>
+               <vp pers="undef_pers" num="undef_num" vform="bse" abort="abort" rule="main(vp05)" dur="3.2212" start="73.9592" clitic="not_clitic" aux="not_aux" mod="not_mod" tns="pres">
+                  <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.223)"/></twseq>
+                  <pp prep="conj" abort="abort" rule="main(pp05)" dur="3.0252" start="74.1552" conj="none" wh="not_wh">
+                     <pp prep="up" rule="main(rp07)" dur="0.9527" start="74.1552" conj="none" abort="not_abort" wh="not_wh">
+                        <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.224)..id(q1ec5g.pos.225)"/></twseq>
+                     </pp>
+                     <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.226)"/></twseq>
+                     <pp prep="over" abort="abort" rule="main(pp02a)" dur="1.9276" start="75.2528" conj="none" wh="not_wh">
+                        <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.227)"/></twseq>
+                        <np abort="abort" rule="main(np13)" dur="1.6600" start="75.5204" num="sing" pers="3" case="obj" dum="not_dum" type="norm" sem="any" wh="not_wh" refl="not_refl">
+                           <np rule="disf(main(np13))" dur="0.9461" start="75.5204" num="sing" pers="3" case="obj" abort="not_abort" dum="not_dum" type="norm" sem="any" wh="not_wh" refl="not_refl">
+                              <np rule="main(np01)" dur="0.4875" start="75.5204" num="sing" pers="3" case="obj" abort="not_abort" dum="not_dum" type="norm" sem="any" wh="not_wh" refl="not_refl">
+                                 <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.228)..id(q1ec5g.pos.229)"/></twseq>
+                              </np>
+                              <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.230)..id(q1ec5g.pos.234)"/></twseq>
+                           </np>
+                           <pp prep="of" abort="abort" rule="main(pp02a)" dur="0.7139" start="76.4666" conj="none" wh="not_wh">
+                              <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.235)"/></twseq>
+                              <np abort="abort" rule="main(abort(np01))" dur="0.3211" start="76.8594" num="sing" pers="3" case="obj" dum="not_dum" type="norm" sem="any" wh="not_wh" refl="not_refl">
+                                 <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.236)"/></twseq>
+                              </np>
+                           </pp>
+                        </np>
+                     </pp>
+                  </pp>
+               </vp>
+            </vp>
+         </vp>
+      </vp>
+   </s>
+</s>
+<twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.237)..id(q1ec5g.pos.239)"/></twseq>
+<s vform="fin" inv="inv" rule="disf(3)" dur="1.8765" start="78.8612" dum="not_dum" abort="not_abort" conj="none">
+   <s vform="fin" rule="main(s03)" dur="1.4451" start="78.8612" dum="not_dum" abort="not_abort" conj="none" inv="not_inv">
+      <np case="subj" wh="wh" rule="main(npr02)" dur="0.4965" start="78.8612" num="sing" pers="3" abort="not_abort" dum="not_dum" type="norm" sem="any" refl="not_refl">
+         <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.240)"/></twseq>
+         <s vform="fin" rule="main(s03)" dur="0.4249" start="78.9328" dum="not_dum" abort="not_abort" conj="none" inv="not_inv">
+            <np type="pro" pers="1" case="subj" rule="main(np05)" dur="0.1614" start="78.9328" num="sing" abort="not_abort" dum="not_dum" sem="any" wh="not_wh" refl="not_refl">
+               <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.241)"/></twseq>
+            </np>
+            <vp clitic="clitic" pers="1" aux="undef_aux" vform="fin" rule="main(vp14)" dur="0.2635" start="78.9328" num="sing" abort="not_abort" mod="not_mod" tns="pres">
+               <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.242)"/></twseq>
+               <vp vform="en" rule="main(vpintrans)" dur="0.1021" start="79.0942" num="sing" pers="3" clitic="not_clitic" abort="not_abort" aux="not_aux" mod="not_mod" tns="pres">
+                  <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.243)"/></twseq>
+               </vp>
+            </vp>
+         </s>
+      </np>
+      <vp vform="fin" rule="main(vp11)" dur="0.9486" start="79.1963" num="sing" pers="3" clitic="not_clitic" abort="not_abort" aux="not_aux" mod="not_mod" tns="pres">
+         <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.244)"/></twseq>
+         <np rule="main(np01)" dur="0.8498" start="79.2951" num="sing" pers="3" case="obj" abort="not_abort" dum="not_dum" type="norm" sem="any" wh="not_wh" refl="not_refl">
+            <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.245)"/></twseq>
+            <ap rule="main(ap11)" dur="0.5591" start="79.3478" abort="not_abort" deg="pos" wh="not_wh">
+               <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.246)..id(q1ec5g.pos.247)"/></twseq>
+            </ap>
+            <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.248)"/></twseq>
+         </np>
+      </vp>
+   </s>
+   <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.249)"/></twseq>
+   <s vform="fin" inv="inv" rule="main(s01)" dur="0.1960" start="80.3805" dum="not_dum" abort="not_abort" conj="none">
+      <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.250)"/></twseq>
+      <np num="undef_num" type="pro" pers="2" case="subj" rule="main(np05)" dur="0.0758" start="80.5007" abort="not_abort" dum="not_dum" sem="any" wh="not_wh" refl="not_refl">
+         <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.251)"/></twseq>
+      </np>
+   </s>
+</s>
+<s vform="fin" inv="inv" rule="main(s01)" dur="0.4232" start="80.5765" dum="not_dum" abort="not_abort" conj="none">
+   <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.252)"/></twseq>
+   <np num="undef_num" type="pro" pers="2" case="subj" rule="main(np05)" dur="0.1680" start="80.8317" abort="not_abort" dum="not_dum" sem="any" wh="not_wh" refl="not_refl">
+      <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.253)"/></twseq>
+   </np>
+</s>
+<s vform="imp" abort="abort" rule="main(s12)" dur="0.3598" start="80.9997" dum="not_dum" conj="none" inv="not_inv">
+   <vp pers="2" num="undef_num" aux="undef_aux" vform="fin" abort="abort" rule="main(vp11)" dur="0.3598" start="80.9997" clitic="not_clitic" mod="not_mod" tns="pres">
+      <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.254)"/></twseq>
+      <np abort="abort" rule="main(abort(np01))" dur="0.2050" start="81.1545" num="sing" pers="3" case="obj" dum="not_dum" type="norm" sem="any" wh="not_wh" refl="not_refl">
+         <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.255)"/></twseq>
+      </np>
+   </vp>
+</s>
+<twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.256)..id(q1ec5g.pos.258)"/></twseq>
+<s abort="abort" rule="main(abort(s01))" dur="0.6991" start="82.0619" vform="fin" dum="not_dum" conj="none" inv="not_inv">
+   <np case="subj" rule="main(np6catch)" dur="0.6991" start="82.0619" num="sing" pers="3" abort="not_abort" dum="not_dum" type="norm" sem="any" wh="not_wh" refl="not_refl">
+      <ap rule="main(ap11)" dur="0.4496" start="82.0619" abort="not_abort" deg="pos" wh="not_wh">
+         <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.259)..id(q1ec5g.pos.260)"/></twseq>
+      </ap>
+      <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.261)"/></twseq>
+   </np>
+</s>
+<closer rule="utt(1)" dur="0.1943" start="82.7611" abort="not_abort">
+   <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.262)"/></twseq>
+</closer>
+<twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.263)"/></twseq>
+</para>
+<para type="notok" n="15" id="q1ec5.g.15">
+<vp vform="fin" rule="main(vp31)" dur="0.9123" start="83.0097" num="sing" pers="3" clitic="not_clitic" abort="not_abort" aux="not_aux" mod="not_mod" tns="pres">
+   <advp wh="wh" rule="disf(main(vp31))" dur="0.6126" start="83.0097" abort="not_abort" deg="pos">
+      <advp wh="wh" rule="main(advp02)" dur="0.2857" start="83.0097" abort="not_abort" deg="pos">
+         <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.264)"/></twseq>
+      </advp>
+      <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.265)"/></twseq>
+   </advp>
+   <vp vform="fin" rule="main(vp11)" dur="0.2997" start="83.6224" num="sing" pers="3" clitic="not_clitic" abort="not_abort" aux="not_aux" mod="not_mod" tns="pres">
+      <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.266)"/></twseq>
+      <np type="pro" rule="main(np05)" dur="0.2099" start="83.7122" num="sing" pers="3" case="obj" abort="not_abort" dum="not_dum" sem="any" wh="not_wh" refl="not_refl">
+         <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.267)"/></twseq>
+      </np>
+   </vp>
+</vp>
+<twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.268)..id(q1ec5g.pos.269)"/></twseq>
+<np rule="main(np01)" dur="0.4266" start="84.3824" num="sing" pers="3" case="obj" abort="not_abort" dum="not_dum" type="norm" sem="any" wh="not_wh" refl="not_refl">
+   <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.270)..id(q1ec5g.pos.271)"/></twseq>
+</np>
+<pp prep="with" rule="main(pp02a)" dur="0.6439" start="84.8090" conj="none" abort="not_abort" wh="not_wh">
+   <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.272)"/></twseq>
+   <np rule="main(np01)" dur="0.4776" start="84.9753" num="sing" pers="3" case="obj" abort="not_abort" dum="not_dum" type="norm" sem="any" wh="not_wh" refl="not_refl">
+      <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.273)..id(q1ec5g.pos.275)"/></twseq>
+   </np>
+</pp>
+<twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.276)"/></twseq>
+<vp vform="fin" rule="main(vp33)" dur="1.1864" start="85.5559" num="sing" pers="3" clitic="not_clitic" abort="not_abort" aux="not_aux" mod="not_mod" tns="pres">
+   <vp vform="fin" rule="main(vp11)" dur="0.2371" start="85.5559" num="sing" pers="3" clitic="not_clitic" abort="not_abort" aux="not_aux" mod="not_mod" tns="pres">
+      <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.277)"/></twseq>
+      <np type="pro" rule="disf(main(np14))" dur="0.1119" start="85.6811" num="sing" pers="3" case="obj" abort="not_abort" dum="not_dum" sem="any" wh="not_wh" refl="not_refl">
+         <np type="pro" rule="main(np05)" dur="0.0501" start="85.6811" num="sing" pers="3" case="obj" abort="not_abort" dum="not_dum" sem="any" wh="not_wh" refl="not_refl">
+            <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.278)"/></twseq>
+         </np>
+         <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.279)"/></twseq>
+      </np>
+   </vp>
+   <pp prep="below" rule="main(rp07)" dur="0.9493" start="85.7931" conj="none" abort="not_abort" wh="not_wh">
+      <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.280)..id(q1ec5g.pos.283)"/></twseq>
+   </pp>
+</vp>
+<twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.284)"/></twseq>
+</para>
+<para type="utt" n="16" id="q1ec5.g.16">
+<utt rule="utt(3)" dur="1.7943" start="87.8467">
+   <pp prep="above" rule="main(rp07)" dur="0.6480" start="87.8467" conj="none" abort="not_abort" wh="not_wh">
+      <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.285)..id(q1ec5g.pos.286)"/></twseq>
+   </pp>
+   <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.287)"/></twseq>
+</utt>
+</para>
+<para type="notok" n="17" id="q1ec5.g.17">
+<s vform="fin" rule="utt(utt1)" dur="2.1887" start="89.6410" dum="not_dum" abort="not_abort" conj="none" inv="not_inv">
+   <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.288)"/></twseq>
+   <s vform="fin" rule="utt(utt1)" dur="2.0298" start="89.7999" dum="not_dum" abort="not_abort" conj="none" inv="not_inv">
+      <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.289)"/></twseq>
+      <s vform="fin" rule="main(s03)" dur="1.9433" start="89.8864" dum="not_dum" abort="not_abort" conj="none" inv="not_inv">
+         <np type="pro" pers="1" case="subj" rule="main(np05)" dur="0.1136" start="89.8864" num="sing" abort="not_abort" dum="not_dum" sem="any" wh="not_wh" refl="not_refl">
+            <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.290)"/></twseq>
+         </np>
+         <vp clitic="clitic" pers="1" vform="fin" rule="main(vp14)" dur="1.8297" start="89.8864" num="sing" abort="not_abort" aux="not_aux" mod="not_mod" tns="pres">
+            <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.291)"/></twseq>
+            <vp pers="2" vform="en" rule="main(vp04)" dur="1.7161" start="90.0000" num="sing" clitic="not_clitic" abort="not_abort" aux="not_aux" mod="not_mod" tns="pres">
+               <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.292)"/></twseq>
+               <np rule="main(np01)" dur="0.9354" start="90.0791" num="sing" pers="3" case="obj" abort="not_abort" dum="not_dum" type="norm" sem="any" wh="not_wh" refl="not_refl">
+                  <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.293)"/></twseq>
+                  <ap rule="main(ap11)" dur="0.6028" start="90.1351" abort="not_abort" deg="pos" wh="not_wh">
+                     <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.294)..id(q1ec5g.pos.295)"/></twseq>
+                  </ap>
+                  <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.296)"/></twseq>
+               </np>
+               <pp prep="here" rule="main(rp07)" dur="0.7016" start="91.0145" conj="none" abort="not_abort" wh="not_wh">
+                  <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.297)..id(q1ec5g.pos.301)"/></twseq>
+               </pp>
+            </vp>
+         </vp>
+      </s>
+   </s>
+</s>
+<s conj="so" abort="abort" rule="main(abort(s02))" dur="0.3829" start="91.7161" vform="fin" dum="not_dum" inv="not_inv">
+   <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.302)"/></twseq>
+</s>
+<twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.303)"/></twseq>
+<np wh="wh" rule="main(npr02)" dur="0.3530" start="92.6277" num="sing" pers="3" case="obj" abort="not_abort" dum="not_dum" type="norm" sem="any" refl="not_refl">
+   <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.304)"/></twseq>
+   <s vform="fin" rule="main(s03)" dur="0.2270" start="92.7537" dum="not_dum" abort="not_abort" conj="none" inv="not_inv">
+      <np num="undef_num" type="pro" pers="2" case="subj" rule="main(np05)" dur="0.1135" start="92.7537" abort="not_abort" dum="not_dum" sem="any" wh="not_wh" refl="not_refl">
+         <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.305)"/></twseq>
+      </np>
+      <vp pers="2" num="undef_num" mod="mod" aux="aux" vform="fin" rule="main(vpintrans)" dur="0.1135" start="92.7537" clitic="not_clitic" abort="not_abort" tns="pres">
+         <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.306)"/></twseq>
+      </vp>
+   </s>
+</np>
+<ap deg="sup" rule="main(ap14)" dur="0.7270" start="92.8673" abort="not_abort" wh="not_wh">
+   <ap deg="sup" rule="main(ap11)" dur="0.2619" start="92.8673" abort="not_abort" wh="not_wh">
+      <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.307)"/></twseq>
+   </ap>
+   <vp vform="to" rule="main(vp14)" dur="0.4651" start="93.1292" num="sing" pers="3" clitic="not_clitic" abort="not_abort" aux="not_aux" mod="not_mod" tns="pres">
+      <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.308)"/></twseq>
+      <vp pers="undef_pers" num="undef_num" vform="bse" rule="main(vpintrans)" dur="0.3409" start="93.2535" clitic="not_clitic" abort="not_abort" aux="not_aux" mod="not_mod" tns="pres">
+         <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.309)"/></twseq>
+      </vp>
+   </vp>
+</ap>
+<s vform="imp" rule="main(s12)" dur="2.2850" start="93.5944" dum="not_dum" abort="not_abort" conj="none" inv="not_inv">
+   <vp pers="2" num="undef_num" vform="fin" rule="main(vp05)" dur="2.2850" start="93.5944" clitic="not_clitic" abort="not_abort" aux="not_aux" mod="not_mod" tns="pres">
+      <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.310)..id(q1ec5g.pos.314)"/></twseq>
+      <pp prep="along" rule="main(rp07)" dur="1.0671" start="94.8123" conj="none" abort="not_abort" wh="not_wh">
+         <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.315)"/></twseq>
+         <pp prep="past" rule="main(pp02a)" dur="0.8135" start="95.0659" conj="none" abort="not_abort" wh="not_wh">
+            <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.316)"/></twseq>
+            <np rule="main(np01)" dur="0.4716" start="95.4078" num="sing" pers="3" case="obj" abort="not_abort" dum="not_dum" type="norm" sem="any" wh="not_wh" refl="not_refl">
+               <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.317)..id(q1ec5g.pos.318)"/></twseq>
+            </np>
+         </pp>
+      </pp>
+   </vp>
+</s>
+<twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.319)"/></twseq>
+</para>
+<para type="utt" n="18" id="q1ec5.g.18">
+<utt rule="utt(2)" dur="5.9459" start="96.5201">
+   <s vform="imp" rule="main(s12)" dur="0.2734" start="96.5201" dum="not_dum" abort="not_abort" conj="none" inv="not_inv">
+      <vp pers="2" vform="fin" rule="main(vp05)" dur="0.2734" start="96.5201" num="sing" clitic="not_clitic" abort="not_abort" aux="not_aux" mod="not_mod" tns="pres">
+         <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.320)"/></twseq>
+         <pp prep="along" rule="main(rp07)" dur="0.1803" start="96.6132" conj="none" abort="not_abort" wh="not_wh">
+            <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.321)"/></twseq>
+         </pp>
+      </vp>
+   </s>
+   <s vform="imp" rule="utt(utt1)" dur="1.6319" start="96.7935" dum="not_dum" abort="not_abort" conj="none" inv="not_inv">
+      <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.322)"/></twseq>
+      <s vform="imp" rule="utt(utt1)" dur="1.4227" start="97.0027" dum="not_dum" abort="not_abort" conj="none" inv="not_inv">
+         <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.323)"/></twseq>
+         <s vform="imp" rule="main(s12)" dur="1.2028" start="97.2226" dum="not_dum" abort="not_abort" conj="none" inv="not_inv">
+            <vp pers="2" num="undef_num" vform="fin" rule="disf(main(vp34))" dur="1.2028" start="97.2226" clitic="not_clitic" abort="not_abort" aux="not_aux" mod="not_mod" tns="pres">
+               <vp pers="2" num="undef_num" vform="fin" rule="main(vp05)" dur="0.7813" start="97.2226" clitic="not_clitic" abort="not_abort" aux="not_aux" mod="not_mod" tns="pres">
+                  <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.324)"/></twseq>
+                  <pp prep="along" rule="main(rp07)" dur="0.6719" start="97.3320" conj="none" abort="not_abort" wh="not_wh">
+                     <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.325)"/></twseq>
+                     <pp prep="to" rule="main(pp02a)" dur="0.4644" start="97.5395" conj="none" abort="not_abort" wh="not_wh">
+                        <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.326)"/></twseq>
+                        <np rule="main(np01)" dur="0.3722" start="97.6318" num="sing" pers="3" case="obj" abort="not_abort" dum="not_dum" type="norm" sem="any" wh="not_wh" refl="not_refl">
+                           <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.327)..id(q1ec5g.pos.328)"/></twseq>
+                        </np>
+                     </pp>
+                  </pp>
+               </vp>
+               <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.329)..id(q1ec5g.pos.331)"/></twseq>
+            </vp>
+         </s>
+      </s>
+   </s>
+   <s conj="and" vform="imp" rule="main(s08)" dur="2.4209" start="98.4256" dum="not_dum" abort="not_abort" inv="not_inv">
+      <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.332)"/></twseq>
+      <s vform="imp" rule="main(s12)" dur="2.2933" start="98.5532" dum="not_dum" abort="not_abort" conj="none" inv="not_inv">
+         <vp pers="2" num="undef_num" vform="fin" rule="main(vp05)" dur="2.2933" start="98.5532" clitic="not_clitic" abort="not_abort" aux="not_aux" mod="not_mod" tns="pres">
+            <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.333)"/></twseq>
+            <pp prep="upwards" rule="main(rp07)" dur="2.1088" start="98.7377" conj="none" abort="not_abort" wh="not_wh">
+               <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.334)..id(q1ec5g.pos.338)"/></twseq>
+            </pp>
+         </vp>
+      </s>
+   </s>
+   <s conj="as" vform="fin" rule="main(s06)" dur="0.9535" start="100.8465" dum="not_dum" abort="not_abort" inv="not_inv">
+      <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.339)"/></twseq>
+      <s vform="fin" rule="main(s03)" dur="0.7995" start="101.0005" dum="not_dum" abort="not_abort" conj="none" inv="not_inv">
+         <np num="undef_num" type="pro" pers="2" case="subj" rule="main(np05)" dur="0.0502" start="101.0005" abort="not_abort" dum="not_dum" sem="any" wh="not_wh" refl="not_refl">
+            <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.340)"/></twseq>
+         </np>
+         <vp pers="2" num="undef_num" vform="fin" rule="main(vp11)" dur="0.7493" start="101.0507" clitic="not_clitic" abort="not_abort" aux="not_aux" mod="not_mod" tns="pres">
+            <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.341)"/></twseq>
+            <np rule="main(np01)" dur="0.5121" start="101.2879" num="sing" pers="3" case="obj" abort="not_abort" dum="not_dum" type="norm" sem="any" wh="not_wh" refl="not_refl">
+               <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.342)..id(q1ec5g.pos.343)"/></twseq>
+            </np>
+         </vp>
+      </s>
+   </s>
+   <closer rule="utt(1)" dur="0.5295" start="101.8001" abort="not_abort">
+      <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.344)"/></twseq>
+   </closer>
+   <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.345)"/></twseq>
+</utt>
+</para>
+<para type="notok" n="19" id="q1ec5.g.19">
+<s conj="and_then" vform="imp" rule="main(s08)" dur="2.4472" start="102.4663" dum="not_dum" abort="not_abort" inv="not_inv">
+   <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.346)..id(q1ec5g.pos.347)"/></twseq>
+   <s vform="imp" rule="main(s12)" dur="2.0643" start="102.8492" dum="not_dum" abort="not_abort" conj="none" inv="not_inv">
+      <vp pers="2" vform="fin" rule="main(vp05)" dur="2.0643" start="102.8492" num="sing" clitic="not_clitic" abort="not_abort" aux="not_aux" mod="not_mod" tns="pres">
+         <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.348)..id(q1ec5g.pos.349)"/></twseq>
+         <pp prep="over" rule="main(rp07)" dur="0.6595" start="104.2540" conj="none" abort="not_abort" wh="not_wh">
+            <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.350)..id(q1ec5g.pos.351)"/></twseq>
+         </pp>
+      </vp>
+   </s>
+</s>
+<twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.352)..id(q1ec5g.pos.353)"/></twseq>
+<np rule="disf(main(pp09))" dur="1.8231" start="105.3195" num="sing" pers="3" case="obj" abort="not_abort" dum="not_dum" type="norm" sem="any" wh="not_wh" refl="not_refl">
+   <np rule="main(np01)" dur="0.5917" start="105.3195" num="sing" pers="3" case="obj" abort="not_abort" dum="not_dum" type="norm" sem="any" wh="not_wh" refl="not_refl">
+      <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.354)..id(q1ec5g.pos.355)"/></twseq>
+   </np>
+   <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.356)"/></twseq>
+</np>
+<pp prep="to" rule="main(pp02a)" dur="0.3854" start="107.1426" conj="none" abort="not_abort" wh="not_wh">
+   <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.357)"/></twseq>
+   <np rule="main(np01)" dur="0.3022" start="107.2258" num="sing" pers="3" case="obj" abort="not_abort" dum="not_dum" type="norm" sem="any" wh="not_wh" refl="not_refl">
+      <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.358)..id(q1ec5g.pos.359)"/></twseq>
+   </np>
+</pp>
+<twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.360)..id(q1ec5g.pos.362)"/></twseq>
+<s conj="and_then" inv="inv" vform="fin" rule="main(s08)" dur="7.1614" start="108.3573" dum="not_dum" abort="not_abort">
+   <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.363)..id(q1ec5g.pos.369)"/></twseq>
+   <s vform="fin" inv="inv" rule="main(s01)" dur="1.3850" start="114.1338" dum="not_dum" abort="not_abort" conj="none">
+      <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.370)"/></twseq>
+      <np num="undef_num" type="pro" pers="2" case="subj" rule="main(np05)" dur="0.0766" start="114.2293" abort="not_abort" dum="not_dum" sem="any" wh="not_wh" refl="not_refl">
+         <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.371)"/></twseq>
+      </np>
+      <vp pers="undef_pers" num="undef_num" vform="bse" rule="main(vp11)" dur="1.2129" start="114.3059" clitic="not_clitic" abort="not_abort" aux="not_aux" mod="not_mod" tns="pres">
+         <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.372)"/></twseq>
+         <np rule="main(np01)" dur="1.0594" start="114.4594" num="sing" pers="3" case="obj" abort="not_abort" dum="not_dum" type="norm" sem="any" wh="not_wh" refl="not_refl">
+            <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.373)..id(q1ec5g.pos.375)"/></twseq>
+         </np>
+      </vp>
+   </s>
+</s>
+<twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.376)"/></twseq>
+</para>
+<para type="trivial" n="20" id="q1ec5.g.20">
+<utt rule="utt(2)" dur="0.1984" start="116.7548">
+   <starter rule="utt(1)" dur="0.1712" start="116.7548" abort="not_abort">
+      <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.377)..id(q1ec5g.pos.378)"/></twseq>
+   </starter>
+   <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.379)"/></twseq>
+</utt>
+</para>
+<gap>
+<twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.380)..id(q1ec5g.pos.381)"/></twseq>
+</gap>
+<para type="notok" n="21" id="q1ec5.g.21">
+<s conj="or" vform="undef_vform" abort="abort" rule="disf(2)" dur="6.1858" start="117.3485" dum="not_dum" inv="not_inv">
+   <s vform="imp" abort="abort" rule="main(s12)" dur="1.9071" start="117.3485" dum="not_dum" conj="none" inv="not_inv">
+      <vp pers="2" vform="fin" abort="abort" rule="main(vp11)" dur="1.9071" start="117.3485" num="sing" clitic="not_clitic" aux="not_aux" mod="not_mod" tns="pres">
+         <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.382)"/></twseq>
+         <np abort="abort" rule="main(npr04)" dur="1.7358" start="117.5198" num="sing" pers="3" case="obj" dum="not_dum" type="norm" sem="any" wh="not_wh" refl="not_refl">
+            <advp wh="wh" rule="main(advp02)" dur="0.1581" start="117.5198" abort="not_abort" deg="pos">
+               <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.383)"/></twseq>
+            </advp>
+            <s vform="fin" abort="abort" rule="main(s03)" dur="1.5777" start="117.6779" dum="not_dum" conj="none" inv="not_inv">
+               <np num="undef_num" type="pro" pers="2" case="subj" rule="main(np05)" dur="0.1087" start="117.6779" abort="not_abort" dum="not_dum" sem="any" wh="not_wh" refl="not_refl">
+                  <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.384)"/></twseq>
+               </np>
+               <vp clitic="clitic" pers="2" num="undef_num" vform="fin" abort="abort" rule="main(vp05)" dur="1.4690" start="117.6779" aux="not_aux" mod="not_mod" tns="pres">
+                  <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.385)"/></twseq>
+                  <pp prep="over" abort="abort" rule="main(pp02a)" dur="1.3603" start="117.7866" conj="none" wh="not_wh">
+                     <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.386)"/></twseq>
+                     <np abort="abort" rule="main(np13)" dur="1.0803" start="118.0666" num="sing" pers="3" case="obj" dum="not_dum" type="norm" sem="any" wh="not_wh" refl="not_refl">
+                        <np rule="main(np01)" dur="0.4117" start="118.0666" num="sing" pers="3" case="obj" abort="not_abort" dum="not_dum" type="norm" sem="any" wh="not_wh" refl="not_refl">
+                           <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.387)..id(q1ec5g.pos.388)"/></twseq>
+                        </np>
+                        <pp prep="of" abort="abort" rule="main(pp02a)" dur="0.6686" start="118.4783" conj="none" wh="not_wh">
+                           <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.389)"/></twseq>
+                           <np abort="abort" rule="main(abort(np02))" dur="0.4545" start="118.6924" num="sing" pers="3" case="obj" dum="not_dum" type="norm" sem="any" wh="not_wh" refl="not_refl">
+                              <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.390)"/></twseq>
+                              <ap rule="main(ap11)" dur="0.3960" start="118.7509" abort="not_abort" deg="pos" wh="not_wh">
+                                 <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.391)"/></twseq>
+                              </ap>
+                           </np>
+                        </pp>
+                     </np>
+                  </pp>
+               </vp>
+            </s>
+         </np>
+      </vp>
+   </s>
+   <s conj="or" vform="undef_vform" abort="abort" rule="main(s08)" dur="4.2787" start="119.1469" dum="not_dum" inv="not_inv">
+      <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.392)"/></twseq>
+      <s conj="or" vform="undef_vform" abort="abort" rule="disf(2)" dur="4.2095" start="119.2161" dum="not_dum" inv="not_inv">
+         <s abort="abort" rule="main(abort(s01))" dur="0.6184" start="119.2161" vform="fin" dum="not_dum" conj="none" inv="not_inv">
+            <np case="subj" rule="disf(main(np12))" dur="0.6184" start="119.2161" num="sing" pers="3" abort="not_abort" dum="not_dum" type="norm" sem="any" wh="not_wh" refl="not_refl">
+               <np case="subj" rule="main(np01)" dur="0.5525" start="119.2161" num="sing" pers="3" abort="not_abort" dum="not_dum" type="norm" sem="any" wh="not_wh" refl="not_refl">
+                  <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.393)..id(q1ec5g.pos.394)"/></twseq>
+               </np>
+               <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.395)"/></twseq>
+            </np>
+         </s>
+         <s conj="or" vform="undef_vform" abort="abort" rule="main(s08)" dur="3.5911" start="119.8345" dum="not_dum" inv="not_inv">
+            <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.396)"/></twseq>
+            <s vform="undef_vform" abort="abort" rule="main(abort(s01))" dur="3.5145" start="119.9111" dum="not_dum" conj="none" inv="not_inv">
+               <np case="subj" rule="main(npr6)" dur="3.5145" start="119.9111" num="sing" pers="3" abort="not_abort" dum="not_dum" type="norm" sem="any" wh="not_wh" refl="not_refl">
+                  <np case="subj" rule="main(npr03)" dur="2.0718" start="119.9111" num="sing" pers="3" abort="not_abort" dum="not_dum" type="norm" sem="any" wh="not_wh" refl="not_refl">
+                     <np case="subj" rule="main(np01)" dur="0.4109" start="119.9111" num="sing" pers="3" abort="not_abort" dum="not_dum" type="norm" sem="any" wh="not_wh" refl="not_refl">
+                        <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.397)..id(q1ec5g.pos.398)"/></twseq>
+                     </np>
+                     <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.399)"/></twseq>
+                     <s vform="fin" rule="main(s03)" dur="1.5514" start="120.4315" dum="not_dum" abort="not_abort" conj="none" inv="not_inv">
+                        <np type="pro" pers="1" case="subj" rule="main(np05)" dur="0.1746" start="120.4315" num="sing" abort="not_abort" dum="not_dum" sem="any" wh="not_wh" refl="not_refl">
+                           <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.400)"/></twseq>
+                        </np>
+                        <vp clitic="clitic" pers="1" aux="undef_aux" vform="fin" rule="main(vp14)" dur="1.3768" start="120.4315" num="sing" abort="not_abort" mod="not_mod" tns="pres">
+                           <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.401)"/></twseq>
+                           <vp vform="en" rule="main(vp32)" dur="1.2022" start="120.6061" num="sing" pers="3" clitic="not_clitic" abort="not_abort" aux="not_aux" mod="not_mod" tns="pres">
+                              <vp vform="en" rule="main(vp05)" dur="1.0541" start="120.6061" num="sing" pers="3" clitic="not_clitic" abort="not_abort" aux="not_aux" mod="not_mod" tns="pres">
+                                 <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.402)"/></twseq>
+                                 <pp prep="here" rule="main(rp07)" dur="0.9470" start="120.7132" conj="none" abort="not_abort" wh="not_wh">
+                                    <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.403)..id(q1ec5g.pos.406)"/></twseq>
+                                 </pp>
+                              </vp>
+                              <advp wh="wh" rule="main(advp02)" dur="0.1481" start="121.6602" abort="not_abort" deg="pos">
+                                 <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.407)"/></twseq>
+                              </advp>
+                           </vp>
+                        </vp>
+                     </s>
+                  </np>
+                  <s vform="fin" rule="main(s03)" dur="1.4427" start="121.8083" dum="not_dum" abort="not_abort" conj="none" inv="not_inv">
+                     <np num="undef_num" type="pro" pers="2" case="subj" rule="main(np05)" dur="0.1046" start="121.8083" abort="not_abort" dum="not_dum" sem="any" wh="not_wh" refl="not_refl">
+                        <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.408)"/></twseq>
+                     </np>
+                     <vp clitic="clitic" pers="2" num="undef_num" vform="fin" rule="main(vp05)" dur="1.3381" start="121.8083" abort="not_abort" aux="not_aux" mod="not_mod" tns="pres">
+                        <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.409)"/></twseq>
+                        <pp prep="over" rule="main(pp02a)" dur="1.2335" start="121.9129" conj="none" abort="not_abort" wh="not_wh">
+                           <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.410)..id(q1ec5g.pos.411)"/></twseq>
+                           <np rule="main(np13)" dur="0.6975" start="122.4490" num="sing" pers="3" case="obj" abort="not_abort" dum="not_dum" type="norm" sem="any" wh="not_wh" refl="not_refl">
+                              <np rule="main(np01)" dur="0.2931" start="122.4490" num="sing" pers="3" case="obj" abort="not_abort" dum="not_dum" type="norm" sem="any" wh="not_wh" refl="not_refl">
+                                 <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.412)..id(q1ec5g.pos.413)"/></twseq>
+                              </np>
+                              <pp prep="of" rule="main(pp02)" dur="0.4044" start="122.7421" conj="none" abort="not_abort" wh="not_wh">
+                                 <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.414)"/></twseq>
+                                 <np type="pro" rule="main(np05)" dur="0.2232" start="122.9233" num="sing" pers="3" case="obj" abort="not_abort" dum="not_dum" sem="any" wh="not_wh" refl="not_refl">
+                                    <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.415)"/></twseq>
+                                 </np>
+                              </pp>
+                           </np>
+                        </pp>
+                     </vp>
+                  </s>
+               </np>
+            </s>
+         </s>
+      </s>
+   </s>
+</s>
+<twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.416)..id(q1ec5g.pos.418)"/></twseq>
+<pp prep="in" rule="main(pp02a)" dur="1.2178" start="124.2779" conj="none" abort="not_abort" wh="not_wh">
+   <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.419)..id(q1ec5g.pos.420)"/></twseq>
+   <np rule="main(np6catch)" dur="0.3672" start="125.1285" num="sing" pers="3" case="obj" abort="not_abort" dum="not_dum" type="norm" sem="any" wh="not_wh" refl="not_refl">
+      <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.421)"/></twseq>
+   </np>
+</pp>
+<twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.422)..id(q1ec5g.pos.424)"/></twseq>
+<np rule="main(np6catch)" dur="0.1803" start="126.2394" num="sing" pers="3" case="obj" abort="not_abort" dum="not_dum" type="norm" sem="any" wh="not_wh" refl="not_refl">
+   <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.425)"/></twseq>
+</np>
+<pp prep="with" rule="main(pp02a)" dur="1.0185" start="126.4197" conj="none" abort="not_abort" wh="not_wh">
+   <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.426)"/></twseq>
+   <np rule="main(np01)" dur="0.8472" start="126.5910" num="sing" pers="3" case="obj" abort="not_abort" dum="not_dum" type="norm" sem="any" wh="not_wh" refl="not_refl">
+      <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.427)..id(q1ec5g.pos.429)"/></twseq>
+   </np>
+</pp>
+<closer rule="utt(1)" dur="0.6513" start="127.4383" abort="not_abort">
+   <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.430)..id(q1ec5g.pos.431)"/></twseq>
+</closer>
+<twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.432)"/></twseq>
+</para>
+<para type="notok" n="22" id="q1ec5.g.22">
+<s vform="imp" rule="main(s12)" dur="2.0248" start="128.1925" dum="not_dum" abort="not_abort" conj="none" inv="not_inv">
+   <vp pers="2" vform="fin" rule="main(vp05)" dur="2.0248" start="128.1925" num="sing" clitic="not_clitic" abort="not_abort" aux="not_aux" mod="not_mod" tns="pres">
+      <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.433)..id(q1ec5g.pos.434)"/></twseq>
+      <pp prep="south" rule="main(rp07)" dur="1.6081" start="128.6092" conj="none" abort="not_abort" wh="not_wh">
+         <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.435)..id(q1ec5g.pos.437)"/></twseq>
+      </pp>
+   </vp>
+</s>
+<twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.438)"/></twseq>
+<pp prep="above" rule="main(pp07)" dur="1.3900" start="130.6028" conj="none" abort="not_abort" wh="not_wh">
+   <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.439)"/></twseq>
+   <pp prep="above" rule="main(pp02a)" dur="1.1265" start="130.8663" conj="none" abort="not_abort" wh="not_wh">
+      <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.440)"/></twseq>
+      <np rule="main(np01)" dur="0.8515" start="131.1413" num="sing" pers="3" case="obj" abort="not_abort" dum="not_dum" type="norm" sem="any" wh="not_wh" refl="not_refl">
+         <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.441)..id(q1ec5g.pos.443)"/></twseq>
+      </np>
+   </pp>
+</pp>
+<twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.444)"/></twseq>
+</para>
+<para type="trivial" n="23" id="q1ec5.g.23">
+<utt rule="utt(2)" dur="0.2807" start="132.5149">
+   <starter rule="utt(1)" dur="0.2354" start="132.5149" abort="not_abort">
+      <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.445)"/></twseq>
+   </starter>
+   <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.446)"/></twseq>
+</utt>
+</para>
+<gap>
+<twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.447)..id(q1ec5g.pos.448)"/></twseq>
+</gap>
+<para type="utt" n="24" id="q1ec5.g.24">
+<utt rule="utt(2)" dur="8.4032" start="133.3103">
+   <s inv="inv" vform="fin" rule="main(s05)" dur="5.0740" start="133.3103" dum="not_dum" abort="not_abort" conj="none">
+      <advp wh="wh" rule="main(advp02)" dur="0.1293" start="133.3103" abort="not_abort" deg="pos">
+         <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.449)"/></twseq>
+      </advp>
+      <s vform="fin" inv="inv" rule="disf(3)" dur="4.9447" start="133.4396" dum="not_dum" abort="not_abort" conj="none">
+         <s vform="fin" rule="main(s03)" dur="1.2755" start="133.4396" dum="not_dum" abort="not_abort" conj="none" inv="not_inv">
+            <np type="pro" pers="2" case="subj" rule="main(np05)" dur="0.0914" start="133.4396" num="sing" abort="not_abort" dum="not_dum" sem="any" wh="not_wh" refl="not_refl">
+               <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.450)"/></twseq>
+            </np>
+            <vp pers="2" vform="fin" rule="main(vp11)" dur="1.1841" start="133.5310" num="sing" clitic="not_clitic" abort="not_abort" aux="not_aux" mod="not_mod" tns="pres">
+               <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.451)..id(q1ec5g.pos.452)"/></twseq>
+               <np rule="main(np01)" dur="0.9552" start="133.7599" num="sing" pers="3" case="obj" abort="not_abort" dum="not_dum" type="norm" sem="any" wh="not_wh" refl="not_refl">
+                  <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.453)..id(q1ec5g.pos.455)"/></twseq>
+               </np>
+            </vp>
+         </s>
+         <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.456)..id(q1ec5g.pos.462)"/></twseq>
+         <s vform="fin" inv="inv" rule="main(s01)" dur="1.0046" start="137.3798" dum="not_dum" abort="not_abort" conj="none">
+            <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.463)"/></twseq>
+            <np num="undef_num" type="pro" pers="2" case="subj" rule="main(np05)" dur="0.0445" start="137.4720" abort="not_abort" dum="not_dum" sem="any" wh="not_wh" refl="not_refl">
+               <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.464)"/></twseq>
+            </np>
+            <vp pers="undef_pers" num="undef_num" vform="bse" rule="main(vp11)" dur="0.8679" start="137.5165" clitic="not_clitic" abort="not_abort" aux="not_aux" mod="not_mod" tns="pres">
+               <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.465)"/></twseq>
+               <np rule="main(np01)" dur="0.8018" start="137.5826" num="sing" pers="3" case="obj" abort="not_abort" dum="not_dum" type="norm" sem="any" wh="not_wh" refl="not_refl">
+                  <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.466)"/></twseq>
+                  <ap rule="main(ap11)" dur="0.2446" start="137.6828" abort="not_abort" deg="pos" wh="not_wh">
+                     <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.467)"/></twseq>
+                  </ap>
+                  <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.468)"/></twseq>
+               </np>
+            </vp>
+         </s>
+      </s>
+   </s>
+   <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.469)"/></twseq>
+</utt>
+</para>
+<gap>
+<twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.470)..id(q1ec5g.pos.471)"/></twseq>
+</gap>
+<para type="notok" n="25" id="q1ec5.g.25">
+<s vform="fin" rule="utt(utt1)" dur="1.3587" start="141.9598" dum="not_dum" abort="not_abort" conj="none" inv="not_inv">
+   <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.472)..id(q1ec5g.pos.476)"/></twseq>
+   <s vform="fin" rule="main(s03)" dur="0.7016" start="142.6170" dum="not_dum" abort="not_abort" conj="none" inv="not_inv">
+      <np type="pro" pers="2" case="subj" rule="main(np05)" dur="0.1565" start="142.6170" num="sing" abort="not_abort" dum="not_dum" sem="any" wh="not_wh" refl="not_refl">
+         <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.477)"/></twseq>
+      </np>
+      <vp clitic="clitic" pers="2" vform="fin" rule="main(vp14)" dur="0.5451" start="142.6170" num="sing" abort="not_abort" aux="not_aux" mod="not_mod" tns="pres">
+         <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.478)"/></twseq>
+         <vp vform="ing" rule="main(vp14)" dur="0.3886" start="142.7735" num="sing" pers="3" clitic="not_clitic" abort="not_abort" aux="not_aux" mod="not_mod" tns="pres">
+            <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.479)"/></twseq>
+            <vp vform="to" rule="main(vp14)" dur="0.2141" start="142.9480" num="sing" pers="3" clitic="not_clitic" abort="not_abort" aux="not_aux" mod="not_mod" tns="pres">
+               <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.480)"/></twseq>
+               <vp pers="undef_pers" num="undef_num" vform="bse" rule="main(vpintrans)" dur="0.1515" start="143.0106" clitic="not_clitic" abort="not_abort" aux="not_aux" mod="not_mod" tns="pres">
+                  <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.481)"/></twseq>
+               </vp>
+            </vp>
+         </vp>
+      </vp>
+   </s>
+</s>
+<twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.482)..id(q1ec5g.pos.483)"/></twseq>
+<np rule="main(np01)" dur="0.7467" start="143.5442" num="sing" pers="3" case="obj" abort="not_abort" dum="not_dum" type="norm" sem="any" wh="not_wh" refl="not_refl">
+   <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.484)..id(q1ec5g.pos.487)"/></twseq>
+</np>
+<pp prep="to" rule="main(pp02a)" dur="0.8820" start="144.2910" conj="none" abort="not_abort" wh="not_wh">
+   <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.488)"/></twseq>
+   <np rule="main(np01)" dur="0.7659" start="144.4071" num="sing" pers="3" case="obj" abort="not_abort" dum="not_dum" type="norm" sem="any" wh="not_wh" refl="not_refl">
+      <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.489)"/></twseq>
+      <ap rule="main(ap11)" dur="0.2454" start="144.5076" abort="not_abort" deg="pos" wh="not_wh">
+         <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.490)"/></twseq>
+      </ap>
+      <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.491)"/></twseq>
+   </np>
+</pp>
+<twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.492)..id(q1ec5g.pos.494)"/></twseq>
+<s conj="but" vform="fin" rule="main(s06)" dur="2.4308" start="145.8144" dum="not_dum" abort="not_abort" inv="not_inv">
+   <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.495)"/></twseq>
+   <s vform="fin" rule="main(s03)" dur="2.2974" start="145.9478" dum="not_dum" abort="not_abort" conj="none" inv="not_inv">
+      <np num="undef_num" type="pro" pers="2" case="subj" rule="main(np05)" dur="0.1293" start="145.9478" abort="not_abort" dum="not_dum" sem="any" wh="not_wh" refl="not_refl">
+         <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.496)"/></twseq>
+      </np>
+      <vp clitic="clitic" pers="2" num="undef_num" aux="undef_aux" vform="fin" rule="main(vp14)" dur="2.1681" start="145.9478" abort="not_abort" mod="not_mod" tns="pres">
+         <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.497)"/></twseq>
+         <vp vform="en" rule="main(vp14)" dur="2.0388" start="146.0771" num="sing" pers="3" clitic="not_clitic" abort="not_abort" aux="not_aux" mod="not_mod" tns="pres">
+            <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.498)"/></twseq>
+            <vp vform="to" rule="main(vp14)" dur="1.8873" start="146.2286" num="sing" pers="3" clitic="not_clitic" abort="not_abort" aux="not_aux" mod="not_mod" tns="pres">
+               <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.499)"/></twseq>
+               <vp pers="undef_pers" num="undef_num" vform="bse" rule="main(vp11)" dur="1.7588" start="146.3571" clitic="not_clitic" abort="not_abort" aux="not_aux" mod="not_mod" tns="pres">
+                  <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.500)"/></twseq>
+                  <np rule="main(np01)" dur="1.2680" start="146.8479" num="sing" pers="3" case="obj" abort="not_abort" dum="not_dum" type="norm" sem="any" wh="not_wh" refl="not_refl">
+                     <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.501)"/></twseq>
+                     <ap rule="main(ap11)" dur="0.6884" start="146.9763" abort="not_abort" deg="pos" wh="not_wh">
+                        <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.502)..id(q1ec5g.pos.503)"/></twseq>
+                     </ap>
+                     <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.504)"/></twseq>
+                  </np>
+               </vp>
+            </vp>
+         </vp>
+      </vp>
+   </s>
+</s>
+<twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.505)..id(q1ec5g.pos.507)"/></twseq>
+<pp prep="in" rule="main(pp02a)" dur="0.5484" start="149.9358" conj="none" abort="not_abort" wh="not_wh">
+   <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.508)"/></twseq>
+   <np rule="main(np01)" dur="0.4175" start="150.0667" num="sing" pers="3" case="obj" abort="not_abort" dum="not_dum" type="norm" sem="any" wh="not_wh" refl="not_refl">
+      <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.509)..id(q1ec5g.pos.510)"/></twseq>
+   </np>
+</pp>
+<twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.511)"/></twseq>
+<vp vform="fin" rule="main(vp05)" dur="2.9262" start="150.8688" num="sing" pers="3" clitic="not_clitic" abort="not_abort" aux="not_aux" mod="not_mod" tns="pres">
+   <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.512)..id(q1ec5g.pos.513)"/></twseq>
+   <pp prep="above" rule="main(pp07)" dur="2.4717" start="151.3233" conj="none" abort="not_abort" wh="not_wh">
+      <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.514)"/></twseq>
+      <pp prep="above" rule="main(pp02a)" dur="1.9743" start="151.8207" conj="none" abort="not_abort" wh="not_wh">
+         <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.515)"/></twseq>
+         <np rule="main(np13)" dur="1.6243" start="152.1707" num="sing" pers="3" case="obj" abort="not_abort" dum="not_dum" type="norm" sem="any" wh="not_wh" refl="not_refl">
+            <np rule="disf(main(np13))" dur="0.4881" start="152.1707" num="sing" pers="3" case="obj" abort="not_abort" dum="not_dum" type="norm" sem="any" wh="not_wh" refl="not_refl">
+               <np rule="main(np01)" dur="0.4099" start="152.1707" num="sing" pers="3" case="obj" abort="not_abort" dum="not_dum" type="norm" sem="any" wh="not_wh" refl="not_refl">
+                  <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.516)..id(q1ec5g.pos.517)"/></twseq>
+               </np>
+               <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.518)"/></twseq>
+            </np>
+            <pp prep="of" rule="main(pp02a)" dur="1.1362" start="152.6590" conj="none" abort="not_abort" wh="not_wh">
+               <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.519)"/></twseq>
+               <np rule="main(np01)" dur="0.9690" start="152.8262" num="sing" pers="3" case="obj" abort="not_abort" dum="not_dum" type="norm" sem="any" wh="not_wh" refl="not_refl">
+                  <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.520)..id(q1ec5g.pos.522)"/></twseq>
+               </np>
+            </pp>
+         </np>
+      </pp>
+   </pp>
+</vp>
+<twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.523)"/></twseq>
+</para>
+<para type="trivial" n="26" id="q1ec5.g.26">
+<utt rule="utt(2)" dur="0.8770" start="158.2518">
+   <starter rule="utt(1)" dur="0.3129" start="158.2518" abort="not_abort">
+      <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.524)"/></twseq>
+   </starter>
+   <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.525)"/></twseq>
+</utt>
+</para>
+<para type="utt" n="27" id="q1ec5.g.27">
+<utt rule="utt(2)" dur="1.2688" start="159.1288">
+   <s vform="fin" rule="utt(utt1)" dur="1.1313" start="159.1288" dum="not_dum" abort="not_abort" conj="none" inv="not_inv">
+      <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.526)"/></twseq>
+      <s vform="fin" rule="main(s03)" dur="0.9699" start="159.2902" dum="not_dum" abort="not_abort" conj="none" inv="not_inv">
+         <np type="pro" pers="1" case="subj" rule="main(np05)" dur="0.1103" start="159.2902" num="sing" abort="not_abort" dum="not_dum" sem="any" wh="not_wh" refl="not_refl">
+            <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.527)"/></twseq>
+         </np>
+         <vp clitic="clitic" pers="1" vform="fin" rule="main(vp14)" dur="0.8596" start="159.2902" num="sing" abort="not_abort" aux="not_aux" mod="not_mod" tns="pres">
+            <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.528)"/></twseq>
+            <vp pers="2" vform="en" rule="main(vp32)" dur="0.7493" start="159.4006" num="sing" clitic="not_clitic" abort="not_abort" aux="not_aux" mod="not_mod" tns="pres">
+               <vp pers="2" vform="en" rule="main(vp11)" dur="0.4545" start="159.4006" num="sing" clitic="not_clitic" abort="not_abort" aux="not_aux" mod="not_mod" tns="pres">
+                  <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.529)"/></twseq>
+                  <np rule="main(np13)" dur="0.3557" start="159.4994" num="sing" pers="3" case="obj" abort="not_abort" dum="not_dum" type="norm" sem="any" wh="not_wh" refl="not_refl">
+                     <np rule="main(np05)" dur="0.1243" start="159.4994" num="sing" pers="3" case="obj" abort="not_abort" dum="not_dum" type="norm" sem="any" wh="not_wh" refl="not_refl">
+                        <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.530)"/></twseq>
+                     </np>
+                     <pp prep="of" rule="main(pp02)" dur="0.2314" start="159.6237" conj="none" abort="not_abort" wh="not_wh">
+                        <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.531)"/></twseq>
+                        <np type="pro" rule="main(np05)" dur="0.1120" start="159.7431" num="sing" pers="3" case="obj" abort="not_abort" dum="not_dum" sem="any" wh="not_wh" refl="not_refl">
+                           <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.532)"/></twseq>
+                        </np>
+                     </pp>
+                  </np>
+               </vp>
+               <advp rule="main(advp02)" dur="0.2948" start="159.8551" abort="not_abort" deg="pos" wh="not_wh">
+                  <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.533)..id(q1ec5g.pos.534)"/></twseq>
+               </advp>
+            </vp>
+         </vp>
+      </s>
+   </s>
+   <closer rule="utt(1)" dur="0.0264" start="160.1499" abort="not_abort">
+      <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.535)"/></twseq>
+   </closer>
+   <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.536)"/></twseq>
+</utt>
+</para>
+<gap>
+<twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.537)..id(q1ec5g.pos.538)"/></twseq>
+</gap>
+<para type="notok" n="28" id="q1ec5.g.28">
+<s conj="but" vform="fin" rule="main(s06)" dur="3.2780" start="160.9453" dum="not_dum" abort="not_abort" inv="not_inv">
+   <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.539)..id(q1ec5g.pos.542)"/></twseq>
+   <s dum="dum" vform="fin" rule="main(s03)" dur="1.7414" start="162.4820" abort="not_abort" conj="none" inv="not_inv">
+      <np type="pro" dum="dum" case="subj" rule="main(np05)" dur="0.1037" start="162.4820" num="sing" pers="3" abort="not_abort" sem="any" wh="not_wh" refl="not_refl">
+         <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.543)"/></twseq>
+      </np>
+      <vp clitic="clitic" vform="fin" rule="main(vp33)" dur="1.6377" start="162.4820" num="sing" pers="3" abort="not_abort" aux="not_aux" mod="not_mod" tns="pres">
+         <vp clitic="clitic" vform="fin" rule="main(vp11)" dur="1.0984" start="162.4820" num="sing" pers="3" abort="not_abort" aux="not_aux" mod="not_mod" tns="pres">
+            <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.544)"/></twseq>
+            <np rule="disf(2)" dur="0.9947" start="162.5857" num="sing" pers="3" case="obj" abort="not_abort" dum="not_dum" type="norm" sem="any" wh="not_wh" refl="not_refl">
+               <np abort="abort" rule="main(abort(np01))" dur="0.3022" start="162.5857" num="sing" pers="3" case="obj" dum="not_dum" type="norm" sem="any" wh="not_wh" refl="not_refl">
+                  <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.545)..id(q1ec5g.pos.546)"/></twseq>
+               </np>
+               <np rule="main(np01)" dur="0.6925" start="162.8879" num="sing" pers="3" case="obj" abort="not_abort" dum="not_dum" type="norm" sem="any" wh="not_wh" refl="not_refl">
+                  <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.547)"/></twseq>
+                  <ap rule="main(ap11)" dur="0.4306" start="162.9472" abort="not_abort" deg="pos" wh="not_wh">
+                     <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.548)..id(q1ec5g.pos.549)"/></twseq>
+                  </ap>
+                  <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.550)"/></twseq>
+               </np>
+            </np>
+         </vp>
+         <pp prep="here" rule="main(rp07)" dur="0.5393" start="163.5804" conj="none" abort="not_abort" wh="not_wh">
+            <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.551)..id(q1ec5g.pos.554)"/></twseq>
+         </pp>
+      </vp>
+   </s>
+</s>
+<twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.555)"/></twseq>
+<vp vform="fin" rule="main(vp05)" dur="3.5595" start="164.3471" num="sing" pers="3" clitic="not_clitic" abort="not_abort" aux="not_aux" mod="not_mod" tns="pres">
+   <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.556)..id(q1ec5g.pos.559)"/></twseq>
+   <pp prep="between" rule="main(pp07)" dur="2.1870" start="165.7197" conj="none" abort="not_abort" wh="not_wh">
+      <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.560)"/></twseq>
+      <pp prep="between" rule="main(pp01)" dur="1.8790" start="166.0277" conj="none" abort="not_abort" wh="not_wh">
+         <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.561)"/></twseq>
+         <np rule="main(np01)" dur="0.5549" start="166.3629" num="sing" pers="3" case="obj" abort="not_abort" dum="not_dum" type="norm" sem="any" wh="not_wh" refl="not_refl">
+            <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.562)"/></twseq>
+            <ap rule="main(ap11)" dur="0.2240" start="166.4361" abort="not_abort" deg="pos" wh="not_wh">
+               <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.563)"/></twseq>
+            </ap>
+            <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.564)"/></twseq>
+         </np>
+         <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.565)"/></twseq>
+         <np rule="main(np01)" dur="0.8843" start="167.0224" num="sing" pers="3" case="obj" abort="not_abort" dum="not_dum" type="norm" sem="any" wh="not_wh" refl="not_refl">
+            <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.566)..id(q1ec5g.pos.568)"/></twseq>
+         </np>
+      </pp>
+   </pp>
+</vp>
+<closer rule="utt(1)" dur="1.2845" start="167.9068" abort="not_abort">
+   <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.569)..id(q1ec5g.pos.573)"/></twseq>
+</closer>
+<twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.574)"/></twseq>
+</para>
+<para type="ok" n="29" id="q1ec5.g.29">
+<starter rule="utt(1)" dur="0.1458" start="169.4360" abort="not_abort">
+   <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.575)"/></twseq>
+</starter>
+<advp rule="main(advp02)" dur="0.4841" start="169.5818" abort="not_abort" deg="pos" wh="not_wh">
+   <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.576)"/></twseq>
+</advp>
+<pp prep="above" rule="main(pp02a)" dur="1.6263" start="170.0659" conj="none" abort="not_abort" wh="not_wh">
+   <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.577)"/></twseq>
+   <np rule="main(np13)" dur="1.2623" start="170.4299" num="sing" pers="3" case="obj" abort="not_abort" dum="not_dum" type="norm" sem="any" wh="not_wh" refl="not_refl">
+      <np rule="main(np01)" dur="0.3343" start="170.4299" num="sing" pers="3" case="obj" abort="not_abort" dum="not_dum" type="norm" sem="any" wh="not_wh" refl="not_refl">
+         <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.578)..id(q1ec5g.pos.579)"/></twseq>
+      </np>
+      <pp prep="of" rule="main(pp02a)" dur="0.9280" start="170.7642" conj="none" abort="not_abort" wh="not_wh">
+         <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.580)"/></twseq>
+         <np rule="main(np01)" dur="0.7864" start="170.9058" num="sing" pers="3" case="obj" abort="not_abort" dum="not_dum" type="norm" sem="any" wh="not_wh" refl="not_refl">
+            <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.581)..id(q1ec5g.pos.583)"/></twseq>
+         </np>
+      </pp>
+   </np>
+</pp>
+<twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.584)"/></twseq>
+</para>
+<para type="trivial" n="30" id="q1ec5.g.30">
+<utt rule="utt(2)" dur="0.9791" start="173.2378">
+   <starter rule="utt(1)" dur="0.2965" start="173.2378" abort="not_abort">
+      <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.585)..id(q1ec5g.pos.586)"/></twseq>
+   </starter>
+   <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.587)"/></twseq>
+</utt>
+</para>
+<para type="trivial" n="31" id="q1ec5.g.31">
+<utt rule="utt(2)" dur="0.5689" start="174.2169">
+   <starter rule="utt(1)" dur="0.5336" start="174.2169" abort="not_abort">
+      <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.588)..id(q1ec5g.pos.591)"/></twseq>
+   </starter>
+   <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.592)"/></twseq>
+</utt>
+</para>
+<para type="notok" n="32" id="q1ec5.g.32">
+<s conj="so" vform="fin" rule="main(s06)" dur="0.4208" start="174.7859" dum="not_dum" abort="not_abort" inv="not_inv">
+   <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.593)"/></twseq>
+   <s vform="fin" rule="main(s03)" dur="0.3467" start="174.8600" dum="not_dum" abort="not_abort" conj="none" inv="not_inv">
+      <np type="pro" pers="2" case="subj" rule="main(np05)" dur="0.0906" start="174.8600" num="sing" abort="not_abort" dum="not_dum" sem="any" wh="not_wh" refl="not_refl">
+         <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.594)"/></twseq>
+      </np>
+      <vp clitic="clitic" pers="2" vform="fin" rule="main(vp14)" dur="0.2561" start="174.8600" num="sing" abort="not_abort" aux="not_aux" mod="not_mod" tns="pres">
+         <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.595)"/></twseq>
+         <vp vform="en" rule="main(vpintrans)" dur="0.1655" start="174.9506" num="sing" pers="3" clitic="not_clitic" abort="not_abort" aux="not_aux" mod="not_mod" tns="pres">
+            <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.596)"/></twseq>
+         </vp>
+      </vp>
+   </s>
+</s>
+<s conj="so" vform="fin" rule="main(s06)" dur="0.5526" start="175.1161" dum="not_dum" abort="not_abort" inv="not_inv">
+   <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.597)"/></twseq>
+   <s vform="fin" rule="main(s03)" dur="0.4052" start="175.2635" dum="not_dum" abort="not_abort" conj="none" inv="not_inv">
+      <np num="undef_num" type="pro" pers="2" case="subj" rule="main(np05)" dur="0.1252" start="175.2635" abort="not_abort" dum="not_dum" sem="any" wh="not_wh" refl="not_refl">
+         <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.598)"/></twseq>
+      </np>
+      <vp clitic="clitic" pers="2" num="undef_num" vform="fin" rule="main(vp14)" dur="0.2800" start="175.2635" abort="not_abort" aux="not_aux" mod="not_mod" tns="pres">
+         <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.599)"/></twseq>
+         <vp vform="ing" rule="main(vpintrans)" dur="0.1548" start="175.3887" num="sing" pers="3" clitic="not_clitic" abort="not_abort" aux="not_aux" mod="not_mod" tns="pres">
+            <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.600)"/></twseq>
+         </vp>
+      </vp>
+   </s>
+</s>
+<twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.601)..id(q1ec5g.pos.602)"/></twseq>
+<np rule="main(np01)" dur="0.6184" start="175.8663" num="sing" pers="3" case="obj" abort="not_abort" dum="not_dum" type="norm" sem="any" wh="not_wh" refl="not_refl">
+   <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.603)..id(q1ec5g.pos.605)"/></twseq>
+</np>
+<pp prep="conj" rule="main(pp05)" dur="3.7695" start="176.4847" conj="none" abort="not_abort" wh="not_wh">
+   <pp prep="underneath" rule="disf(main(pp05))" dur="2.2207" start="176.4847" conj="none" abort="not_abort" wh="not_wh">
+      <pp prep="underneath" rule="main(pp02a)" dur="1.3331" start="176.4847" conj="none" abort="not_abort" wh="not_wh">
+         <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.606)"/></twseq>
+         <np rule="main(np01)" dur="0.9313" start="176.8866" num="sing" pers="3" case="obj" abort="not_abort" dum="not_dum" type="norm" sem="any" wh="not_wh" refl="not_refl">
+            <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.607)"/></twseq>
+            <ap rule="main(ap11)" dur="0.5270" start="176.9500" abort="not_abort" deg="pos" wh="not_wh">
+               <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.608)..id(q1ec5g.pos.609)"/></twseq>
+            </ap>
+            <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.610)"/></twseq>
+         </np>
+      </pp>
+      <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.611)..id(q1ec5g.pos.614)"/></twseq>
+   </pp>
+   <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.615)"/></twseq>
+   <pp prep="over" rule="main(pp02a)" dur="1.4467" start="178.8077" conj="none" abort="not_abort" wh="not_wh">
+      <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.616)"/></twseq>
+      <np rule="main(np13)" dur="1.2260" start="179.0284" num="sing" pers="3" case="obj" abort="not_abort" dum="not_dum" type="norm" sem="any" wh="not_wh" refl="not_refl">
+         <np rule="main(np01)" dur="0.3861" start="179.0284" num="sing" pers="3" case="obj" abort="not_abort" dum="not_dum" type="norm" sem="any" wh="not_wh" refl="not_refl">
+            <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.617)..id(q1ec5g.pos.618)"/></twseq>
+         </np>
+         <pp prep="of" rule="main(pp02a)" dur="0.8399" start="179.4146" conj="none" abort="not_abort" wh="not_wh">
+            <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.619)"/></twseq>
+            <np rule="main(np01)" dur="0.6892" start="179.5653" num="sing" pers="3" case="obj" abort="not_abort" dum="not_dum" type="norm" sem="any" wh="not_wh" refl="not_refl">
+               <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.620)"/></twseq>
+               <ap rule="main(ap11)" dur="0.2407" start="179.6152" abort="not_abort" deg="pos" wh="not_wh">
+                  <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.621)"/></twseq>
+               </ap>
+               <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.622)"/></twseq>
+            </np>
+         </pp>
+      </np>
+   </pp>
+</pp>
+<twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.623)..id(q1ec5g.pos.626)"/></twseq>
+<s conj="and_then" vform="imp" rule="main(s08)" dur="8.2943" start="181.6503" dum="not_dum" abort="not_abort" inv="not_inv">
+   <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.627)..id(q1ec5g.pos.629)"/></twseq>
+   <s vform="imp" rule="disf(2)" dur="7.3129" start="182.6318" dum="not_dum" abort="not_abort" conj="none" inv="not_inv">
+      <s vform="undef_vform" abort="abort" rule="main(abort(s01))" dur="4.5700" start="182.6318" dum="not_dum" conj="none" inv="not_inv">
+         <np case="subj" rule="main(npr04)" dur="4.5700" start="182.6318" num="sing" pers="3" abort="not_abort" dum="not_dum" type="norm" sem="any" wh="not_wh" refl="not_refl">
+            <advp wh="wh" rule="main(advp02)" dur="0.2273" start="182.6318" abort="not_abort" deg="pos">
+               <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.630)"/></twseq>
+            </advp>
+            <s vform="fin" rule="main(s03)" dur="4.3427" start="182.8591" dum="not_dum" abort="not_abort" conj="none" inv="not_inv">
+               <np num="undef_num" type="pro" pers="2" case="subj" rule="main(np05)" dur="0.0921" start="182.8591" abort="not_abort" dum="not_dum" sem="any" wh="not_wh" refl="not_refl">
+                  <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.631)"/></twseq>
+               </np>
+               <vp pers="2" num="undef_num" vform="fin" rule="main(vp11)" dur="4.2506" start="182.9513" clitic="not_clitic" abort="not_abort" aux="not_aux" mod="not_mod" tns="pres">
+                  <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.632)..id(q1ec5g.pos.633)"/></twseq>
+                  <np rule="disf(main(s03))" dur="3.4634" start="183.7385" num="sing" pers="3" case="obj" abort="not_abort" dum="not_dum" type="norm" sem="any" wh="not_wh" refl="not_refl">
+                     <np rule="main(np13)" dur="2.4472" start="183.7385" num="sing" pers="3" case="obj" abort="not_abort" dum="not_dum" type="norm" sem="any" wh="not_wh" refl="not_refl">
+                        <np rule="disf(3)" dur="1.6832" start="183.7385" num="sing" pers="3" case="obj" abort="not_abort" dum="not_dum" type="norm" sem="any" wh="not_wh" refl="not_refl">
+                           <np abort="abort" rule="main(abort(np02))" dur="0.5319" start="183.7385" num="sing" pers="3" case="obj" dum="not_dum" type="norm" sem="any" wh="not_wh" refl="not_refl">
+                              <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.634)"/></twseq>
+                              <ap rule="main(ap11)" dur="0.2857" start="183.9847" abort="not_abort" deg="pos" wh="not_wh">
+                                 <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.635)"/></twseq>
+                              </ap>
+                           </np>
+                           <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.636)..id(q1ec5g.pos.637)"/></twseq>
+                           <np rule="main(np01)" dur="0.8655" start="184.5562" num="sing" pers="3" case="obj" abort="not_abort" dum="not_dum" type="norm" sem="any" wh="not_wh" refl="not_refl">
+                              <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.638)..id(q1ec5g.pos.639)"/></twseq>
+                              <ap rule="main(ap11)" dur="0.4077" start="184.8329" abort="not_abort" deg="pos" wh="not_wh">
+                                 <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.640)"/></twseq>
+                              </ap>
+                              <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.641)"/></twseq>
+                           </np>
+                        </np>
+                        <pp prep="of" rule="main(pp02a)" dur="0.7640" start="185.4217" conj="none" abort="not_abort" wh="not_wh">
+                           <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.642)"/></twseq>
+                           <np rule="main(np01)" dur="0.6915" start="185.4942" num="sing" pers="3" case="obj" abort="not_abort" dum="not_dum" type="norm" sem="any" wh="not_wh" refl="not_refl">
+                              <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.643)"/></twseq>
+                              <ap rule="main(ap11)" dur="0.2050" start="185.5526" abort="not_abort" deg="pos" wh="not_wh">
+                                 <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.644)"/></twseq>
+                              </ap>
+                              <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.645)"/></twseq>
+                           </np>
+                        </pp>
+                     </np>
+                     <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.646)..id(q1ec5g.pos.647)"/></twseq>
+                  </np>
+               </vp>
+            </s>
+         </np>
+      </s>
+      <s vform="imp" rule="main(s12)" dur="2.7429" start="187.2020" dum="not_dum" abort="not_abort" conj="none" inv="not_inv">
+         <vp pers="2" num="undef_num" vform="fin" rule="main(vp05)" dur="2.7429" start="187.2020" clitic="not_clitic" abort="not_abort" aux="not_aux" mod="not_mod" tns="pres">
+            <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.648)..id(q1ec5g.pos.649)"/></twseq>
+            <pp prep="southwards" rule="main(rp07)" dur="1.9895" start="187.9554" conj="none" abort="not_abort" wh="not_wh">
+               <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.650)..id(q1ec5g.pos.653)"/></twseq>
+            </pp>
+         </vp>
+      </s>
+   </s>
+</s>
+<s conj="until" vform="fin" rule="main(s06)" dur="2.5527" start="189.9449" dum="not_dum" abort="not_abort" inv="not_inv">
+   <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.654)"/></twseq>
+   <s vform="fin" rule="main(s03)" dur="2.1385" start="190.3591" dum="not_dum" abort="not_abort" conj="none" inv="not_inv">
+      <np num="undef_num" type="pro" pers="2" case="subj" rule="main(np05)" dur="0.1259" start="190.3591" abort="not_abort" dum="not_dum" sem="any" wh="not_wh" refl="not_refl">
+         <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.655)"/></twseq>
+      </np>
+      <vp pers="2" num="undef_num" vform="fin" rule="main(vp05)" dur="2.0126" start="190.4850" clitic="not_clitic" abort="not_abort" aux="not_aux" mod="not_mod" tns="pres">
+         <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.656)"/></twseq>
+         <pp prep="to" rule="main(pp02a)" dur="1.7663" start="190.7313" conj="none" abort="not_abort" wh="not_wh">
+            <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.657)"/></twseq>
+            <np rule="main(np13)" dur="1.6642" start="190.8334" num="sing" pers="3" case="obj" abort="not_abort" dum="not_dum" type="norm" sem="any" wh="not_wh" refl="not_refl">
+               <np rule="main(np01)" dur="0.3689" start="190.8334" num="sing" pers="3" case="obj" abort="not_abort" dum="not_dum" type="norm" sem="any" wh="not_wh" refl="not_refl">
+                  <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.658)..id(q1ec5g.pos.659)"/></twseq>
+               </np>
+               <pp prep="of" rule="main(pp02a)" dur="1.2953" start="191.2023" conj="none" abort="not_abort" wh="not_wh">
+                  <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.660)"/></twseq>
+                  <np num="plur" rule="main(np01)" dur="1.0343" start="191.4633" pers="3" case="obj" abort="not_abort" dum="not_dum" type="norm" sem="any" wh="not_wh" refl="not_refl">
+                     <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.661)"/></twseq>
+                     <ap rule="main(ap11)" dur="0.3837" start="191.6091" abort="not_abort" deg="pos" wh="not_wh">
+                        <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.662)"/></twseq>
+                     </ap>
+                     <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.663)"/></twseq>
+                  </np>
+               </pp>
+            </np>
+         </pp>
+      </vp>
+   </s>
+</s>
+<twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.664)"/></twseq>
+</para>
+<gap>
+<twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.665)..id(q1ec5g.pos.666)"/></twseq>
+</gap>
+<para type="utt" n="33" id="q1ec5.g.33">
+<utt rule="utt(2)" dur="5.0080" start="193.5870">
+   <s conj="and" inv="inv" vform="fin" rule="main(s08)" dur="3.3793" start="193.5870" dum="not_dum" abort="not_abort">
+      <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.667)..id(q1ec5g.pos.668)"/></twseq>
+      <s vform="fin" inv="inv" rule="main(s01)" dur="3.0919" start="193.8744" dum="not_dum" abort="not_abort" conj="none">
+         <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.669)..id(q1ec5g.pos.674)"/></twseq>
+         <np num="undef_num" type="pro" pers="2" case="subj" rule="main(np05)" dur="0.1449" start="195.8136" abort="not_abort" dum="not_dum" sem="any" wh="not_wh" refl="not_refl">
+            <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.675)"/></twseq>
+         </np>
+         <vp pers="2" num="undef_num" vform="bse" rule="main(vp11)" dur="1.0079" start="195.9585" clitic="not_clitic" abort="not_abort" aux="not_aux" mod="not_mod" tns="pres">
+            <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.676)"/></twseq>
+            <np rule="main(np01)" dur="0.7922" start="196.1743" num="sing" pers="3" case="obj" abort="not_abort" dum="not_dum" type="norm" sem="any" wh="not_wh" refl="not_refl">
+               <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.677)..id(q1ec5g.pos.679)"/></twseq>
+            </np>
+         </vp>
+      </s>
+   </s>
+   <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.680)"/></twseq>
+</utt>
+</para>
+<para type="trivial" n="34" id="q1ec5.g.34">
+<utt rule="utt(2)" dur="0.2010" start="198.5952">
+   <starter rule="utt(1)" dur="0.1730" start="198.5952" abort="not_abort">
+      <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.681)..id(q1ec5g.pos.682)"/></twseq>
+   </starter>
+   <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.683)"/></twseq>
+</utt>
+</para>
+<gap>
+<twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.684)..id(q1ec5g.pos.685)"/></twseq>
+</gap>
+<para type="notok" n="35" id="q1ec5.g.35">
+<s conj="so" vform="fin" rule="main(s06)" dur="3.7727" start="199.1947" dum="not_dum" abort="not_abort" inv="not_inv">
+   <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.686)..id(q1ec5g.pos.687)"/></twseq>
+   <s vform="fin" rule="main(s03)" dur="3.3354" start="199.6320" dum="not_dum" abort="not_abort" conj="none" inv="not_inv">
+      <np pers="undef_pers" case="subj" num="undef_num" wh="wh" rule="main(npr02)" dur="0.6849" start="199.6320" abort="not_abort" dum="not_dum" type="norm" sem="any" refl="not_refl">
+         <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.688)"/></twseq>
+         <s vform="fin" rule="main(s03)" dur="0.5228" start="199.7942" dum="not_dum" abort="not_abort" conj="none" inv="not_inv">
+            <np type="pro" pers="1" case="subj" rule="main(np05)" dur="0.0181" start="199.7942" num="sing" abort="not_abort" dum="not_dum" sem="any" wh="not_wh" refl="not_refl">
+               <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.689)"/></twseq>
+            </np>
+            <vp pers="1" vform="fin" rule="main(vp07)" dur="0.5047" start="199.8123" num="sing" clitic="not_clitic" abort="not_abort" aux="not_aux" mod="not_mod" tns="pres">
+               <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.690)"/></twseq>
+               <np type="pro" rule="main(np05)" dur="0.0988" start="199.8683" num="sing" pers="3" case="obj" abort="not_abort" dum="not_dum" sem="any" wh="not_wh" refl="not_refl">
+                  <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.691)"/></twseq>
+               </np>
+               <vp pers="2" vform="to" rule="main(vp14)" dur="0.3499" start="199.9671" num="sing" clitic="not_clitic" abort="not_abort" aux="not_aux" mod="not_mod" tns="pres">
+                  <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.692)"/></twseq>
+                  <vp pers="undef_pers" num="undef_num" vform="bse" rule="main(vpintrans)" dur="0.2017" start="200.1154" clitic="not_clitic" abort="not_abort" aux="not_aux" mod="not_mod" tns="pres">
+                     <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.693)"/></twseq>
+                  </vp>
+               </vp>
+            </vp>
+         </s>
+      </np>
+      <vp pers="undef_pers" num="undef_num" vform="fin" rule="main(vp05)" dur="2.6505" start="200.3171" clitic="not_clitic" abort="not_abort" aux="not_aux" mod="not_mod" tns="pres">
+         <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.694)..id(q1ec5g.pos.696)"/></twseq>
+         <pp prep="between" rule="main(pp01)" dur="1.5699" start="201.3977" conj="none" abort="not_abort" wh="not_wh">
+            <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.697)"/></twseq>
+            <np num="plur" rule="main(np01)" dur="0.5434" start="201.7762" pers="3" case="obj" abort="not_abort" dum="not_dum" type="norm" sem="any" wh="not_wh" refl="not_refl">
+               <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.698)"/></twseq>
+               <ap rule="main(ap11)" dur="0.2248" start="201.8166" abort="not_abort" deg="pos" wh="not_wh">
+                  <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.699)"/></twseq>
+               </ap>
+               <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.700)"/></twseq>
+            </np>
+            <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.701)"/></twseq>
+            <np rule="main(np01)" dur="0.5862" start="202.3815" num="sing" pers="3" case="obj" abort="not_abort" dum="not_dum" type="norm" sem="any" wh="not_wh" refl="not_refl">
+               <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.702)..id(q1ec5g.pos.704)"/></twseq>
+            </np>
+         </pp>
+      </vp>
+   </s>
+</s>
+<twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.705)..id(q1ec5g.pos.714)"/></twseq>
+<np type="pro" pers="2" case="subj" rule="main(np05)" dur="0.0635" start="206.2937" num="sing" abort="not_abort" dum="not_dum" sem="any" wh="not_wh" refl="not_refl">
+   <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.715)"/></twseq>
+</np>
+<twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.716)"/></twseq>
+<pp prep="between" rule="main(pp09)" dur="2.1822" start="206.5053" conj="none" abort="not_abort" wh="not_wh">
+   <np sem="measure" rule="main(np05)" dur="0.2923" start="206.5053" num="sing" pers="3" case="obj" abort="not_abort" dum="not_dum" type="norm" wh="not_wh" refl="not_refl">
+      <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.717)"/></twseq>
+   </np>
+   <pp prep="between" rule="main(pp01)" dur="1.8899" start="206.7976" conj="none" abort="not_abort" wh="not_wh">
+      <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.718)"/></twseq>
+      <np rule="main(np01)" dur="0.6761" start="207.0545" num="sing" pers="3" case="obj" abort="not_abort" dum="not_dum" type="norm" sem="any" wh="not_wh" refl="not_refl">
+         <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.719)..id(q1ec5g.pos.720)"/></twseq>
+         <ap rule="main(ap11)" dur="0.2413" start="207.2357" abort="not_abort" deg="pos" wh="not_wh">
+            <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.721)"/></twseq>
+         </ap>
+         <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.722)"/></twseq>
+      </np>
+      <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.723)"/></twseq>
+      <np rule="main(np01)" dur="0.8441" start="207.8434" num="sing" pers="3" case="obj" abort="not_abort" dum="not_dum" type="norm" sem="any" wh="not_wh" refl="not_refl">
+         <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.724)"/></twseq>
+         <ap rule="main(ap11)" dur="0.5229" start="207.8854" abort="not_abort" deg="pos" wh="not_wh">
+            <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.725)..id(q1ec5g.pos.726)"/></twseq>
+         </ap>
+         <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.727)"/></twseq>
+      </np>
+   </pp>
+</pp>
+<closer rule="utt(1)" dur="0.1078" start="208.6875" abort="not_abort">
+   <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.728)"/></twseq>
+</closer>
+<twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.729)"/></twseq>
+</para>
+<para type="utt" n="36" id="q1ec5.g.36">
+<utt rule="utt(3)" dur="0.5303" start="210.5559">
+   <np rule="main(np01)" dur="0.4990" start="210.5559" num="sing" pers="3" case="obj" abort="not_abort" dum="not_dum" type="norm" sem="any" wh="not_wh" refl="not_refl">
+      <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.730)..id(q1ec5g.pos.732)"/></twseq>
+   </np>
+   <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.733)"/></twseq>
+</utt>
+</para>
+<gap>
+<twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.734)..id(q1ec5g.pos.735)"/></twseq>
+</gap>
+<para type="utt" n="37" id="q1ec5.g.37">
+<utt rule="utt(2)" dur="6.6284" start="211.2863">
+   <s conj="so" vform="fin" rule="main(s06)" dur="2.1632" start="211.2863" dum="not_dum" abort="not_abort" inv="not_inv">
+      <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.736)"/></twseq>
+      <s vform="fin" rule="disf(2)" dur="2.0562" start="211.3933" dum="not_dum" abort="not_abort" conj="none" inv="not_inv">
+         <s vform="fin" abort="abort" rule="main(s03)" dur="0.9773" start="211.3933" dum="not_dum" conj="none" inv="not_inv">
+            <np type="pro" pers="2" case="subj" rule="main(np05)" dur="0.1202" start="211.3933" num="sing" abort="not_abort" dum="not_dum" sem="any" wh="not_wh" refl="not_refl">
+               <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.737)"/></twseq>
+            </np>
+            <vp clitic="clitic" pers="2" vform="fin" abort="abort" rule="main(vp14)" dur="0.8571" start="211.3933" num="sing" aux="not_aux" mod="not_mod" tns="pres">
+               <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.738)"/></twseq>
+               <vp vform="ing" abort="abort" rule="main(vp14)" dur="0.7369" start="211.5135" num="sing" pers="3" clitic="not_clitic" aux="not_aux" mod="not_mod" tns="pres">
+                  <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.739)"/></twseq>
+                  <vp vform="to" abort="abort" rule="main(abort(vp02))" dur="0.5705" start="211.6799" num="sing" pers="3" clitic="not_clitic" aux="not_aux" mod="not_mod" tns="pres">
+                     <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.740)..id(q1ec5g.pos.743)"/></twseq>
+                  </vp>
+               </vp>
+            </vp>
+         </s>
+         <s vform="fin" rule="main(s03)" dur="1.0789" start="212.2505" dum="not_dum" abort="not_abort" conj="none" inv="not_inv">
+            <np case="subj" type="pro" rule="main(np05)" dur="0.2792" start="212.2505" num="sing" pers="3" abort="not_abort" dum="not_dum" sem="any" wh="not_wh" refl="not_refl">
+               <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.744)"/></twseq>
+            </np>
+            <vp clitic="clitic" vform="fin" rule="main(vp05)" dur="0.7997" start="212.2505" num="sing" pers="3" abort="not_abort" aux="not_aux" mod="not_mod" tns="pres">
+               <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.745)"/></twseq>
+               <pp prep="on" rule="main(pp08)" dur="0.5205" start="212.5297" conj="none" abort="not_abort" wh="not_wh">
+                  <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.746)"/></twseq>
+                  <pp prep="on" rule="main(pp02a)" dur="0.4670" start="212.5832" conj="none" abort="not_abort" wh="not_wh">
+                     <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.747)"/></twseq>
+                     <np rule="main(np01)" dur="0.4316" start="212.6186" num="sing" pers="3" case="obj" abort="not_abort" dum="not_dum" type="norm" sem="any" wh="not_wh" refl="not_refl">
+                        <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.748)..id(q1ec5g.pos.749)"/></twseq>
+                     </np>
+                  </pp>
+               </pp>
+            </vp>
+         </s>
+      </s>
+   </s>
+   <s vform="fin" rule="main(s03)" dur="1.5798" start="213.0502" dum="not_dum" abort="not_abort" conj="none" inv="not_inv">
+      <np num="undef_num" type="pro" pers="2" case="subj" rule="main(np05)" dur="0.1110" start="213.0502" abort="not_abort" dum="not_dum" sem="any" wh="not_wh" refl="not_refl">
+         <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.750)"/></twseq>
+      </np>
+      <vp pers="2" num="undef_num" vform="fin" rule="disf(3)" dur="1.4688" start="213.0502" clitic="not_clitic" abort="not_abort" aux="not_aux" mod="not_mod" tns="pres">
+         <vp clitic="clitic" pers="undef_pers" num="undef_num" aux="undef_aux" vform="undef_vform" abort="abort" rule="main(vp14)" dur="0.4790" start="213.0502" mod="not_mod" tns="pres">
+            <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.751)"/></twseq>
+            <vp vform="en" abort="abort" rule="main(vp14)" dur="0.3680" start="213.1613" num="sing" pers="3" clitic="not_clitic" aux="not_aux" mod="not_mod" tns="pres">
+               <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.752)"/></twseq>
+               <vp vform="to" abort="abort" rule="main(abort(vp01))" dur="0.1234" start="213.4059" num="sing" pers="3" clitic="not_clitic" aux="not_aux" mod="not_mod" tns="pres">
+                  <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.753)"/></twseq>
+               </vp>
+            </vp>
+         </vp>
+         <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.754)"/></twseq>
+         <vp pers="2" num="undef_num" vform="fin" rule="main(vp11)" dur="0.4875" start="214.0316" clitic="not_clitic" abort="not_abort" aux="not_aux" mod="not_mod" tns="pres">
+            <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.755)"/></twseq>
+            <np type="pro" rule="main(np05)" dur="0.2067" start="214.3124" num="sing" pers="3" case="obj" abort="not_abort" dum="not_dum" sem="any" wh="not_wh" refl="not_refl">
+               <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.756)"/></twseq>
+            </np>
+         </vp>
+      </vp>
+   </s>
+   <s vform="fin" rule="main(s03)" dur="0.5047" start="214.5192" dum="not_dum" abort="not_abort" conj="none" inv="not_inv">
+      <np type="pro" pers="1" case="subj" rule="main(np05)" dur="0.0758" start="214.5192" num="sing" abort="not_abort" dum="not_dum" sem="any" wh="not_wh" refl="not_refl">
+         <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.757)"/></twseq>
+      </np>
+      <vp pers="1" vform="fin" rule="main(vpintrans)" dur="0.4289" start="214.5950" num="sing" clitic="not_clitic" abort="not_abort" aux="not_aux" mod="not_mod" tns="pres">
+         <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.758)..id(q1ec5g.pos.759)"/></twseq>
+      </vp>
+   </s>
+   <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.760)"/></twseq>
+</utt>
+</para>
+<gap>
+<twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.761)..id(q1ec5g.pos.762)"/></twseq>
+</gap>
+<para type="utt" n="38" id="q1ec5.g.38">
+<utt rule="utt(2)" dur="22.8872" start="217.8937">
+   <s vform="imp" rule="main(s12)" dur="14.1380" start="217.8937" dum="not_dum" abort="not_abort" conj="none" inv="not_inv">
+      <vp pers="2" vform="fin" rule="main(vp36)" dur="14.1380" start="217.8937" num="sing" clitic="not_clitic" abort="not_abort" aux="not_aux" mod="not_mod" tns="pres">
+         <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.763)..id(q1ec5g.pos.764)"/></twseq>
+         <vp pers="2" vform="fin" rule="main(vp05)" dur="13.7848" start="218.2469" num="sing" clitic="not_clitic" abort="not_abort" aux="not_aux" mod="not_mod" tns="pres">
+            <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.765)"/></twseq>
+            <pp prep="down" rule="main(rp07)" dur="13.6547" start="218.3770" conj="none" abort="not_abort" wh="not_wh">
+               <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.766)..id(q1ec5g.pos.768)"/></twseq>
+               <pp prep="past" rule="main(pp02a)" dur="12.4228" start="219.6089" conj="none" abort="not_abort" wh="not_wh">
+                  <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.769)"/></twseq>
+                  <np rule="main(np14)" dur="12.0951" start="219.9366" num="sing" pers="3" case="obj" abort="not_abort" dum="not_dum" type="norm" sem="any" wh="not_wh" refl="not_refl">
+                     <np rule="disf(main(pp09))" dur="2.5040" start="219.9366" num="sing" pers="3" case="obj" abort="not_abort" dum="not_dum" type="norm" sem="any" wh="not_wh" refl="not_refl">
+                        <np rule="main(np01)" dur="0.5912" start="219.9366" num="sing" pers="3" case="obj" abort="not_abort" dum="not_dum" type="norm" sem="any" wh="not_wh" refl="not_refl">
+                           <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.770)"/></twseq>
+                           <ap rule="main(ap11)" dur="0.2100" start="219.9654" abort="not_abort" deg="pos" wh="not_wh">
+                              <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.771)"/></twseq>
+                           </ap>
+                           <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.772)"/></twseq>
+                        </np>
+                        <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.773)..id(q1ec5g.pos.780)"/></twseq>
+                     </np>
+                     <pp prep="conj" rule="main(pp05)" dur="9.5911" start="222.4407" conj="none" abort="not_abort" wh="not_wh">
+                        <pp prep="underneath" rule="disf(main(pp05))" dur="1.8947" start="222.4407" conj="none" abort="not_abort" wh="not_wh">
+                           <pp prep="underneath" rule="main(pp02a)" dur="1.1751" start="222.4407" conj="none" abort="not_abort" wh="not_wh">
+                              <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.781)"/></twseq>
+                              <np rule="main(np01)" dur="0.7007" start="222.9151" num="sing" pers="3" case="obj" abort="not_abort" dum="not_dum" type="norm" sem="any" wh="not_wh" refl="not_refl">
+                                 <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.782)..id(q1ec5g.pos.784)"/></twseq>
+                              </np>
+                           </pp>
+                           <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.785)..id(q1ec5g.pos.789)"/></twseq>
+                        </pp>
+                        <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.790)..id(q1ec5g.pos.791)"/></twseq>
+                        <pp prep="up" rule="main(pp07)" dur="7.2230" start="224.8090" conj="none" abort="not_abort" wh="not_wh">
+                           <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.792)"/></twseq>
+                           <pp prep="up" rule="main(pp02a)" dur="6.7322" start="225.2998" conj="none" abort="not_abort" wh="not_wh">
+                              <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.793)..id(q1ec5g.pos.794)"/></twseq>
+                              <np rule="main(np14)" dur="4.6646" start="227.3675" num="sing" pers="3" case="obj" abort="not_abort" dum="not_dum" type="norm" sem="any" wh="not_wh" refl="not_refl">
+                                 <np rule="disf(main(np14))" dur="3.0112" start="227.3675" num="sing" pers="3" case="obj" abort="not_abort" dum="not_dum" type="norm" sem="any" wh="not_wh" refl="not_refl">
+                                    <np rule="main(np6catch)" dur="1.3537" start="227.3675" num="sing" pers="3" case="obj" abort="not_abort" dum="not_dum" type="norm" sem="any" wh="not_wh" refl="not_refl">
+                                       <ap rule="main(ap11)" dur="0.7970" start="227.3675" abort="not_abort" deg="pos" wh="not_wh">
+                                          <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.795)..id(q1ec5g.pos.797)"/></twseq>
+                                       </ap>
+                                       <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.798)"/></twseq>
+                                    </np>
+                                    <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.799)"/></twseq>
+                                 </np>
+                                 <pp prep="between" rule="main(pp01)" dur="1.6534" start="230.3788" conj="none" abort="not_abort" wh="not_wh">
+                                    <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.800)"/></twseq>
+                                    <np num="plur" rule="main(np01)" dur="0.5608" start="230.7864" pers="3" case="obj" abort="not_abort" dum="not_dum" type="norm" sem="any" wh="not_wh" refl="not_refl">
+                                       <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.801)"/></twseq>
+                                       <ap rule="main(ap11)" dur="0.2174" start="230.8268" abort="not_abort" deg="pos" wh="not_wh">
+                                          <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.802)"/></twseq>
+                                       </ap>
+                                       <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.803)"/></twseq>
+                                    </np>
+                                    <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.804)"/></twseq>
+                                    <np rule="main(np01)" dur="0.6323" start="231.3999" num="sing" pers="3" case="obj" abort="not_abort" dum="not_dum" type="norm" sem="any" wh="not_wh" refl="not_refl">
+                                       <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.805)..id(q1ec5g.pos.807)"/></twseq>
+                                    </np>
+                                 </pp>
+                              </np>
+                           </pp>
+                        </pp>
+                     </pp>
+                  </np>
+               </pp>
+            </pp>
+         </vp>
+      </vp>
+   </s>
+   <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.808)"/></twseq>
+</utt>
+</para>
+<gap>
+<twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.809)..id(q1ec5g.pos.810)"/></twseq>
+</gap>
+<para type="utt" n="39" id="q1ec5.g.39">
+<utt rule="utt(2)" dur="3.5208" start="240.9347">
+   <s vform="fin" rule="main(s03)" dur="3.3816" start="240.9347" dum="not_dum" abort="not_abort" conj="none" inv="not_inv">
+      <np type="pro" pers="1" case="subj" rule="main(np05)" dur="0.1062" start="240.9347" num="sing" abort="not_abort" dum="not_dum" sem="any" wh="not_wh" refl="not_refl">
+         <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.811)"/></twseq>
+      </np>
+      <vp clitic="clitic" pers="1" aux="aux" vform="fin" rule="main(vp14)" dur="3.2754" start="240.9347" num="sing" abort="not_abort" mod="not_mod" tns="pres">
+         <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.812)..id(q1ec5g.pos.813)"/></twseq>
+         <vp pers="2" vform="en" rule="main(vp11)" dur="2.9831" start="241.2270" num="sing" clitic="not_clitic" abort="not_abort" aux="not_aux" mod="not_mod" tns="pres">
+            <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.814)"/></twseq>
+            <np rule="main(np14)" dur="2.8802" start="241.3299" num="sing" pers="3" case="obj" abort="not_abort" dum="not_dum" type="norm" sem="any" wh="not_wh" refl="not_refl">
+               <np rule="main(np05)" dur="0.3533" start="241.3299" num="sing" pers="3" case="obj" abort="not_abort" dum="not_dum" type="norm" sem="any" wh="not_wh" refl="not_refl">
+                  <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.815)"/></twseq>
+               </np>
+               <pp prep="between" rule="main(pp01)" dur="2.5269" start="241.6832" conj="none" abort="not_abort" wh="not_wh">
+                  <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.816)..id(q1ec5g.pos.818)"/></twseq>
+                  <np rule="main(np01)" dur="1.0572" start="242.4605" num="sing" pers="3" case="obj" abort="not_abort" dum="not_dum" type="norm" sem="any" wh="not_wh" refl="not_refl">
+                     <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.819)"/></twseq>
+                     <ap rule="main(ap11)" dur="0.5723" start="242.5865" abort="not_abort" deg="pos" wh="not_wh">
+                        <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.820)..id(q1ec5g.pos.821)"/></twseq>
+                     </ap>
+                     <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.822)"/></twseq>
+                  </np>
+                  <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.823)"/></twseq>
+                  <np rule="main(np01)" dur="0.6199" start="243.5903" num="sing" pers="3" case="obj" abort="not_abort" dum="not_dum" type="norm" sem="any" wh="not_wh" refl="not_refl">
+                     <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.824)"/></twseq>
+                     <ap rule="main(ap11)" dur="0.2020" start="243.6568" abort="not_abort" deg="pos" wh="not_wh">
+                        <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.825)"/></twseq>
+                     </ap>
+                     <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.826)"/></twseq>
+                  </np>
+               </pp>
+            </np>
+         </vp>
+      </vp>
+   </s>
+   <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.827)"/></twseq>
+</utt>
+</para>
+<gap>
+<twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.828)..id(q1ec5g.pos.829)"/></twseq>
+</gap>
+<para type="utt" n="40" id="q1ec5.g.40">
+<utt rule="utt(2)" dur="5.4265" start="244.7851">
+   <s conj="but" vform="fin" rule="main(s08)" dur="2.9545" start="244.7851" dum="not_dum" abort="not_abort" inv="not_inv">
+      <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.830)"/></twseq>
+      <s vform="fin" rule="main(s03)" dur="2.7692" start="244.9704" dum="not_dum" abort="not_abort" conj="none" inv="not_inv">
+         <np case="subj" rule="disf(main(s03))" dur="0.5822" start="244.9704" num="sing" pers="3" abort="not_abort" dum="not_dum" type="norm" sem="any" wh="not_wh" refl="not_refl">
+            <np case="subj" rule="main(np01)" dur="0.5073" start="244.9704" num="sing" pers="3" abort="not_abort" dum="not_dum" type="norm" sem="any" wh="not_wh" refl="not_refl">
+               <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.831)..id(q1ec5g.pos.832)"/></twseq>
+            </np>
+            <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.833)"/></twseq>
+         </np>
+         <vp vform="fin" rule="main(vp11)" dur="2.1870" start="245.5526" num="sing" pers="3" clitic="not_clitic" abort="not_abort" aux="not_aux" mod="not_mod" tns="pres">
+            <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.834)"/></twseq>
+            <np rule="disf(3)" dur="1.7736" start="245.9660" num="sing" pers="3" case="obj" abort="not_abort" dum="not_dum" type="norm" sem="any" wh="not_wh" refl="not_refl">
+               <np rule="main(np01)" dur="0.5788" start="245.9660" num="sing" pers="3" case="obj" abort="not_abort" dum="not_dum" type="norm" sem="any" wh="not_wh" refl="not_refl">
+                  <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.835)..id(q1ec5g.pos.836)"/></twseq>
+               </np>
+               <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.837)"/></twseq>
+               <np rule="main(np01)" dur="1.0515" start="246.6881" num="sing" pers="3" case="obj" abort="not_abort" dum="not_dum" type="norm" sem="any" wh="not_wh" refl="not_refl">
+                  <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.838)"/></twseq>
+                  <ap rule="main(ap11)" dur="0.5895" start="246.7359" abort="not_abort" deg="pos" wh="not_wh">
+                     <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.839)"/></twseq>
+                  </ap>
+                  <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.840)"/></twseq>
+               </np>
+            </np>
+         </vp>
+      </s>
+   </s>
+   <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.841)"/></twseq>
+</utt>
+</para>
+<gap>
+<twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.842)..id(q1ec5g.pos.843)"/></twseq>
+</gap>
+<para type="trivial" n="41" id="q1ec5.g.41">
+<utt rule="utt(2)" dur="1.3093" start="252.2159">
+   <starter rule="utt(1)" dur="0.2512" start="252.2159" abort="not_abort">
+      <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.844)"/></twseq>
+   </starter>
+   <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.845)"/></twseq>
+</utt>
+</para>
+<para type="notok" n="42" id="q1ec5.g.42">
+<starter rule="utt(1)" dur="0.1754" start="253.5252" abort="not_abort">
+   <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.846)"/></twseq>
+</starter>
+<advp rule="main(advp02)" dur="0.2751" start="253.7006" abort="not_abort" deg="pos" wh="not_wh">
+   <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.847)"/></twseq>
+</advp>
+<twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.849)..id(q1ec5g.pos.852)"/></twseq>
+<pp prep="up" rule="disf(main(new_pp01))" dur="1.7324" start="254.8106" conj="none" abort="not_abort" wh="not_wh">
+   <pp prep="up" rule="main(rp07)" dur="0.7896" start="254.8106" conj="none" abort="not_abort" wh="not_wh">
+      <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.853)..id(q1ec5g.pos.855)"/></twseq>
+   </pp>
+   <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.856)"/></twseq>
+</pp>
+<pp prep="conj" rule="main(pp05)" dur="2.2181" start="256.5432" conj="none" abort="not_abort" wh="not_wh">
+   <pp prep="underneath" rule="disf(main(pp05))" dur="1.1757" start="256.5432" conj="none" abort="not_abort" wh="not_wh">
+      <pp prep="underneath" rule="main(pp02a)" dur="1.0136" start="256.5432" conj="none" abort="not_abort" wh="not_wh">
+         <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.857)"/></twseq>
+         <np num="plur" rule="main(np01)" dur="0.5047" start="257.0521" pers="3" case="obj" abort="not_abort" dum="not_dum" type="norm" sem="any" wh="not_wh" refl="not_refl">
+            <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.858)"/></twseq>
+            <ap rule="main(ap11)" dur="0.1777" start="257.0884" abort="not_abort" deg="pos" wh="not_wh">
+               <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.859)"/></twseq>
+            </ap>
+            <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.860)"/></twseq>
+         </np>
+      </pp>
+      <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.861)"/></twseq>
+   </pp>
+   <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.862)"/></twseq>
+   <pp prep="above" rule="main(pp02a)" dur="0.9593" start="257.8022" conj="none" abort="not_abort" wh="not_wh">
+      <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.863)"/></twseq>
+      <np rule="main(np01)" dur="0.6488" start="258.1127" num="sing" pers="3" case="obj" abort="not_abort" dum="not_dum" type="norm" sem="any" wh="not_wh" refl="not_refl">
+         <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.864)..id(q1ec5g.pos.866)"/></twseq>
+      </np>
+   </pp>
+</pp>
+<twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.867)"/></twseq>
+</para>
+<para type="trivial" n="43" id="q1ec5.g.43">
+<utt rule="utt(2)" dur="0.2346" start="259.4352">
+   <starter rule="utt(1)" dur="0.1630" start="259.4352" abort="not_abort">
+      <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.868)"/></twseq>
+   </starter>
+   <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.869)"/></twseq>
+</utt>
+</para>
+<gap>
+<twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.870)..id(q1ec5g.pos.871)"/></twseq>
+</gap>
+<para type="utt" n="44" id="q1ec5.g.44">
+<utt rule="utt(2)" dur="13.5683" start="261.0746">
+   <s vform="imp" rule="main(s12)" dur="9.1193" start="261.0746" dum="not_dum" abort="not_abort" conj="none" inv="not_inv">
+      <vp pers="2" vform="fin" rule="main(vp33)" dur="9.1193" start="261.0746" num="sing" clitic="not_clitic" abort="not_abort" aux="not_aux" mod="not_mod" tns="pres">
+         <vp pers="2" vform="fin" rule="main(vp31)" dur="1.8064" start="261.0746" num="sing" clitic="not_clitic" abort="not_abort" aux="not_aux" mod="not_mod" tns="pres">
+            <advp rule="disf(main(vp31))" dur="1.6262" start="261.0746" abort="not_abort" deg="pos" wh="not_wh">
+               <advp rule="main(advp02)" dur="0.2857" start="261.0746" abort="not_abort" deg="pos" wh="not_wh">
+                  <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.872)"/></twseq>
+               </advp>
+               <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.873)..id(q1ec5g.pos.875)"/></twseq>
+            </advp>
+            <vp pers="2" vform="fin" rule="main(vpintrans)" dur="0.1802" start="262.7010" num="sing" clitic="not_clitic" abort="not_abort" aux="not_aux" mod="not_mod" tns="pres">
+               <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.876)"/></twseq>
+            </vp>
+         </vp>
+         <pp prep="to" rule="main(pp11)" dur="7.3129" start="262.8813" conj="none" abort="not_abort" wh="not_wh">
+            <pp prep="to" rule="main(pp07)" dur="3.1201" start="262.8813" conj="none" abort="not_abort" wh="not_wh">
+               <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.877)"/></twseq>
+               <pp prep="to" rule="main(pp02a)" dur="2.8459" start="263.1555" conj="none" abort="not_abort" wh="not_wh">
+                  <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.878)"/></twseq>
+                  <np rule="main(np14)" dur="2.7397" start="263.2617" num="sing" pers="3" case="obj" abort="not_abort" dum="not_dum" type="norm" sem="any" wh="not_wh" refl="not_refl">
+                     <np rule="main(np01)" dur="0.3558" start="263.2617" num="sing" pers="3" case="obj" abort="not_abort" dum="not_dum" type="norm" sem="any" wh="not_wh" refl="not_refl">
+                        <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.879)..id(q1ec5g.pos.880)"/></twseq>
+                     </np>
+                     <pp prep="beyond" rule="disf(main(pp11))" dur="2.3839" start="263.6175" conj="none" abort="not_abort" wh="not_wh">
+                        <pp prep="beyond" rule="main(pp02a)" dur="1.2047" start="263.6175" conj="none" abort="not_abort" wh="not_wh">
+                           <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.881)"/></twseq>
+                           <np num="plur" rule="main(np01)" dur="0.8720" start="263.9502" pers="3" case="obj" abort="not_abort" dum="not_dum" type="norm" sem="any" wh="not_wh" refl="not_refl">
+                              <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.882)"/></twseq>
+                              <ap rule="main(ap11)" dur="0.3162" start="263.9790" abort="not_abort" deg="pos" wh="not_wh">
+                                 <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.883)"/></twseq>
+                              </ap>
+                              <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.884)"/></twseq>
+                           </np>
+                        </pp>
+                        <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.885)..id(q1ec5g.pos.887)"/></twseq>
+                     </pp>
+                  </np>
+               </pp>
+            </pp>
+            <s conj="until" vform="fin" rule="main(s06)" dur="4.1928" start="266.0014" dum="not_dum" abort="not_abort" inv="not_inv">
+               <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.888)"/></twseq>
+               <s vform="fin" rule="main(s03)" dur="3.7886" start="266.4057" dum="not_dum" abort="not_abort" conj="none" inv="not_inv">
+                  <np num="undef_num" type="pro" pers="2" case="subj" rule="disf(main(s03))" dur="0.4619" start="266.4057" abort="not_abort" dum="not_dum" sem="any" wh="not_wh" refl="not_refl">
+                     <np num="undef_num" type="pro" pers="2" case="subj" rule="main(np05)" dur="0.3489" start="266.4057" abort="not_abort" dum="not_dum" sem="any" wh="not_wh" refl="not_refl">
+                        <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.889)"/></twseq>
+                     </np>
+                     <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.890)"/></twseq>
+                  </np>
+                  <vp pers="2" num="undef_num" vform="fin" rule="main(vp05)" dur="3.3267" start="266.8676" clitic="not_clitic" abort="not_abort" aux="not_aux" mod="not_mod" tns="pres">
+                     <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.891)..id(q1ec5g.pos.892)"/></twseq>
+                     <pp prep="above" rule="main(pp02a)" dur="1.4517" start="268.7426" conj="none" abort="not_abort" wh="not_wh">
+                        <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.893)"/></twseq>
+                        <np rule="main(np13)" dur="1.0375" start="269.1568" num="sing" pers="3" case="obj" abort="not_abort" dum="not_dum" type="norm" sem="any" wh="not_wh" refl="not_refl">
+                           <np rule="main(np01)" dur="0.4077" start="269.1568" num="sing" pers="3" case="obj" abort="not_abort" dum="not_dum" type="norm" sem="any" wh="not_wh" refl="not_refl">
+                              <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.894)..id(q1ec5g.pos.895)"/></twseq>
+                           </np>
+                           <pp prep="of" rule="main(pp02a)" dur="0.6298" start="269.5645" conj="none" abort="not_abort" wh="not_wh">
+                              <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.896)"/></twseq>
+                              <np rule="main(np01)" dur="0.5006" start="269.6937" num="sing" pers="3" case="obj" abort="not_abort" dum="not_dum" type="norm" sem="any" wh="not_wh" refl="not_refl">
+                                 <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.897)..id(q1ec5g.pos.898)"/></twseq>
+                              </np>
+                           </pp>
+                        </np>
+                     </pp>
+                  </vp>
+               </s>
+            </s>
+         </pp>
+      </vp>
+   </s>
+   <closer rule="utt(1)" dur="0.1573" start="270.1944" abort="not_abort">
+      <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.899)"/></twseq>
+   </closer>
+   <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.900)"/></twseq>
+</utt>
+</para>
+<gap>
+<twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.901)..id(q1ec5g.pos.902)"/></twseq>
+</gap>
+<para type="utt" n="45" id="q1ec5.g.45">
+<utt rule="utt(2)" dur="1.9835" start="274.7752">
+   <starter rule="utt(1)" dur="0.0058" start="274.7752" abort="not_abort">
+      <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.903)"/></twseq>
+   </starter>
+   <s vform="fin" rule="main(s03)" dur="1.8032" start="274.7810" dum="not_dum" abort="not_abort" conj="none" inv="not_inv">
+      <np type="pro" pers="1" case="subj" rule="main(np05)" dur="0.0955" start="274.7810" num="sing" abort="not_abort" dum="not_dum" sem="any" wh="not_wh" refl="not_refl">
+         <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.904)"/></twseq>
+      </np>
+      <vp pers="1" vform="fin" rule="main(vp14)" dur="1.7077" start="274.8765" num="sing" clitic="not_clitic" abort="not_abort" aux="not_aux" mod="not_mod" tns="pres">
+         <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.905)"/></twseq>
+         <vp pers="2" num="undef_num" vform="bse" rule="main(vp11)" dur="1.5965" start="274.9877" clitic="not_clitic" abort="not_abort" aux="not_aux" mod="not_mod" tns="pres">
+            <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.906)"/></twseq>
+            <np rule="main(np14)" dur="1.4307" start="275.1535" num="sing" pers="3" case="obj" abort="not_abort" dum="not_dum" type="norm" sem="any" wh="not_wh" refl="not_refl">
+               <np rule="main(np01)" dur="0.6107" start="275.1535" num="sing" pers="3" case="obj" abort="not_abort" dum="not_dum" type="norm" sem="any" wh="not_wh" refl="not_refl">
+                  <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.907)..id(q1ec5g.pos.909)"/></twseq>
+               </np>
+               <pp prep="here" rule="main(rp07)" dur="0.8200" start="275.7643" conj="none" abort="not_abort" wh="not_wh">
+                  <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.910)..id(q1ec5g.pos.913)"/></twseq>
+               </pp>
+            </np>
+         </vp>
+      </vp>
+   </s>
+   <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.914)"/></twseq>
+</utt>
+</para>
+<para type="utt" n="46" id="q1ec5.g.46">
+<utt rule="utt(2)" dur="2.5098" start="276.7589">
+   <s vform="imp" rule="utt(utt1)" dur="1.8552" start="276.7589" dum="not_dum" abort="not_abort" conj="none" inv="not_inv">
+      <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.915)..id(q1ec5g.pos.917)"/></twseq>
+      <s vform="imp" rule="main(s12)" dur="1.0507" start="277.5635" dum="not_dum" abort="not_abort" conj="none" inv="not_inv">
+         <vp pers="2" vform="fin" rule="main(vp36)" dur="1.0507" start="277.5635" num="sing" clitic="not_clitic" abort="not_abort" aux="not_aux" mod="not_mod" tns="pres">
+            <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.918)"/></twseq>
+            <vp pers="2" vform="fin" rule="main(vp11)" dur="0.9206" start="277.6936" num="sing" clitic="not_clitic" abort="not_abort" aux="not_aux" mod="not_mod" tns="pres">
+               <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.919)"/></twseq>
+               <np rule="main(np01)" dur="0.5665" start="278.0477" num="sing" pers="3" case="obj" abort="not_abort" dum="not_dum" type="norm" sem="any" wh="not_wh" refl="not_refl">
+                  <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.920)..id(q1ec5g.pos.922)"/></twseq>
+               </np>
+            </vp>
+         </vp>
+      </s>
+   </s>
+   <closer rule="utt(1)" dur="0.4216" start="278.6142" abort="not_abort">
+      <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.923)"/></twseq>
+   </closer>
+   <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.924)"/></twseq>
+</utt>
+</para>
+<para type="notok" n="47" id="q1ec5.g.47">
+<starter rule="utt(1)" dur="2.8787" start="279.2689" abort="not_abort">
+   <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.925)..id(q1ec5g.pos.930)"/></twseq>
+</starter>
+<advp rule="main(advp02)" dur="0.4808" start="282.1477" abort="not_abort" deg="pos" wh="not_wh">
+   <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.931)"/></twseq>
+</advp>
+<twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.932)..id(q1ec5g.pos.934)"/></twseq>
+<advp rule="main(advp02)" dur="0.2042" start="283.7418" abort="not_abort" deg="pos" wh="not_wh">
+   <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.935)"/></twseq>
+</advp>
+<twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.936)"/></twseq>
+<pp prep="down" rule="disf(main(new_pp01))" dur="1.5578" start="284.2261" conj="none" abort="not_abort" wh="not_wh">
+   <pp prep="down" rule="main(rp07)" dur="0.7740" start="284.2261" conj="none" abort="not_abort" wh="not_wh">
+      <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.937)..id(q1ec5g.pos.939)"/></twseq>
+   </pp>
+   <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.940)..id(q1ec5g.pos.942)"/></twseq>
+</pp>
+<pp prep="to" rule="main(pp02a)" dur="1.1955" start="285.7840" conj="none" abort="not_abort" wh="not_wh">
+   <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.943)"/></twseq>
+   <np rule="main(np13)" dur="1.0769" start="285.9026" num="sing" pers="3" case="obj" abort="not_abort" dum="not_dum" type="norm" sem="any" wh="not_wh" refl="not_refl">
+      <np rule="main(np01)" dur="0.3426" start="285.9026" num="sing" pers="3" case="obj" abort="not_abort" dum="not_dum" type="norm" sem="any" wh="not_wh" refl="not_refl">
+         <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.944)..id(q1ec5g.pos.945)"/></twseq>
+      </np>
+      <pp prep="of" rule="main(pp02a)" dur="0.7343" start="286.2452" conj="none" abort="not_abort" wh="not_wh">
+         <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.946)"/></twseq>
+         <np rule="main(np01)" dur="0.5961" start="286.3835" num="sing" pers="3" case="obj" abort="not_abort" dum="not_dum" type="norm" sem="any" wh="not_wh" refl="not_refl">
+            <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.947)..id(q1ec5g.pos.948)"/></twseq>
+         </np>
+      </pp>
+   </np>
+</pp>
+<twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.949)..id(q1ec5g.pos.950)"/></twseq>
+<s conj="so" vform="fin" rule="main(s06)" dur="1.8197" start="290.1911" dum="not_dum" abort="not_abort" inv="not_inv">
+   <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.951)"/></twseq>
+   <s conj="that" vform="fin" rule="main(s06)" dur="1.6945" start="290.3163" dum="not_dum" abort="not_abort" inv="not_inv">
+      <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.952)"/></twseq>
+      <s conj="so" vform="fin" rule="main(s06)" dur="1.6418" start="290.3690" dum="not_dum" abort="not_abort" inv="not_inv">
+         <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.953)"/></twseq>
+         <s conj="that" vform="fin" rule="main(s06)" dur="1.4738" start="290.5370" dum="not_dum" abort="not_abort" inv="not_inv">
+            <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.954)"/></twseq>
+            <s vform="fin" rule="disf(3)" dur="1.3783" start="290.6325" dum="not_dum" abort="not_abort" conj="none" inv="not_inv">
+               <s vform="fin" abort="abort" rule="main(s03)" dur="0.3096" start="290.6325" dum="not_dum" conj="none" inv="not_inv">
+                  <np type="pro" pers="2" case="subj" rule="main(np05)" dur="0.1021" start="290.6325" num="sing" abort="not_abort" dum="not_dum" sem="any" wh="not_wh" refl="not_refl">
+                     <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.955)"/></twseq>
+                  </np>
+                  <vp clitic="clitic" pers="2" vform="fin" abort="abort" rule="main(vp05)" dur="0.2075" start="290.6325" num="sing" aux="not_aux" mod="not_mod" tns="pres">
+                     <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.956)"/></twseq>
+                     <pp prep="on" abort="abort" rule="main(abort(pp02))" dur="0.1054" start="290.7346" conj="none" wh="not_wh">
+                        <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.957)"/></twseq>
+                     </pp>
+                  </vp>
+               </s>
+               <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.958)"/></twseq>
+               <s vform="fin" rule="main(s03)" dur="0.9831" start="290.9256" dum="not_dum" abort="not_abort" conj="none" inv="not_inv">
+                  <np num="undef_num" type="pro" pers="2" case="subj" rule="main(np05)" dur="0.0773" start="290.9256" abort="not_abort" dum="not_dum" sem="any" wh="not_wh" refl="not_refl">
+                     <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.959)"/></twseq>
+                  </np>
+                  <vp clitic="clitic" pers="2" num="undef_num" vform="fin" rule="main(vp05)" dur="0.9058" start="290.9256" abort="not_abort" aux="not_aux" mod="not_mod" tns="pres">
+                     <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.960)"/></twseq>
+                     <pp prep="on" rule="main(pp02a)" dur="0.8285" start="291.0029" conj="none" abort="not_abort" wh="not_wh">
+                        <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.961)"/></twseq>
+                        <np rule="main(np13)" dur="0.6904" start="291.1410" num="sing" pers="3" case="obj" abort="not_abort" dum="not_dum" type="norm" sem="any" wh="not_wh" refl="not_refl">
+                           <np rule="main(np01)" dur="0.2062" start="291.1410" num="sing" pers="3" case="obj" abort="not_abort" dum="not_dum" type="norm" sem="any" wh="not_wh" refl="not_refl">
+                              <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.962)..id(q1ec5g.pos.963)"/></twseq>
+                           </np>
+                           <pp prep="of" rule="main(pp02a)" dur="0.4842" start="291.3472" conj="none" abort="not_abort" wh="not_wh">
+                              <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.964)"/></twseq>
+                              <np rule="main(np01)" dur="0.4084" start="291.4230" num="sing" pers="3" case="obj" abort="not_abort" dum="not_dum" type="norm" sem="any" wh="not_wh" refl="not_refl">
+                                 <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.965)..id(q1ec5g.pos.966)"/></twseq>
+                              </np>
+                           </pp>
+                        </np>
+                     </pp>
+                  </vp>
+               </s>
+            </s>
+         </s>
+      </s>
+   </s>
+</s>
+<twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.967)"/></twseq>
+</para>
+<para type="trivial" n="48" id="q1ec5.g.48">
+<utt rule="utt(2)" dur="0.7510" start="294.1799">
+   <starter rule="utt(1)" dur="0.5764" start="294.1799" abort="not_abort">
+      <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.968)..id(q1ec5g.pos.969)"/></twseq>
+   </starter>
+   <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.970)"/></twseq>
+</utt>
+</para>
+<para type="utt" n="49" id="q1ec5.g.49">
+<utt rule="utt(2)" dur="4.0876" start="294.9309">
+   <s conj="and" vform="imp" rule="main(s08)" dur="1.8182" start="294.9309" dum="not_dum" abort="not_abort" inv="not_inv">
+      <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.971)"/></twseq>
+      <s vform="imp" rule="main(s12)" dur="1.5613" start="295.1878" dum="not_dum" abort="not_abort" conj="none" inv="not_inv">
+         <vp pers="2" vform="fin" rule="main(vp05)" dur="1.5613" start="295.1878" num="sing" clitic="not_clitic" abort="not_abort" aux="not_aux" mod="not_mod" tns="pres">
+            <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.972)"/></twseq>
+            <pp prep="underneath" rule="main(pp02a)" dur="1.2023" start="295.5468" conj="none" abort="not_abort" wh="not_wh">
+               <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.973)"/></twseq>
+               <np rule="main(np01)" dur="0.5666" start="296.1825" num="sing" pers="3" case="obj" abort="not_abort" dum="not_dum" type="norm" sem="any" wh="not_wh" refl="not_refl">
+                  <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.974)..id(q1ec5g.pos.975)"/></twseq>
+               </np>
+            </pp>
+         </vp>
+      </s>
+   </s>
+   <closer rule="utt(1)" dur="1.3768" start="296.7491" abort="not_abort">
+      <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.976)..id(q1ec5g.pos.977)"/></twseq>
+   </closer>
+   <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.978)"/></twseq>
+</utt>
+</para>
+<gap>
+<twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.979)..id(q1ec5g.pos.980)"/></twseq>
+</gap>
+<para type="utt" n="50" id="q1ec5.g.50">
+<utt rule="utt(2)" dur="3.0829" start="299.2952">
+   <s vform="fin" inv="inv" rule="main(s11)" dur="1.2812" start="299.2952" dum="not_dum" abort="not_abort" conj="none">
+      <advp rule="main(advp02)" dur="0.1285" start="299.2952" abort="not_abort" deg="pos" wh="not_wh">
+         <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.981)"/></twseq>
+      </advp>
+      <s vform="fin" inv="inv" rule="main(s01)" dur="1.1527" start="299.4237" dum="not_dum" abort="not_abort" conj="none">
+         <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.982)"/></twseq>
+         <np num="undef_num" type="pro" pers="2" case="subj" rule="main(np05)" dur="0.0758" start="299.4665" abort="not_abort" dum="not_dum" sem="any" wh="not_wh" refl="not_refl">
+            <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.983)"/></twseq>
+         </np>
+         <vp pers="2" num="undef_num" vform="bse" rule="main(vp11)" dur="1.0341" start="299.5423" clitic="not_clitic" abort="not_abort" aux="not_aux" mod="not_mod" tns="pres">
+            <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.984)"/></twseq>
+            <np rule="main(np01)" dur="0.9354" start="299.6410" num="sing" pers="3" case="obj" abort="not_abort" dum="not_dum" type="norm" sem="any" wh="not_wh" refl="not_refl">
+               <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.985)..id(q1ec5g.pos.987)"/></twseq>
+            </np>
+         </vp>
+      </s>
+   </s>
+   <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.988)"/></twseq>
+</utt>
+</para>
+<gap>
+<twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.989)..id(q1ec5g.pos.992)"/></twseq>
+</gap>
+<para type="utt" n="51" id="q1ec5.g.51">
+<utt rule="utt(2)" dur="2.0618" start="302.8196">
+   <starter rule="utt(1)" dur="0.3722" start="302.8196" abort="not_abort">
+      <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.993)"/></twseq>
+   </starter>
+   <s vform="fin" inv="inv" rule="main(s01)" dur="0.8892" start="303.1918" dum="not_dum" abort="not_abort" conj="none">
+      <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.994)"/></twseq>
+      <np num="undef_num" type="pro" pers="2" case="subj" rule="main(np05)" dur="0.0361" start="303.2643" abort="not_abort" dum="not_dum" sem="any" wh="not_wh" refl="not_refl">
+         <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.995)"/></twseq>
+      </np>
+      <vp pers="2" num="undef_num" vform="bse" rule="main(vp11)" dur="0.7806" start="303.3005" clitic="not_clitic" abort="not_abort" aux="not_aux" mod="not_mod" tns="pres">
+         <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.996)"/></twseq>
+         <np rule="main(np01)" dur="0.6620" start="303.4191" num="sing" pers="3" case="obj" abort="not_abort" dum="not_dum" type="norm" sem="any" wh="not_wh" refl="not_refl">
+            <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.997)..id(q1ec5g.pos.998)"/></twseq>
+         </np>
+      </vp>
+   </s>
+   <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.999)"/></twseq>
+</utt>
+</para>
+<gap>
+<twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.1000)..id(q1ec5g.pos.1003)"/></twseq>
+</gap>
+<para type="notok" n="52" id="q1ec5.g.52">
+<starter rule="utt(1)" dur="0.2767" start="306.2221" abort="not_abort">
+   <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.1004)"/></twseq>
+</starter>
+<np type="pro" pers="2" case="subj" rule="main(np05)" dur="0.1318" start="306.4988" num="sing" abort="not_abort" dum="not_dum" sem="any" wh="not_wh" refl="not_refl">
+   <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.1005)"/></twseq>
+</np>
+<twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.1006)..id(q1ec5g.pos.1010)"/></twseq>
+<np rule="main(np01)" dur="0.4248" start="307.0258" num="sing" pers="3" case="obj" abort="not_abort" dum="not_dum" type="norm" sem="any" wh="not_wh" refl="not_refl">
+   <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.1011)..id(q1ec5g.pos.1012)"/></twseq>
+</np>
+<pp prep="to" rule="main(pp02a)" dur="0.6159" start="307.4507" conj="none" abort="not_abort" wh="not_wh">
+   <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.1013)"/></twseq>
+   <np rule="main(np01)" dur="0.4743" start="307.5923" num="sing" pers="3" case="obj" abort="not_abort" dum="not_dum" type="norm" sem="any" wh="not_wh" refl="not_refl">
+      <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.1014)..id(q1ec5g.pos.1015)"/></twseq>
+   </np>
+</pp>
+<twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.1016)"/></twseq>
+<s conj="but" vform="fin" rule="main(s06)" dur="2.0882" start="308.2840" dum="not_dum" abort="not_abort" inv="not_inv">
+   <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.1017)"/></twseq>
+   <s vform="fin" rule="main(s03)" dur="1.8181" start="308.5541" dum="not_dum" abort="not_abort" conj="none" inv="not_inv">
+      <np type="pro" pers="2" case="subj" rule="main(np05)" dur="0.0823" start="308.5541" num="sing" abort="not_abort" dum="not_dum" sem="any" wh="not_wh" refl="not_refl">
+         <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.1018)"/></twseq>
+      </np>
+      <vp clitic="clitic" pers="2" vform="fin" rule="main(vp33)" dur="1.7358" start="308.5541" num="sing" abort="not_abort" aux="not_aux" mod="not_mod" tns="pres">
+         <vp clitic="clitic" pers="2" vform="fin" rule="main(vp14)" dur="1.3141" start="308.5541" num="sing" abort="not_abort" aux="not_aux" mod="not_mod" tns="pres">
+            <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.1019)"/></twseq>
+            <vp vform="en" rule="main(vp14)" dur="1.2318" start="308.6364" num="sing" pers="3" clitic="not_clitic" abort="not_abort" aux="not_aux" mod="not_mod" tns="pres">
+               <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.1020)"/></twseq>
+               <vp vform="to" rule="main(vp14)" dur="1.0869" start="308.7814" num="sing" pers="3" clitic="not_clitic" abort="not_abort" aux="not_aux" mod="not_mod" tns="pres">
+                  <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.1021)"/></twseq>
+                  <vp pers="undef_pers" num="undef_num" vform="bse" rule="main(vp11)" dur="1.0474" start="308.8209" clitic="not_clitic" abort="not_abort" aux="not_aux" mod="not_mod" tns="pres">
+                     <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.1022)"/></twseq>
+                     <np rule="main(np01)" dur="0.7213" start="309.1470" num="sing" pers="3" case="obj" abort="not_abort" dum="not_dum" type="norm" sem="any" wh="not_wh" refl="not_refl">
+                        <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.1023)..id(q1ec5g.pos.1025)"/></twseq>
+                     </np>
+                  </vp>
+               </vp>
+            </vp>
+         </vp>
+         <pp prep="on" rule="main(pp02a)" dur="0.4217" start="309.8683" conj="none" abort="not_abort" wh="not_wh">
+            <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.1026)"/></twseq>
+            <np rule="main(np01)" dur="0.3031" start="309.9869" num="sing" pers="3" case="obj" abort="not_abort" dum="not_dum" type="norm" sem="any" wh="not_wh" refl="not_refl">
+               <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.1027)..id(q1ec5g.pos.1028)"/></twseq>
+            </np>
+         </pp>
+      </vp>
+   </s>
+</s>
+<closer rule="utt(1)" dur="0.8266" start="310.2900" abort="not_abort">
+   <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.1029)"/></twseq>
+</closer>
+<twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.1030)"/></twseq>
+</para>
+<para type="utt" n="53" id="q1ec5.g.53">
+<utt rule="utt(2)" dur="4.2930" start="311.2023">
+   <s conj="and" vform="fin" rule="main(s08)" dur="3.4400" start="311.2023" dum="not_dum" abort="not_abort" inv="not_inv">
+      <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.1031)..id(q1ec5g.pos.1032)"/></twseq>
+      <s vform="fin" rule="main(s03)" dur="2.4190" start="312.2234" dum="not_dum" abort="not_abort" conj="none" inv="not_inv">
+         <np type="pro" pers="2" case="subj" rule="main(np05)" dur="0.1596" start="312.2234" num="sing" abort="not_abort" dum="not_dum" sem="any" wh="not_wh" refl="not_refl">
+            <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.1033)"/></twseq>
+         </np>
+         <vp pers="2" mod="mod" aux="aux" vform="fin" rule="main(vp14)" dur="2.2594" start="312.2234" num="sing" clitic="not_clitic" abort="not_abort" tns="pres">
+            <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.1034)"/></twseq>
+            <vp pers="undef_pers" num="undef_num" vform="bse" rule="main(vp14)" dur="2.0998" start="312.3830" clitic="not_clitic" abort="not_abort" aux="not_aux" mod="not_mod" tns="pres">
+               <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.1035)"/></twseq>
+               <vp vform="to" rule="main(vp14)" dur="1.9025" start="312.5803" num="sing" pers="3" clitic="not_clitic" abort="not_abort" aux="not_aux" mod="not_mod" tns="pres">
+                  <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.1036)"/></twseq>
+                  <vp pers="undef_pers" num="undef_num" vform="bse" rule="main(vp05)" dur="1.8048" start="312.6780" clitic="not_clitic" abort="not_abort" aux="not_aux" mod="not_mod" tns="pres">
+                     <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.1037)"/></twseq>
+                     <pp prep="conj" rule="main(pp05)" dur="1.6633" start="312.8196" conj="none" abort="not_abort" wh="not_wh">
+                        <pp prep="up" rule="main(rp07)" dur="0.2141" start="312.8196" conj="none" abort="not_abort" wh="not_wh">
+                           <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.1038)"/></twseq>
+                        </pp>
+                        <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.1039)"/></twseq>
+                        <pp prep="over" rule="main(pp02a)" dur="1.3767" start="313.1062" conj="none" abort="not_abort" wh="not_wh">
+                           <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.1040)"/></twseq>
+                           <np rule="main(np13)" dur="1.2022" start="313.2807" num="sing" pers="3" case="obj" abort="not_abort" dum="not_dum" type="norm" sem="any" wh="not_wh" refl="not_refl">
+                              <np rule="main(np01)" dur="0.2503" start="313.2807" num="sing" pers="3" case="obj" abort="not_abort" dum="not_dum" type="norm" sem="any" wh="not_wh" refl="not_refl">
+                                 <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.1041)..id(q1ec5g.pos.1042)"/></twseq>
+                              </np>
+                              <pp prep="of" rule="main(pp02a)" dur="0.9519" start="313.5310" conj="none" abort="not_abort" wh="not_wh">
+                                 <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.1043)"/></twseq>
+                                 <np rule="main(np01)" dur="0.8103" start="313.6727" num="sing" pers="3" case="obj" abort="not_abort" dum="not_dum" type="norm" sem="any" wh="not_wh" refl="not_refl">
+                                    <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.1044)..id(q1ec5g.pos.1046)"/></twseq>
+                                 </np>
+                              </pp>
+                           </np>
+                        </pp>
+                     </pp>
+                  </vp>
+               </vp>
+            </vp>
+         </vp>
+      </s>
+   </s>
+   <closer rule="utt(1)" dur="0.7937" start="314.4830" abort="not_abort">
+      <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.1047)..id(q1ec5g.pos.1048)"/></twseq>
+   </closer>
+   <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.1049)"/></twseq>
+</utt>
+</para>
+<para type="utt" n="54" id="q1ec5.g.54">
+<utt rule="utt(2)" dur="5.6861" start="315.3361">
+   <s vform="fin" rule="main(s03)" dur="3.7319" start="315.3361" dum="not_dum" abort="not_abort" conj="none" inv="not_inv">
+      <np case="subj" wh="wh" rule="disf(main(s03))" dur="1.4525" start="315.3361" num="sing" pers="3" abort="not_abort" dum="not_dum" type="norm" sem="any" refl="not_refl">
+         <np case="subj" wh="wh" rule="main(npr6)" dur="0.8497" start="315.3361" num="sing" pers="3" abort="not_abort" dum="not_dum" type="norm" sem="any" refl="not_refl">
+            <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.1050)"/></twseq>
+            <pp prep="on" rule="main(pp02a)" dur="0.6373" start="315.5485" conj="none" abort="not_abort" wh="not_wh">
+               <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.1051)"/></twseq>
+               <np rule="main(np01)" dur="0.5072" start="315.6786" num="sing" pers="3" case="obj" abort="not_abort" dum="not_dum" type="norm" sem="any" wh="not_wh" refl="not_refl">
+                  <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.1052)..id(q1ec5g.pos.1053)"/></twseq>
+               </np>
+            </pp>
+         </np>
+         <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.1054)..id(q1ec5g.pos.1055)"/></twseq>
+      </np>
+      <vp vform="fin" rule="main(vp05)" dur="2.2794" start="316.7886" num="sing" pers="3" clitic="not_clitic" abort="not_abort" aux="not_aux" mod="not_mod" tns="pres">
+         <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.1056)..id(q1ec5g.pos.1057)"/></twseq>
+         <pp prep="between" rule="main(pp07)" dur="1.8347" start="317.2333" conj="none" abort="not_abort" wh="not_wh">
+            <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.1058)"/></twseq>
+            <pp prep="between" rule="main(pp01)" dur="1.4493" start="317.6187" conj="none" abort="not_abort" wh="not_wh">
+               <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.1059)"/></twseq>
+               <np rule="main(np01)" dur="0.4710" start="317.9085" num="sing" pers="3" case="obj" abort="not_abort" dum="not_dum" type="norm" sem="any" wh="not_wh" refl="not_refl">
+                  <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.1060)..id(q1ec5g.pos.1061)"/></twseq>
+               </np>
+               <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.1062)"/></twseq>
+               <np rule="main(np01)" dur="0.6048" start="318.4632" num="sing" pers="3" case="obj" abort="not_abort" dum="not_dum" type="norm" sem="any" wh="not_wh" refl="not_refl">
+                  <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.1063)..id(q1ec5g.pos.1064)"/></twseq>
+               </np>
+            </pp>
+         </pp>
+      </vp>
+   </s>
+   <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.1065)"/></twseq>
+</utt>
+</para>
+<para type="trivial" n="55" id="q1ec5.g.55">
+<utt rule="utt(2)" dur="4.9693" start="321.0222">
+   <starter rule="utt(1)" dur="0.2724" start="321.0222" abort="not_abort">
+      <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.1066)"/></twseq>
+   </starter>
+   <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.1067)"/></twseq>
+</utt>
+</para>
+<gap>
+<twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.1068)..id(q1ec5g.pos.1069)"/></twseq>
+</gap>
+<para type="notok" n="56" id="q1ec5.g.56">
+<starter rule="utt(1)" dur="2.8129" start="327.1542" abort="not_abort">
+   <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.1070)..id(q1ec5g.pos.1073)"/></twseq>
+</starter>
+<np type="pro" dum="dum" case="subj" rule="main(np05)" dur="0.1943" start="329.9671" num="sing" pers="3" abort="not_abort" sem="any" wh="not_wh" refl="not_refl">
+   <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.1074)"/></twseq>
+</np>
+<twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.1075)..id(q1ec5g.pos.1077)"/></twseq>
+<np rule="main(np6catch)" dur="0.3393" start="330.6522" num="sing" pers="3" case="obj" abort="not_abort" dum="not_dum" type="norm" sem="any" wh="not_wh" refl="not_refl">
+   <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.1078)"/></twseq>
+</np>
+<pp prep="with" rule="main(pp02a)" dur="0.9649" start="330.9915" conj="none" abort="not_abort" wh="not_wh">
+   <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.1079)"/></twseq>
+   <np rule="main(np01)" dur="0.7772" start="331.1793" num="sing" pers="3" case="obj" abort="not_abort" dum="not_dum" type="norm" sem="any" wh="not_wh" refl="not_refl">
+      <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.1080)..id(q1ec5g.pos.1081)"/></twseq>
+   </np>
+</pp>
+<twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.1082)"/></twseq>
+<s conj="but" vform="fin" rule="main(s08)" dur="2.5756" start="332.2202" dum="not_dum" abort="not_abort" inv="not_inv">
+   <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.1083)"/></twseq>
+   <s dum="dum" vform="fin" rule="main(s03)" dur="2.4440" start="332.3518" abort="not_abort" conj="none" inv="not_inv">
+      <np type="pro" dum="dum" case="subj" rule="main(np05)" dur="0.1120" start="332.3518" num="sing" pers="3" abort="not_abort" sem="any" wh="not_wh" refl="not_refl">
+         <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.1084)"/></twseq>
+      </np>
+      <vp clitic="clitic" vform="fin" rule="main(vp13)" dur="2.3320" start="332.3518" num="sing" pers="3" abort="not_abort" aux="not_aux" mod="not_mod" tns="pres">
+         <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.1085)"/></twseq>
+         <ap deg="comp" rule="main(ap11)" dur="2.2200" start="332.4638" abort="not_abort" wh="not_wh">
+            <ap deg="comp" rule="main(ap11)" dur="1.5481" start="332.4638" abort="not_abort" wh="not_wh">
+               <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.1086)..id(q1ec5g.pos.1088)"/></twseq>
+            </ap>
+            <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.1089)"/></twseq>
+            <np rule="main(np01)" dur="0.5451" start="334.1388" num="sing" pers="3" case="obj" abort="not_abort" dum="not_dum" type="norm" sem="any" wh="not_wh" refl="not_refl">
+               <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.1090)..id(q1ec5g.pos.1091)"/></twseq>
+            </np>
+         </ap>
+      </vp>
+   </s>
+</s>
+<twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.1092)"/></twseq>
+</para>
+<para type="utt" n="57" id="q1ec5.g.57">
+<utt rule="utt(2)" dur="2.9444" start="335.9223">
+   <s conj="so" vform="fin" rule="main(s06)" dur="1.6533" start="335.9223" dum="not_dum" abort="not_abort" inv="not_inv">
+      <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.1093)"/></twseq>
+      <s vform="fin" rule="main(s03)" dur="1.4853" start="336.0903" dum="not_dum" abort="not_abort" conj="none" inv="not_inv">
+         <np type="pro" pers="2" case="subj" rule="main(np05)" dur="0.0626" start="336.0903" num="sing" abort="not_abort" dum="not_dum" sem="any" wh="not_wh" refl="not_refl">
+            <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.1094)"/></twseq>
+         </np>
+         <vp pers="2" vform="fin" rule="main(vp33)" dur="1.4227" start="336.1529" num="sing" clitic="not_clitic" abort="not_abort" aux="not_aux" mod="not_mod" tns="pres">
+            <vp pers="2" vform="fin" rule="main(vp14)" dur="0.6587" start="336.1529" num="sing" clitic="not_clitic" abort="not_abort" aux="not_aux" mod="not_mod" tns="pres">
+               <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.1095)"/></twseq>
+               <vp vform="to" rule="main(vp14)" dur="0.5335" start="336.2781" num="sing" pers="3" clitic="not_clitic" abort="not_abort" aux="not_aux" mod="not_mod" tns="pres">
+                  <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.1096)"/></twseq>
+                  <vp pers="undef_pers" num="undef_num" vform="bse" rule="main(vp05)" dur="0.4643" start="336.3473" clitic="not_clitic" abort="not_abort" aux="not_aux" mod="not_mod" tns="pres">
+                     <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.1097)..id(q1ec5g.pos.1099)"/></twseq>
+                     <pp prep="up" rule="disf(main(new_pp01))" dur="0.1448" start="336.6668" conj="none" abort="not_abort" wh="not_wh">
+                        <pp prep="up" rule="main(rp07)" dur="0.0625" start="336.6668" conj="none" abort="not_abort" wh="not_wh">
+                           <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.1100)"/></twseq>
+                        </pp>
+                        <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.1101)"/></twseq>
+                     </pp>
+                  </vp>
+               </vp>
+            </vp>
+            <pp prep="on" rule="main(pp02a)" dur="0.7640" start="336.8117" conj="none" abort="not_abort" wh="not_wh">
+               <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.1102)"/></twseq>
+               <np rule="main(np01)" dur="0.6611" start="336.9146" num="sing" pers="3" case="obj" abort="not_abort" dum="not_dum" type="norm" sem="any" wh="not_wh" refl="not_refl">
+                  <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.1103)"/></twseq>
+                  <ap rule="main(ap11)" dur="0.2766" start="336.9764" abort="not_abort" deg="pos" wh="not_wh">
+                     <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.1104)"/></twseq>
+                  </ap>
+                  <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.1106)"/></twseq>
+               </np>
+            </pp>
+         </vp>
+      </s>
+   </s>
+   <closer rule="utt(1)" dur="0.6607" start="337.5758" abort="not_abort">
+      <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.1107)..id(q1ec5g.pos.1108)"/></twseq>
+   </closer>
+   <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.1109)"/></twseq>
+</utt>
+</para>
+<para type="utt" n="58" id="q1ec5.g.58">
+<utt rule="utt(3)" dur="1.2290" start="338.8670">
+   <pp prep="over" rule="main(pp02a)" dur="1.1430" start="338.8670" conj="none" abort="not_abort" wh="not_wh">
+      <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.1110)"/></twseq>
+      <np rule="main(np01)" dur="0.8972" start="339.1128" num="sing" pers="3" case="obj" abort="not_abort" dum="not_dum" type="norm" sem="any" wh="not_wh" refl="not_refl">
+         <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.1111)..id(q1ec5g.pos.1113)"/></twseq>
+      </np>
+   </pp>
+   <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.1114)"/></twseq>
+</utt>
+</para>
+<para type="notok" n="59" id="q1ec5.g.59">
+<pp prep="conj" rule="main(pp05)" dur="2.5753" start="340.0960" conj="none" abort="not_abort" wh="not_wh">
+   <pp prep="underneath" rule="disf(main(pp05))" dur="0.9976" start="340.0960" conj="none" abort="not_abort" wh="not_wh">
+      <pp prep="underneath" rule="main(pp02a)" dur="0.7374" start="340.0960" conj="none" abort="not_abort" wh="not_wh">
+         <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.1115)"/></twseq>
+         <np rule="main(np6catch)" dur="0.3689" start="340.4645" num="sing" pers="3" case="obj" abort="not_abort" dum="not_dum" type="norm" sem="any" wh="not_wh" refl="not_refl">
+            <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.1116)"/></twseq>
+         </np>
+      </pp>
+      <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.1117)..id(q1ec5g.pos.1118)"/></twseq>
+   </pp>
+   <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.1119)"/></twseq>
+   <pp prep="over" rule="main(pp02a)" dur="1.4130" start="341.2583" conj="none" abort="not_abort" wh="not_wh">
+      <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.1120)"/></twseq>
+      <np rule="main(np01)" dur="1.0869" start="341.5844" num="sing" pers="3" case="obj" abort="not_abort" dum="not_dum" type="norm" sem="any" wh="not_wh" refl="not_refl">
+         <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.1121)..id(q1ec5g.pos.1124)"/></twseq>
+      </np>
+   </pp>
+</pp>
+<twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.1125)"/></twseq>
+<advp rule="main(advp02)" dur="0.4513" start="343.1193" abort="not_abort" deg="pos" wh="not_wh">
+   <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.1126)"/></twseq>
+</advp>
+<twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.1127)"/></twseq>
+<pp prep="underneath" rule="main(pp02a)" dur="1.0639" start="345.6169" conj="none" abort="not_abort" wh="not_wh">
+   <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.1128)"/></twseq>
+   <np rule="main(np01)" dur="0.6522" start="346.0286" num="sing" pers="3" case="obj" abort="not_abort" dum="not_dum" type="norm" sem="any" wh="not_wh" refl="not_refl">
+      <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.1129)..id(q1ec5g.pos.1130)"/></twseq>
+   </np>
+</pp>
+<twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.1131)"/></twseq>
+</para>
+<para type="utt" n="60" id="q1ec5.g.60">
+<utt rule="utt(3)" dur="1.6108" start="347.7611">
+   <pp prep="underneath" rule="main(pp02a)" dur="0.6588" start="347.7611" conj="none" abort="not_abort" wh="not_wh">
+      <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.1132)"/></twseq>
+      <np rule="main(np01)" dur="0.3063" start="348.1136" num="sing" pers="3" case="obj" abort="not_abort" dum="not_dum" type="norm" sem="any" wh="not_wh" refl="not_refl">
+         <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.1133)..id(q1ec5g.pos.1134)"/></twseq>
+      </np>
+   </pp>
+   <closer rule="utt(1)" dur="0.2767" start="348.4199" abort="not_abort">
+      <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.1135)"/></twseq>
+   </closer>
+   <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.1136)"/></twseq>
+</utt>
+</para>
+<gap>
+<twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.1137)..id(q1ec5g.pos.1138)"/></twseq>
+</gap>
+<para type="utt" n="61" id="q1ec5.g.61">
+<utt rule="utt(2)" dur="3.8371" start="350.3238">
+   <s conj="and" vform="imp" rule="main(s08)" dur="2.0552" start="350.3238" dum="not_dum" abort="not_abort" inv="not_inv">
+      <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.1139)"/></twseq>
+      <s vform="imp" rule="main(s12)" dur="1.8971" start="350.4819" dum="not_dum" abort="not_abort" conj="none" inv="not_inv">
+         <vp pers="2" vform="fin" rule="main(vp05)" dur="1.8971" start="350.4819" num="sing" clitic="not_clitic" abort="not_abort" aux="not_aux" mod="not_mod" tns="pres">
+            <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.1140)"/></twseq>
+            <pp prep="out" rule="main(rp07)" dur="1.7523" start="350.6268" conj="none" abort="not_abort" wh="not_wh">
+               <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.1141)"/></twseq>
+               <pp prep="at" rule="main(pp02a)" dur="1.5448" start="350.8343" conj="none" abort="not_abort" wh="not_wh">
+                  <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.1142)"/></twseq>
+                  <np rule="main(np13)" dur="1.4690" start="350.9101" num="sing" pers="3" case="obj" abort="not_abort" dum="not_dum" type="norm" sem="any" wh="not_wh" refl="not_refl">
+                     <np rule="main(np01)" dur="0.7015" start="350.9101" num="sing" pers="3" case="obj" abort="not_abort" dum="not_dum" type="norm" sem="any" wh="not_wh" refl="not_refl">
+                        <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.1143)"/></twseq>
+                        <ap rule="main(ap11)" dur="0.4315" start="350.9825" abort="not_abort" deg="pos" wh="not_wh">
+                           <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.1144)"/></twseq>
+                        </ap>
+                        <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.1145)"/></twseq>
+                     </np>
+                     <pp prep="of" rule="main(pp02a)" dur="0.7675" start="351.6116" conj="none" abort="not_abort" wh="not_wh">
+                        <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.1146)"/></twseq>
+                        <np rule="main(np01)" dur="0.6884" start="351.6907" num="sing" pers="3" case="obj" abort="not_abort" dum="not_dum" type="norm" sem="any" wh="not_wh" refl="not_refl">
+                           <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.1147)..id(q1ec5g.pos.1148)"/></twseq>
+                        </np>
+                     </pp>
+                  </np>
+               </pp>
+            </pp>
+         </vp>
+      </s>
+   </s>
+   <closer rule="utt(1)" dur="0.4282" start="352.3791" abort="not_abort">
+      <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.1149)"/></twseq>
+   </closer>
+   <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.1150)"/></twseq>
+</utt>
+</para>
+<para type="ok" n="62" id="q1ec5.g.62">
+<starter rule="utt(1)" dur="0.0626" start="354.1610" abort="not_abort">
+   <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.1151)"/></twseq>
+</starter>
+<vp pers="2" vform="ing" rule="main(vp05)" dur="7.7482" start="354.2236" num="sing" clitic="not_clitic" abort="not_abort" aux="not_aux" mod="not_mod" tns="pres">
+   <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.1152)..id(q1ec5g.pos.1158)"/></twseq>
+   <pp prep="conj" rule="main(pp05)" dur="4.8169" start="357.1551" conj="none" abort="not_abort" wh="not_wh">
+      <pp prep="beside" rule="main(rp07)" dur="0.4858" start="357.1551" conj="none" abort="not_abort" wh="not_wh">
+         <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.1159)..id(q1ec5g.pos.1160)"/></twseq>
+      </pp>
+      <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.1161)"/></twseq>
+      <pp prep="on" rule="main(pp02a)" dur="4.1944" start="357.7776" conj="none" abort="not_abort" wh="not_wh">
+         <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.1162)"/></twseq>
+         <np rule="main(np14)" dur="4.1466" start="357.8254" num="sing" pers="3" case="obj" abort="not_abort" dum="not_dum" type="norm" sem="any" wh="not_wh" refl="not_refl">
+            <np rule="main(np01)" dur="0.6242" start="357.8254" num="sing" pers="3" case="obj" abort="not_abort" dum="not_dum" type="norm" sem="any" wh="not_wh" refl="not_refl">
+               <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.1163)..id(q1ec5g.pos.1165)"/></twseq>
+            </np>
+            <pp prep="as" rule="main(pp02a)" dur="3.5224" start="358.4496" conj="none" abort="not_abort" wh="not_wh">
+               <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.1166)"/></twseq>
+               <np rule="main(np13)" dur="3.3545" start="358.6175" num="sing" pers="3" case="obj" abort="not_abort" dum="not_dum" type="norm" sem="any" wh="not_wh" refl="not_refl">
+                  <np rule="disf(3)" dur="2.1969" start="358.6175" num="sing" pers="3" case="obj" abort="not_abort" dum="not_dum" type="norm" sem="any" wh="not_wh" refl="not_refl">
+                     <np rule="main(np01)" dur="0.9899" start="358.6175" num="sing" pers="3" case="obj" abort="not_abort" dum="not_dum" type="norm" sem="any" wh="not_wh" refl="not_refl">
+                        <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.1167)..id(q1ec5g.pos.1168)"/></twseq>
+                        <ap rule="main(ap11)" dur="0.6127" start="358.7328" abort="not_abort" deg="pos" wh="not_wh">
+                           <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.1169)..id(q1ec5g.pos.1170)"/></twseq>
+                        </ap>
+                        <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.1171)"/></twseq>
+                     </np>
+                     <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.1172)..id(q1ec5g.pos.1173)"/></twseq>
+                     <np rule="main(np01)" dur="0.3178" start="360.4966" num="sing" pers="3" case="obj" abort="not_abort" dum="not_dum" type="norm" sem="any" wh="not_wh" refl="not_refl">
+                        <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.1174)..id(q1ec5g.pos.1175)"/></twseq>
+                     </np>
+                  </np>
+                  <pp prep="of" rule="main(pp02a)" dur="1.1576" start="360.8145" conj="none" abort="not_abort" wh="not_wh">
+                     <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.1176)"/></twseq>
+                     <np rule="main(np01)" dur="1.0703" start="360.9018" num="sing" pers="3" case="obj" abort="not_abort" dum="not_dum" type="norm" sem="any" wh="not_wh" refl="not_refl">
+                        <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.1177)"/></twseq>
+                        <ap rule="main(ap11)" dur="0.8019" start="360.9627" abort="not_abort" deg="pos" wh="not_wh">
+                           <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.1178)..id(q1ec5g.pos.1181)"/></twseq>
+                        </ap>
+                        <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.1182)"/></twseq>
+                     </np>
+                  </pp>
+               </np>
+            </pp>
+         </np>
+      </pp>
+   </pp>
+</vp>
+<twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.1183)"/></twseq>
+</para>
+<para type="notok" n="63" id="q1ec5.g.63">
+<starter rule="utt(1)" dur="0.1597" start="363.3096" abort="not_abort">
+   <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.1184)"/></twseq>
+</starter>
+<np type="pro" rule="main(np05)" dur="0.1974" start="363.4693" num="sing" pers="3" case="obj" abort="not_abort" dum="not_dum" sem="any" wh="not_wh" refl="not_refl">
+   <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.1185)"/></twseq>
+</np>
+<twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.1186)"/></twseq>
+<np type="pro" pers="2" case="subj" rule="main(np05)" dur="0.0944" start="363.6667" num="sing" abort="not_abort" dum="not_dum" sem="any" wh="not_wh" refl="not_refl">
+   <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.1187)"/></twseq>
+</np>
+<ap rule="main(ap11)" dur="0.4361" start="363.7611" abort="not_abort" deg="pos" wh="not_wh">
+   <twseq><nite:child href="q1ec5.g.pos.xml#id(q1ec5g.pos.1188)"/></twseq>
+</ap>
+</para>
+</text>
+<summary>
+<paras n="63"/>
+
+<trivial perc="20.63" n="13"/>
+<nontrivial perc="79.37" n="50"/>
+
+<utts ntperc="62.00" perc="49.21" n="31"/>
+<ok ntperc="4.00" perc="3.17" n="2"/>
+<notok ntperc="34.00" perc="26.98" n="17"/>
+
+<rule n="1" r="disf(main(s09))"/>
+<rule n="1" r="main(np02)"/>
+<rule n="1" r="main(pp12)"/>
+<rule n="2" r="main(vpadv)"/>
+<rule n="1" r="main(vp04)"/>
+<rule n="1" r="main(ap14)"/>
+<rule n="1" r="main(abort(s02))"/>
+<rule n="1" r="disf(main(vp34))"/>
+<rule n="1" r="disf(main(pp12))"/>
+<rule n="1" r="disf(main(np12))"/>
+<rule n="1" r="main(npr03)"/>
+<rule n="1" r="main(s05)"/>
+<rule n="2" r="disf(main(np13))"/>
+<rule n="2" r="main(pp02)"/>
+<rule n="3" r="main(vp32)"/>
+<rule n="4" r="main(abort(np01))"/>
+<rule n="5" r="advp(adv1_03a)"/>
+<rule n="2" r="main(abort(np02))"/>
+<rule n="2" r="main(npr04)"/>
+<rule n="4" r="main(abort(s01))"/>
+<rule n="1" r="main(pp09)"/>
+<rule n="1" r="main(vp07)"/>
+<rule n="3" r="main(npr02)"/>
+<rule n="2" r="disf(main(s06))"/>
+<rule n="1" r="main(pp08)"/>
+<rule n="1" r="main(abort(vp01))"/>
+<rule n="2" r="main(abort(vp02))"/>
+<rule n="7" r="disf(2)"/>
+<rule n="2" r="disf(main(pp02a))"/>
+<rule n="2" r="disf(main(np14))"/>
+<rule n="5" r="disf(main(pp09))"/>
+<rule n="1" r="disf(main(vp36))"/>
+<rule n="1" r="main(vp01)"/>
+<rule n="2" r="disf(rp(a))"/>
+<rule n="2" r="disf(main(vp05))"/>
+<rule n="10" r="main(vpintrans)"/>
+<rule n="2" r="disf(main(vp31))"/>
+<rule n="4" r="main(vp31)"/>
+<rule n="1" r="disf(main(pp11))"/>
+<rule n="1" r="main(pp11)"/>
+<rule n="10" r="disf(main(rp07))"/>
+<rule n="2" r="main(vp36)"/>
+<rule n="9" r="utt(utt1)"/>
+<rule n="6" r="ed(a)"/>
+<rule n="1" r="main(abort(pp02))"/>
+<rule n="5" r="disf(utt(1))"/>
+<rule n="1" r="main(s11)"/>
+<rule n="9" r="main(s01)"/>
+<rule n="26" r="main(vp11)"/>
+<rule n="7" r="disf(main(s08))"/>
+<rule n="13" r="disf(main(vpintrans))"/>
+<rule n="6" r="main(pp01)"/>
+<rule n="2" r="main(npr6)"/>
+<rule n="6" r="main(pp07)"/>
+<rule n="5" r="disf(main(s03))"/>
+<rule n="2" r="disf(ap(a))"/>
+<rule n="1" r="main(ap03)"/>
+<rule n="1" r="main(vp13)"/>
+<rule n="5" r="disf(main(new_pp01))"/>
+<rule n="40" r="main(vp14)"/>
+<rule n="8" r="main(vp33)"/>
+<rule n="45" r="main(s03)"/>
+<rule n="18" r="main(s06)"/>
+<rule n="13" r="advp(a)"/>
+<rule n="18" r="main(advp02)"/>
+<rule n="4" r="disf(main(np01))"/>
+<rule n="6" r="main(np6catch)"/>
+<rule n="4" r="disf(main(pp05))"/>
+<rule n="6" r="utt(3)"/>
+<rule n="16" r="main(s12)"/>
+<rule n="17" r="main(s08)"/>
+<rule n="38" r="utt(2)"/>
+<rule n="12" r="ed(1)"/>
+<rule n="172" r="ed(3)"/>
+<rule n="95" r="ed(4)"/>
+<rule n="151" r="ed(b)"/>
+<rule n="1" r="disf(main(vp01))"/>
+<rule n="3" r="detp(dp04)"/>
+<rule n="116" r="detp(dp08)"/>
+<rule n="3" r="detp(dp09)"/>
+<rule n="116" r="detp(a)"/>
+<rule n="116" r="detp(dp15)"/>
+<rule n="117" r="np(n1_1)"/>
+<rule n="26" r="rp(a)"/>
+<rule n="117" r="main(n2_1)"/>
+<rule n="18" r="disf(3)"/>
+<rule n="110" r="main(np01)"/>
+<rule n="24" r="main(rp07)"/>
+<rule n="16" r="main(np13)"/>
+<rule n="7" r="main(np14)"/>
+<rule n="68" r="main(pp02a)"/>
+<rule n="7" r="main(pp05)"/>
+<rule n="34" r="main(vp05)"/>
+<rule n="35" r="ap(a)"/>
+<rule n="36" r="main(ap11)"/>
+<rule n="64" r="main(np05)"/>
+<rule n="97" r="utt(1)"/>
+</summary>
+</nite:root>
+

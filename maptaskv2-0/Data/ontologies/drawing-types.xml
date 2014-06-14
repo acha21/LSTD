@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
+<pen-type id="atype_0" name="pen-root" xmlns:nite="http://nite.sourceforge.net/" xmlns:xlink="http://www.w3.org/1999/xlink">
+   <!-- draw means the participant is drawing (with the pen) -->
+   <pen-type id="atype_draw" name="draw"  keystroke="typed 1" gloss="draw" abbrev="draw"/>
+   <!-- nodraw means the participant is not drawing (with the pen) -->
+   <pen-type id="atype_nodraw" name="nodraw"  keystroke="typed 2" gloss="nodraw" abbrev="nodraw"/>
+</pen-type>

@@ -1,0 +1,46 @@
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="landmark-refs.q8ec2.f">
+<landmark_reference id="q8ec2.f.ref.1" stat="0" lit="nl" def="dem" men="intro_q" plural="0" part_reference="no">
+  <nite:child href="q8ec2.f.timed-units.xml#id(q8ec2f.23)..id(q8ec2f.25)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m10_start)"/>
+</landmark_reference>
+<landmark_reference id="q8ec2.f.ref.2" stat="0" lit="rl" def="def" men="rep0" plural="0" part_reference="no">
+  <nite:child href="q8ec2.f.timed-units.xml#id(q8ec2f.52)..id(q8ec2f.53)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m10_diamond_mine)"/>
+</landmark_reference>
+<landmark_reference id="q8ec2.f.ref.3" stat="0" lit="l" def="null" men="rep0" plural="0" part_reference="no">
+  <nite:child href="q8ec2.f.timed-units.xml#id(q8ec2f.73)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m10_springboks)"/>
+</landmark_reference>
+<landmark_denial id="q8ec2.f.ref.4" stat="0" part_reference="no">
+  <nite:child href="q8ec2.f.timed-units.xml#id(q8ec2f.79)..id(q8ec2f.84)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m10_springboks)"/>
+</landmark_denial>
+<landmark_reference id="q8ec2.f.ref.5" stat="0" def="dctc" men="rep0" lit="none" plural="0" part_reference="no">
+  <nite:child href="q8ec2.f.timed-units.xml#id(q8ec2f.79)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m10_springboks)"/>
+</landmark_reference>
+<landmark_reference id="q8ec2.f.ref.6" stat="0" lit="l" def="null" men="intro" plural="0" part_reference="no">
+  <nite:child href="q8ec2.f.timed-units.xml#id(q8ec2f.109)..id(q8ec2f.110)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m10_overgrown_gully)"/>
+</landmark_reference>
+<landmark_reference id="q8ec2.f.ref.7" stat="0" lit="l" def="null" men="intro" plural="0" part_reference="no">
+  <nite:child href="q8ec2.f.timed-units.xml#id(q8ec2f.129)..id(q8ec2f.130)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m10_highest_viewpoint)"/>
+</landmark_reference>
+<landmark_reference id="q8ec2.f.ref.8" stat="0" lit="l" def="def" men="rep0" plural="0" part_reference="no">
+  <nite:child href="q8ec2.f.timed-units.xml#id(q8ec2f.139)..id(q8ec2f.141)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m10_overgrown_gully)"/>
+</landmark_reference>
+<landmark_reference id="q8ec2.f.ref.9" stat="0" lit="l" def="null" men="rep0" plural="0" part_reference="no">
+  <nite:child href="q8ec2.f.timed-units.xml#id(q8ec2f.149)..id(q8ec2f.150)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m10_overgrown_gully)"/>
+</landmark_reference>
+<landmark_reference id="q8ec2.f.ref.10" stat="0" lit="l" def="def" men="rep0" plural="0" part_reference="no">
+  <nite:child href="q8ec2.f.timed-units.xml#id(q8ec2f.163)..id(q8ec2f.165)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m10_overgrown_gully)"/>
+</landmark_reference>
+<landmark_denial id="q8ec2.f.ref.11" stat="0" part_reference="no">
+  <nite:child href="q8ec2.f.timed-units.xml#id(q8ec2f.308)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m10_finish)"/>
+</landmark_denial>
+</nite:root>

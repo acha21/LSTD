@@ -1,0 +1,130 @@
+g,ready,ehm
+g,query_yn,have you got a start at the top of the page
+f,reply_y,i have yeah
+f,explain,it's near a diamond mine
+g,ready,right
+g,instruct,go down so you're left of the diamond mine
+f,acknowledge,down
+g,instruct,so you're beneath it
+g,reply_y,so that you're underneath it yes
+f,check,so that i'm underneath it so i move right so that i'm underneath it
+f,ready,right ehm
+f,check,directly underneath the diamond mine
+g,reply_y,mmhmm
+g,instruct,then go right 'til you're three quarters along the page
+f,acknowledge,right until i'm three quarters along the page
+f,explain,i've come to a cactus
+g,instruct,oh avoid the cactus go above it
+f,acknowledge,above it
+f,ready,right
+f,explain,i've gone above the cactus
+g,instruct,um go right up to the top of the page
+f,explain,um i've come to a rift valley
+g,instruct,oh you don't want to be that far along you want to go up so you're to the left of the rift valley
+f,acknowledge,okay that's fine
+f,acknowledge,then go ri--
+g,instruct,then go right 'til you're halfway along the rift valley
+f,acknowledge,right
+g,instruct,then go down 'til you're above
+g,query_yn,have you got any rocks
+f,reply_y,yeah
+g,ready,alright
+f,check,so down through the m-- centre of the rift valley
+g,reply_y,yeah
+f,acknowledge,along the rift
+g,instruct,and you end up just above the rocks
+f,explain,midway along the rocks basically there's an obstacle
+g,instruct,uh-huh then go to the left of the rocks
+f,acknowledge,left of the rocks okay
+g,instruct,so you're beneath them
+f,explain,eyo no i'm above
+g,ready,well
+g,instruct,go to the left of them so that you're beneath them
+f,query_w,how can i go to the left and be beneath
+g,reply_w,you go to the left and then you go down
+f,ready,okay
+f,explain,so i'm now
+f,check,and then go underneath them
+g,reply_n,no no n--
+g,clarify,just so you're beneath them
+f,acknowledge,okay fine
+g,clarify,in parallel terms
+f,acknowledge,fine fine fine
+g,align,okay
+g,query_yn,um have you got some white water or
+f,reply_y,yeah
+g,acknowledge,right
+g,uncodable,um
+g,uncodable,um
+g,uncodable,um um um
+g,instruct,go left
+f,acknowledge,uh-huh
+g,instruct,so that you're below the rocks but above the white water
+f,acknowledge,okay
+g,align,right
+g,instruct,'til you're on the left-hand side of the white water
+f,acknowledge,fine
+g,align,okay
+f,reply_y,fine fine
+g,instruct,um and then go down
+g,query_yn,and have you got anything underneath white water
+f,reply_w,a manned fort
+g,ready,right
+g,instruct,go underneath that so go down and then underneath it
+f,query_w,to the left or to the right
+g,reply_w,to start off on the left and then go to the right
+f,ready,okay
+f,explain,so i'm now right directly underneath the manned fort
+g,acknowledge,good right
+g,query_yn,have you got an outlaws' hideout
+f,reply_n,mm no
+f,reply_y,yes i do
+g,check,right and up
+f,explain,it's to the right of the manned fort and slightly up
+g,ready,right
+g,instruct,i want you to move in a diagonal line up to that
+f,check,diagonal line
+g,clarify,from the manned fort to the outlaws' hideout
+f,query_w,underneath or the left or the right above
+g,reply_w,to underneath the outlaws' hideout
+f,acknowledge,fine
+g,ready,right
+g,instruct,then i want you to go right along to the edge of the page
+f,acknowledge,fine
+g,instruct,and right the way down the side of the page 'til you come to the noose
+g,query_yn,got a noose
+f,reply_y,got the noose
+g,acknowledge,got noose got noose right
+g,instruct,then go bit further down
+g,instruct,no no no no no that's right
+g,ready,then
+g,uncodable,um
+g,instruct,from the noose i want you to go left all the way along
+f,query_w,underneath the noose or above it
+g,reply_w,underneath the noose
+f,acknowledge,underneath
+g,instruct,all the way along 'til you reach the saloon bar
+f,acknowledge,good
+f,query_w,above the saloon below it
+g,reply_w,above to start with
+f,acknowledge,above
+f,query_yn,can we go into the saloon bar
+g,reply_n,no
+f,acknowledge,no
+g,explain,it's bad for you
+f,acknowledge,okay
+g,instruct,then go down
+f,acknowledge,down
+f,query_w,left or right
+g,reply_w,on the right-hand side of the saloon bar
+g,clarify,go down 'til you reach the bottom of it
+f,acknowledge,okay
+g,align,okay
+g,instruct,and then go um left along the bottom of it
+f,acknowledge,yeah okay
+f,acknowledge,okay
+g,instruct,go about another inch further inch and a half further than the edge of the saloon bar
+g,instruct,and then go up 'til you're parallel with the top of the saloon bar
+f,acknowledge,fine
+g,instruct,tu es fini
+f,acknowledge,oh i'm finished

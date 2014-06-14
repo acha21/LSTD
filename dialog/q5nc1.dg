@@ -1,0 +1,233 @@
+g,query_yn,ehm can you see a caravan park
+g,instruct,your route is to your left of that
+f,check,left
+g,reply_y,left i think
+g,reply_n,no
+f,explain,i'm going to end up off the paper if i go left
+g,clarify,you have to go round that side though
+f,acknowledge,oh right right
+g,ready,and
+f,acknowledge,going left
+g,instruct,then you go ahead mm you should see an old mill on your left again
+f,reply_n,eh no
+g,instruct,if you're going down if you're going down
+f,explain,aye you forgot to tell me to go down
+g,instruct,no but you go down
+f,acknowledge,right
+g,instruct,ehm turn to your left
+f,explain,i can't go left i havenae got to the old mill yet
+g,reply_n,no
+g,instruct,you don't go to the old mill
+f,explain,i can't go any further left i'm right beside the paper
+g,ready,okay
+g,instruct,from the beginning you go down
+g,align,right
+f,reply_y,yeah right i've done that
+g,ready,right
+g,instruct,then you turn left at the bottom of the paper or turn
+f,check,so you want me to go right down to the bottom of the paper and then turn left
+g,reply_y,mmhmm
+g,clarify,but turn left as if you're walking down
+f,query_w,what
+g,clarify,turn into the paper
+g,align,okay
+g,clarify,don't turn off the paper
+f,reply_y,right
+g,ready,okay
+g,instruct,then head along slightly and then turn left again
+f,check,have i got left and right mixed up here
+f,reply_n,no i haven't
+f,explain,i can't go any further left i'm right at the left-hand side of the paper right i'm about a centimetre away from it
+g,acknowledge,oh
+g,ready,well
+g,instruct,if you can't can't turn left turn right
+f,acknowledge,right that's a good idea
+g,acknowledge,yeah
+f,acknowledge,right
+g,ready,and then
+g,instruct,when you see the old mill above you
+f,acknowledge,mmhmm
+g,instruct,turn up the way and you're going past the old mill
+f,acknowledge,right
+g,instruct,with it on your
+f,query_yn,left
+g,reply_w,right
+f,check,right
+g,reply_y,right yes oh yeah
+g,clarify,you've got to go round with it on your right-hand side
+f,check,with it on your right-hand side
+g,reply_y,yeah
+f,acknowledge,oh hell back i go right
+g,align,right okay
+f,reply_y,mmhmm
+g,ready,now
+g,instruct,you go round the top of the mill
+f,acknowledge,mmhmm
+g,ready,and ehm
+g,instruct,he-- continue heading towards your right past the mill
+f,acknowledge,right
+g,query_yn,you should see um a fenced meadow down at the bottom
+f,reply_y,aye
+g,ready,okay
+g,ready,ehm
+g,ready,now
+g,instruct,if you're heading along that way turn up left
+g,explain,you should see an abandoned cottage up the way
+f,ready,no wait a minute
+f,query_yn,do you want me to go past the fenced meadow
+g,query_yn,eh
+f,query_yn,or just look at it
+g,reply_n,don't go near no
+g,instruct,don't go near e-- either of the fenced meadows
+f,explain,can only see one fenced meadow
+g,explain,there are two
+f,explain,nah
+g,explain,there's one above the caravan park and one over from the old mill
+f,explain,no it's no on my map
+g,acknowledge,oh well okay
+f,explain,there's only the one at there's only the one at the bottom
+g,acknowledge,oh well right
+f,query_w,right do you want me go along pa-- along like beside the fenced meadow and then go up or do you want me to go up before i get to the fenced meadow
+g,reply_w,ehm don't know
+g,clarify,i want you to go up just as you get to the fenced meadow but don't go near it
+g,align,okay
+f,reply_y,right
+g,align,right
+f,explain,here i am at the abandoned cottage
+g,acknowledge,you're at the abandoned cottage
+g,align,the abandoned cottage is on your left
+f,reply_y,yeah
+g,align,is that correct
+g,ready,right okay
+g,instruct,go round the top of the abandoned cottage
+f,acknowledge,right
+g,instruct,and you come
+g,explain,oh i'll have to take this off
+g,ready,right
+g,instruct,you come down slightly to your left if you're heading that way
+g,check,but you don't have another fenced meadow
+f,reply_n,nope
+g,acknowledge,nope
+f,explain,just an empty space
+g,acknowledge,mm
+g,ready,okay anyway now
+g,query_yn,you should see west lake
+f,reply_y,aye
+g,instruct,head up towards west lake
+f,acknowledge,aye
+g,ready,now
+g,instruct,when you get there you're going to have to go very close to it but round the side of it
+f,acknowledge,right
+f,query_w,which which way round the side clockwise or anticlockwise
+g,reply_w,erm towards towards the trig point
+g,query_yn,do you see that
+f,query_w,the what
+g,reply_w,the trig point
+f,query_w,what's a trig point
+g,query_yn,can you see a trig point
+f,reply_w,i don't know what a trig point is
+g,explain,there should should be marked on your map
+g,query_yn,is it not
+g,reply_y,yeah
+f,check,what something with trig point written beside it
+g,reply_y,yeah
+f,reply_n,nope
+g,explain,it's near the lake
+g,check,it's not
+f,reply_n,nope
+g,ready,okay
+g,reply_w,you have to go round
+g,reply_w,anticlockwise
+f,instruct,clock well just say clockwise or anticlockwise
+g,reply_w,anticlockwise
+f,acknowledge,anticlockwise
+g,reply_w,on the the right-hand side of the lake
+f,acknowledge,right
+g,align,okay
+f,query_yn,and i have to go right round
+g,reply_n,no no
+f,acknowledge,right
+g,acknowledge,right
+f,query_w,where do i stop then
+g,align,see when it starts turning up to the left
+g,reply_w,you turn to the right
+g,align,you know what i mean
+f,ready,eh like
+g,clarify,you go round the side of the lake
+f,explain,like there's t-- like there's two rabbit ears
+f,check,and when you get to the one on the
+g,reply_y,yeah
+g,reply_y,yes
+f,check,right you have to start going right
+g,reply_y,yeah
+f,acknowledge,right i think so aye right
+g,clarify,you go right
+f,acknowledge,right
+g,align,okay
+g,ready,now
+g,instruct,you have to go back down the way near the abandoned cottage again don't cross the pass path that you've been on already
+f,acknowledge,right
+f,query_yn,do i just follow that path though
+g,reply_w,ehm well you shouldn't be near the path really
+g,clarify,you have to go down to that level again you know back to the the stage of the abandoned cottage
+f,acknowledge,right
+g,query_yn,can you see a monument
+f,reply_y,aye
+g,ready,right
+g,instruct,you have to go round the monument with it on your ehm left-hand side
+f,acknowledge,right
+g,align,okay
+g,instruct,so you've got the monument enclosed in your path
+g,align,yeah
+f,reply_y,well sort of aye
+g,ready,okay now
+g,query_yn,you see a nuclear test site
+f,reply_n,nope
+g,acknowledge,you don't oh dear
+g,ready,ehm okay
+g,instruct,continue go round the monument
+f,acknowledge,mmhmm
+f,uncodable,until
+g,instruct,until almost the top of his head
+f,explain,oh sh-- i've gone past that right
+g,check,have you gone past it
+g,align,so you should have like a semicircle round the monument
+f,reply_y,aye
+g,ready,right now
+g,instruct,you have to veer slightly to your left
+f,check,left
+f,acknowledge,right
+g,clarify,just slightly
+f,acknowledge,right
+g,ready,and then
+g,instruct,go up straight up towards east lake
+f,acknowledge,right
+g,align,uh-huh
+g,ready,now
+g,instruct,sticking quite close to east lake
+f,acknowledge,right
+g,query_yn,can you see the finish
+g,query_yn,yeah
+f,reply_n,no
+g,acknowledge,you don't have a finish
+f,explain,i i don't think i've got a finish on mine
+g,query_yn,can you see farmed land
+f,reply_y,aye
+g,ready,well
+g,instruct,stick closely to east lake it's on your right-hand side and just go past the bit that's jutting out
+f,ready,hang on
+f,check,you want me to go round the right-hand side of east lake
+g,clarify,no i want you to go left but the east lake should be on your right-hand side
+f,acknowledge,oh right aye
+g,align,okay
+f,reply_y,aye
+g,ready,now
+f,acknowledge,uh-huh
+g,instruct,just where it turns up just carry on the path you are for a few more steps and you should be finished
+f,acknowledge,right
+g,instruct,should have come to the finish
+f,acknowledge,i think so
+g,acknowledge,yeah
+f,explain,looks like your route home from the "q" "m" on a thursday night
+f,acknowledge,that's that i think then
+g,acknowledge,yeah

@@ -1,0 +1,115 @@
+<!-- Initial configuration settings for using the GUI coding tools on the 
+     Maptask corpus. 
+     
+     For more info on what the settings mean, see the nxtConfig.xml in 
+     the lib-directory of the NXT API release.
+     
+     Jean Carletta 1 Nov 06
+ -->
+     
+<NXTConfig>
+
+<CSLConfig>
+    <!-- Attempt to configure the video labeller to show the gaze labels 
+         lookup and lookdown.  I don't think it's possible to do this because
+         we have encoded it as two different tags.  The tool expects one
+         tag where the actual code can be found by following a named role,
+         and might be configurable to use an attribute value, but probably
+         not for separate tags.  Consider whether we should change the basic
+         coding.  At the same time, look at the off and on values - should
+         this be a 3-way system (off, up, down) instead?
+      -->
+    
+    <!-- CHANGE THIS SECTION FOR YOUR OWN METADATAFILES -->
+
+    <metadatafile file="Data/maptask.xml" corpussettings="csl-cs-maptask"   guisettings="csl-gs-maptask"/>
+
+    <corpussettings
+        id="drawing-cs-maptask"
+        gloss="VideoLabeler settings for Maptask corpus">
+        <layerinfo 
+            id="penlayerinfo"
+            gloss="Example pen layer of Maptask"
+            layername="pen-layer"
+            layerclass="net.sourceforge.nite.tools.videolabeler.LabelAnnotationLayer"
+            controlpanelclass="net.sourceforge.nite.tools.videolabeler.LabelTargetControlPanel"
+            codename="pen"
+            pointerrole="type"
+            labelattribute="name"
+        />
+    </corpussettings>
+    <!-- I'm sure this is set up wrong, and it's one declaration for
+          all layers that can be used in the CSL -->
+    <corpussettings
+        id="gaze-cs-maptask"
+        gloss="VideoLabeler settings for Maptask corpus">
+        <layerinfo 
+            id="gazelayerinfo"
+            gloss="Example gaze layer of Maptask"
+            layername="look-layer"
+            layerclass="net.sourceforge.nite.tools.videolabeler.LabelAnnotationLayer"
+            controlpanelclass="net.sourceforge.nite.tools.videolabeler.LabelTargetControlPanel"
+            codename="look"
+            pointerrole="type"
+            labelattribute="name"
+        />
+    </corpussettings>
+   
+    <!-- Default gui settings -->
+    <guisettings
+        id="csl-gs-maptask"
+        gloss="There are no guisettings needed for this tool"
+    />
+    
+
+</CSLConfig>
+
+<DACoderConfig>
+
+    <!-- CHANGE THIS SECTION FOR YOUR OWN METADATAFILES -->
+    <metadatafile file="Data/maptask.xml" corpussettings="dac-cs-maptask"   guisettings="dac-gs-maptask"/>
+
+<!--
+-->
+    <!-- Corpus settings for the Maptask corpus -->
+    <corpussettings
+        id                      = "dac-cs-maptask"
+        gloss                   = "The corpus settings for the dialogue act coder for the Maptask Corpus"
+        
+        segmentationelementname = "move"
+        transcriptionlayername  = "timed-unit-layer"
+        transcriptiondelegateclassname = "MaptaskTranscriptionToTextDelegate"
+        
+        daelementname           = "move"
+        daattributename         = "label"
+        
+        nenesting               = "false"
+        neelementname           = "landmark_reference"
+        neattributename         = "def"
+        
+        annotatorspecificcodings = ""
+    />    
+
+<!-- change neattributename to men to see which mention it is on the 
+     labels.
+-->
+<!--    attempt at alternative setup to show which landmark the
+        reference is to.
+
+        neontology              = "maptask-landmarks"
+        neroot                  = "nite:root"
+        nenameattribute         = "name"
+        netyperole              = "landmark" -->
+
+    <guisettings
+        id                      = "dac-gs-maptask"
+        gloss                   = "Default settings"
+        showapwindow            = "false"
+        showlogwindow           = "true"
+        applicationtitle        = "Maptask dialogue act coder"
+    />
+
+    
+</DACoderConfig>
+
+</NXTConfig>

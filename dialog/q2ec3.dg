@@ -1,0 +1,200 @@
+g,ready,okay ehm right
+g,align,you have the start
+f,reply_y,yeah
+g,ready,right
+g,query_yn,below the start do you have er like a missionary camp
+f,reply_y,yeah
+g,ready,okay
+g,instruct,well if you take it from the start just run horizontally
+f,acknowledge,uh-huh
+g,instruct,eh to the left for about an inch
+f,acknowledge,right
+g,instruct,and then go down along the side of the missionary camp
+f,acknowledge,uh-huh
+g,instruct,'til you're about an inch above the bottom of the map
+f,acknowledge,right
+g,instruct,then you need to go straight along for about 'til about you're about an inch and a half away from the edge of the map
+g,align,okay
+f,query_yn,the banana tree
+f,query_yn,do you have a banana tree
+g,reply_w,i have gorillas that's probably the
+f,ready,right okay
+f,explain,i'll go round the banana tree
+g,acknowledge,yeah
+g,align,so you're at where are you now you're at the bottom
+f,reply_y,i'm at the bottom
+g,ready,okay
+g,instruct,now you you need to go parallel to the side of the map
+f,acknowledge,uh-huh
+g,instruct,ehm about four inches
+f,acknowledge,right
+g,instruct,so you're just ab-- y-- you're now about two inches above the gorillas or the banana tree
+f,acknowledge,yeah
+g,query_yn,ehm do you have a rope bridge
+f,reply_y,yes i do
+g,acknowledge,right
+g,instruct,you need to cross the rope bidge-- bridge
+f,query_w,how close to the river should i be the now
+f,explain,i have gone
+f,check,you haven't
+g,reply_w,i haven't got a i haven't got a river marked but i assume well i--
+g,reply_n,if no
+f,acknowledge,uh-huh
+g,clarify,if you go if you're up going up eh vertically
+f,acknowledge,yeah
+g,clarify,by the gor-- gorillas
+f,check,then go horizontal
+f,acknowledge,bend
+g,clarify,then you need to-- you need to bend it round to the rope bridge
+f,acknowledge,yeah
+g,clarify,and you're going across the rope bridge so your your line should stop at the beginning of the rope bridge and come out again at the end
+f,acknowledge,yep okay
+g,ready,right
+g,instruct,then you go down about an inch so you're coming down off the rope bridge
+f,check,to there's a river
+g,reply_y,uh-huh
+f,acknowledge,okay
+g,instruct,now you need to run horizontally along
+f,acknowledge,right
+g,query_yn,ehm do you have a waterfall
+f,reply_y,yes i do
+g,instruct,you need to run horizontally along until you're just below the beginning of the waterfall
+f,acknowledge,right
+g,align,okay
+f,reply_y,'kay
+g,instruct,now straight up
+g,query_yn,do you have lost steps
+f,reply_n,no
+f,reply_y,oh yeah i do right up
+f,check,quite far up
+g,reply_n,oh no
+g,explain,th-- th-- th-- th-- th-- these are in the middle
+f,reply_n,no
+g,acknowledge,okay
+g,ready,we right
+f,reply_y,uh-huh
+g,align,you're at the bottom of the waterfall now okay
+g,query_w,ehm what's your next thing that's marked
+f,reply_w,the lost steps just south of the white mountain up at the top
+g,explain,no the-- the-- they're not
+f,query_yn,do you have the rock fall
+g,explain,oh i've got another lot of lost steps up there that's what you must mean
+f,acknowledge,yeah
+g,ready,no well
+f,query_w,how far
+g,instruct,in that case you need to go vertically upwards running parallel with the edge of the map
+f,acknowledge,uh-huh
+g,reply_w,erm for about i don't know
+f,query_w,do you have gazelle gazelles
+g,reply_w,way up
+f,query_w,or fallen pillars or flamingoes
+g,reply_w,i have fallen pillars
+g,query_yn,are they sort of in the middle of the map on the left
+f,reply_y,yeah
+g,ready,right
+g,reply_w,well you need to go up but running vertically until you're about level with the fallen pillars
+f,acknowledge,uh-huh right okay done it
+g,ready,now
+g,explain,i've got some lost steps
+g,instruct,so you need to kind of curve round as if you had something in the way there you can't go straight across to the fallen pillars you've got to bend up a wee bit
+f,acknowledge,right okay
+g,align,you see
+f,check,up it like going over them
+g,reply_y,like a-- like as if you were going over something
+f,acknowledge,right okay
+g,reply_y,bend it right over
+f,query_yn,to the do i g-- bend it right over 'til i get to the fallen pillars
+g,clarify,and then head it sort of up and round so that you-- you're going up over the lost steps
+f,acknowledge,uh-huh
+g,clarify,and then down and under the fallen pillars
+f,acknowledge,right hang on
+g,align,okay 'cause you can't go straight across on mine 'cause there's lost steps
+f,reply_y,right okay yeah
+g,ready,right
+g,align,so you're now underneath are you at the end of the fallen pillars now
+f,reply_y,yes
+g,ready,okay
+f,uncodable,oops
+g,ready,now
+g,explain,ehm for some reason it loops round here again i don't there's nothing there though
+f,explain,i've got flamingoes
+g,acknowledge,okay well that's why
+g,instruct,so you need to loop it round your flamingoes
+f,reply_y,uh-huh
+g,instruct,and up so you
+f,query_yn,to the ruined city
+f,query_yn,do you have
+g,reply_y,to the ancient ruins
+g,reply_y,yeah
+f,acknowledge,t-- uh-huh
+g,clarify,so you need to go loop it down and then all the way up to the ancient ruins
+f,acknowledge,right
+g,align,okay
+f,explain,i'm at the ancient ruins
+g,acknowledge,you're at the ancient ruins
+g,ready,okay
+g,instruct,now bend round the ancient ruins until you're just now running verti-- so you're just going up from the ancient ruins now
+g,query_yn,have you got some stones at the top
+f,reply_w,i've got rock fall
+g,acknowledge,okay
+g,ready,right
+f,acknowledge,s-- right i'm
+g,instruct,if you head it up towards the rock fall
+f,acknowledge,right
+g,instruct,so you now you now should be about two two and a half inches from the top of the map
+f,acknowledge,yeah practically
+g,align,okay
+g,ready,then
+g,align,so you're at you're at the stones now
+f,reply_y,yeah
+g,query_yn,okay now straight across have you got the white mountain
+f,check,under the stones
+f,reply_y,yes i've got the white mountain
+g,reply_y,under the stones
+g,instruct,so you go straight across towards the white mountain
+f,acknowledge,uh-huh
+g,instruct,and then climb the white mountain and go back down the other side
+f,acknowledge,right
+g,query_yn,have you got some soft furnishings store
+f,query_w,where
+f,check,just in the corner
+g,reply_w,underneath uh
+g,reply_n,no
+f,reply_n,no
+g,reply_w,right underneath the white mountain
+f,reply_n,no
+g,ready,okay
+g,align,well you've go-- so you're at the bottom of the white mountain now
+f,reply_y,yeah
+g,ready,right er
+g,explain,this is difficult um
+f,query_w,yo-- what about the lost steps up there
+g,reply_n,no
+f,query_yn,do you have lost steps on that side
+g,instruct,you don't go anywhere near them
+g,reply_n,no
+f,acknowledge,right okay
+g,ready,well
+g,instruct,you're now going you're going back the way you came so you need to it-- as if you're going right underneath the white mountain so come down a bit and then go right underneath it
+f,acknowledge,okay right
+g,instruct,about to about three inches
+f,acknowledge,right
+g,instruct,and now straight drop down
+g,query_yn,do you have gazelles
+f,reply_y,yes
+g,ready,right
+g,instruct,straight drop down towards the gazelles
+f,acknowledge,right there
+g,instruct,underneath the gazelles
+f,acknowledge,right
+g,instruct,about three inches to the right
+f,acknowledge,right
+g,instruct,just and that's the end
+f,acknowledge,okay
+g,instruct,because you come underneath the gazelles and then you go
+f,check,and then you go right
+g,reply_y,go go right
+g,clarify,and you stop on on nothing there's there's no mark there
+f,ready,'kay
+f,explain,there's a cross now
+g,clarify,okay that's the end

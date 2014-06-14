@@ -1,0 +1,46 @@
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="landmark-refs.q5nc6.f">
+<landmark_reference id="q5nc6.f.ref.1" stat="0" lit="l" def="indef" men="intro" plural="0" part_reference="no">
+  <nite:child href="q5nc6.f.timed-units.xml#id(q5nc6f.8)..id(q5nc6f.10)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m3_start)"/>
+</landmark_reference>
+<landmark_reference id="q5nc6.f.ref.2" stat="0" lit="l" def="def" men="rep0" plural="0" part_reference="no">
+  <nite:child href="q5nc6.f.timed-units.xml#id(q5nc6f.114)..id(q5nc6f.115)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m3_cliffs)"/>
+</landmark_reference>
+<landmark_denial id="q5nc6.f.ref.3" stat="0" part_reference="no">
+  <nite:child href="q5nc6.f.timed-units.xml#id(q5nc6f.133)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m3_forge)"/>
+</landmark_denial>
+<landmark_reference id="q5nc6.f.ref.4" stat="0" lit="rl" def="def" men="rep0" plural="0" part_reference="no">
+  <nite:child href="q5nc6.f.timed-units.xml#id(q5nc6f.180)..id(q5nc6f.181)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m3_old_pine)"/>
+</landmark_reference>
+<landmark_reference id="q5nc6.f.ref.5" stat="0" def="pro" men="rep0" lit="none" plural="0" part_reference="no">
+  <nite:child href="q5nc6.f.timed-units.xml#id(q5nc6f.236)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m3_bakery)"/>
+</landmark_reference>
+<landmark_denial id="q5nc6.f.ref.6" stat="0" part_reference="no">
+  <nite:child href="q5nc6.f.timed-units.xml#id(q5nc6f.274)..id(q5nc6f.278)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m3_wheat_fields)"/>
+</landmark_denial>
+<landmark_reference id="q5nc6.f.ref.7" stat="0" lit="l" def="def" men="rep0" plural="0" part_reference="no">
+  <nite:child href="q5nc6.f.timed-units.xml#id(q5nc6f.309)..id(q5nc6f.311)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m3_rocket_warehouse)"/>
+</landmark_reference>
+<landmark_reference id="q5nc6.f.ref.8" stat="0" lit="l" def="def" men="rep0" plural="0" part_reference="no">
+  <nite:child href="q5nc6.f.timed-units.xml#id(q5nc6f.341)..id(q5nc6f.343)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m3_rocket_warehouse)"/>
+</landmark_reference>
+<landmark_reference id="q5nc6.f.ref.9" stat="0" lit="l" def="def" men="rep0" plural="0" part_reference="no">
+  <nite:child href="q5nc6.f.timed-units.xml#id(q5nc6f.360)..id(q5nc6f.362)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m3_rocket_warehouse)"/>
+</landmark_reference>
+<landmark_reference id="q5nc6.f.ref.10" stat="0" lit="l" def="def" men="intro" plural="0" part_reference="no">
+  <nite:child href="q5nc6.f.timed-units.xml#id(q5nc6f.395)..id(q5nc6f.396)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m3_cave)"/>
+</landmark_reference>
+<landmark_reference id="q5nc6.f.ref.11" stat="0" def="pro" men="rep0" lit="none" plural="0" part_reference="no">
+  <nite:child href="q5nc6.f.timed-units.xml#id(q5nc6f.411)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m3_old_lighthouse)"/>
+</landmark_reference>
+</nite:root>

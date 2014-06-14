@@ -1,0 +1,230 @@
+g,ready,right ehm
+g,instruct,starting above the stony desert
+g,instruct,ehm move downwards to the right to the sorry to the left move downwards to the left
+f,check,straight down
+g,reply_n,no
+g,clarify,sort of starting about halfway up the stony above eh the middle of the stony desert just above it
+f,acknowledge,right
+g,clarify,moving slightly forwards and down to the right to the left
+f,check,slightly forward and then to the left
+g,reply_y,yes
+g,clarify,and downwards
+g,instruct,'til you come to about level the bottom of the stony desert
+f,acknowledge,right
+f,check,straight down
+g,reply_y,yeah
+f,check,and then to the left
+g,ready,well
+g,reply_y,sort of yeah uh-huh
+g,clarify,downwards to the left
+f,acknowledge,right
+g,instruct,then keep progressing along to the left
+f,acknowledge,mmhmm
+g,instruct,about four inches
+f,check,four inches
+g,reply_y,yeah
+g,uncodable,ehm
+f,query_yn,ehm is it straight down from the waterhole where you want me to go
+g,reply_w,ehm it doesn't actually say here
+f,check,so right you want me to go four inches along then right
+g,reply_y,yeah uh-huh
+f,acknowledge,okay
+g,uncodable,ehm
+g,instruct,and round the next obstacle
+g,explain,it's a plane crash
+f,acknowledge,mm
+g,instruct,up up sort of straight up
+f,check,straight up
+g,reply_y,yeah
+f,acknowledge,right
+g,instruct,for about three inches
+f,acknowledge,okay
+g,ready,then
+g,instruct,turn to the right
+f,acknowledge,mmhmm
+f,query_w,how far
+g,reply_w,a-- to about the middle of the page just r-- round the next obstacle
+f,check,round it
+g,reply_y,yes round the top of it
+f,acknowledge,round the top okay
+g,reply_w,to about the middle of the page
+f,ready,mm wait a minute
+f,explain,if i'm going to go round it i'll not but i won't get to the top of the page the middle of the page
+g,acknowledge,oh ehm
+f,acknowledge,i'll go round it right
+g,instruct,just just go round it
+f,acknowledge,okay
+f,query_w,halfway round
+g,reply_y,yeah
+f,query_w,or all the way
+f,acknowledge,ha--
+g,reply_n,don't no don't go all the way round it
+g,instruct,go
+f,acknowledge,halfway right halfway round
+g,instruct,go along the top and then at the other side ehm go downwards but still sloping for about an inch downwards but still sloping slightly to the left
+f,check,and and sloping to the left
+g,ready,well
+g,clarify,just as if you were going d-- if you as if you were walking down a hill
+f,acknowledge,right okay right right that's it
+g,acknowledge,mmhmm
+g,instruct,and then ehm still heading in the le-- towards the left
+f,acknowledge,mmhmm
+g,instruct,but a very very slight slope upwards for about three inches but just a small one
+f,explain,i'm going to end up tracing my path back if i do go to the left
+g,ready,well
+g,instruct,don't go
+g,query_w,have you g-- d-- how far down have you gone
+g,instruct,don't go too far down
+f,acknowledge,right
+f,reply_w,i'm not even halfway up
+g,acknowledge,uh-huh no i know
+f,acknowledge,right
+g,acknowledge,that's okay
+f,explain,i'm sort of stuck in between a waterhole and a savannah
+g,acknowledge,uh-huh
+g,ready,well
+g,instruct,don't don't go as far along as the savannah
+g,instruct,just before you get to the front of the s-- in-- just before you get to the savannah slope upwards
+f,check,slope up straight line up
+g,reply_y,yeah
+g,instruct,almost a straight line just about four inches to the mountain
+f,acknowledge,to the mountain
+f,acknowledge,right okay
+g,instruct,up to the top of the mountain
+g,acknowledge,yeah
+g,instruct,stop the line at opposite the top of the mountain
+f,check,opposite the top of the mountain
+g,reply_y,yeah just at the top
+f,acknowledge,just at right okay
+f,check,it's sort of parallel to the white mountain as well
+g,explain,it's at it's the slate mountain
+g,reply_y,yeah just
+g,clarify,sort of go up
+f,acknowledge,uh-huh uh-huh right okay
+g,reply_y,yeah
+f,acknowledge,right i'm there
+g,instruct,and once you get to the top of the mountain turn to the left again
+f,acknowledge,left
+f,check,just round the sort of round rocks
+g,instruct,ehm b-- between the the hot wells and the mountain to the left and down between the two
+g,acknowledge,well yeah
+f,explain,mm it's hot springs i've got here and then white mountain
+g,acknowledge,uh-huh
+f,ready,right
+f,explain,so i'm at the top of the white mountain just up
+g,reply_n,not the white mountain
+g,explain,the slate mountain
+f,ready,well
+f,explain,put it this way i'm at the left of some mou-- i'm now opposite some mountain
+f,align,right
+g,ready,right okay ehm
+g,ready,right okay ehm
+g,query_w,so where are you at the moment if you if you
+f,reply_w,opposite a white mountain the top of the white mountain
+g,acknowledge,okay
+f,align,right
+g,reply_y,right okay
+g,instruct,ehm under are you g-- g-- down the side of the mountain 'til you're underneath the hot wells
+f,acknowledge,okay
+f,ready,ins-- un-- well
+f,explain,i don't have hot wells i have hot springs
+f,acknowledge,right i'm coming down the mountain right
+g,acknowledge,okay
+f,query_w,so where do you want me to go when i come down this mountain
+g,uncodable,ehm
+g,clarify,go down to the right of the hot wells the hot springs
+f,check,to the right of it
+f,ready,right
+f,explain,i've actually
+g,clarify,and underneath it and underneath it
+f,acknowledge,and underneath it right i've done that
+g,align,right you underneath it now
+f,reply_y,yes
+g,ready,right okay ehm
+g,instruct,heading towards the left go down about an inch t-- a slope
+f,check,heading towards the left
+g,reply_y,mmhmm
+f,check,you want me to have is it a diagonal slope
+g,reply_y,ehm yeah almost
+f,acknowledge,right
+f,check,an inch just an inch
+g,reply_y,yeah mmhmm
+f,acknowledge,right okay
+g,ready,and then ehm
+g,instruct,curve the bottom and start heading up towards the white mountain
+f,acknowledge,right okay right
+g,instruct,ehm head fairly close to the side of the white mountain
+f,acknowledge,mmhmm
+g,instruct,just keep going up 'til you get to the top of the white mountain
+f,acknowledge,right okay
+f,explain,i'm at the top
+g,ready,right
+g,instruct,when you're at the top go straight up for two and a half inches absolutely straight
+f,acknowledge,right okay
+g,ready,and then
+g,instruct,start heading towards the lake
+f,query_w,for how far along
+g,reply_w,ehm about three inches
+f,acknowledge,okay
+g,clarify,towards it
+g,align,are y-- are you at it now
+f,reply_y,i'm at the lake
+g,ready,right
+g,instruct,go round the outside of the lake ah
+f,query_w,which way up or down
+g,reply_w,go up
+f,acknowledge,okay
+g,instruct,and round it
+f,acknowledge,mmhmm
+g,instruct,in an a clockwise direction and but don't go right round it go
+f,check,halfway round
+g,reply_y,yeah
+f,acknowledge,right
+g,instruct,when you get to the go between the lake and the roman baths
+f,explain,there is no roman baths
+g,acknowledge,ah
+g,ready,ehm well
+f,ready,right
+g,instruct,go round as if you were heading back to where you started going round the lake
+f,explain,i'm halfway round the lake
+g,acknowledge,right
+g,ready,well
+g,instruct,go down to the bottom half of the lake but ehm start straightening out as if you were going back to where you started but le-- leave about an inch between the path where you went round the lake and the path where you're coming out of it
+f,check,you want me to trace back my steps
+g,reply_n,no
+g,align,you've gone halfway round the lake
+f,reply_y,right
+g,acknowledge,right
+g,instruct,go down the sort of slightly flat side the the side that's about an inch of the lake f-- just follow that down
+f,explain,i don't have a flat side
+g,acknowledge,oh dear
+f,ready,right
+g,ready,right okay
+f,explain,i'm at the bottom of the lake
+f,align,okay
+g,acknowledge,you're at the bottom
+f,ready,right
+f,explain,well i'm
+g,ready,right
+g,instruct,keep progressing in that kind of line for about another inch and a half
+f,check,towards the left
+g,reply_y,yes
+f,acknowledge,right okay
+f,acknowledge,right
+g,ready,now
+g,align,when you've done that you should be ehm about equal with where you started going round the lake but about an inch and a half down from there
+f,reply_y,yeah
+g,ready,right
+g,instruct,so then head downwards about three and a half inches to the a-- where the antelopes are
+f,acknowledge,yeah
+g,acknowledge,ehm
+g,instruct,and go underneath them
+f,check,underneath them
+g,reply_y,yeah
+g,clarify,ehm go go down 'til you're past them and then turn to the right
+f,acknowledge,to the right okay
+f,query_w,how far along to the right do you want me to go
+g,reply_w,about two inches
+f,acknowledge,okay
+g,instruct,and that's the finish
+f,acknowledge,okay

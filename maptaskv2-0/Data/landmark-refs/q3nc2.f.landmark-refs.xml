@@ -1,0 +1,62 @@
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="landmark-refs.q3nc2.f">
+<landmark_reference id="q3nc2.f.ref.1" stat="0" lit="l" def="null" men="rep0" plural="0" part_reference="no">
+  <nite:child href="q3nc2.f.timed-units.xml#id(q3nc2f.110)..id(q3nc2f.111)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m11_crane_bay)"/>
+</landmark_reference>
+<landmark_reference id="q3nc2.f.ref.2" part_reference="yes" stat="0" def="def" men="rep0" lit="none" plural="0">
+  <nite:child href="q3nc2.f.timed-units.xml#id(q3nc2f.186)..id(q3nc2f.187)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m11_crane_bay)"/>
+</landmark_reference>
+<landmark_denial id="q3nc2.f.ref.3" stat="0" part_reference="no">
+  <nite:child href="q3nc2.f.timed-units.xml#id(q3nc2f.288)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m11_chapel)"/>
+</landmark_denial>
+<landmark_reference id="q3nc2.f.ref.4" stat="0" def="numpro" men="rep0" lit="none" plural="0" part_reference="no">
+  <nite:child href="q3nc2.f.timed-units.xml#id(q3nc2f.304)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m11_chapel)"/>
+</landmark_reference>
+<landmark_reference id="q3nc2.f.ref.5" stat="0" lit="l" def="def" men="rep0" plural="0" part_reference="no">
+  <nite:child href="q3nc2.f.timed-units.xml#id(q3nc2f.402)..id(q3nc2f.403)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m11_start)"/>
+</landmark_reference>
+<landmark_reference id="q3nc2.f.ref.6" stat="0" lit="l" def="null" men="rep0" plural="0" part_reference="no">
+  <nite:child href="q3nc2.f.timed-units.xml#id(q3nc2f.455)..id(q3nc2f.456)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m11_green_bay)"/>
+</landmark_reference>
+<landmark_denial id="q3nc2.f.ref.7" stat="0" part_reference="no">
+  <nite:child href="q3nc2.f.timed-units.xml#id(q3nc2f.464)..id(q3nc2f.466)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m11_green_bay)"/>
+</landmark_denial>
+<landmark_reference id="q3nc2.f.ref.8" stat="0" lit="l" def="null" men="rep0" plural="0" part_reference="no">
+  <nite:child href="q3nc2.f.timed-units.xml#id(q3nc2f.465)..id(q3nc2f.466)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m11_green_bay)"/>
+</landmark_reference>
+<landmark_denial id="q3nc2.f.ref.9" stat="0" part_reference="yes">
+  <nite:child href="q3nc2.f.timed-units.xml#id(q3nc2f.481)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m11_green_bay)"/>
+</landmark_denial>
+<landmark_reference id="q3nc2.f.ref.10" stat="0" def="el" part_reference="yes" men="rep0" lit="none" plural="0">
+  <nite:child href="q3nc2.f.timed-units.xml#id(q3nc2f.481)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m11_green_bay)"/>
+</landmark_reference>
+<landmark_reference id="q3nc2.f.ref.11" lit="l" stat="0" def="null" men="rep0" plural="0" part_reference="no">
+  <nite:child href="q3nc2.f.timed-units.xml#id(q3nc2f.589)..id(q3nc2f.590)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m11_green_bay)"/>
+</landmark_reference>
+<landmark_reference id="q3nc2.f.ref.12" stat="0" def="pro" men="rep0" lit="none" plural="0" part_reference="no">
+  <nite:child href="q3nc2.f.timed-units.xml#id(q3nc2f.608)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m11_green_bay)"/>
+</landmark_reference>
+<landmark_reference id="q3nc2.f.ref.13" stat="0" def="pro" men="rep0" lit="none" plural="0" part_reference="no">
+  <nite:child href="q3nc2.f.timed-units.xml#id(q3nc2f.688)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m11_vast_meadow)"/>
+</landmark_reference>
+<landmark_reference id="q3nc2.f.ref.14" stat="0" def="pro" men="rep0" lit="none" plural="0" part_reference="no">
+  <nite:child href="q3nc2.f.timed-units.xml#id(q3nc2f.688)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m11_attractive_cliffs)"/>
+</landmark_reference>
+<landmark_reference id="q3nc2.f.ref.15" lit="l" stat="0" def="null" men="rep0" plural="0" part_reference="no">
+  <nite:child href="q3nc2.f.timed-units.xml#id(q3nc2f.688)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m11_finish)"/>
+</landmark_reference>
+</nite:root>
