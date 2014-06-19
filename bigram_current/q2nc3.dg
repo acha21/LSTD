@@ -1,0 +1,319 @@
+g,reply_w,right neil erm at the bottom
+g,query_yn,right-hand corner of your map do you have a missionary camp
+f,reply_y,yeah
+g,reply_w,about half an inch above it we've got an "x" marking start
+f,reply_y,yes
+g,query_yn,have you got that
+f,reply_y,yes
+g,acknowledge,right
+g,instruct,erm now i want you to take a route about one inch directly west
+g,explain,if the top of the page is north and the left-hand side of the page is west
+g,instruct,i want you to go about one inch west
+f,acknowledge,okay
+g,ready,now eh
+g,instruct,we're heading about two inches southwest
+f,acknowledge,right
+g,instruct,eh which should leave you t-- at the bottom left-hand corner of the missionary camp about an inch diagonally away from it
+f,reply_y,got you
+g,instruct,and then ab-- about an inch from the bottom of the page as well
+f,acknowledge,sure okay
+g,query_yn,now on your map on the left-hand bottom corner do you have a bunch of rather nasty looking gorillas
+f,reply_n,no i don't
+g,explain,well i do and i think it's something we might want to avoid
+f,acknowledge,right
+g,ready,right so erm
+g,instruct,my route tells me to go on a slightly dipping downwards line west but don't draw it yet 'til i give you the exact instructions
+f,acknowledge,okay
+g,reply_w,this line is dipping slightly down and to the left keeping about well you'd be better to go to within about half an inch of the bottom of the page so at the bottom left-hand corner you should be about an inch from both the left-hand side and the bottom of the page a-- a half an inch from the a--
+g,explain,sorry i'll start that again
+g,instruct,should be an inch from the left-hand side of the page and half an inch from the bottom side of the page at the bottom left-hand corner
+g,acknowledge,okay
+f,query_yn,is this avoiding the banana tree
+g,reply_n,avoiding no
+g,clarify,avoiding gorillas
+g,query_yn,have you got banana tree
+f,explain,i've got a banana tree
+f,explain,but it's probably in much the same place
+g,reply_y,yeah
+f,acknowledge,right
+g,acknowledge,right okay
+f,instruct,i'll just go to where you say it avoids the banana tree anyway
+g,instruct,so you're heading s-- s-- west but slightly southerly
+f,reply_y,yeah
+g,acknowledge,right
+g,instruct,stop about an inch from the left-hand side of the page
+f,reply_y,yeah
+g,reply_w,should be at a point about half an inch off the bottom of the page now
+f,reply_y,yeah
+g,acknowledge,right
+g,instruct,now i think we should eh read the banana tree as where the gorillas live so
+f,acknowledge,right
+g,query_yn,erm avoiding the banana tree i suppose
+f,reply_y,yeah
+g,instruct,erm go about
+g,ready,well hang on
+g,query_yn,have you got a rope bridge on your map
+f,reply_y,yeah i do
+g,acknowledge,right okay
+g,instruct,draw a line straight up horizontally level with the rope bridge
+f,acknowledge,okay
+g,instruct,eh go across the rope bridge and just stop at the end of it
+f,acknowledge,right
+g,instruct,go directly down half an inch
+f,acknowledge,right
+g,instruct,go to
+f,reply_y,i do yeah
+g,query_yn,have you got a waterfall on your map at the right-hand side
+f,reply_y,yeah
+g,acknowledge,right
+g,instruct,go to the right and slightly upwards about half a centimetre upwards and about five centimetres to the right just beside the waterfall
+f,acknowledge,okay
+g,query_yn,so have you got a cloud at your waterfall
+f,uncodable,eh s--
+g,align,like a sort of steam you know vapour
+f,reply_y,yeah uh-huh
+g,instruct,right well you should be at a point horizontally level and to the left of that cloud
+f,reply_y,yeah
+g,query_yn,right head s-- s-- have you got anything between the waterfall and the lost steps
+f,reply_n,no sod all
+g,acknowledge,right
+g,instruct,go up about four inches directly up so you're at the top right-hand side of the lost steps
+f,query_yn,four inches directly up the side top right-hand side
+g,reply_y,yeah
+f,explain,that's not directly up on mine
+g,acknowledge,alright
+g,query_w,where are the lost steps in relation to the waterfall
+f,align,they are about about seven inches away
+g,check,seven inches
+f,reply_y,yeah
+g,explain,well mine aren't slightly nearer mine are only about three inches away
+f,acknowledge,ah
+g,instruct,so if you go up four inches
+g,acknowledge,right
+f,acknowledge,right
+g,clarify,from where you were directly
+f,reply_y,right straight up
+g,reply_y,uh-huh
+f,acknowledge,right
+g,instruct,now draw an arc s-- a slight arc as if it was a lar-- a v-- very small part of a large circle from where you are to going slightly up and left and curving down to
+g,query_yn,have you got the fallen pillars
+f,reply_y,yeah
+g,acknowledge,right
+g,check,to the
+g,query_w,where are they in relation to the lost steps
+g,query_w,i mean where are they in relation to where you are now
+f,reply_y,they they are exactly er a horizontal line away from me
+g,instruct,horizontally level
+f,reply_y,uh-huh
+f,clarify,four inches away
+g,acknowledge,right okay
+g,instruct,draw an arc between where you are now to the bottom right-hand side of the fallen pillars
+f,clarify,an arc as in up arc or down arc
+f,acknowledge,right
+g,instruct,yeah up up to the left round the lost steps and curving down between the fallen pillars and where you are just now
+f,acknowledge,ah
+g,reply_w,eh at the bottom right-hand side of the fallen pillars
+f,check,i can't go round the lost steps from where i am
+g,query_w,sorry
+g,align,no forget your lost steps
+g,explain,i'm talking about my lost steps
+f,acknowledge,right okay
+g,query_w,sorry
+g,uncodable,erm
+f,acknowledge,right
+f,acknowledge,yeah i've right
+g,query_yn,if y-- have you got that arc yet erm are you at the bottom right-hand side of the fallen pillars
+f,reply_y,yes i am now
+g,acknowledge,right
+g,instruct,erm right go about one and a half inches directly west
+f,acknowledge,right
+f,reply_w,that's just past the fallen pillars
+g,reply_y,yeah
+g,clarify,'til you're at th-- just beyond the f-- the far the bottom left-hand side of the fallen pillars
+f,acknowledge,okay
+g,instruct,right we'll just take a quick check here are you about two inches from the far left-hand side of the page
+f,clarify,well two inches
+f,ready,but
+g,reply_w,well about two and a half
+g,acknowledge,all right okay
+f,reply_y,yeah well roughly
+g,instruct,and about nearly halfway up page
+f,reply_y,yeah
+g,acknowledge,right
+g,instruct,eh right go about s-- eh see from where you are just now
+f,acknowledge,mmhmm
+g,explain,if that was eh mm how can i put this if that was the bottom of a circle right no sorry the right-hand side of a circle right
+f,acknowledge,mmhmm
+g,instruct,at the middle point at the mid point of the right-hand side of the circle
+f,acknowledge,mmhmm
+g,instruct,i want you to draw a circle erm
+g,instruct,hang on don't draw it yet
+f,reply_n,no i'm not drawing yet
+g,explain,i i'm still i'm still thinking what i'm going to say here
+g,instruct,right so you're at the right-hand side of the circle
+f,reply_y,yeah
+g,instruct,i want you to draw the circle it's about one and a half inches wide
+f,acknowledge,mmhmm
+g,instruct,eh 'til draw it downwards and to the left
+g,acknowledge,okay
+f,reply_y,yeah
+f,reply_y,yeah
+g,instruct,so you're really drawing a semicircle really eh
+g,instruct,and that should leave you in a within about a centimetre of the far left-hand side of the page
+f,query_yn,yeah is that round have you got flamingoes
+g,reply_n,no
+f,acknowledge,right
+g,acknowledge,right
+f,explain,i'll just draw around the flamingoes 'cause they look pretty vicious
+f,acknowledge,right
+f,explain,that's it
+g,query_yn,right now have you got ancient ruins
+g,query_yn,on yours
+f,reply_y,yeah i've well i've got i've got a ruined city
+g,query_yn,ruined city
+f,reply_y,yeah
+f,acknowledge,and wee seagulls
+f,reply_y,aye
+g,query_yn,do you have sort of eh bricks and stuff and three three seagulls above it
+g,reply_y,yeah
+f,reply_y,yeah
+g,instruct,right well draw a line from where you are just now a straight one up to the right beside the ancient ruins left-hand side of the ancient ruins
+f,instruct,okay that's it
+g,instruct,eh and now draw a small line about half an inch long to until you're directly to the left-hand side of the seagulls within about half a centimetre of them
+f,check,so a diagonal line
+g,reply_y,yeah
+f,acknowledge,right
+g,reply_w,just aba-- just a wee short diagonal one just a slight deviation
+f,acknowledge,okay
+g,query_yn,now have you got stones at the top left-hand point of your page
+f,acknowledge,rock fall
+g,acknowledge,rock fall
+f,reply_y,yeah
+g,acknowledge,mm that doesn't sound too chuffed
+g,ready,right okay anyway
+g,explain,i've got stones here
+g,align,is the word rock fall under the rocks
+f,reply_y,yeah
+g,reply_y,sort of flat stones
+f,reply_n,eh no
+g,ready,jaggedy
+f,explain,mine's are all sort of falling no they're all round and falling
+g,acknowledge,oh right okay
+g,instruct,erm well i suppose we've still got to follow this route
+g,instruct,right go straight up about erm mm two inches say
+f,acknowledge,okay
+g,reply_w,from where you are just now
+g,query_w,where are you in relation to the rock fall just now
+f,clarify,right horizontal from it
+g,clarify,horizontal from it
+f,acknowledge,i-- aye
+g,acknowledge,right okay
+f,clarify,same same level as it
+g,explain,well on mine the stones are slightly above where we are just now
+f,acknowledge,okay
+f,instruct,go up further
+g,instruct,so um you go
+g,explain,so i think we're safe there
+f,reply_y,yeah
+g,explain,i think there's two different things but very close
+f,reply_y,yeah
+g,clarify,right go east directly east about two inches and er
+g,ready,whoa wait a minute
+g,query_yn,have you got a white mountain there at the top right-hand corner
+f,reply_y,yeah
+g,acknowledge,right okay
+g,instruct,go t-- about two inches to the bottom of the white mountain
+f,explain,ah i can't do that my i'm about mm six inches away from the white mountain and two inches below it
+g,clarify,two inches below it
+f,reply_y,yeah
+f,query_w,where are
+g,query_w,ehm where are you in relation to the top of the page just now
+f,instruct,uh about four inches
+g,check,four inches
+f,reply_y,yeah
+g,query_w,where are you from the left-hand side
+f,reply_w,about two
+g,acknowledge,right there're two bits right
+f,reply_y,yeah
+g,instruct,can you keep on going up until you're within about an inch and a half of the top
+f,acknowledge,okay yeah done it
+g,query_w,right how close are you to the white mountain now
+f,instruct,uh about four inches away
+g,align,four inches right
+f,check,just round about the same level
+g,instruct,just go east to the base of the white mountain then
+f,acknowledge,okay
+g,instruct,eh now heading directly north east over the up to the peak of the white mountain
+f,check,northeast
+g,reply_y,yeah north
+f,explain,well i'm right underneath the mountain
+g,check,are you
+g,acknowledge,oh sorry
+f,reply_w,a-- directly right at the bottom
+g,check,the bottom left
+f,acknowledge,all right i'll scrub out the line
+g,explain,y-- scrub that out
+f,acknowledge,right
+g,instruct,and we should be at the bottom
+f,ready,right n--
+f,acknowledge,right okay
+g,instruct,left-hand corner of the white mountain
+f,check,then i stop
+g,acknowledge,right
+f,instruct,up to the top
+g,reply_y,eh yeah
+g,instruct,up to top northeast about two inches or so
+f,reply_y,yeah
+g,explain,one and a half maybe
+g,instruct,right back down eh southeast
+f,acknowledge,right
+g,reply_w,the same distance
+g,instruct,now you're going into a curve
+g,query_yn,have you got a soft furnishings store
+f,reply_n,no
+g,explain,well that's directly below the white mountain about an inch so we've got about an inch to play with here
+f,acknowledge,right
+g,instruct,so i want you to curve round underneath the white mountain and then when when your curve is underneath the "n" of mountain
+f,reply_y,uh-huh
+g,instruct,m-- make it into a straight line eh going left about two inches
+g,reply_y,yeah
+f,clarify,so going left straight horizontal left two inches
+g,align,until you're under the base of the white mountain
+f,acknowledge,right
+f,reply_y,yeah
+g,clarify,i mean the left-hand side where you were when you started going up it
+g,acknowledge,right
+f,acknowledge,okay
+g,instruct,right go about a c-- a further centimetre
+f,check,down
+g,check,left
+f,acknowledge,acr-- right
+g,instruct,now go straight down about three inches
+f,acknowledge,okay
+g,instruct,and curve round to the right just just a small curve the the length of the curve should be about two centimetres
+f,acknowledge,right
+g,ready,and
+f,query_yn,is it an u-- an u-- a "u"-turn or a
+g,query_yn,well have you got gazelles on yours
+f,reply_y,yeah
+g,acknowledge,right okay
+g,instruct,curve round the left-hand side of the gazelles
+f,explain,ah but my gazelles are much further down
+g,acknowledge,ah right
+g,query_w,how far are they below the white mountain
+f,instruct,uh about six inches
+g,acknowledge,right okay
+g,instruct,well keep going
+g,explain,i think they're the same as mine
+f,ready,so
+f,reply_n,no
+g,instruct,just keep going in a straight line don't go into the curve yet until you get to the gazelles
+f,instruct,and then curve round the gazelles
+g,instruct,curve round the gazelles 'til you're facing right now
+f,acknowledge,okay
+g,acknowledge,okay
+f,reply_y,yeah
+g,instruct,right go about two inches
+g,instruct,and that's us finished
+f,clarify,two inches to the right
+g,reply_y,yeah

@@ -13,9 +13,91 @@ from os import listdir, makedirs
 from os.path import isfile, join, exists
 from maxent import MaxentModel
 from operator import itemgetter
+from collections import deque
+import evaluate
 
 outPathName="baseline"
 
+def previous_n_uts_maxEnt(trainfiles, testfiles):
+    # used feature : n-gram, previous ngram, current speaker, previous label
+    model = MaxentModel()
+    prev = 1
+    model.begin_add_event();
+    g_fm = FeatureMap() 
+    ext_unigram = True
+    ext_bigram = False
+    ext_trigram = False
+    
+    fe = FeatureExtractor(g_fm)
+     
+    for f in trainfiles:
+        #print f
+        lines  = open(f, "r").readlines()
+
+        prev_label = deque( maxlen=prev )
+        prev_context = deque( maxlen=prev )
+        features = []
+        for line_l , line in enumerate(lines):
+            speaker = line.split(",")[0]
+            label = line.split(",")[1]
+            stn = line.split(",")[2]
+            
+            if(line_l>=prev):
+                for i in range(0,len(prev_context)):
+                    for m in prev_context[i]:
+                        features.append("-"+str(i+1)+m)
+                    for m in prev_label[i]:
+                        features.append("-"+str(i+1)+m)
+                         
+            #print speaker, label, stn
+           
+            contexts = fe.toContext(stn,ext_unigram,ext_bigram,ext_trigram)                
+            
+            features+=(contexts+[speaker])
+            model.add_event(features, label)
+            features = []
+            prev_context.append(contexts)
+            prev_label.append([label])
+            
+                
+    model.end_add_event()
+    model.train(100, "lbfgs");
+    
+    for testfile in testfiles:
+        ls = testfile.split("/")
+        outfileName = ls[len(ls)-1]
+        with open(testfile,"r") as f:
+            lines = f.readlines()
+            prev_label = deque( maxlen=prev )
+            prev_context = deque( maxlen=prev )
+            with open(outPathName+"/"+outfileName, "w") as outf:
+                 for line_l , line in enumerate(lines):
+                     
+                    spLines = line.split(",")
+                    stn = spLines[2]
+                    speaker = spLines[0]
+                    
+                    if(line_l>=prev):
+                        for i in range(0,len(prev_context)):
+                            for m in prev_context[i]:
+                                features.append("-"+str(i+1)+m)
+                            for m in prev_label[i]:
+                                features.append("-"+str(i+1)+m)
+                    
+                    contexts = fe.toContext(stn,ext_unigram,ext_bigram,ext_trigram)                                                
+                    features+=(contexts+[speaker])
+                    
+                    #print stn                 
+                    result = model.eval_all(features)
+                    outcome = max(result,key=itemgetter(1))[0] 
+                    #print result
+                    #print spLines[0]+","+outcome+","+spLines[2]
+                    outf.write(spLines[0]+","+outcome+","+spLines[2])
+                    
+                    features = []
+                    prev_context.append(contexts)
+                    prev_label.append([outcome])
+                    
 
 def only_presentSTN_maxEnt(trainfiles, testfiles):
     model = MaxentModel()
@@ -52,7 +134,7 @@ def only_presentSTN_maxEnt(trainfiles, testfiles):
                     result = model.eval_all(fe.toContext(stn,True,True,True))
                     outcome = max(result,key=itemgetter(1))[0] 
                     #print result
-                    print spLines[0]+","+outcome+","+spLines[2]
+                    #print spLines[0]+","+outcome+","+spLines[2]
                     outf.write(spLines[0]+","+outcome+","+spLines[2])
                     
                    
@@ -125,8 +207,18 @@ def makeOutDir(out):
     outPathName = out
     if not exists(outPathName):
         makedirs(outPathName)
-if __name__=="__main__":
-    makeOutDir("bigram_current")
+
+def testCurrentBigram():
+    out = "bigram_current"
+    makeOutDir(out)
     folds = makeFolds("./dialog",10)
     test , train = div_test_train_fold(folds, 2)
-    only_presentSTN_maxEnt(train, test)
+    #only_presentSTN_maxEnt(train, test)
+    #previous_n_uts_maxEnt(train, test)
+    print evaluate.evaluateCV(previous_n_uts_maxEnt,"bigram_current","dialog")
+    #evaluateCV(diact_classifier.previous_n_stn_maxEnt,"previous","dialog")
+    #print evaluate.evaluate(out,"dialog")
+    #evaluate("previous_1_current","dialog")
+    
+if __name__=="__main__":
+    testCurrentBigram()

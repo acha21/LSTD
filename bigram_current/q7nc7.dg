@@ -1,0 +1,179 @@
+g,explain,okay the start part is at the top left-hand corner
+f,reply_y,uh-huh
+g,acknowledge,okay
+f,reply_y,uh-huh
+g,instruct,ehm you're coming the s-- for three inches down below that
+g,query_yn,do you have a diamond mine there
+f,acknowledge,yeah right
+g,acknowledge,okay
+f,reply_w,on the right-hand side roughly just
+g,reply_y,uh-huh
+f,check,right down there
+g,acknowledge,right beside it
+g,check,you just go straight down underneath it
+f,acknowledge,right okay oops that was
+g,query_yn,do you have a graveyard just along from the diamond mine
+f,reply_n,no
+g,reply_n,no
+f,explain,i've got a gallows to the left like d-- below the left
+g,reply_n,no
+g,instruct,just ignore that
+f,acknowledge,right okay
+g,query_yn,do you have carved stones
+f,explain,oh no i have got a gold mine but it's it's a it's a good bit below that
+g,reply_n,sorry no
+g,check,i said a graveyard
+f,acknowledge,oh sorry
+f,reply_n,no oh no i s-- d--
+g,explain,no it's to the right-hand side of the diamond mine on my map there's a graveyard right beside it
+g,acknowledge,okay
+f,reply_n,no i haven't got that
+g,ready,well
+f,acknowledge,okay
+g,instruct,so come along to about mm about five six inches anyway straight along to the right
+f,check,underneath the diamond mine
+g,check,underneath the diamond mine
+f,acknowledge,right
+f,query_w,how far underneath the diamond mine
+g,reply_w,it's about an inch or so
+f,acknowledge,right okay five inches right along
+f,check,up along to near a r-- a ravine stuff thing
+g,explain,no i don't have the ravine
+f,explain,i've got
+g,query_yn,do you have carved stones
+f,explain,i've got carved stones
+f,instruct,and then indian country
+g,reply_y,yeah down below it
+f,reply_w,bit underneath it and i've got a ravine right in the middle between they two
+g,ready,right well
+g,instruct,try and ehm go as close to ravine as possible but up towards the carved stones
+f,acknowledge,right
+g,check,in a curve
+f,check,in a curve or a s-- tight angle
+g,acknowledge,above the carved stones
+f,acknowledge,above the carved stones
+g,reply_y,yeah
+f,acknowledge,right
+f,check,round the carved stones kind of thing
+g,acknowledge,uh-huh right round them
+g,instruct,and back down towards the indian country
+f,acknowledge,right
+f,query_w,how far down do you want me to go
+g,instruct,'til you're right above the wigwams
+f,acknowledge,okey-dokey
+g,acknowledge,okay
+f,reply_y,uh-huh
+g,acknowledge,right
+g,query_yn,do you have to the left of the indian country a great rock
+f,reply_n,no
+g,reply_n,no
+g,query_yn,do you have a gold mine
+f,reply_y,yeah
+f,explain,it's right it's it's on like the other side
+g,acknowledge,okay
+f,explain,and it's down a wee bit
+g,acknowledge,well yeah
+g,ready,well
+f,reply_y,uh-huh
+g,explain,the great rock is level with the indian country and ehm in between the gold mine
+g,explain,and the indian country
+f,acknowledge,right okay
+g,instruct,so you're trying to avoid that so go down a little bit 'til just underneath where the indian country is
+f,query_w,how do you mean go down
+g,ready,well
+f,check,do i go to the side of the indian country
+g,reply_y,yeah
+g,instruct,you're heading from the indian country to the gold mine but trying to avoid the gold rock so come down to the bottom of
+g,ready,like
+g,reply_y,uh-huh
+f,explain,right as if i was going underneath the gold rock if it if i had it there
+g,instruct,if you had a great rock as if you're going underneath it
+f,acknowledge,right okay
+g,instruct,to the side down by the side of the wigwams underneath this great rock
+f,reply_y,uh-huh
+g,check,then back up and above the gold mine
+f,acknowledge,right okay got that
+g,acknowledge,okay
+g,clarify,just going curving along down the side of the gold mine
+f,acknowledge,right
+g,instruct,you're going quite far down maybe ab--
+g,query_w,wait a second what do you have underneath the gold mine anything
+f,explain,i've i've got a gold mine a totem pole and then a great rock a really good bit down
+g,acknowledge,right
+f,check,and then bandit territory right at the bottom
+g,acknowledge,right
+g,instruct,what you're trying to do is avoid the totem pole
+f,reply_y,uh-huh
+g,instruct,go un-- i would say go underneath the totem pole
+g,query_yn,do you have a trout farm
+f,reply_y,eh aye
+f,explain,but it's away over to the right-hand side
+g,reply_y,the right yeah
+g,ready,well
+g,explain,you're getting from underneath the totem pole above th-- which is above the great rock
+f,reply_y,uh-huh
+g,check,underneath that and then heading across to the right to the trout farm
+f,acknowledge,right okay
+g,query_yn,do you have a cavalry
+f,reply_n,no
+g,reply_n,no
+g,ready,well
+g,instruct,go s--
+f,explain,i'm up shit creek i haven't got a cavalry
+f,uncodable,sorry
+g,acknowledge,right
+g,instruct,go straight underneath the trout farm
+f,ready,right so
+f,check,i'm coming from a totem pole at a di-- totem pole like in a dinai diagonal across to the trout farm
+g,reply_y,yeah
+g,instruct,sort of cu-- well curve sort of up to the trout farm
+f,acknowledge,right okay
+g,instruct,go along
+f,check,above or below the trout farm
+g,acknowledge,below
+f,acknowledge,right okay
+g,instruct,go along the side of the trout farm
+f,reply_y,uh-huh
+g,check,to the right-hand side
+f,reply_y,uh-huh
+g,instruct,and about about an inch away from the end of the sheet of paper
+f,reply_y,uh-huh
+g,instruct,and then go straight d--
+g,query_yn,do you have a cattle stockade
+f,check,right near near the corner
+g,reply_y,uh-huh
+f,acknowledge,right
+g,instruct,go straight down to the cattle stockade
+f,query_w,like above or below it
+g,check,below it
+f,acknowledge,right okay
+g,instruct,go along to the end of the cattle stockade
+f,clarify,along the bottom and left
+g,clarify,and along the bottom yeah to the left of it
+f,acknowledge,right uh-huh
+g,query_yn,um do you have anything between this cattle stockade and the bandit territory
+f,reply_w,i've got a parched river bed
+g,acknowledge,right
+f,instruct,but it's sort of nearer the cattle stockade but roughly in the middle cattle stock--
+g,query_yn,is it sort of underneath the cattle stockade
+f,reply_w,aye just a wee bit under
+g,acknowledge,right
+g,ready,well
+g,instruct,just go a little curve above it
+f,reply_y,uh-huh
+g,instruct,and then go back down to the side of it and underneath the bandit territory
+f,reply_y,uh-huh
+g,check,right underneath it
+f,acknowledge,right done that uh-huh
+g,instruct,and then just come back up 'til you're level with the top of the plant thing about a
+f,query_w,what plant thing
+g,clarify,at th-- at the bandit territory
+f,acknowledge,oh right
+f,acknowledge,oh the cactus
+g,acknowledge,yeah the cactus
+f,acknowledge,right uh-huh
+g,instruct,so you're about an inch away from the edge of the sheet of paper
+f,reply_y,uh-huh
+g,explain,and just that's your cross is there that's it finished
+f,acknowledge,okey-dokey
+f,explain,oh that looks an interes--

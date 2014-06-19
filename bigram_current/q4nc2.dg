@@ -1,0 +1,335 @@
+g,acknowledge,okay
+f,reply_y,uh-huh
+g,instruct,we're s-- we're starting in the top left-hand corner
+f,instruct,uh-huh at the start
+g,reply_y,ehm a-- above the diamond mine
+f,reply_y,uh-huh that's right
+g,instruct,ehm come straight down
+f,check,straight down
+g,check,straight down
+f,acknowledge,straight down yeah
+g,check,straight down
+f,reply_y,uh-huh
+f,query_w,how far
+f,reply_w,out
+f,acknowledge,oh well i'll move this over then okay
+f,acknowledge,okay then
+f,acknowledge,right uh-huh
+g,uncodable,is i--
+f,acknowledge,okay
+f,acknowledge,right okay
+g,query_yn,do you have a
+g,query_yn,can i can you
+f,reply_y,uh-huh
+g,query_yn,do you do you have a field station marked on the left-hand side
+f,query_yn,do i go down that far
+g,reply_n,go no
+g,instruct,go down halfway between the the
+g,instruct,the diamond mine and the field station
+f,instruct,the diamond mine and the field station
+f,acknowledge,okay
+g,instruct,and then turn to the right
+f,acknowledge,the right okay
+f,query_w,how far
+g,query_yn,i'm g-- ca-- is there a mountain in the top
+f,check,the highest viewpoint
+g,check,the highest viewpoint
+f,reply_y,uh-huh
+g,explain,are springboks marked on the map
+f,reply_n,ehm no
+g,reply_n,no
+g,instruct,well come over to towards the the highest viewpoint come s-- come
+g,instruct,make sure you've come halfway between the diamond mine and the field station
+f,reply_y,i have
+g,instruct,and come over to the right to until you're just below the left-hand side of the mountain
+f,acknowledge,okay
+f,check,in a straight line
+g,check,in a straight line
+f,acknowledge,right okay
+f,acknowledge,right okay
+g,instruct,then go straight up to above the mountain
+f,acknowledge,not going through the mountain
+g,acknowledge,not going through the mountain
+f,align,at all okay
+g,query_yn,straight up to above the mountain
+f,reply_y,straight up uh-huh
+f,query_w,how far
+g,check,to the to-- near the top of the page
+f,query_yn,near it
+f,check,past the birds
+g,explain,i i haven't got birds mar--
+g,reply_y,yeah past the birds yeah yeah sure
+f,acknowledge,okay
+g,uncodable,ehm
+f,acknowledge,right
+g,instruct,turn right along to the e-- the ed-- to-- towards the edge of the page
+f,reply_y,uh-huh
+g,acknowledge,okay
+f,reply_y,uh-huh
+g,acknowledge,right
+g,instruct,wait a minute hold on can you come can you come back to the to the edge of the mountain
+f,reply_y,uh-huh
+g,ready,and
+g,reply_n,no
+f,check,where i started from yeah
+g,instruct,come back to the the right-hand side of the mountains
+f,acknowledge,oh right okay right uh-huh
+g,instruct,and i want you to drop straight down until you're level with the field station
+f,instruct,what field station
+g,query_yn,it-- there's a field station marked
+f,acknowledge,oh right okay
+f,check,on the other side
+g,acknowledge,oh dear right
+g,instruct,wait a minute
+f,instruct,on your
+f,check,on my left
+g,acknowledge,right
+g,explain,hold on i've g-- i've got a different field station from you
+f,explain,i've got one on my left
+g,explain,heeee this is good how ma-- you've got one on the
+g,query_yn,have you got a field station marked on the left-hand side
+f,clarify,uh-huh where i'm looking at it it's on my left
+g,query_yn,have you also got a field station marked in the centre
+f,reply_n,no
+g,acknowledge,no you don't
+f,reply_n,no
+g,align,it's on it-- it's on the far far left-hand side of the page
+g,acknowledge,right
+f,reply_y,uh-huh
+g,instruct,drop down 'til you're level with that field station
+f,acknowledge,okay
+f,query_yn,is this have you got an overgrown gully
+g,reply_n,no
+f,acknowledge,oh right oh
+g,explain,i don't
+f,acknowledge,oh
+g,instruct,obviously you'll have to go round the overgrown --grown gully and and come back to a
+f,ready,well i
+g,instruct,come back to a point
+f,explain,could i just
+f,acknowledge,right
+f,align,you know how you've got the mountain
+f,reply_w,could i just drop down straight in a straight line
+f,query_yn,is there anything between the mountain and what is parallel to the field station
+g,explain,no there's absolutely nothing there
+f,acknowledge,right
+f,check,so i could just drop right down then
+g,query_yn,you can drop right down there yeah
+f,acknowledge,okay
+f,clarify,and just go on the same level then
+g,instruct,go 'til you're down to the level with this field
+g,acknowledge,station okay
+f,acknowledge,field station okay then
+g,acknowledge,right
+g,instruct,now you've got to turn left and go towards the field station but only 'til you're level with
+f,query_yn,the diamond mine or the banana tree
+g,reply_n,no no not as far a-- not f-- not as far across as that
+g,instruct,until you're level with the the centre of the mountain
+f,ready,okay then right okay
+g,acknowledge,okay
+g,acknowledge,right
+f,reply_y,uh-huh
+g,instruct,come now come slightly further left just a wee bit
+f,acknowledge,uh-huh right
+g,instruct,and drop straight down ehm
+g,ready,now wait a minute
+f,explain,i've went in a circle
+g,query_yn,have you got a banana tree have you got a banana tree marked
+f,reply_y,yeah
+g,acknowledge,you do
+f,reply_y,uh-huh
+g,instruct,drop straight down
+f,acknowledge,mmhmm
+g,instruct,so-- 'til you're level with the top branches of the banana tree
+f,acknowledge,right okay mmhmm
+g,acknowledge,okay
+f,acknowledge,mmhmm
+g,instruct,and then i want you to come across and go round the top of the banana tree
+g,clarify,you co--
+f,instruct,just straight across
+g,check,across to the left
+g,instruct,and round the top of the banana tree
+f,acknowledge,okay right
+g,query_yn,you don't have any other obstacles in the way there do you
+f,reply_n,no
+g,acknowledge,right okay
+g,query_yn,have you got a gold mine marked
+f,reply_n,ehm no
+g,acknowledge,right
+g,instruct,from the banana tree y-- you're dropping straight down
+f,acknowledge,mmhmm
+g,query_yn,ehm a rope bridge is that marked
+f,reply_y,uh-huh
+g,acknowledge,okay
+f,query_yn,can i
+g,instruct,you want to drop down lower th-- 'til you come b-- straight down from the bana-- from the left-hand side of the banana tree
+f,query_yn,can i go down in a straight line is there anything in between it
+g,instruct,come down in a straight line
+g,query_yn,fro-- from the banana tree
+g,instruct,ehm ho-- until you get to the rope bridge
+g,instruct,and we'll we'll take it from there in a second
+f,align,okay and
+f,explain,that's okay there's no obstacles
+g,reply_n,no obstacles
+f,acknowledge,right okay
+f,acknowledge,right
+g,query_yn,straight straight
+f,check,it's down to the rope bridge
+g,acknowledge,no you've not
+g,query_yn,did you go straight across to the rope bridge
+f,reply_n,no it's just it's
+g,reply_w,you you just come straight down right
+f,reply_y,yeah
+g,instruct,okay so you're
+f,instruct,it's a straight line down
+g,acknowledge,okay
+g,ready,now
+f,acknowledge,vertical line
+g,instruct,now you've got to drop down about well i'd like to say well i'd like to say about an inch
+f,instruct,why didn't you just go straight down from the start sign it would've been easier
+g,reply_y,yeah you're not kidding
+g,uncodable,ehm
+f,reply_w,i mean it's just straight down from there
+g,acknowledge,okay
+g,query_yn,have you got a rock fall marked
+f,reply_y,uh-huh
+g,acknowledge,okay
+g,instruct,come down to towards come come down towards the rock fall until you're just b-- until you're just above the rock fall
+f,acknowledge,mmhmm
+g,acknowledge,okay
+f,acknowledge,right okay in a straight line
+g,instruct,and now head across for
+f,uncodable,oops
+g,instruct,the r-- now head across to the rope bridge you can just go straight straight across from there to the rope bridge
+f,explain,there's nothing in between
+g,reply_y,yeah
+f,acknowledge,right
+g,clarify,nothing in between
+f,clarify,i've got to go like on top of the rock fall
+g,ready,li-- like
+f,align,that kind of line
+g,clarify,you want
+f,ready,well
+f,reply_y,uh-huh
+g,instruct,you you want to go you you drop straight down to to the to the rock fall now and you want to head from the rock fall straight across to the rope bridge
+f,acknowledge,mmhmm
+f,uncodable,just
+g,clarify,aye well not straight across but you you're you'll be going back up towards the rope bridge
+f,acknowledge,right
+f,explain,so i'm below the rope the rope bridge then
+g,align,so so you're at the moment you're below the rope bridge
+f,acknowledge,mmhmm
+g,instruct,and you're you're coming across in a diagonal towards the rope bridge going going from your right and up the way going to the right and up the way
+f,acknowledge,right
+f,check,so i'm heading for the rope
+g,reply_y,heading for the rope bridge yeah
+f,acknowledge,bridge okay
+g,instruct,just go straight to the rope bridge
+f,instruct,from there in like a uh-huh a diagonal line then from the rock fall
+g,reply_y,yeah that's right yeah
+f,check,you don't want me to go across and up
+g,instruct,no just straight just a diagonal line up to the rope bridge
+f,acknowledge,okay then
+f,acknowledge,right
+g,instruct,and then a-- across the rope bridge to the right-hand side of the page
+f,check,oh from the the top of the rope bridge or
+g,reply_y,yeah across the top of the rope bridge
+f,acknowledge,right okay
+f,align,i've went and drawn this
+g,reply_y,yeah fine yeah
+f,explain,can i go up and across because i've went and drawn it to the bottom of the rope bridge i can just go up and across
+g,clarify,and across the rope bridge
+f,reply_y,uh-huh
+f,acknowledge,right i've done that
+g,query_yn,have you got giraffes marked
+f,reply_y,uh-huh
+f,explain,i've got crocodiles as well
+g,acknowledge,crocodiles
+g,instruct,well you'll have to avoid the crocodiles as well but but you've got to go round the the the giraffes at the bottom right-hand corner of the page
+f,check,so i just go straight down right
+g,acknowledge,yeah that's right mmhmm
+f,check,okay i just go straight down
+f,query_w,and then i've reached the bottom of the gi-- of the giraffes
+g,acknowledge,d-- okay
+f,acknowledge,okay
+g,explain,now the only thing you've got to dodge is the great lake
+f,explain,i've got that on
+g,align,you've got that marked
+f,reply_y,uh-huh
+g,explain,now the great the great lake on my map is in the bottom left-hand
+f,reply_y,yeah
+f,explain,i've got that as well
+g,reply_w,corner it's di-- directly below the rock fall
+f,acknowledge,mmhmm
+g,align,so you've got t--
+f,instruct,and parallel to the disused warehouse
+g,explain,i don't have a a disused warehouse on mine
+f,acknowledge,oh right
+f,clarify,well i-- it's just parallel to it like just ehm well not underneath the giraffes you know over to the left
+g,reply_y,yeah
+f,reply_y,uh-huh
+g,explain,well i i would come down c-- i i would head right yeah on according to my map you've got to go ehm down towards the bottom of the page and underneath the great lake
+f,check,underneath it
+g,reply_y,yeah
+g,instruct,you want you want to go below the below the lake
+f,acknowledge,okay
+g,explain,the lake's in the b-- the lake in mine is b-- directly below the l-- the rock fall
+g,instruct,and you've got to come below the the great lake from from the giraffes
+f,reply_y,uh-huh
+f,acknowledge,so oh right okay right
+g,instruct,you can you can just come straight across i would not straight across and down a bit
+f,acknowledge,right
+g,check,and below the great lake
+f,uncodable,okay oops
+g,instruct,and turn r-- turn right once you've gone past the lake and come up
+f,instruct,turn right
+g,query_yn,to just belo-- yeah turn have you
+g,align,you've drawn a line you've
+f,explain,that's i've just drawn a a line left just now turning right would just be going back again
+g,acknowledge,you've drawn a line yeah wait a minute hold on right you've drawn a line left
+f,reply_y,uh-huh
+g,check,coming across towards the great lake
+f,reply_y,uh-huh
+g,acknowledge,okay
+f,explain,well it's over the d-- great i mean i've went under the
+g,query_yn,you've gone under it
+g,acknowledge,right
+f,acknowledge,great lake uh-huh
+g,instruct,go up the page
+f,instruct,go up it
+g,reply_y,up yeah towa--
+f,clarify,towards the rock fall
+g,instruct,up well not towards ehm stay on the left-hand side but go up
+f,query_w,where from
+g,instruct,ehm until you're just about half an inch below the rock fall and that's the finish
+f,query_w,where from which bit of the great lake
+f,query_w,the left or the right
+g,acknowledge,the great lake right
+g,align,you've come right under the great lake
+f,reply_y,uh-huh
+g,instruct,ehm you've got to the far left-hand edge of the great lake
+f,acknowledge,mmhmm
+g,instruct,ehm head up until you're level with the giraffes
+f,acknowledge,okay
+g,reply_w,the the l-- giraffes
+f,query_w,so we're on the far side of the
+g,instruct,head up until you're level with the giraffes' kneecaps
+f,clarify,just to be exact
+f,acknowledge,right
+f,check,so we're on the the left-hand side of the great lake
+g,reply_y,yeah
+f,acknowledge,oh right okay
+f,instruct,so we just head up here until we're up to the kneecaps
+g,reply_y,yeah
+f,acknowledge,okay
+g,explain,that's us
+f,explain,that's us
+g,reply_y,yeah we've done it
+f,acknowledge,right i'll draw this line again
+f,clarify,can you d-- redraw a line
+g,acknowledge,yeah i think so yeah
+f,explain,right okay it's just i drew this line wrong okay
+g,acknowledge,i think we've got it
+f,acknowledge,right
+f,explain,i think that's it it looks
+g,align,i'd like to see this
