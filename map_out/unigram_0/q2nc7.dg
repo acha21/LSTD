@@ -1,0 +1,236 @@
+g,acknowledge,right
+g,align,starting at sandy shore
+f,acknowledge,mmhmm
+g,instruct,down
+f,instruct,hang on i missed that cross is between eh the word sandy shore and start
+g,reply_y,yeah
+f,instruct,eh see the line there is there a line slightly to the right of that cross
+g,uncodable,eh
+f,align,like o-- on the sandy shore
+g,reply_n,no
+g,uncodable,uh
+g,reply_y,yeah
+f,explain,um i've got a sort of river thing crane bay crane bay that's it
+g,explain,right that's what i've got
+f,query_yn,have you got that
+g,reply_y,yeah
+f,instruct,and it's slightly to the right of the start
+g,reply_y,yeah
+f,explain,right so i take it i've to stay on dry land
+g,reply_y,uh yes
+f,acknowledge,right okay fire away
+g,acknowledge,right
+g,instruct,eh down and round the well to down to the bottom of the well
+f,ready,well
+g,query_yn,you've got a well have you not got a well
+f,uncodable,um
+f,reply_n,no
+g,check,no you've not
+g,acknowledge,right okay
+g,instruct,go down about four inches straight down
+f,check,s-- we're talking straight down here
+g,reply_y,yeah
+g,check,we're talking big straight down here
+f,query_yn,have you got local residents
+g,reply_y,yes
+f,acknowledge,right will i w-- end up level with that horizontally level with it
+g,instruct,yeah but not not next to them
+g,reply_w,you're about three inches away from them
+g,ready,well
+f,check,right so i'm going straight down
+g,reply_y,yeah
+g,ready,and then
+g,acknowledge,okay
+f,acknowledge,mmhmm
+g,acknowledge,right
+g,check,come up to the bottom left-hand side of the local residents
+f,acknowledge,right
+g,acknowledge,okay
+f,reply_y,uh-huh
+g,instruct,and go up and round them now go you got to cross the the river that goes into crane bay
+f,acknowledge,mmhmm
+g,instruct,you go up and across at the widest point
+f,query_yn,an iron bridge have you got an iron bridge there
+g,reply_n,no
+g,instruct,but i would presume you cross it
+f,reply_y,yeah
+f,explain,well i don't fancy swimming it anyway
+g,reply_n,no
+f,query_yn,am am i going in a kind of curve here
+g,reply_n,no
+g,instruct,you're going straight across it
+g,instruct,and then you go in to abou-- you go in and about an inch on the other side of the land
+f,acknowledge,alright
+g,acknowledge,okay
+f,reply_w,to woodland
+f,acknowledge,alright
+g,reply_n,not as far as that aye you're about it should be about an inch away
+f,acknowledge,okay
+g,acknowledge,no right
+f,explain,right i'm about an inch away
+g,instruct,follow the stream down
+f,acknowledge,mmhmm
+g,instruct,and then go round go round the bend
+g,clarify,about an inch beyond th-- the apex of the bend
+f,reply_y,uh-huh
+g,query_yn,now you don't have farm land do you
+f,uncodable,eh
+f,reply_n,no
+g,explain,no i knew you didn't
+g,uncodable,eh
+f,ready,oo
+g,instruct,go eh horizontal say three inches
+f,query_w,where in which direction
+g,acknowledge,to the right
+f,acknowledge,to the right
+g,reply_y,uh-huh
+f,explain,this is once i'm beyond the apex of the curve
+g,reply_y,yeah
+f,query_w,how far should i be beyond the apex of the curve
+g,instruct,well should be about an inch an inch and a half down
+f,acknowledge,right
+f,acknowledge,okay
+g,query_yn,you've got
+f,instruct,and then horizontally
+g,instruct,down to the right about three inches
+f,acknowledge,right
+g,instruct,then you go down two inches straight down
+g,explain,but i
+g,explain,i've got
+f,query_w,how far am i from the right-hand side of the page just now when i'm when i'm heading horizontally right
+g,align,you're you're about an inch
+f,acknowledge,right okay
+g,uncodable,roughly eh
+f,instruct,down
+g,reply_n,no
+g,align,you you've moved down
+f,reply_n,no i haven't yet
+g,acknowledge,oh right
+f,check,i've gone i've gone i've gone horizontal so far after the apex of the curve and then going horizontal
+f,ready,th--
+g,clarify,it makes a curve
+f,reply_w,i'm at the stop point just now
+g,acknowledge,ah right
+g,instruct,well go down two inches
+f,acknowledge,right
+f,align,see the dead tree
+g,reply_y,yeah
+g,query_yn,are you at the same level as that
+f,reply_y,yeah
+g,acknowledge,right
+g,instruct,well then move right across 'til you're at the bottom of the dead tree
+f,explain,i've got a mountain stream between me and the dead tree
+g,acknowledge,ah
+f,align,like see the gurgling brook
+g,reply_n,no
+f,ready,well see
+f,acknowledge,great
+f,align,see at do you see the river that runs into crane bay
+g,reply_y,yeah
+f,instruct,follow that back
+g,acknowledge,mmhmm
+f,query_yn,see the big bulge in it at the right-hand side
+g,acknowledge,mmhmm
+f,acknowledge,right
+f,check,coming back down towards the left
+g,reply_y,yeah
+g,reply_y,yeah
+f,explain,the river splits in two in mine
+g,acknowledge,uh-huh same here
+f,explain,i've got a
+g,check,it splits on either side of the tree
+f,reply_y,uh-huh
+g,instruct,you just cross straight over that
+g,explain,i've got
+f,acknowledge,oh right okay
+g,reply_w,i assume that's the same thing
+g,instruct,cross straight over 'til you're at the bottom of the dead tree
+f,acknowledge,mmhmm
+g,instruct,come down two and a half inches vertical
+f,check,is there treasure buried here
+g,reply_n,uh not on mine there's not
+f,clarify,hang on
+f,explain,i'm underneath the re-- dead tree just now right
+g,acknowledge,yeah same here
+f,check,back down directly two inches
+g,reply_y,straight down aye
+g,acknowledge,two two and a half no make it three
+f,explain,i'm not sure i think it should be two
+g,ready,well
+f,explain,i i think you're overestimating i want to get to this treasure here
+g,query_w,what
+f,acknowledge,right right carry on
+f,explain,i'm u-- underneath the dead tree
+g,acknowledge,right
+f,check,i'm going two inches straight down
+g,reply_y,yeah
+f,acknowledge,right
+g,ready,now
+f,acknowledge,right i'm to the right of the treasure buried here
+g,instruct,right well go left two and a half until you c-- approach the side of the lagoon
+f,acknowledge,mm right i'm kind of cutting through the treasure
+g,acknowledge,right
+f,clarify,picking up lots of lovely jubbely on the way
+f,instruct,right carry on
+g,check,down round to the bottom of the lagoon
+g,reply_y,following
+f,query_yn,in a sort of following the perimeter of the lagoon
+g,reply_y,the ah-- yeah
+f,acknowledge,rightee-ho
+g,query_yn,and you don't have a rock fall do you
+f,reply_n,no i don't
+f,explain,but i don't like the sound of it
+g,instruct,so er go to the left two inches
+f,acknowledge,eh right okay
+g,acknowledge,no left
+f,check,directly to the left
+g,reply_y,yes
+f,check,underneath the word lagoon i mean like
+g,reply_n,no
+g,reply_y,yeah
+f,instruct,about
+g,clarify,below the word lagoon but direct to
+f,instruct,about an inch and a half below the word lagoon
+g,reply_y,yeah
+f,acknowledge,right
+f,query_w,g-- and how far am i going left
+g,acknowledge,two inches
+f,acknowledge,right
+g,instruct,then go down and ac-- down two and across three so you get to the little the headland
+f,reply_w,headland
+g,align,point
+f,query_w,where's that
+g,align,on well look see green bay
+f,reply_y,uh-huh
+g,explain,there's a wee the the extreme sticky out bit of green bay
+f,reply_y,yeah
+g,align,see it
+f,acknowledge,oh right got you uh-huh
+g,reply_y,yeah just go straight to there
+f,query_w,from where i am just now
+g,reply_y,yeah
+f,instruct,so come s-- two inches
+g,instruct,across and then diagonal
+f,ready,across and then diagonally right okay
+g,ready,right and then
+f,instruct,heading straight into that wee point
+g,reply_y,yeah
+g,query_yn,then jump into the water
+f,acknowledge,oh
+g,instruct,and go down
+f,explain,are you doing this deliberately i'll bet that's not in the route
+g,check,no it is
+f,ready,eh right
+g,reply_w,i just want to get phil wet
+f,acknowledge,mm
+f,acknowledge,right am i
+g,instruct,eh go dow-- go into the wat-- go into the water down two inches
+f,clarify,hang on
+f,check,i'm a-- a-- m-- at the very very very point here
+g,reply_y,yeah
+g,instruct,ch--
+f,check,and i'm going straight down two inches
+g,reply_y,yeah
+f,acknowledge,right
+g,instruct,and then to the right two inches and that's the finish at the pirate ship
+f,acknowledge,okay hurrah

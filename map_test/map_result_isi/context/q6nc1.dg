@@ -1,0 +1,224 @@
+g,query_yn,you start to the left of sandy shore
+g,instruct,eh make your way down towards the well go to the left of the well
+f,ready,the well
+g,query_yn,the well just ehm opposite sandy shore
+f,query_yn,opposite sandy shore
+f,ready,the well
+g,reply_w,the well at the tip of crane bay
+f,align,the tip of crane bay
+f,align,okay
+f,check,you mean the right-hand side
+g,reply_n,no
+g,reply_w,it's at to the left of crane bay
+f,acknowledge,ah right d--
+g,check,oh the well is to the left of the crane bay
+g,acknowledge,right
+g,reply_w,you have to go around the well to the left of the well
+f,ready,well
+g,ready,the well
+g,align,you know where crane bay is
+f,reply_y,yeah
+f,acknowledge,it's just a thingmy yeah
+g,reply_w,it's just at the tip of crane bay
+f,check,just at the top left-hand
+g,align,the tip the tip of crane bay the bottom of crane bay
+f,acknowledge,oh right okay
+g,query_yn,just opposite sandy shore
+g,align,right
+f,align,okay
+g,ready,right now
+g,reply_w,you go down sandy shore round past the well
+f,reply_w,down sandy shore round past the well
+g,acknowledge,uh-huh
+g,instruct,keeping to the left
+g,align,right
+f,ready,the well
+g,reply_w,the well
+f,ready,what is the well
+g,explain,the well you know a well where you throw the bucket into the water then
+f,ready,well
+f,explain,there's no well here
+g,query_yn,is there no well there
+f,reply_n,no
+g,acknowledge,right okay right never mind
+g,acknowledge,you go
+f,query_yn,you've got an iron bridge and local residents and stuff and hills
+g,query_w,what have you got what what is uh
+g,align,see on your map at the bottom of cra-- bay crane bay
+g,query_w,what have you got
+f,query_yn,iron bridge
+g,reply_w,iron bridge
+g,acknowledge,yeah
+g,clarify,well go round that
+g,align,right
+f,reply_w,go around that
+g,acknowledge,uh-huh
+f,query_w,the top of it or the bottom of it
+g,check,the bottom of it
+f,acknowledge,uh-huh
+g,reply_w,go around it and ehm up towards your right
+g,acknowledge,right
+g,ready,now
+g,align,you know where the local residents stay
+f,acknowledge,uh-uh uh-huh
+g,ready,right now
+g,align,you know how there's a groove in crane bay
+f,query_yn,a groove in crane bay
+f,reply_y,yeah
+g,acknowledge,right
+f,reply_w,a slight one
+f,acknowledge,mmhmm
+g,acknowledge,uh-huh right
+g,instruct,you go up to there and at that point you turn right
+f,instruct,you go up to there and turn
+g,acknowledge,right
+f,acknowledge,right
+g,acknowledge,uh-huh
+f,acknowledge,uh-huh
+g,instruct,you go along um now you go along do-- you know the ehm hang on hang on right wait stop there a minute
+g,query_yn,is there a wood to the right of crane bay
+f,reply_y,yeah
+f,acknowledge,woodlands
+g,acknowledge,woo-- right okay
+f,acknowledge,woodlands trees and all that yeah
+g,reply_y,uh-huh yeah
+g,acknowledge,right
+g,instruct,don't go right to the very end go about to the middle between crane bay and the wood and stop there
+g,align,right
+f,instruct,crane bay and wood and stop middle
+g,reply_y,uh-huh stop in the middle
+g,clarify,don't go right along to the woods
+g,align,right
+f,acknowledge,uh-huh
+g,ready,now
+g,query_yn,have you got a does crane bay go on into a forked stream
+f,explain,it's got a sort of a stream gurgling brook
+g,acknowledge,right okay
+g,uncodable,go ehm
+g,query_yn,beside that stream
+f,acknowledge,mmhmm
+g,ready,right ehm
+f,query_yn,this this map is hopeless by the way
+g,reply_w,go beside the stream
+f,acknowledge,uh-huh
+g,ready,now
+g,query_yn,have you got farmed land
+f,reply_w,ehm i've got na-a-a-a-a
+g,ready,right well
+g,query_yn,does it
+f,query_yn,i've got gurl-- g-- gurgling brook right at the right at the bottom is a dead tree
+g,reply_y,yeah yeah right
+g,query_yn,see before the dead tree does the stream divide
+f,align,it sort of just goes round doesn't div--
+f,acknowledge,yeah it divides
+g,acknowledge,right
+g,check,go down to the division
+g,align,right
+f,acknowledge,uh-huh
+g,reply_w,right down to the division beside the stream stop there
+f,acknowledge,uh-huh
+g,acknowledge,right
+g,align,see to the right of the dead tree
+g,query_w,what is it
+f,explain,nothing much it's just mountain stream that's
+g,acknowledge,right
+g,clarify,well go round that to the right of it go round it
+f,reply_w,around it
+g,acknowledge,uh-huh
+f,acknowledge,uh-huh
+g,acknowledge,right
+g,ready,then
+g,reply_w,you stop just at the bottom of the dea-- not just ehm
+g,align,you know where it says dead tree
+f,acknowledge,mmhmm
+g,clarify,just stop at the bottom there at the bottom of the dead tree just a few millimetres below the dead tree
+g,align,right
+f,align,okay
+f,explain,my map is turning out really really bad
+f,acknowledge,okay go
+g,acknowledge,right
+f,acknowledge,dead tree murgey
+g,align,go ehm right
+g,instruct,from the dead tree go down a few centimetres
+f,acknowledge,uh-huh
+g,acknowledge,right
+f,acknowledge,yeah
+g,query_yn,have you gone down a wee bit yeah
+f,acknowledge,yeah
+g,ready,right now
+g,align,is you know how the forked stream divided
+f,acknowledge,mmhmm
+g,align,see at the bottom of the left-hand of the division
+g,query_yn,is there a lagoon
+f,reply_y,mm yeah
+g,acknowledge,right uh
+g,align,you know where you stopped
+f,acknowledge,mmhmm
+g,check,take it along to the lagoon
+f,check,right to the lagoon
+g,acknowledge,uh-huh
+f,acknowledge,mmhmm
+g,acknowledge,right
+g,check,stop there
+g,ready,now
+g,query_yn,go down the lagoon next to the lagoon mark it next to the lagoon
+f,check,i go right down to the lagoon
+g,acknowledge,uh-huh
+g,instruct,and stop at the bottom of the lagoon
+f,acknowledge,mmhmm
+g,acknowledge,right
+g,acknowledge,right you got it
+f,acknowledge,yeah
+g,acknowledge,right
+g,query_yn,now see further down from the lagoon is there rock fall
+f,acknowledge,mm
+g,query_yn,and green bay
+f,align,there's green bay yeah
+g,acknowledge,right
+g,query_yn,there's a pirate ship isn't there
+f,acknowledge,yeah
+g,acknowledge,right
+g,query_yn,have you got just above green bay is there rock fall
+f,reply_n,no rock fall
+f,explain,there's a computer controlled sub
+g,acknowledge,right right
+g,instruct,from the bottom of the lagoon take your marker round that sub
+f,reply_w,around it
+g,acknowledge,uh-huh
+f,reply_w,right down to it around it
+g,acknowledge,uh-huh
+g,align,above it you know round it
+f,reply_y,above it yeah
+g,acknowledge,right okay
+g,ready,and ehm now
+g,uncodable,eh
+g,query_yn,green bay
+f,reply_y,angie yeah green bay
+g,explain,there's a kind of ehm
+g,uncodable,er
+g,check,right take it round round there
+g,acknowledge,righ--
+g,explain,there's a kind of eh tip made at green bay
+g,align,you know where the sub is
+f,acknowledge,mmhmm
+f,acknowledge,right that right down to the left
+g,reply_y,uh-huh yeah yeah
+f,query_w,how about it
+g,check,take it through there
+f,acknowledge,uh-huh
+g,acknowledge,right
+g,check,stop there
+g,ready,now
+g,check,take it to the pi--
+g,query_yn,is there a pirate ship there
+f,acknowledge,yeah
+g,ready,right well
+g,reply_w,take it down a bit
+f,reply_w,down a bit
+g,check,from that tip
+g,align,right
+f,acknowledge,mmhmm
+g,instruct,down a few centimetres and take it down to the right towards the pirate ship and that's where you finish
+f,align,okay
+f,acknowledge,fine
+g,acknowledge,got it

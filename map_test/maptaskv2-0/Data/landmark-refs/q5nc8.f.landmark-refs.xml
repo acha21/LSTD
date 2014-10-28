@@ -1,0 +1,30 @@
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="landmark-refs.q5nc8.f">
+<landmark_reference id="q5nc8.f.ref.1" stat="0" def="el" men="intro_ql" lit="none" plural="0" part_reference="no">
+  <nite:child href="q5nc8.f.timed-units.xml#id(q5nc8f.38)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m9_site_of_plane_crash)"/>
+</landmark_reference>
+<landmark_reference id="q5nc8.f.ref.2" stat="0" def="numpro" men="rep0" lit="none" plural="0" part_reference="no">
+  <nite:child href="q5nc8.f.timed-units.xml#id(q5nc8f.46)..id(q5nc8f.47)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m9_site_of_plane_crash)"/>
+</landmark_reference>
+<landmark_denial id="q5nc8.f.ref.3" stat="0" part_reference="no">
+  <nite:child href="q5nc8.f.timed-units.xml#id(q5nc8f.87)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m9_slate_mountain)"/>
+</landmark_denial>
+<landmark_reference id="q5nc8.f.ref.4" stat="0" lit="l" def="null" men="intro_q" plural="0" part_reference="no">
+  <nite:child href="q5nc8.f.timed-units.xml#id(q5nc8f.102)..id(q5nc8f.103)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m9_hot_springs)"/>
+</landmark_reference>
+<landmark_reference id="q5nc8.f.ref.5" stat="0" lit="l" def="def" men="rep0" plural="0" part_reference="no">
+  <nite:child href="q5nc8.f.timed-units.xml#id(q5nc8f.154)..id(q5nc8f.156)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m9_white_mountain)"/>
+</landmark_reference>
+<landmark_reference id="q5nc8.f.ref.6" stat="0" lit="l" def="def" men="intro" plural="0" part_reference="no">
+  <nite:child href="q5nc8.f.timed-units.xml#id(q5nc8f.170)..id(q5nc8f.172)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m9_round_rocks)"/>
+</landmark_reference>
+<landmark_denial id="q5nc8.f.ref.7" stat="0" part_reference="no">
+  <nite:child href="q5nc8.f.timed-units.xml#id(q5nc8f.194)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m9_roman_baths)"/>
+</landmark_denial>
+</nite:root>

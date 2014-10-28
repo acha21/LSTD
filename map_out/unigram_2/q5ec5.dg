@@ -1,0 +1,142 @@
+g,ready,right er
+g,explain,the start is at a diamond mine
+f,reply_y,yes
+g,explain,now we're do this the same way as we did it before there's a wee man walking along
+f,acknowledge,uh-huh
+g,align,so as we can er it'll be fae the perspective of the viewer
+g,check,right is is the guy walking along
+f,reply_y,how can i
+f,acknowledge,right
+g,align,right the guy is standing so that the diamond mine will be on his left-hand side
+f,reply_y,okay
+g,acknowledge,mmhmm
+f,acknowledge,right
+g,instruct,now you walk down just past it
+f,instruct,just past the diamond mine
+g,instruct,aye and turn to your left
+f,check,so that's in below the diamond mine towards the centre of the page
+g,reply_y,and that's correct
+f,acknowledge,okay
+g,ready,right now
+g,explain,there's a graveyard on your left-hand side
+f,reply_n,no
+f,explain,the diamond mine's on my left-hand side
+g,instruct,well walk towards the centre of the page
+f,acknowledge,okay
+g,instruct,with the diamond mine on your left-hand side
+f,acknowledge,okay
+g,query_yn,and then is there a graveyard
+f,reply_n,no i have no graveyard
+g,reply_w,well is there a fast flowing stream further on
+f,check,i have a fast running creek
+g,clarify,well go along until you're sort of just below the fast running creek but no diet directly below it
+f,check,so i'm just
+f,reply_y,aye
+g,clarify,just before you're be-- more or less ab-- to it
+f,reply_w,at the canoes
+g,reply_n,no no no no no no
+f,acknowledge,you want me above the canoes
+g,explain,i don't ken anything about canoes
+f,reply_w,oh they're directly below the below the fast running creek
+g,instruct,well go up to the top of the page keeping the fast running creek to your right-hand side
+f,check,okay so when it's when i come past the diamond mine i've to go diagonally towards the fast running creek
+g,instruct,well no you go along and then up
+f,acknowledge,along and then up
+g,reply_y,aye
+g,instruct,but keep your fast flowing creek on your right-hand side
+f,check,on my right-hand side
+g,clarify,right and you circuit it
+f,check,circuit it
+g,instruct,keeping it on your right-hand side
+f,acknowledge,right okay
+g,instruct,then come straight back down the paper
+f,check,through the apache camp
+g,reply_n,no
+g,query_yn,go down towards the apache camp
+f,acknowledge,right
+g,instruct,and just before you come to it skirt it keeping it on your left-hand side diagonally
+g,acknowledge,right
+f,ready,right
+g,align,so you should now be
+g,query_yn,do you see a walled city
+f,reply_y,yes
+g,instruct,well head toward the walled city but keep it on your left-hand side when you get to it
+f,check,keep it on my left
+g,acknowledge,aye
+f,acknowledge,okay
+f,explain,i'm at
+g,instruct,so you're at the walled city above the walled city
+f,check,i'm above the walled city
+g,explain,well circuit it keeping it on your right on your left sorry
+f,explain,keeping it on my left
+g,reply_y,uh-huh
+g,ready,and now
+g,instruct,go straight down the paper
+f,check,straight down the paper
+f,check,past the ghost town
+g,query_yn,we don't have a ghost town
+f,ready,okay eh
+g,ready,now
+g,explain,there must be something there because there's a big loop
+g,check,where is your ghost town
+f,instruct,it's between the walled city and the carved wooden pole just
+g,explain,is it south of the walled city i assume this is sou--
+f,reply_y,sou-- south of the wall yes
+g,instruct,well keep keep it whatever it is on your left and circuit it so that you're facing
+g,acknowledge,do you see the stone creek and the flat rocks
+f,reply_y,stone creek flat rocks yes
+g,instruct,well go between them
+f,check,go between with the ghost town on my left
+g,reply_y,uh-huh
+g,instruct,go between the flat rocks
+f,reply_w,just towards the saloon
+g,check,we don't have a saloon
+g,acknowledge,the flat rocks
+f,acknowledge,okay
+g,instruct,right at at at the flat rocks turn and come down the bottom towards the buffalo
+f,check,t-- t-- so oh well i'll go past the saloon bar i'll keep it on my right and down towards the buffalo
+g,check,don't go in
+g,acknowledge,ken i knew you will
+f,reply_w,i'll try hard not to
+g,acknowledge,scrumpy jacks
+f,reply_y,aye
+g,uncodable,eh
+f,ready,doctor rose
+g,reply_w,down towards the buffalo
+f,acknowledge,right
+g,instruct,you circuit them keeping them on your right
+f,acknowledge,okay
+g,instruct,now you should be going along the bottom of the paper now
+f,reply_y,yes
+g,query_yn,now do you is there a cattle ranch
+f,reply_n,no
+g,explain,"o" "k" corral
+g,reply_n,no
+f,reply_n,no
+g,ready,well
+g,explain,there's obviously you've no got a cattle ranch
+f,acknowledge,mmhmm
+g,check,so you head for the fort
+f,check,head for the fort
+g,acknowledge,uh-huh
+f,explain,for the "u" "s" cavalry
+g,query_yn,i think the apaches will be after you so you better hurry
+f,explain,okay
+g,acknowledge,right
+g,instruct,and the buffalo and all
+f,acknowledge,ah
+g,align,now
+g,uncodable,uh
+f,explain,mm probably the saloon manager as well
+g,acknowledge,you owe money i suppose
+g,instruct,right and go bet-- between the fort and the bottom of the paper
+f,acknowledge,okay
+g,instruct,and then turn to your right by the fort
+f,acknowledge,okay
+g,instruct,and then just up a wee bit and it's the finish on a sort of level with the carved wooden pole
+f,acknowledge,okay
+g,instruct,that's you
+f,acknowledge,right that me
+g,reply_y,mmhmm
+g,ready,alles gemacht
+f,reply_w,i want to know why i didnae get in the saloon bar

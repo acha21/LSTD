@@ -1,0 +1,55 @@
+Y,Opening,Hi thank you for reaching out to Samsung technical support. How may I assist you?
+N,Word_Answer,i have been very pleased with my tablet   however monday it stopped taking the charge
+N,Issue_Statement,i know the cable etc works with other devices so it is not the cable
+Y,Open_Question,Please provide the model number of the tab.
+Y,Etc_Statement,You can find the model number at the rear panel or go to Apps>>Settings>>About Device.
+N,Word_Answer,i plugged it in tuesday and it charged....
+N,Issue_Statement,i plugged it in yesterday and it wont charge
+N,Positive,ok give me a sec
+Y,Etc_Statement,Sure I'll be waiting.
+N,Word_Answer,ce0168
+Y,Etc_Statement,The complete model number starts with GT or SGH or SPH or SCH or SM.
+Y,Open_Question,You can find the model number and serial number on the box of the tab also.
+N,Word_Answer,gt-p3113
+Y,Acknowledgement,Thank you for the model number.
+Y,Etc_Statement,Before proceeding further I would like to ask few questions. Would you like me to proceed further?
+N,Positive,yes
+Y,Acknowledgement,Thank you.
+Y,YN_Question,Are you using the default charger that came with the unit to charge?
+N,Positive,yes
+Y,Open_Question,How long have you kept the unit for charging connecting to the wall charger?
+N,Word_Answer,i plug it in when it needs charged...then i unplug it
+Y,PresentSolution,Please press and hold the power button for 30 seconds and check whether you're able to power on the tab and view home screen.
+N,Issue_Statement,i currently have power and unit is avail to use
+N,NotSolved_Answer,its just been the past few days as i explained that it doesnt work as normal
+N,Issue_Statement,now when i just did what you asked it brought the battery up and its charging
+N,Issue_Statement,but in the past when the homepage is up  it will say charging at whatever%
+N,PresentSolution,but the little battery in the top right corner has a red x in it
+Y,PresentSolution,Are you able to view homescreen and access apps on the tab currently?
+N,Positive,yes
+Y,ConfirmIssue_Question,Good to hear that the tab is working.
+Y,YN_Question,Can I help you with anything else?
+N,Positive,yes
+Y,Acknowledgement,Please go ahead with your question.
+N,Etc_Statement,please explain to me why the device is doing this   it has never been like this until this week
+Y,Etc_Statement,It's not possible to determine the exact issue what might be causing this.
+Y,PresentSolution,This might be an issue with the Apps that are installed on the tab or the Android operating system.
+N,Etc_Statement,well....that is really not acceptable...its not working properly  how do we fix it
+N,Word_Answer,i have not added deleted stuff on this device for weeks
+N,Etc_Statement,when i plug in the charger   it should automatically charge like it has been doing   i shouldnt see a red x on the battery icon
+Y,Acknowledgement,Would you like to reset the device?
+Y,PresentSolution,Please backup your data before performing reset on the tab.
+Y,PresentSolution,I'll provide you with the link with instructions to perform reset on the tab.
+N,Issue_Statement,i will try anything i just want the device to operate properly  so what do i do to reset it
+Y,PresentSolution,Here is the link with instructions to perform reset.
+Y,Connection_check_Question,http://support-us.samsung.com/cyber/popup/iframe/pop_troubleshooting_fr.jsp?idx=407065&modelname=GT-P3113&modelcode=GT-P3113TSYXAR&session_id=RLPwN1BYYw7htFDnQpJLKz2G4v0VbTj7hGL7sRJBCQZT1Xf6lvBL%211809824102%212130155397%211359728560464&from_osc=
+Y,Confirm_Question,Are you able to access the above link?
+N,Positive,yes
+Y,PresentSolution,Please perform reset on the tab this will help us to isolate the issue.
+N,Word_Answer,ok how do i  do the backup so i dont lose anything
+Y,YN_Question,Have you installed Kies on the computer?
+N,Negative,no
+Y,PresentSolution,I'll provide you with the link to download the Kies appalication.
+Y,PresentSolution,Here is the link to download the Kies.
+Y,PresentSolution,http://www.samsung.com/us/kies/
+Y,Confirm_Question,Are you able to access the above link?

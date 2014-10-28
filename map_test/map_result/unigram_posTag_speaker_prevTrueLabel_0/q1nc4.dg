@@ -1,0 +1,226 @@
+g,ready,right
+g,instruct,so the start is at the top left-hand side of the page
+f,reply_y,uh-huh
+g,query_yn,do you have cliffs just to to the right
+f,reply_y,to the right uh-huh
+f,query_yn,stas-- sandstone cliffs
+g,reply_y,mmhmm
+g,query_yn,do you have a forge below the cliffs about you know an inch or so down two inches maybe
+f,reply_n,er no
+g,explain,you don't have a forge
+g,ready,well
+g,instruct,the forge is eh below the c-- the cliffs say about two inches down
+g,align,okay
+g,instruct,so you go from the start slightly to your right down the way right a curve
+f,reply_y,uh-huh
+f,query_w,how far down
+g,instruct,to the bottom of the cliffs
+f,acknowledge,right
+g,instruct,and then you start to go left go about half an inch out to the left and d-- and down about you know two and a half inches three inches
+f,query_w,s-- so how far am i from the left of the page
+g,align,an inch and a half
+g,instruct,if you draw that line down you'll be on the left-hand side of the forge you don't have a forge but there is one there
+f,acknowledge,right
+g,ready,so now you're about
+f,reply_n,no hold on a minute
+g,instruct,you should really end up about four inches down from the the cross er you know in the same line like just beneath it in fact fo-- four inches down
+g,align,okay
+f,acknowledge,right
+f,explain,hold on wait a minute
+f,query_yn,am i right under the sandstone cliffs
+g,reply_n,no no
+f,reply_n,no
+g,reply_n,no
+g,instruct,the initial line from th-- the cross
+f,acknowledge,mmhmm
+g,align,goes right but it doesn't go as far right as the cliffs
+f,acknowledge,right okay
+g,instruct,it goes down to where it says cliffs
+g,align,okay
+f,reply_y,uh-huh
+f,acknowledge,right
+g,instruct,about a centimetre from where it says cliffs to the left-hand side of it okay then you go back left slightly until you're beneath the the start and down you know two or three inches until you're ab--
+f,check,straight down under the start
+g,reply_y,yeah
+f,acknowledge,right
+g,instruct,until you're about you know four inches or four and a half inches or so down from the start
+f,acknowledge,okay
+g,query_yn,do you have an old pine
+f,reply_y,uh-huh
+f,check,in the right kind of towards the middle a bit
+g,reply_y,yeah
+g,instruct,a single old pine
+f,reply_y,uh-huh
+g,instruct,w-- and down down as far as that
+g,align,okay
+f,acknowledge,right
+g,align,but you know beneath the start
+f,reply_y,uh-huh
+g,instruct,so then you go right which would be under the forge and you go up over the old pine
+g,align,okay
+f,acknowledge,right
+f,acknowledge,right up over the pine
+g,align,over the pine
+f,check,and i go right as far as the pine
+g,reply_y,yeah more or less
+f,align,if you see what i mean
+g,instruct,as as long as you avoid the forge and the pine you you don't have to
+f,acknowledge,oh
+g,instruct,worry too much about the exact
+f,acknowledge,okay
+f,explain,i don't have a forge anyway
+g,instruct,route but eh
+f,acknowledge,right
+f,acknowledge,up
+g,ready,right
+g,instruct,so y-- once you're at the top of the pine if you go about two and a half inches three inches to the right
+g,query_yn,have you got a pine forest
+f,reply_y,uh-huh
+g,query_yn,you have
+g,ready,well
+g,instruct,just go down the left-hand side of the pine forest
+f,query_yn,am i and am i going straight kind of along the outline of the bay
+g,query_yn,you've got a bay there
+f,reply_y,uh-huh
+g,explain,i don't have a bay there
+g,align,it'll be at the top
+f,reply_y,uh-huh
+g,query_yn,have you got a bay at the bottom
+f,reply_y,yeah
+g,align,crane bay
+f,reply_y,uh-huh
+g,query_w,where's the one at the top
+f,check,it's just in the centre of the page at the top very top
+g,query_w,how far down
+f,reply_w,erm about an inch and a half
+g,ready,yeah well
+f,reply_y,uh-huh
+g,instruct,don't go much you know don't go any higher than than the the height of the old pine or or the forest that must be where the bay is i don't have a bay there but th-- the route you know must miss the bay er so you know just go along 'til you get to the pine forest more or less and then go go down on the left-hand side of the pine forest
+f,acknowledge,okay
+g,align,okay
+g,reply_w,once you're at the bottom of the pine forest just where it says pine
+f,acknowledge,mmhmm
+g,align,okay
+g,instruct,if you if you just kind of draw a draw an arc er to the right just more or less the same direction as you've been going until
+g,query_yn,have you got wheatfields
+f,reply_n,no
+g,query_yn,on your map
+g,reply_n,no well the
+f,reply_y,oh yeah uh-huh
+g,align,you have right
+f,acknowledge,mmhmm
+g,ready,well
+g,instruct,just draw the arc and stop the arc t-- you know in line with the wheatfields but beneath the pine forest
+g,align,okay
+f,uncodable,i
+f,acknowledge,don't understand
+f,check,say that again
+g,reply_w,oh two or three inches down from the pine forest
+g,align,okay you know
+g,explain,it doesn't have to be an arc as long as you avoid all the obstacles i think eh if you you know if you finish up eh in line with the wheatfields
+g,align,okay
+g,instruct,but beneath the pine forest you if you stop drawing your line there
+f,uncodable,whe--
+g,instruct,above the bakery in other words ab-- above the eh th-- th-- th--
+f,query_w,where is your wheatfields
+g,ready,well er you know
+g,explain,ca-- imagine where the forge would be on your map or it's o-- it's on mine but imagine where it would be
+f,acknowledge,mmhmm
+g,instruct,about two inches down from that in in between the the forge and the old pine
+f,acknowledge,right
+g,clarify,on the left-hand side
+g,align,okay
+g,ready,so
+g,query_w,where are you now
+f,acknowledge,right
+g,reply_y,mmhmm
+f,query_yn,i'm going down past the pine forest in an arch towards the wheatfields
+g,reply_n,no no no
+f,reply_n,no
+g,reply_n,no
+g,instruct,don't worry about the wheatfields it's just to tell you where to stop the line
+f,acknowledge,right okay
+g,query_w,never mind about it being an arc or a curve or anything
+f,acknowledge,okay
+g,instruct,just just go down the left-hand side of the pine forest
+g,align,okay
+f,acknowledge,right
+g,instruct,and once you get to the where it says pine draw a line from there to eh above the bakery but not the chimney a bit to the left of that in fact the left-hand side it must be a wee shed or whatever it is
+f,acknowledge,right
+g,align,you see what i m--
+f,check,and i'm going s-- am i going straight down
+g,reply_y,yeah
+f,reply_y,uh-huh
+g,instruct,but stop when you get just to above the bakery
+f,acknowledge,right okay
+g,clarify,then just go round the bakery on the right-hand side just draw a an oval shape round the right-hand side of the bakery
+f,explain,i'm go-- i'm going down and round
+g,reply_y,yeah
+f,reply_y,uh-huh
+g,acknowledge,right round it uh-huh
+f,acknowledge,right
+f,query_w,now where
+g,instruct,underneath the bakery
+f,reply_y,uh-huh
+g,query_yn,have you got a canal
+f,reply_n,no
+g,reply_n,no
+g,ready,well
+g,instruct,the canal is about two inches to the left-hand side of the bakery but it's in line with it
+g,query_w,so once you get an inch or and a half or so past the bakery
+f,acknowledge,mmhmm
+g,instruct,eh take your line down to crane bay
+g,explain,oh i've got two wheatfields that's not important is it right anyway w--
+g,instruct,so you get to the canal right you don't have one but g-- just go down about two inches until you get to crane bay and follow follow the curve
+g,align,okay
+g,align,of crane bay
+f,reply_y,uh-huh
+f,check,right round to the left
+f,acknowledge,right
+f,acknowledge,okay
+g,instruct,but not don't go down just go along don't go dow-- don't go down where it it really curves away there don't don't follow that
+f,reply_y,uh-huh
+g,instruct,so you're at the top le-- left-hand side of crane bay right n-- just northwest of where it says crane
+f,reply_y,uh-huh
+g,query_w,or the s-- where the "c" is
+f,acknowledge,mmhmm
+g,explain,i've got wheatfields in line with where it says bay okay about an inch or so to the left of crane bay itself just in line in fact beneath where the other wheatfields were that i that i was telling you about
+f,acknowledge,right okay
+g,align,okay
+g,instruct,so y-- you go round the round that curve and you have to go down and about an inch and a half
+g,align,okay
+g,instruct,to a-- to avoid the wheatfields which are just to the left of crane bay so you go down there
+g,ready,right
+f,acknowledge,hmm
+g,instruct,go beneath the wheatfields in other words draw a line you know two inches or so to the left
+g,query_yn,have you got a rocket warehouse
+f,reply_y,uh-huh
+g,ready,well
+g,instruct,just draw a line between well above the rocket warehouse in fact
+g,align,okay
+f,reply_y,uh-huh
+g,instruct,an in-- an inch or so above the rocket warehouse but to the left of it go round it the same way as you went round the igloo but on the other side
+g,align,okay
+f,reply_y,yeah
+g,instruct,just follow it round
+f,acknowledge,okay
+g,instruct,go down the left-hand side of the page once you've done that
+f,reply_y,uh-huh
+g,query_yn,have you got a lighthouse
+f,reply_y,yeah
+f,check,kind of directly underneath the warehouse
+g,instruct,the rocket warehouse
+f,reply_y,uh-huh
+g,instruct,the cross is right next to the lighthouse and just take your line to there and that's it finished
+f,explain,it's right next to the lighthouse
+g,clarify,on the left-hand side of it
+f,acknowledge,right okay
+f,check,and just go straight down
+g,ready,well y--
+g,align,yeah that would be okay
+f,reply_y,uh-huh
+f,acknowledge,okay
+g,reply_w,uh-huh and just the cross is right you know the left-hand side of the lighthouse just next to it
+g,acknowledge,okay got it
+f,acknowledge,mmhmm
+g,instruct,right that's it finished

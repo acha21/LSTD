@@ -1,0 +1,135 @@
+g,ready,right right
+f,acknowledge,i know
+g,align,your start point is eh at the top left corner right
+g,reply_w,could you move down straight down from there
+f,acknowledge,yeah
+g,query_yn,have you got a haystack on your map
+g,acknowledge,right
+f,instruct,past the blacksmith
+g,check,just move straight down from there then past the haystack to eh
+g,query_yn,have you got a carpenter's house
+f,reply_y,yeah right
+f,explain,i know where you are
+f,ready,right
+g,clarify,parallel with the bottom of the the carpenter's house
+g,instruct,okay right could you move across so that you you go
+f,align,to the bottom of the carpenter's house
+g,align,right yeah
+g,reply_n,just not
+f,clarify,just to the end of it
+g,instruct,so you can move up again
+f,ready,right
+g,instruct,just to the end of it it's just to avoid the haystack you see what i mean
+g,acknowledge,right
+g,instruct,could you move sort of a up sort of a wee bit diagonally to your to your right just a wee bit diagonally
+f,check,i mean how far the
+g,reply_w,to the the you
+g,query_yn,you have you got the green bay at the top
+f,reply_y,no
+g,acknowledge,right
+g,instruct,could you move up to about eh the top of the carpenter's house you know the middle of the top about two inches above
+f,check,to about the level of the the top of the haystack
+g,query_yn,to the level of the bottom of the haystack
+f,acknowledge,right
+g,align,okay
+g,ready,right
+g,instruct,could you eh move to your right about eh three inches
+f,check,past the seven beeches
+g,reply_n,no
+g,instruct,to just before the seven beeches
+f,acknowledge,ah three inches
+g,clarify,and diagonally down a wee bit
+g,acknowledge,four inches then
+f,instruct,that's about an inch or two
+f,acknowledge,right
+g,ready,okay then
+f,ready,right
+g,clarify,well t-- before the seven beeches anyway
+f,explain,i've sort of come down a tiny bit
+g,acknowledge,right okay
+g,instruct,eh could you move down from that point to
+g,query_yn,have you got a chapel
+g,check,no you haven't
+g,instruct,it's below the seven beeches
+g,instruct,could you move down to the eh bottom left--
+f,query_yn,oh at the top of reclaimed fields
+g,reply_n,no
+g,instruct,right just do eh could you move to the bottom just the corner of seven beeches the bottom left-hand corner of seven beeches
+f,acknowledge,right
+g,align,okay
+g,instruct,could you then move across to your eh right about two inches
+f,uncodable,past seven beeches
+g,clarify,just past seven beeches and no more
+g,acknowledge,right
+f,acknowledge,right
+g,instruct,could you move down about three inches to the eh top of reclaimed fields
+f,acknowledge,mmhmm right
+g,ready,right eh
+g,instruct,could you just go move round to your right round reclaimed fields just round the reclaimed fields
+f,acknowledge,right
+f,check,and down
+f,ready,right
+g,instruct,and down you know just round it as in what a sort of eh
+g,acknowledge,circle round it
+f,query_yn,so under reclaimed fields
+g,explain,you're under reclaimed fields now
+f,reply_y,right
+g,instruct,eh could you move u-- could you continue that line just a wee bit to the bottom left-hand corner of reclaimed fields
+f,acknowledge,yeah
+f,explain,i have
+g,acknowledge,right okay
+g,query_yn,have you got crane bay on your thing
+f,reply_y,you're right yeah uh-huh yeah i have
+g,ready,right
+f,check,bumps everywhere
+g,instruct,could you move down there to the the wee bump comes out in the middle of the bay and just like follow th-- follow that bump round
+f,acknowledge,alright
+g,instruct,that's it
+f,instruct,just move just grab onto the line
+g,clarify,uh-huh just like follow the line of the bay round until about
+g,query_yn,eh have you got a vast meadow there
+g,reply_y,attractive cliffs
+f,explain,i've got attractive cliffs
+g,acknowledge,right
+f,explain,they're really quite nice
+g,ready,right
+f,align,okay
+g,instruct,could you well mm-- follow the line of the bay round 'til eh you reach the top of the attractive cliffs and stop about just at the top of the attractive cliffs
+f,acknowledge,right
+f,explain,i'm still on the crane bay line
+g,reply_y,mmhmm just follow the line of the bay
+g,instruct,and you'll move off towards the attractive cliffs
+f,acknowledge,mmhmm
+f,query_yn,do i mean do i have to draw off the line of the bay
+g,ready,yeah
+g,instruct,i mean like you'll have to to g-- go away from the
+f,query_yn,above the line of the a-- a-- above attractive cliffs
+g,acknowledge,right above attractive cliffs yes
+f,explain,t-- right to the edge of them i am
+g,acknowledge,right
+g,uncodable,ehm
+g,instruct,from there just just move out past them to your left and then move down to about the eh move down past the left-hand of the attractive cliffs to about the corner the bottom left corner
+g,acknowledge,right that okay
+g,instruct,right could you eh then move to the edge of the paper on your left about another that'll be about another two inches i would've said
+f,check,right to the edge
+f,check,i mean it'll have to be completely to the edge because of the crashed spaceship
+g,acknowledge,right there's a crashed spaceship there
+g,explain,right i thought you were w-- right move right to the edge and i'll try and avoid that crashed spaceship
+f,explain,okay i'll do my best
+g,instruct,right could you then move down about another three inches
+g,check,not to the bottom of the page
+f,clarify,to the bottom of the page or just past the chestnut tree
+g,clarify,to about bottom parallel with the chestnut just avoid
+f,acknowledge,okay
+g,acknowledge,right okay
+g,instruct,just move round the crashed spaceship so that you f-- you reach the finish
+g,instruct,which should be left just left of the the chestnut tree
+f,check,left of the bottom or left of the top of the chestnut tree
+g,reply_w,eh left of the middle of the chestnut tree
+f,check,a circle round the crashed spaceship
+g,instruct,so you're sort of coming round in a a sort of you're doubling back
+g,reply_y,yeah
+g,explain,you're doubling back a wee bit
+f,acknowledge,right
+g,explain,okay and that's the finish
+f,acknowledge,right

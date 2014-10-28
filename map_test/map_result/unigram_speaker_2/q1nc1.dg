@@ -1,0 +1,686 @@
+g,ready,ehm right
+g,instruct,you start at the caravan park
+f,acknowledge,mmhmm
+g,align,right
+g,instruct,ehm if you go down about three inches down uh-huh
+f,acknowledge,right
+g,instruct,and then across about two and go back up in
+f,check,do i go past the picket fence
+g,reply_n,no
+g,align,right okay
+g,instruct,we're going
+g,query_yn,see the old mill can you find the old mill on your map
+f,explain,the mill wheel
+g,reply_w,it's an old mill
+f,explain,i don't have an old mill it says mill wheel must be the same thing
+g,acknowledge,okay right
+f,ready,so
+g,instruct,you go to the old mill
+f,check,i go down from the caravan park bef-- turn right before the picket fence
+g,clarify,there's no picket fence here eh
+f,check,you don't have a picket f--
+f,explain,i've a i've got a picket fence about three inches down from the caravan park
+f,clarify,so i need to stop short of that and turn right right and go and pass beneath the mill wheel or the old the old mill as you have it
+g,explain,well
+g,reply_n,no
+g,instruct,i go down and then i turn right n-- no then i turn left and then i go back up past the old mill so it's like a curve it's like a curve going up down and then up again past the old
+g,query_yn,have you got is old mill quite near the caravan park
+f,reply_n,yeah
+f,explain,it's about i mean maybe an inch and a half or two inches southeast of it on mine
+g,acknowledge,mm
+g,instruct,and ha-- have you to go have you to go there like in you've not you've not to pass the ca-- you've not to pass that fence
+f,query_w,well
+g,ready,so then
+f,explain,if i went three inches down from the caravan park i would you know i'd more or less hit the picket fence
+g,reply_y,right i see
+g,clarify,so is that the idea of this then so you you're going straight to where i am instead of going round the picket fence
+f,query_w,where's your
+g,instruct,if i say if i say that you've to go to the old mill first
+f,check,actually go to it
+f,ready,well
+g,acknowledge,mmhmm
+f,instruct,i you know i wouldn't have to really go down i could just i could just go you know down and to the right rather than go down and then turn right sort of thing
+g,ready,hmm
+f,query_w,wh-- where wh--
+g,reply_w,but is the idea is the idea so that you don't go there to the picket fence if i'm going to the old mill first
+f,explain,well
+f,query_yn,i you i don't suppose you you you can go outside the picket fence
+g,ready,right okay
+f,explain,eh i i could i could go down about you know two and a half inches and then go right and that would take me underneath my mill wheel right you know beneath it so that not not beneath it n-- on the map beneath it on the map
+g,acknowledge,mmhmm
+f,reply_w,you know
+f,instruct,so i can go down and then to the right and and you know another couple of inches and that's me below the mill wheel
+g,check,the old mill
+g,acknowledge,right
+f,align,is that okay
+g,query_yn,can you can you s-- s-- can you s-- well can you see the abandoned cottage
+f,acknowledge,yeah
+g,acknowledge,uh-huh
+f,explain,that's in the middle of my map right in the middle of the page
+g,reply_y,so if mm
+g,instruct,so if you go to the old mill and then y--
+f,explain,i'd if i need to go beneath the old mill right
+f,acknowledge,okay
+g,reply_y,uh-huh
+g,reply_y,mmhmm mmhmm mmhmm
+f,explain,further along to the right and then up about six or seven inches 'til you get to the abandoned cottage so i d-- i do that do i
+g,check,so you're going to your right old now going out to your right and then eh straight up to the round the abandoned cottage right
+f,acknowledge,okay so i right well
+f,reply_n,i've not drawn anything yet
+f,explain,i'll go down from the caravan park right
+g,acknowledge,mmhmm
+f,ready,and then right
+g,query_yn,is the point so that you it's not so that you d-- you avoid that that fence or have you got to go by that fence
+f,reply_w,i've avoided the fence now
+g,ready,right you have right
+f,explain,i'm i'm going right under the the mill okay
+g,reply_y,uh-huh
+f,ready,and up now
+g,reply_n,no
+g,clarify,you ma-- you're actually meant to over the mill
+f,check,over the mill
+g,reply_y,uh-huh
+g,clarify,as in on the left-hand side of it you know what i mean like going up round it on the map
+f,acknowledge,mmhmm
+f,ready,well
+f,explain,my caravan park is on the left-hand side of the mill
+g,acknowledge,uh-huh
+g,query_yn,so is this
+g,ready,right
+f,explain,so i could ju--
+g,explain,it's on the it's on the far left isn't it
+f,acknowledge,yeah my caravan park's on the far left
+g,acknowledge,uh-huh
+f,check,but the mill wheel's to the right of it
+g,reply_y,uh-huh that's fine
+g,instruct,so if you you're going to the old mill
+f,check,first of all
+g,acknowledge,mmhmm
+f,reply_w,it's the very first place i go
+g,acknowledge,uh-huh
+f,ready,well
+f,check,i can just draw a line straight between the two then
+f,acknowledge,right
+g,explain,yeah but on my map it's not got that it's eh
+g,instruct,you're going in a sort of curve to the bottom of the map then round the old mill
+f,check,round beneath the old mill
+g,reply_y,uh-huh
+g,reply_n,no
+g,clarify,you don't actually go under the old mill you go like round it
+g,align,like
+g,align,see the side where the steps are
+f,reply_y,yeah
+g,ready,like
+g,instruct,that's how you go just just go round the top
+f,query_w,you actually go round the side where the where the wheel is
+g,reply_n,no the other side
+f,acknowledge,the other side
+g,reply_y,uh-huh
+g,query_w,where where the steps are and round the r-- on top of the roof and then you go round to your right
+g,instruct,just keep going right then straight up round the abandoned cottage
+f,check,i mean
+f,query_yn,surely you could just go you know you could just go straight from the caravan park to the abandoned cottage could you not
+g,reply_n,no
+g,query_yn,well o-- on the route on this map is you've to go down
+f,ready,so right so
+f,explain,i'd b-- i'd have to draw a curve then from the down from the caravan park
+g,acknowledge,uh-huh
+f,clarify,from the mill wheel and up to the abandoned cottage to the right like a tick shape it'd be s-- the shape of a tick from the the
+g,reply_n,no
+g,instruct,the shape of a like an oval shape from the caravan park you start just above the caravans
+f,acknowledge,right
+g,align,right
+f,reply_y,mmhmm
+g,instruct,ma-- make mark across above the caravans go round like just like an oval like half an until you come to sort of top of the old mill like say the
+f,acknowledge,mmhmm
+g,instruct,the corner of the roof
+f,check,then up to the abandoned cottage
+g,reply_y,then uh-huh
+f,acknowledge,right okay
+g,instruct,do a curve right up to your right
+f,acknowledge,right
+f,acknowledge,i'll draw that
+g,instruct,sort of d-- gradual curve to your right
+f,ready,right
+g,uncodable,eh
+f,query_w,where does it stop
+g,align,see where the fenced meadow is
+f,check,the bottom right
+g,reply_y,uh-huh
+f,query_yn,do you go over the abandoned cottage or under it
+g,ready,well
+g,query_yn,see where the fenced meadow is at the bottom of your page
+f,reply_y,yeah
+g,instruct,when you go right from the old mill go right and just where eh that you start you come to the beginning of that drawing on the right go straight up round the abandoned cottage
+f,check,you're saying you go from the m-- the old mill to the fenced meadow
+g,reply_n,no
+f,acknowledge,i've g--
+g,check,you go you're above the fenced meadow the the route is actually above that
+f,reply_y,yeah
+g,explain,okay it's basi-- if
+g,instruct,see if you go over the old mill
+f,acknowledge,mmhmm
+g,instruct,right you're o-- you're o-- eh over the the roof right
+f,reply_y,mmhmm
+f,reply_y,mmhmm
+g,instruct,and you're going make a gradual slope to your right
+g,align,okay
+f,query_yn,quite steep though up the up the way
+g,explain,no quite just sort a wee gradual one
+f,reply_w,towards the forest
+g,align,towards fe-- where the hell's the forest
+g,acknowledge,no
+f,check,the forest from
+g,reply_n,there there's no forest
+f,explain,the forest is beneath the abandoned cottage right on on my map
+f,explain,to get to the fenced meadow i'd need to go down from the mill
+g,ready,well
+g,instruct,you don't want to go to the fenced meadow anyway
+f,check,why did you mention it
+g,reply_w,i'm just telling i'm giving you a g-- i because it's like
+g,instruct,you stop you stop going right above the fenced meadow where you come to that drawing
+f,query_yn,in other words the the bottom right-hand side of the abandoned cottage
+g,reply_n,no
+f,acknowledge,surely
+g,reply_n,no
+f,ready,well
+g,ready,right
+g,instruct,you're at the old mill go back to the old mill
+g,align,okay
+f,reply_y,yeah i'm there
+g,ready,right
+g,align,see the roof
+f,reply_y,yeah
+g,instruct,go over the roof
+f,reply_y,yeah mmhmm
+g,instruct,keep going right
+f,acknowledge,right
+g,instruct,'til about th--
+g,align,right okay
+g,instruct,let's start again in different terms
+g,align,see about three quarters of the way to your right in the page
+f,reply_y,mmhmm
+g,instruct,stop right when you've go-- drawn your line from the old mill and then just go straight up and make a line round the abandoned like a circle round the abandoned cottage
+f,acknowledge,okay
+g,instruct,curve round the abandoned cottage and round the roof
+f,check,back towards the left-hand side
+g,reply_y,uh-huh
+f,acknowledge,right okay
+g,uncodable,and s--
+f,explain,right i've done that i've now got th--
+f,explain,i've now got three lines on my page but i know the one that
+g,ready,well
+f,query_yn,that will that would just
+g,reply_w,it's meant to be a sort of continuous curve is it not
+f,reply_n,no
+f,explain,but i mean that that's like this is the third attempt sort of thing
+g,acknowledge,oh right i see
+f,acknowledge,okay
+g,ready,right
+f,reply_y,yeah
+g,align,well see where the abandoned cottage is now right you're at the roof of the abandoned co--
+f,explain,i'm above the chimney
+g,ready,right
+g,instruct,go down say about forty-five degrees on a sort of angle
+f,acknowledge,yeah
+g,instruct,down
+g,align,see where the fenced meadow is besi-- on the left-hand side of the r-- uh-huh the left-hand side of your page
+f,reply_n,no m-- mine's
+g,clarify,about halfway up
+f,explain,no that's not there on mine
+g,check,is it not
+f,check,my fenced meadow's at the bottom right-hand side
+g,reply_y,mmhmm
+g,explain,i've got two here
+g,ready,right ehm
+f,check,you've got two fenced meadows
+g,reply_y,mmhmm
+g,explain,and no forest
+f,check,and no forest
+g,acknowledge,no
+g,ready,right
+f,ready,well
+f,explain,i've gone round the forest in mine
+g,check,have you
+f,reply_y,yeah
+f,explain,but i had to though
+g,acknowledge,right okay
+g,explain,may-- aye maybe that's what it is then
+g,acknowledge,oh right
+g,align,see where the see where your caravan park is then
+f,reply_y,yeah
+g,query_yn,have you got something below it
+f,reply_w,i've got nothing above it i've nothing above the caravan park 'til the the west lake
+g,query_yn,have you got a ca-- have you got a fence below it
+f,reply_y,yeah
+f,check,the picket fence
+g,ready,well
+g,clarify,did you go round it
+f,reply_n,no
+g,explain,di--
+f,reply_w,i went over the mill the the picket fence er hasn't come into it right yet really
+g,ready,well
+g,align,see the caravan park
+g,query_yn,i-- is there is there a picket fence underneath it
+f,reply_y,mmhmm
+g,ready,well
+g,instruct,could you make a line go round it and then c--
+g,check,is it bet-- is it like down and then the old mill's above from it
+f,reply_y,yeah
+f,check,the the old mill's like northeast of it
+g,instruct,so can you not go round the picket fence and round the old mill do you not have to go round the picket fence no
+f,check,i don't think so
+g,reply_y,uh-huh
+f,explain,that that's what we did first of all th-- the the the first line
+g,reply_y,uh-huh
+g,ready,well
+f,reply_w,when i was asking you whether i could you know i had to eh stop before i got to the picket fence or not so but
+g,check,do you not have to go round it
+f,query_w,why it's just a fence
+g,reply_w,it's it's not a picket fence here so the route must go round the picket fence surely
+f,ready,you think so
+f,clarify,maybe it's the the route's to stay inside the picket fence
+g,ready,well
+g,reply_w,maybe it is okay as long as you're on the picket fence then i don't know
+f,explain,i've got one d-- i've got one i don't know realise why it's there
+g,align,right right you went by the abandoned cottage right
+f,explain,i'm above the chimney just now
+g,acknowledge,right you're above the chimney
+g,instruct,and if you start going dow-- in an angle about forty-five degrees down
+f,acknowledge,mm mmhmm
+g,instruct,to the to where the bottom of the abandoned cottage
+g,ready,right
+f,acknowledge,right okay
+g,ready,'til oh right so
+g,query_w,you said you where are you now
+f,query_yn,the bottom of the abandoned cottage
+g,reply_y,right uh-huh
+g,query_yn,but wh-- is there anything on your map beside that then on your left-hand side
+g,ready,well
+f,explain,no i've got noth-- no i've got nothing between the caravan park and the west lake on the left-hand side
+g,clarify,can you make sort of like right if you make a sort of
+g,instruct,if you make a sort of like a a forty-five degree angle right for about a couple of inches or something and then you start making a circle you know what if you know what i mean if you've got does a sort of angle then sort of curve round
+g,align,have you got a west lake
+f,acknowledge,yeah
+f,explain,it's at the top left
+g,instruct,well can you can you make a sort of curve then if after your angle sort of like towards the west lake
+f,acknowledge,a curve
+g,align,uh-huh
+g,align,sort of like you've gone
+f,query_w,whe-- where's your fenced meadow on the left-hand side
+g,reply_w,mm
+f,query_w,where's your fenced meadow on the left-hand side
+g,reply_w,it's about halfway up the page that's wh-- uh-huh it's just about about halfway up the page
+f,query_yn,so would you know head sort of for the west lake now avoiding you know
+g,check,so if you s-- imagine a fenced meadow in the middle of the page
+f,reply_y,yeah
+g,instruct,and you sort of make a circle round up towards the west lake you go up to the west lake and then
+f,check,along the left-hand side of the page
+g,reply_y,mmhmm
+f,acknowledge,right
+f,check,right up to the top
+g,reply_n,no
+g,instruct,you go ri-- you make a a ci-- you make a line up go up
+g,align,right
+f,align,right okay
+g,instruct,to the ti-- 'til you reach the west lake
+g,align,see the curve in the at the bottom of the west lake
+f,reply_y,right yeah
+g,align,that sort of can you see a round curve
+f,reply_y,mmhmm
+g,instruct,go to the the eh furthest point of that like in your left-hand side right about the bottom of that curve
+f,acknowledge,yeah okay
+g,instruct,and start curving round it
+f,acknowledge,mmhmm
+g,query_yn,ti-- if you if you s--
+g,query_yn,can you see a trig point
+f,query_w,no
+g,reply_n,no
+g,uncodable,ehm
+g,query_yn,right have you got the eh the west lake
+g,instruct,so make a curve round the bottom of that curve right so just follow that curve
+f,acknowledge,mmhmm
+g,instruct,around west lake up to the just up to the point you know
+g,align,can you see on the west lake where it goes sort of straight
+f,reply_y,yeah
+f,reply_w,on the left-hand side
+g,reply_n,no oh
+g,ready,right
+f,query_w,where's your trig point
+f,query_w,do you cross the lake or do you go round it
+g,reply_w,just just just go round
+g,acknowledge,right
+g,instruct,until about
+g,instruct,trying to think wh--
+g,align,see right can you not
+g,align,see if there's a circle at the bottom know how you've just gone round it
+f,reply_y,mmhmm
+g,instruct,and you keep going up 'til about it's a kind of sh-- there's kind of angle
+g,uncodable,oh this is really hard
+g,align,see where the farmed land is at the top
+f,reply_y,yeah
+f,explain,but that's at the at the right-hand side of my west lake
+g,reply_y,uh-huh it's at the right-hand side
+f,explain,yeah but i'm at the bottom left-hand side of the lake at the moment
+g,ready,right well
+g,align,so are you at the bottom left-hand
+g,reply_y,right
+f,check,i've just curved round the bottom
+f,acknowledge,right
+g,instruct,and and you can cu-- you curve round the bottom and keep going up that curve just curve round that
+f,check,so right round the top of the page
+g,reply_n,no
+f,check,that's a-- no
+f,explain,i'd have to otherwise i'd be in the lake
+g,query_yn,se-- can you see a monument
+f,query_yn,the monument's on the right-hand side
+g,reply_y,yeah
+f,check,not all that far from the abandoned cottage in fact
+g,reply_y,uh-huh that's what i mean
+g,query_yn,and is the nuclear test site above it
+f,reply_n,no
+f,explain,i don't have a nuclear test site
+f,explain,i've got a golf course
+f,explain,have you got a golf course
+g,reply_n,no
+f,check,no
+g,ready,right
+g,query_yn,have you got
+f,explain,the golf course is just beneath the east lake about an inch or so down
+g,reply_w,is it
+f,reply_y,yeah
+g,clarify,up from its furthest point
+f,reply_n,no
+f,explain,from eh okay it's about two inches down from where it says east lake in the lake
+g,ready,right
+f,explain,there's a golf course it's not that big
+g,instruct,so you want want you want to go round the golf course then i think
+f,ready,well
+f,explain,let's get round the lake first the west lake
+f,ready,so
+g,ready,right
+f,explain,i mean then then that's how i i'd need to go right round the top
+g,clarify,i take it they're the same shape on the maps then
+f,acknowledge,they must be
+g,ready,right
+g,ready,right
+g,align,west lake isn't exac--
+f,explain,towards the top of the page unless i cross unless i cross the lake i'd need to go right round it
+g,explain,you don't want to cross the lake
+f,query_w,but how am i going to get to the farmland or any-- or anything else
+g,reply_w,you don't want to go to the farmed land
+g,reply_w,i just asked if i had if you had farmed land
+f,check,so i've to double back on myself
+g,reply_n,no
+f,query_w,so what do where
+f,ready,right
+f,explain,i'm at the bottom of west lake
+f,acknowledge,right
+g,reply_y,uh-huh
+f,check,the left-hand side
+f,query_w,where do i go now
+g,ready,right
+g,instruct,you you you curve round
+g,align,right
+g,align,see west lake you can see the curves can't you round west lake
+f,check,along the left-hand side
+g,align,on the left-hand side right
+f,reply_y,mmhmm
+g,ready,right
+g,align,you've just come up from the abandoned cottage right
+f,acknowledge,mmhmm
+g,align,and you've gone straight up
+f,reply_y,mmhmm
+g,instruct,to the bottom of west lake
+f,acknowledge,mmhmm
+g,align,see directly underneath it where it says west lake
+f,check,oh
+f,explain,i didn't actually i didn't actually go there
+f,reply_y,yeah
+g,align,see the see see whe-- west lake see where the "e" is
+f,reply_y,mmhmm
+g,align,directly under that you can then you see a curve going round to your right it's like a sort of bottom of a circle or something it's quite it's quite rounded
+f,acknowledge,yeah i know the i know the bit y--
+f,align,the bottom right-hand side this is you're talking about
+g,reply_y,mmhmm
+f,query_yn,you you talking about the "e" in lake
+g,reply_y,mmhmm
+f,acknowledge,right
+g,explain,oh god i forgot about that
+g,ready,right
+g,instruct,you go down and just start
+g,align,right
+g,align,see where the "e" in lake is right and
+g,instruct,go down to the bottom of that start tracing around that then towards your right
+f,align,we're going right now
+g,reply_y,uh-huh
+f,explain,i thought we were
+g,acknowledge,oh sorry have you been going right up the other side
+f,query_yn,i thought you were going left
+g,reply_n,no
+g,instruct,we're going right
+f,check,so we're going from the abandoned cottage to below where it says lake
+g,ready,right
+f,ready,right i've done that now
+g,query_yn,you've got you right you went to the abandoned cottage and you did a sort of circle
+f,explain,and i and then i trace it back round
+f,acknowledge,right okay i'm doing that now
+g,reply_y,uh-huh you are
+g,instruct,and you're going round
+g,reply_y,yeah
+f,check,around the bottom right-hand corner okay
+g,instruct,round the curve and then up
+f,acknowledge,right
+g,instruct,round that curve and then up
+g,query_yn,and you don't have a trig point
+f,reply_n,no
+f,explain,i've got all these lines on my on my map now
+f,acknowledge,that don't apply
+g,align,see ehm where you've curved up from west lake do you know where i'm talking about see how there's a kind of sharp turn to the left
+f,reply_y,yeah
+g,align,in west lake
+f,check,at the top of the lake
+g,reply_y,uh-huh
+f,acknowledge,yeah
+g,instruct,and then you go down there's a kind of a bit you go straight down and then you go back up again
+f,acknowledge,mmhmm
+g,instruct,if you can follow this
+g,align,right so you've went round the corner right
+g,clarify,start again
+f,acknowledge,the bottom right okay
+g,align,and see wh-- how i just said how it goes straight up and it goes down and it goes up
+f,reply_y,yeah
+g,explain,see that bit that goes up
+f,reply_y,yeah
+g,instruct,the first time
+f,acknowledge,mmhmm
+g,align,sort of sharp bit
+f,reply_y,yeah
+g,ready,right
+g,clarify,stop following the curve at the bottom of that
+f,acknowledge,right okay
+g,align,okay
+g,align,and see when you get to that
+g,instruct,do an angle follow that
+g,align,see that sort of straight angle
+f,reply_y,mmhmm
+g,instruct,do a straight line going to your towards your your right down to the left-hand side you're going down
+g,acknowledge,right okay
+f,check,down to the right to my left-hand side
+g,instruct,if d-- if you think of a compass so if it would be your ehm eh southwest
+f,explain,but i'd be in the lake then
+g,instruct,no
+g,query_yn,you wouldn't be in the lake you shouldn't
+f,acknowledge,i stop drawing the curve right
+g,acknowledge,mmhmm
+g,align,you haven't gone right round the lake have you
+f,reply_n,no
+f,query_yn,i i started from the "e" in the lake
+f,reply_y,right
+f,explain,and eh traced it round the right-hand side and and up the side of west lake
+f,acknowledge,okay
+g,reply_y,uh-huh
+f,clarify,and i've stopped where the first eh the first bit rises
+g,reply_y,uh-huh
+f,explain,at quite a sharp angle i've stopped at th-- at the r-- the right-hand side of that
+g,instruct,the bottom of that
+f,reply_y,yeah
+g,ready,well
+g,clarify,then you're going t--
+f,query_w,how can i go southwest i uh i'd surely be in the lake
+g,reply_w,oh east sorry
+f,reply_y,southeast right okay
+g,acknowledge,sorry right uh-huh right
+g,explain,god it's my directions
+g,instruct,you go east southeast down
+f,check,where to
+g,reply_w,straight
+f,query_w,where's the nuclear test site
+g,query_yn,have you do you should have a monument
+f,reply_y,yeah
+g,acknowledge,right great
+g,ready,right
+g,instruct,go down there straight and go right and
+g,align,do you see where the monument is
+f,reply_y,straight to the monument
+g,reply_y,do a straight line to the monument
+f,acknowledge,right okay
+g,instruct,to the bottom of the monument and curve round the monument just now
+f,check,and go up again
+g,instruct,and then you're starting to go up uh-huh go up a bit
+f,acknowledge,right
+f,query_w,where's the nuclear test site
+g,instruct,eh it's just it's almost straight up from the monument a few in-- a few inches
+f,explain,so it's be-- next to the golf course then
+g,explain,i don't know where your golf course is
+g,clarify,it's just it's about an inch under the east lake at the bottom of east lake
+f,reply_y,yeah
+f,explain,the golf course is is fairly near there
+f,acknowledge,so right i
+f,check,i'm going down
+f,acknowledge,okay
+g,check,so you've got the monument
+f,reply_y,yeah i'm going
+g,instruct,just go st-- down straight line down underneath the monument
+f,reply_y,right and
+f,query_w,come back up again
+g,clarify,and then up t-- curve up
+f,acknowledge,mmhmm
+g,instruct,eh go left for a couple of for about an inch or something
+g,align,okay
+f,query_w,how far do i go up here
+g,instruct,eh oh about an inch up from the monu-- just just curve sort of curve round a circle sort of
+f,query_yn,so i i g-- i i go left beneath the nuclear test site
+g,reply_y,uh-huh
+g,clarify,you want to stay on the left-hand side uh-huh
+f,explain,sorry
+g,clarify,you want to stay on the left-hand side
+g,align,right
+g,instruct,you go round the monument
+f,acknowledge,right
+f,check,and go left
+g,instruct,and s-- go left
+f,explain,i've i've gone an inch or so up from the monument
+g,query_w,go left
+f,acknowledge,right
+g,instruct,and then go straight up towards the east lake
+f,explain,so i go left along the left-hand side of the golf course
+g,reply_y,uh-huh
+f,check,what bit of east lake do i go up to
+g,check,just go straight up to east lake when you've curved round the monument and where the golf course'll be sort of curve
+f,reply_w,i can imagine
+f,align,see where the see where the
+g,query_yn,nuclear test site is
+f,reply_w,the the left-hand side of the east lake at the bottom right
+f,explain,if you draw a straight line down there that's the edge of the golf course so i can't go any i can't you know
+f,check,i can't
+g,instruct,to the left-hand side of east lake like the very far end of east lake
+f,acknowledge,yeah
+f,check,at the bottom
+f,explain,i can't go any further left sorry further right than that because i've been i c-- i'd need to go through the golf course so i've actually you know that's where i am now more or less been-- beneath that point because that's the like the
+g,check,but that's where you're meant to end up underneath east lake
+f,reply_w,at at the left-hand side
+g,reply_y,uh-huh
+f,check,at the bottom
+g,reply_y,uh-huh
+f,query_yn,so i just go from there now
+g,reply_n,no
+g,clarify,that's the finish
+f,acknowledge,yeah i
+g,query_yn,do you know where the farmed land is
+f,reply_y,yeah the farmed land's between east and west lake
+g,reply_y,yeah
+g,instruct,you go well your finish point's just beside east lake
+f,acknowledge,mmhmm right okay
+g,align,so if you went have you went round curved round the monument
+f,reply_y,yeah yeah i've done that
+f,explain,i i'm at the finish now
+g,align,are you sure right that you've went up oh right and you've we-- you've gone up towards east lake and then turned then went to your right just followed the curve round east lake t--
+f,explain,i've not done that yet
+g,align,see where east lake is
+f,explain,you didn't say that
+f,reply_y,yeah
+f,explain,i'm at the i'm at the bottom left of east lake now
+f,acknowledge,right
+f,check,and so i curve round
+g,query_yn,are you talking about the very bottom
+f,reply_n,no a--
+g,query_yn,you talking about the bottom right
+f,check,the bottom left
+g,align,you've just reached there
+f,reply_y,yeah
+g,instruct,but you're supposed to curve underneath there to about halfway you're meant to like sort of draw a line following that line to about halfway and then go down round past the monument past your golf course i think as well
+g,query_yn,maybe you go round your golf course
+f,check,well
+f,explain,i've already gone round it
+g,ready,right
+f,reply_y,in one direction
+f,check,do you mean i have to go back round it
+g,reply_n,no no
+g,clarify,that's the finish
+g,align,right see at the the bottom left of east lake
+f,reply_y,that's the finish
+g,instruct,that's finish point
+f,acknowledge,right
+g,ready,eh well
+g,clarify,just a centimetre past it right to your left
+f,acknowledge,right
+g,ready,right that's finish point so
+f,explain,so i'd ha-- i'd have to go up between the golf course and the nuclear test site
+g,explain,so i take it that must be another s-- they must be between each other
+g,instruct,the line should be between that then
+f,explain,between the golf course and the nuclear test site
+f,acknowledge,yeah
+g,explain,it's the golf course right it's underneath east lake and it's eh northwest from the monument
+f,acknowledge,yeah mmhmm
+g,align,so have you gone round it as in have you gone round it on the right-hand side
+f,query_w,the left-hand side
+f,reply_w,so i've i've to go round it on the right-hand side
+g,reply_y,uh-huh
+g,instruct,you've you come to the monument and you go round it the golf course trace
+f,explain,i so i've just i've just to pass the left-hand side of the nuclear test site
+g,reply_y,mmhmm mmhmm
+g,query_yn,have you got a nuclear test site
+f,acknowledge,right okay no
+f,explain,but i-- you told me it was just below ea-- east lake
+g,reply_y,it is
+g,clarify,but it's on the right-hand side on the right-hand but exactly under the right-hand side of east lake
+f,acknowledge,yes okay
+f,explain,i'm just going up to the right-hand side of the golf course okay now
+g,check,so you must like have to trace round it then
+f,reply_y,yeah okay
+g,clarify,i take it on the right-hand side so it's between it
+f,explain,so that's me on the right-hand side of east lake now about a centimetre in from the le-- so-- from the right sorry
+g,reply_n,eh
+f,instruct,so i go left now i take it
+g,instruct,so then you just just just just trace underneath the curve to the finish
+f,acknowledge,right
+f,reply_y,one centimetre to the left
+g,reply_y,uh-huh yeah
+g,clarify,right that's the ve-- the finish point
+f,check,that's the finish
+g,align,of east lake have you traced under the east lake
+f,reply_y,yeah
+f,check,so that's us finished
+g,reply_y,i think so
+f,acknowledge,right

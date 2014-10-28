@@ -1,0 +1,155 @@
+g,ready,right
+g,instruct,so you're at the start
+f,reply_y,uh-huh
+f,query_yn,is that above the site of forest fire
+g,reply_y,forest fire yeah
+f,acknowledge,right okay
+g,instruct,and you head down towards the bottom of the map past the side of
+f,check,through the forest fire
+g,reply_n,no
+g,instruct,past the side of it heading
+f,query_w,which side
+g,clarify,the nearest the edge of the paper
+f,acknowledge,right
+g,instruct,head downwards
+f,acknowledge,mmhmm
+g,instruct,go right down underneath the picnic site
+g,instruct,curve round it
+f,explain,don't have haven't got a picnic site
+g,instruct,draw one in
+f,query_w,where is it
+g,reply_w,it's at the bottom of the map the bottom left-hand corner
+g,instruct,and if you go underneath that
+f,acknowledge,okay
+f,uncodable,i--
+g,clarify,underneath it and come back up to the other side of it in a "u" shape
+f,acknowledge,right
+g,instruct,then go up past the the left of the adventure playground
+f,acknowledge,right
+g,instruct,and then turn right above the adventure playground
+g,align,okay
+f,uncodable,ehm
+f,query_w,which side of the adventure playground
+g,align,right you've gone up the s-- the l-- past the left of it
+f,acknowledge,oh no
+f,reply_w,i went up past it
+f,acknowledge,okay
+f,explain,i'm away up past the left of it now
+g,instruct,and across the top of it
+f,acknowledge,right uh-huh
+g,instruct,and go along to about just past the middle of the page
+f,query_yn,have you got privately owned fields
+g,reply_n,nope
+f,acknowledge,okay
+f,explain,i have
+f,acknowledge,right
+g,ready,and then
+g,query_w,where are you
+f,explain,i'm in the middle of the page
+g,ready,right
+g,instruct,go along another wee bit
+f,acknowledge,right
+g,instruct,right and stop
+g,instruct,and then go up northwards
+f,acknowledge,right
+g,instruct,straight up for a wee bit 'til you get to the granite quarry okay
+f,acknowledge,right
+g,uncodable,granite
+g,query_yn,is it names and everything again
+g,align,okay
+g,uncodable,oops
+g,explain,right this is melanie and valerie and the number is "n" "a" "q" three "c" three minus plus one "a" "f"
+g,align,right so we're at the start
+f,acknowledge,mmhmm
+g,instruct,and head down towards the bottom of the page going past the left of the site of forest fire
+f,acknowledge,right
+g,instruct,go down and go underneath the picnic site
+f,reply_y,uh-huh
+g,clarify,and come back up the other side making a "u" round it
+f,acknowledge,mmhmm
+g,instruct,and then keep going up past the left-hand side of the adventure playground
+f,acknowledge,mmhmm
+g,instruct,ehm turn to the right just past the adventure playground
+f,acknowledge,mmhmm
+g,instruct,and go across towards just past centre of the page
+f,acknowledge,right
+g,align,okay
+f,acknowledge,mmhmm
+g,instruct,and then turn up and go northwards for a bit 'til you reach the granite quarry
+f,acknowledge,mmhmm
+g,instruct,ehm go round the top of the granite quarry curve round it
+f,query_w,above it or below it
+g,reply_w,above it
+g,instruct,curve round it
+f,acknowledge,right
+g,instruct,and then ehm come down like after you've curved round it on the downwards bit
+f,acknowledge,mmhmm
+g,explain,go along the top of the train crossing
+f,acknowledge,mm
+f,reply_w,my train crossing's at the very top of the page
+g,acknowledge,ah
+g,explain,well mine's
+f,query_w,where is it how far away from the granite quarry is it
+g,reply_n,eh no very it's right next to it
+f,query_w,ah above it or below it or right beside it
+g,reply_w,just slightly below it
+f,check,on the left-hand side
+g,reply_y,mmhmm
+f,acknowledge,okay
+f,check,so i'm going underneath it
+g,reply_w,above it
+f,acknowledge,right
+g,instruct,and then you'll be underneath the waterfall
+f,acknowledge,that's right
+f,acknowledge,mmhmm
+g,instruct,and go up the left-hand side of the waterfall in a straight line
+g,instruct,and then turn to your right
+f,acknowledge,mmhmm
+g,instruct,and go for about an inch
+g,instruct,and then turn upwards again
+f,query_yn,have you got public footpath
+g,reply_n,no
+f,acknowledge,oh right okay
+g,instruct,go up for a wee bit
+f,acknowledge,right
+g,instruct,and then turn to your right
+f,reply_y,uh-huh
+g,instruct,and then come down in a slight slope well a fairly slopey slope
+f,acknowledge,okay
+g,clarify,down to the fallen cairn
+f,check,that's miles away isn't it
+g,acknowledge,on the right
+f,explain,eh i've got lion county directly on the right
+g,instruct,well come down in a slope to about half-- halfway down the page in a diagonal line
+f,acknowledge,mmhmm
+g,clarify,to your right
+f,reply_y,uh-huh
+g,instruct,and then go underneath
+f,check,fallen
+g,explain,well i've got the fallen cairn
+f,acknowledge,right okay
+g,instruct,and go back up the side of it
+f,acknowledge,mmhmm
+g,instruct,and head up towards the limestone cliffs
+f,query_w,ehm where are the limestone cliffs
+g,clarify,just above the fallen cairn
+f,acknowledge,right
+f,query_yn,have you got lion county
+g,reply_n,no
+f,acknowledge,right
+f,ready,well that'll be them then right okay
+g,instruct,and go up the left-hand side of those
+f,query_w,of where
+g,query_yn,limestone cliffs
+f,acknowledge,right
+g,instruct,until you reach east lake
+f,acknowledge,right
+g,instruct,ehm go left when you reach east lake
+f,acknowledge,right
+g,explain,and the finish is just to the left of it
+f,query_yn,have you got cornfields
+g,reply_y,yeah
+g,instruct,but you don't go that far
+f,acknowledge,right okay
+g,ready,right
+f,reply_y,okay think so

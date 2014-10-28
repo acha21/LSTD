@@ -1,0 +1,177 @@
+g,ready,right
+g,query_yn,do you have sandy shore up at the top of your map
+g,ready,right
+g,explain,that's the start is just to the left of that near the coast
+f,check,just at the cross
+g,reply_y,yeah there
+g,align,okay
+g,instruct,go south down towards the well
+f,acknowledge,towards the
+g,instruct,the well
+g,query_yn,do you not have a well
+g,reply_n,that should be just there
+f,reply_n,no
+f,explain,i've got hills
+g,reply_n,no
+g,instruct,not as far south as that erm
+g,align,see where this the the river comes in seems to be a bay crane bay
+g,ready,right
+f,acknowledge,right okay i got crane bay
+g,align,follow the line
+f,query_yn,is it your left or my left
+g,explain,oh hell erm my left
+f,explain,your left
+f,check,so it's my right
+g,reply_y,yeah
+f,acknowledge,okay that's where
+g,instruct,follow follow the line of crane bay down to just above the corner of the bay
+g,align,you know how the bay goes like that
+f,reply_y,yeah
+f,query_yn,the very opposite corner of iron bridge
+g,reply_n,i don't have iron bridge
+f,acknowledge,okay
+g,ready,right
+f,check,south
+g,clarify,go south from the start
+f,acknowledge,right
+g,ready,right
+g,instruct,then you go left follow y-- up to oh heck go round where where the river goes
+g,align,you know how the the two bits of the crane come in crane bay come in like that then into the river
+f,reply_y,yeah
+g,ready,well
+g,instruct,go up to where the two bits join nearly and to form the lar the river
+f,check,to the mouth of the river
+g,clarify,to the mouth of the river
+g,align,right
+g,instruct,now cut across the river at that point
+f,check,over the bridge
+f,reply_y,i've got a bridge
+g,acknowledge,okay
+g,instruct,go over the bridge
+f,check,okay i'm over the bridge
+g,reply_y,right
+g,instruct,now follow the line of the river right down to the fork
+f,check,to the dead tree
+g,clarify,just above the dead tree before the fork
+f,acknowledge,okay i'm there
+g,ready,right
+g,instruct,now i want you to go to your left and do a sort of "c" quite a a wide "c" round some supposed
+g,reply_n,i've got farmed land
+g,query_yn,have you got farmed land
+f,reply_n,no
+g,query_yn,no well do a
+f,query_yn,have i got to cross this babbling brook cross it
+g,reply_n,not again
+g,clarify,you've cross it further down you've got to do a wide "c" just above the fork do a wide "c" so that you're coming across the river at b-- you know underneath the dead tree
+f,check,i'm coming
+f,acknowledge,oh right i see okay
+g,ready,right
+g,instruct,under the dead tree go directly south for about five maybe seven centimetres
+f,acknowledge,to the treasure
+g,explain,i don't have that
+f,acknowledge,oh
+g,ready,right
+g,instruct,then go to your right for about the same maybe five centimetres till you come to the lagoon
+g,query_yn,do you have the lagoon
+f,reply_y,yeah
+f,explain,but it's to my left
+g,acknowledge,uh-huh
+f,align,unless that "c" wasn't big enough
+g,explain,you should have crossed one of the
+g,explain,does your the river fork into one goes into the lagoon and the other one goes off the page
+f,instruct,goes to a mountain stream
+f,acknowledge,mmhmm
+g,align,right okay
+g,query_w,is your "c" on the side of the stream or on the side of the lagoon
+f,reply_w,it's in the middle like it comes out in between the two of them
+g,acknowledge,oh heck
+g,explain,your river's different from mine
+f,check,you want to you want my path to be a large enough "c" so as it goes down
+g,clarify,it and it crosses over the the mountain stream and then goes directly south underneath the dead tree is
+g,check,is the dead tree in between the fork
+f,reply_y,mmhmm
+g,ready,right
+f,ready,right maybe so
+g,acknowledge,right
+g,instruct,so you're going south then see i come to the lagoon then when i go south and then i go left which would me-- mean you going right
+f,check,you don't have be-- treasure buried underneath your dead tree
+g,reply_n,no
+f,acknowledge,no
+f,query_yn,do you have hills to your the left of the dead tree and just up a bit
+g,reply_y,yes
+f,acknowledge,okay
+f,query_w,so how f-- close do you want that "c" to take me towards the hills
+g,reply_w,not close at all
+f,explain,not close at all
+g,explain,it's over the other side of the river
+g,check,is yours on this side of the river
+f,explain,there are the the hills are on the left-hand side my left-hand side which is your left-hand side
+f,acknowledge,uh-huh
+g,explain,oh because we're looking at the same picture
+g,ready,right
+g,instruct,it's like you're starting at the s-- the sandy shore
+f,acknowledge,yeah
+f,acknowledge,mmhmm
+g,instruct,going south then going along to the right and up and crossing the river
+f,acknowledge,uh-huh across the bridge yeah
+g,instruct,at your bridge right you're going down to the fork of the
+g,check,river
+f,reply_y,yes
+g,check,are you on the other side of the river from the the hills
+f,reply_y,yes
+g,acknowledge,right
+f,explain,same side as the woodlands
+g,acknowledge,right that's right
+f,reply_y,yes
+g,clarify,so at the top of just before the fork in the river do a "c" to the the same side don't don't cross the river at that point
+f,check,don't cross the river
+g,instruct,do the do a "c" so that it
+f,ready,right i've not crossed
+g,clarify,it it's like a backwards "c"
+g,align,do you see what i mean
+f,check,backwards
+g,clarify,w-- round that way instead of round that way
+f,check,like an "e"
+f,reply_n,no
+f,check,oh yeah like a backwards s--
+f,reply_y,yeah i've got a backwards "c"
+g,clarify,well a back a back like do a backwards "c" there sorry
+f,acknowledge,yeah
+g,instruct,and cross the river under the dead tree for the first or the second time if you don't count if you count the one at the top
+f,ready,under the dead tree so
+g,instruct,just just south of the dead tree
+f,acknowledge,okay
+g,ready,right
+g,instruct,now go dead south for about five centimetres straight down from the dead tree
+f,acknowledge,yeah
+g,instruct,and then five centimetres to the left bringing you to the lagoon
+f,acknowledge,yeah
+g,ready,right
+g,instruct,follow the shore of the lagoon down to the tip of it at the bottom
+f,acknowledge,right
+g,ready,right
+g,query_yn,do you have a rock fall
+f,reply_n,no
+g,query_yn,do you have green bay
+f,reply_y,yes
+g,acknowledge,right
+g,align,do you see the point of green bay the top point of green bay
+f,check,the most northerly point
+g,reply_y,yes
+g,instruct,go move to there but make it a
+f,acknowledge,right
+f,check,on on the coast is that a jutted point
+g,reply_y,yes
+g,ready,right
+g,instruct,take the line from the base of the lagoon from the point of the lagoon right down to the n-- most northerly point of green bay
+f,acknowledge,right
+g,query_yn,do you have a pirate ship and the finish cross
+g,clarify,right
+f,check,pirate ship's right down the the the southern
+g,query_w,now do a sort of "l" shape bringing you down to the pirate ship from where you are
+f,check,without going in the water
+g,query_yn,going in the water
+f,query_yn,going in the water
+g,query_yn,going in the water
+g,ready,right
+g,explain,that's the finish

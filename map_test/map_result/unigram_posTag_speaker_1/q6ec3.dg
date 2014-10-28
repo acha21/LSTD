@@ -1,0 +1,208 @@
+g,ready,okay ehm
+g,query_yn,have you got a starting point above the missionary camp
+f,reply_y,uh-huh i have yeah
+g,query_yn,and have you got gorillas
+f,reply_n,no
+g,ready,well
+g,explain,they're in the bottom left-hand corner
+f,check,bottom
+g,reply_w,roughly up a bit huh
+f,query_yn,o-- of the camp or of the map
+g,explain,of the map
+f,explain,of the map
+f,ready,now
+f,explain,i have a banana tree instead
+g,acknowledge,right okay
+g,ready,so
+g,instruct,if you just go left from the missionary camp a bit and then down
+f,check,left and down
+g,reply_y,yeah
+g,instruct,to about a couple of centimetres above the top of the bottom of the page
+f,acknowledge,yeah
+g,instruct,and then continue straight left along until about four centimetres from the end and then go straight up again
+f,query_yn,so that i'm on the left of what i have as a banana tree
+g,uncodable,sorry
+f,query_yn,so that i end up on the left of what is the banana tree on this map or maybe the gorillas on yours
+g,reply_y,yeah probably yeah
+f,acknowledge,okay
+g,query_yn,uh do you have a rope bridge
+f,reply_y,i do
+f,explain,ehm do i avoid the missionary camp where i'm moving
+g,reply_y,yeah
+f,check,so i move along so that i'm to the left of the missionary camp when i go down
+g,reply_y,uh-huh yeah
+f,acknowledge,okay
+f,ready,now
+f,explain,i'm at the left-hand side of the banana tree about
+g,acknowledge,right
+f,check,almost the extreme left of the page and about four centimetres up
+g,acknowledge,mmhmm
+f,check,about quarter of the way up
+g,acknowledge,okay that's fine
+g,ready,now
+g,query_yn,you've got the rope bridge
+f,reply_y,uh-huh
+g,instruct,so that you want to come up the page and then just when you're about in line with the rope rope bridge just turn right so you're across it
+f,acknowledge,okay
+f,check,so i'm going straight up and actually cross over the rope bridge
+g,reply_y,yeah
+f,check,so i move up and cross over the rope bridge
+f,acknowledge,right so
+f,query_yn,i'm now standing at the other side of the rope bridge
+g,acknowledge,okay
+g,instruct,if you now come down a couple of centimetres
+f,reply_y,uh-huh yeah
+g,query_yn,and do you have a waterfall
+f,reply_y,yeah
+f,explain,it's right of where i am at the moment
+g,reply_y,yeah
+g,instruct,if you just
+g,query_yn,mm do you have a sort of the water coming down
+f,reply_y,uh-huh
+g,instruct,if you sort of head along
+f,acknowledge,mmhmm
+g,instruct,so that you're about in line with the bottom of the water
+f,reply_y,uh-huh
+g,align,if you know what i mean
+f,reply_y,yeah
+g,ready,and then
+g,query_yn,have you got lost steps
+f,reply_n,no no steps
+g,acknowledge,okay
+g,instruct,if you just get to the waterfall first
+g,instruct,and then you want to go straight up to where these lost steps are
+f,query_w,oh yeah which are where
+g,ready,well
+g,query_yn,have you got fallen pillars
+f,reply_y,mm yeah i do yeah
+g,reply_n,it's sor-- it's
+g,instruct,in the finishing point
+f,reply_n,no
+g,acknowledge,no
+g,reply_w,ehm it's about in line with the fallen pillars
+f,acknowledge,uh-huh
+g,instruct,to the right of them
+f,reply_y,yeah
+g,instruct,in between the rope bridge and the waterfall
+f,check,all right so you've the rope bridge and the waterfall and the fallen pillars
+f,acknowledge,hmm
+f,explain,so at the moment i'm at the waterfall
+g,reply_y,uh-huh
+f,uncodable,do--
+g,instruct,well you want to go straight up
+f,check,straight up
+g,align,and you've got the lost steps
+f,reply_y,yeah
+g,uncodable,so--
+g,uncodable,uh
+f,explain,so i'm straight up i'm now at the top of the waterfall ehm not quite halfway up the page
+g,instruct,if you go straight up from the waterfall you keep going up until you're in line with the fallen pillars
+f,acknowledge,okay
+g,instruct,but don't actually go near them
+f,acknowledge,yeah okay that's fine
+g,instruct,and that's you if you sort of curve off to the left
+f,acknowledge,uh-huh
+g,clarify,you'll miss the lost steps
+f,acknowledge,okay
+f,query_w,and how far along do i move
+g,reply_w,um to about just before the middle of the page
+f,acknowledge,fine
+g,instruct,and then you want to come down in a diagonal
+f,acknowledge,uh-huh
+g,instruct,so that you've missed the fallen pillars and go underneath them
+f,acknowledge,okay that's fine
+f,explain,i'm now halfway along underneath the fallen pillars
+g,instruct,right just keep going 'til the end
+f,acknowledge,okay
+g,align,of the fallen pillars
+g,reply_y,yeah
+g,instruct,um now go down two or three centimetres
+f,acknowledge,yeah
+g,query_yn,do you have an obstacle there
+f,reply_y,i do
+f,check,flamingoes
+g,ready,well uh
+f,acknowledge,uh-huh
+g,instruct,i think you're probably trying to avoid that so if you go down um and then left in a sort of curve
+f,acknowledge,yeah
+g,instruct,and up again and you're pretty near the edge of the page
+f,reply_y,yeah
+g,ready,then
+g,query_yn,do you have ancient ruins
+f,reply_w,um ruined city is about three quarters up on the page and just slightly to the right of where i am at the moment
+g,acknowledge,yeah
+g,align,okay
+g,clarify,just like a bit up from the fallen pillars and to the left
+f,reply_y,yeah yeah uh-huh
+g,ready,well
+g,instruct,you want to sort of come towards the ancient ruins a bit
+f,acknowledge,yeah
+g,clarify,without actually coming into contact with them
+f,acknowledge,yeah okay
+g,instruct,a straight line
+f,explain,so i'm i'm moving right basically
+f,acknowledge,right
+f,check,now do i move up so that i'm level with the ruined city
+g,acknowledge,yeah
+f,acknowledge,uh um okay
+f,explain,right now i'm i'm on the left-hand side of the ruined city and about three quarters of the way up the page
+g,reply_y,yeah
+g,ready,now
+g,query_yn,do you have stones in the top left
+f,reply_n,eh no
+f,explain,i have a rock fall which is about halfway along the page and about three quarters of the way up
+g,reply_n,no no it's okay
+g,instruct,now if you just uh
+f,acknowledge,uh-huh
+g,explain,at the top there's some stones and that's about four centimetres from the top
+f,acknowledge,okay
+f,check,so just continue to move straight up
+g,reply_y,yeah
+g,instruct,to about four centimetres
+f,check,until almost at the top
+f,acknowledge,fine
+g,instruct,and then you want to go sharp right
+f,uncodable,mm
+g,instruct,to about halfway across the page
+f,acknowledge,okay
+g,ready,now
+g,query_yn,do you have a white mountain
+f,reply_y,uh-huh
+g,instruct,you want to just go over the top of that and round
+f,check,so go over the mountain
+g,reply_y,mmhmm
+f,acknowledge,okay
+f,explain,ehm i'm at about three quarters of the way along and at almost at the top of the page
+g,acknowledge,yeah okay
+g,query_yn,um do you have a soft furnishings store
+f,reply_n,no
+f,explain,i've got lost steps actually
+f,reply_y,yeah
+g,instruct,eh right um you're quite close to the mountain at the moment on its right-hand side
+f,acknowledge,yeah
+g,ready,well if you
+g,reply_w,under directly underneath the mountain about three centimetres down there's a soft furnishings store
+f,acknowledge,yeah
+f,check,mountain and move
+g,instruct,so you want to come down from the mountain and turn sharp left
+f,reply_y,yeah
+g,instruct,so that you're sort of in line with the left-hand side of the mountain
+f,acknowledge,okay
+g,instruct,then you come straight down and right
+f,check,and straight down and
+g,query_yn,do you have gazelles
+f,reply_y,yeah
+g,instruct,underneath them
+f,check,so
+f,query_w,do i move to the left-hand or the right-hand side of the gazelles
+g,reply_w,the right-hand side
+f,acknowledge,fine
+g,align,to about the right-hand side of the mountain level if you know what i mean
+f,acknowledge,oh i see right that's a bit further along fine
+g,align,okay
+g,instruct,that's it
+f,explain,so i've stopped so ehm i am three quarters of the way along slightly more than halfway up and to the right of the gazelles
+g,acknowledge,yeah
+f,reply_y,yeah
+g,acknowledge,that's right
+f,acknowledge,fine okay

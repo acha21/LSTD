@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="game.q8ec7">
+<igs id="q8ec7.game.0.5">
+<nite:child href="q8ec7.f.moves.xml#id(q8ec7.f.move.3.5)"/>
+</igs>
+<game em="0" aban="false_aban" meta="false_meta" id="q8ec7.game.1" initiator="g" type="explain">
+<nite:child href="q8ec7.g.moves.xml#id(q8ec7.g.move.1)..id(q8ec7.g.move.2)"/>
+</game>
+<igs id="q8ec7.game.1.5">
+<nite:child href="q8ec7.g.moves.xml#id(q8ec7.g.move.2.5)"/>
+</igs>
+<game em="0" aban="false_aban" meta="false_meta" id="q8ec7.game.2" initiator="g" type="query_yn">
+<nite:child href="q8ec7.g.moves.xml#id(q8ec7.g.move.3)..id(q8ec7.g.move.4.5)"/>
+<nite:child href="q8ec7.f.moves.xml#id(q8ec7.f.move.4)"/>
+<nite:child href="q8ec7.g.moves.xml#id(q8ec7.g.move.5)"/>
+</game>
+<igs id="q8ec7.game.2.5">
+<nite:child href="q8ec7.g.moves.xml#id(q8ec7.g.move.5.5)"/>
+<nite:child href="q8ec7.f.moves.xml#id(q8ec7.f.move.6.5)"/>
+</igs>
+<game em="0" aban="false_aban" meta="false_meta" id="q8ec7.game.3" initiator="g" type="align">
+<nite:child href="q8ec7.g.moves.xml#id(q8ec7.g.move.6)..id(q8ec7.g.move.7.5)"/>
+<game aban="false_aban" meta="false_meta" id="q8ec7.game.4" initiator="f" type="check" em="1">
+<nite:child href="q8ec7.f.moves.xml#id(q8ec7.f.move.7)..id(q8ec7.f.move.8.5)"/>
+</game>
+<nite:child href="q8ec7.g.moves.xml#id(q8ec7.g.move.8)"/>
+<nite:child href="q8ec7.f.moves.xml#id(q8ec7.f.move.9)"/>
+</game>
+<igs id="q8ec7.game.4.5">
+<nite:child href="q8ec7.g.moves.xml#id(q8ec7.g.move.11.5)"/>
+</igs>
+<game em="0" aban="false_aban" meta="false_meta" id="q8ec7.game.5" initiator="f" type="explain">
+<nite:child href="q8ec7.f.moves.xml#id(q8ec7.f.move.11)"/>
+</game>
+<igs id="q8ec7.game.5.5">
+<nite:child href="q8ec7.f.moves.xml#id(q8ec7.f.move.12.5)"/>
+</igs>
+<game em="0" aban="false_aban" meta="false_meta" id="q8ec7.game.6" initiator="g" type="instruct">
+<nite:child href="q8ec7.g.moves.xml#id(q8ec7.g.move.12)"/>
+<nite:child href="q8ec7.f.moves.xml#id(q8ec7.f.move.13)"/>
+</game>
+<igs id="q8ec7.game.6.5">
+<nite:child href="q8ec7.g.moves.xml#id(q8ec7.g.move.13.5)"/>
+<nite:child href="q8ec7.f.moves.xml#id(q8ec7.f.move.14.5)"/>
+</igs>
+<game em="0" aban="false_aban" meta="false_meta" id="q8ec7.game.7" initiator="g" type="instruct">
+<nite:child href="q8ec7.g.moves.xml#id(q8ec7.g.move.14)..id(q8ec7.g.move.16.4)"/>
+<game aban="false_aban" meta="false_meta" id="q8ec7.game.8" initiator="f" type="check" em="1">
+<nite:child href="q8ec7.f.moves.xml#id(q8ec7.f.move.15)..id(q8ec7.f.move.16.5)"/>
+<nite:child href="q8ec7.g.moves.xml#id(q8ec7.g.move.16.9)..id(q8ec7.g.move.17.5)"/>
+</game>
+<game aban="false_aban" meta="false_meta" id="q8ec7.game.9" initiator="f" type="query_w" em="1">
+<nite:child href="q8ec7.f.moves.xml#id(q8ec7.f.move.17)..id(q8ec7.f.move.18.5)"/>
+<nite:child href="q8ec7.g.moves.xml#id(q8ec7.g.move.18)"/>
+<nite:child href="q8ec7.f.moves.xml#id(q8ec7.f.move.19)"/>
+</game>
+</game>
+<igs id="q8ec7.game.9.5">
+<nite:child href="q8ec7.g.moves.xml#id(q8ec7.g.move.19.5)"/>
+<nite:child href="q8ec7.f.moves.xml#id(q8ec7.f.move.22.5)"/>
+</igs>
+<game em="0" aban="false_aban" meta="false_meta" id="q8ec7.game.10" initiator="g" type="query_yn">
+<nite:child href="q8ec7.g.moves.xml#id(q8ec7.g.move.20)..id(q8ec7.g.move.22)"/>
+</game>
+<igs id="q8ec7.game.10.5">
+<nite:child href="q8ec7.g.moves.xml#id(q8ec7.g.move.22.4)"/>
+</igs>
+<game em="0" aban="false_aban" meta="false_meta" id="q8ec7.game.11" initiator="g" type="instruct">
+<nite:child href="q8ec7.g.moves.xml#id(q8ec7.g.move.22.9)..id(q8ec7.g.move.23.5)"/>
+<nite:child href="q8ec7.f.moves.xml#id(q8ec7.f.move.23)..id(q8ec7.f.move.25.5)"/>
+<game aban="false_aban" meta="false_meta" id="q8ec7.game.12" initiator="g" type="align" em="1">
+<nite:child href="q8ec7.g.moves.xml#id(q8ec7.g.move.24)..id(q8ec7.g.move.24.5)"/>
+</game>
+<nite:child href="q8ec7.g.moves.xml#id(q8ec7.g.move.25)"/>
+<nite:child href="q8ec7.f.moves.xml#id(q8ec7.f.move.26)"/>
+</game>
+<igs id="q8ec7.game.12.5">
+<nite:child href="q8ec7.g.moves.xml#id(q8ec7.g.move.26.5)"/>
+<nite:child href="q8ec7.f.moves.xml#id(q8ec7.f.move.28.5)"/>
+</igs>
+<game em="0" aban="false_aban" meta="false_meta" id="q8ec7.game.13" initiator="g" type="instruct">
+<nite:child href="q8ec7.g.moves.xml#id(q8ec7.g.move.27)..id(q8ec7.g.move.28)"/>
+</game>
+<igs id="q8ec7.game.13.5">
+<nite:child href="q8ec7.g.moves.xml#id(q8ec7.g.move.28.4)"/>
+</igs>
+<game em="0" aban="false_aban" meta="false_meta" id="q8ec7.game.14" initiator="g" type="query_yn">
+<nite:child href="q8ec7.g.moves.xml#id(q8ec7.g.move.28.9)..id(q8ec7.g.move.29.5)"/>
+<nite:child href="q8ec7.f.moves.xml#id(q8ec7.f.move.29)"/>
+<nite:child href="q8ec7.g.moves.xml#id(q8ec7.g.move.30)"/>
+</game>
+<igs id="q8ec7.game.14.5">
+<nite:child href="q8ec7.f.moves.xml#id(q8ec7.f.move.31.5)"/>
+<nite:child href="q8ec7.g.moves.xml#id(q8ec7.g.move.30.5)"/>
+</igs>
+<game em="0" aban="false_aban" meta="false_meta" id="q8ec7.game.15" initiator="g" type="query_yn">
+<nite:child href="q8ec7.g.moves.xml#id(q8ec7.g.move.31)"/>
+<nite:child href="q8ec7.f.moves.xml#id(q8ec7.f.move.32)"/>
+</game>
+<igs id="q8ec7.game.15.5">
+<nite:child href="q8ec7.g.moves.xml#id(q8ec7.g.move.32.5)"/>
+<nite:child href="q8ec7.f.moves.xml#id(q8ec7.f.move.33.5)"/>
+</igs>
+<game em="0" aban="false_aban" meta="false_meta" id="q8ec7.game.16" initiator="g" type="query_yn">
+<nite:child href="q8ec7.g.moves.xml#id(q8ec7.g.move.33)..id(q8ec7.g.move.35.5)"/>
+<nite:child href="q8ec7.f.moves.xml#id(q8ec7.f.move.34)..id(q8ec7.f.move.35)"/>
+<nite:child href="q8ec7.g.moves.xml#id(q8ec7.g.move.36)"/>
+</game>
+<igs id="q8ec7.game.16.5">
+<nite:child href="q8ec7.f.moves.xml#id(q8ec7.f.move.38.5)"/>
+<nite:child href="q8ec7.g.moves.xml#id(q8ec7.g.move.36.5)"/>
+</igs>
+<game em="0" aban="false_aban" meta="false_meta" id="q8ec7.game.17" initiator="g" type="instruct">
+<nite:child href="q8ec7.g.moves.xml#id(q8ec7.g.move.37)..id(q8ec7.g.move.39.5)"/>
+<game aban="false_aban" meta="false_meta" id="q8ec7.game.18" initiator="f" type="query_yn" em="1">
+<nite:child href="q8ec7.f.moves.xml#id(q8ec7.f.move.39)"/>
+<nite:child href="q8ec7.g.moves.xml#id(q8ec7.g.move.40)"/>
+</game>
+</game>
+<igs id="q8ec7.game.18.5">
+<nite:child href="q8ec7.f.moves.xml#id(q8ec7.f.move.41.5)"/>
+<nite:child href="q8ec7.g.moves.xml#id(q8ec7.g.move.40.5)"/>
+</igs>
+<game em="0" aban="false_aban" meta="false_meta" id="q8ec7.game.19" initiator="g" type="query_yn">
+<nite:child href="q8ec7.g.moves.xml#id(q8ec7.g.move.41)"/>
+<nite:child href="q8ec7.f.moves.xml#id(q8ec7.f.move.42)"/>
+</game>
+<igs id="q8ec7.game.19.5">
+<nite:child href="q8ec7.f.moves.xml#id(q8ec7.f.move.44.5)"/>
+<nite:child href="q8ec7.g.moves.xml#id(q8ec7.g.move.43.5)"/>
+</igs>
+<game em="0" aban="false_aban" meta="false_meta" id="q8ec7.game.20" initiator="g" type="query_yn">
+<nite:child href="q8ec7.g.moves.xml#id(q8ec7.g.move.44)..id(q8ec7.g.move.45.5)"/>
+<nite:child href="q8ec7.f.moves.xml#id(q8ec7.f.move.45)"/>
+<nite:child href="q8ec7.g.moves.xml#id(q8ec7.g.move.46)..id(q8ec7.g.move.47)"/>
+</game>
+<igs id="q8ec7.game.20.5">
+<nite:child href="q8ec7.f.moves.xml#id(q8ec7.f.move.48.5)"/>
+<nite:child href="q8ec7.g.moves.xml#id(q8ec7.g.move.47.5)"/>
+</igs>
+<game em="0" aban="false_aban" meta="false_meta" id="q8ec7.game.21" initiator="g" type="instruct">
+<nite:child href="q8ec7.g.moves.xml#id(q8ec7.g.move.48)..id(q8ec7.g.move.49.5)"/>
+<game aban="false_aban" meta="false_meta" id="q8ec7.game.22" initiator="f" type="check" em="1">
+<nite:child href="q8ec7.f.moves.xml#id(q8ec7.f.move.49)"/>
+<nite:child href="q8ec7.g.moves.xml#id(q8ec7.g.move.50)"/>
+</game>
+</game>
+<igs id="q8ec7.game.22.5">
+<nite:child href="q8ec7.f.moves.xml#id(q8ec7.f.move.51.5)"/>
+<nite:child href="q8ec7.g.moves.xml#id(q8ec7.g.move.50.5)"/>
+</igs>
+<game em="0" aban="false_aban" meta="false_meta" id="q8ec7.game.23" initiator="g" type="query_yn">
+<nite:child href="q8ec7.g.moves.xml#id(q8ec7.g.move.51)..id(q8ec7.g.move.52.5)"/>
+<nite:child href="q8ec7.f.moves.xml#id(q8ec7.f.move.52)"/>
+<nite:child href="q8ec7.g.moves.xml#id(q8ec7.g.move.53)"/>
+</game>
+<igs id="q8ec7.game.23.5">
+<nite:child href="q8ec7.f.moves.xml#id(q8ec7.f.move.56.5)"/>
+<nite:child href="q8ec7.g.moves.xml#id(q8ec7.g.move.54.5)"/>
+</igs>
+<game em="0" aban="false_aban" meta="false_meta" id="q8ec7.game.24" initiator="g" type="instruct">
+<nite:child href="q8ec7.g.moves.xml#id(q8ec7.g.move.55)..id(q8ec7.g.move.57.5)"/>
+<game aban="false_aban" meta="false_meta" id="q8ec7.game.25" initiator="f" type="query_w" em="1">
+<nite:child href="q8ec7.f.moves.xml#id(q8ec7.f.move.57)"/>
+<nite:child href="q8ec7.g.moves.xml#id(q8ec7.g.move.58)"/>
+</game>
+</game>
+<igs id="q8ec7.game.25.5">
+<nite:child href="q8ec7.f.moves.xml#id(q8ec7.f.move.60.5)"/>
+<nite:child href="q8ec7.g.moves.xml#id(q8ec7.g.move.58.5)"/>
+</igs>
+<game em="0" aban="false_aban" meta="false_meta" id="q8ec7.game.26" initiator="g" type="instruct">
+<nite:child href="q8ec7.g.moves.xml#id(q8ec7.g.move.59)..id(q8ec7.g.move.59.5)"/>
+<game aban="false_aban" meta="false_meta" id="q8ec7.game.27" initiator="g" type="query_yn" em="1">
+<nite:child href="q8ec7.g.moves.xml#id(q8ec7.g.move.60)..id(q8ec7.g.move.61.5)"/>
+<nite:child href="q8ec7.f.moves.xml#id(q8ec7.f.move.61)..id(q8ec7.f.move.62.5)"/>
+</game>
+<nite:child href="q8ec7.g.moves.xml#id(q8ec7.g.move.62)..id(q8ec7.g.move.65.5)"/>
+<nite:child href="q8ec7.f.moves.xml#id(q8ec7.f.move.63)..id(q8ec7.f.move.66.5)"/>
+<nite:child href="q8ec7.g.moves.xml#id(q8ec7.g.move.66)..id(q8ec7.g.move.67.5)"/>
+<nite:child href="q8ec7.f.moves.xml#id(q8ec7.f.move.67)..id(q8ec7.f.move.68.5)"/>
+<game aban="false_aban" meta="false_meta" id="q8ec7.game.28" initiator="g" type="query_yn" em="1">
+<nite:child href="q8ec7.g.moves.xml#id(q8ec7.g.move.68)..id(q8ec7.g.move.69.5)"/>
+<nite:child href="q8ec7.f.moves.xml#id(q8ec7.f.move.69)"/>
+<nite:child href="q8ec7.g.moves.xml#id(q8ec7.g.move.70)"/>
+</game>
+</game>
+<igs id="q8ec7.game.28.5">
+<nite:child href="q8ec7.f.moves.xml#id(q8ec7.f.move.70.5)"/>
+<nite:child href="q8ec7.g.moves.xml#id(q8ec7.g.move.70.4)"/>
+</igs>
+<game em="0" aban="false_aban" meta="false_meta" id="q8ec7.game.29" initiator="g" type="instruct">
+<nite:child href="q8ec7.g.moves.xml#id(q8ec7.g.move.70.9)..id(q8ec7.g.move.71.5)"/>
+<game aban="false_aban" meta="false_meta" id="q8ec7.game.30" initiator="f" type="query_yn" em="1">
+<nite:child href="q8ec7.f.moves.xml#id(q8ec7.f.move.71)..id(q8ec7.f.move.73.5)"/>
+<nite:child href="q8ec7.g.moves.xml#id(q8ec7.g.move.72)..id(q8ec7.g.move.72.5)"/>
+</game>
+<nite:child href="q8ec7.g.moves.xml#id(q8ec7.g.move.73)..id(q8ec7.g.move.73.9)"/>
+<nite:child href="q8ec7.f.moves.xml#id(q8ec7.f.move.74)"/>
+</game>
+<igs id="q8ec7.game.30.5">
+<nite:child href="q8ec7.g.moves.xml#id(q8ec7.g.move.74.5)"/>
+<nite:child href="q8ec7.f.moves.xml#id(q8ec7.f.move.75.5)"/>
+</igs>
+<game em="0" aban="false_aban" meta="false_meta" id="q8ec7.game.31" initiator="g" type="instruct">
+<nite:child href="q8ec7.g.moves.xml#id(q8ec7.g.move.75)..id(q8ec7.g.move.76.5)"/>
+<game aban="false_aban" meta="false_meta" id="q8ec7.game.32" initiator="f" type="check" em="1">
+<nite:child href="q8ec7.f.moves.xml#id(q8ec7.f.move.76)"/>
+<nite:child href="q8ec7.g.moves.xml#id(q8ec7.g.move.77)..id(q8ec7.g.move.78)"/>
+</game>
+</game>
+<igs id="q8ec7.game.32.5">
+<nite:child href="q8ec7.f.moves.xml#id(q8ec7.f.move.79.5)"/>
+<nite:child href="q8ec7.g.moves.xml#id(q8ec7.g.move.78.5)"/>
+</igs>
+<game em="0" aban="false_aban" meta="false_meta" id="q8ec7.game.33" initiator="g" type="query_yn">
+<nite:child href="q8ec7.g.moves.xml#id(q8ec7.g.move.79)..id(q8ec7.g.move.79.9)"/>
+<nite:child href="q8ec7.f.moves.xml#id(q8ec7.f.move.80)"/>
+</game>
+<igs id="q8ec7.game.33.5">
+<nite:child href="q8ec7.g.moves.xml#id(q8ec7.g.move.80.5)"/>
+<nite:child href="q8ec7.f.moves.xml#id(q8ec7.f.move.82.5)"/>
+</igs>
+<game em="0" aban="false_aban" meta="false_meta" id="q8ec7.game.34" initiator="g" type="instruct">
+<nite:child href="q8ec7.g.moves.xml#id(q8ec7.g.move.81)..id(q8ec7.g.move.83.5)"/>
+<game aban="false_aban" meta="false_meta" id="q8ec7.game.35" initiator="f" type="check" em="1">
+<nite:child href="q8ec7.f.moves.xml#id(q8ec7.f.move.83)"/>
+<nite:child href="q8ec7.g.moves.xml#id(q8ec7.g.move.84)"/>
+</game>
+</game>
+<igs id="q8ec7.game.35.5">
+<nite:child href="q8ec7.f.moves.xml#id(q8ec7.f.move.85.5)"/>
+</igs>
+<game em="0" aban="false_aban" meta="false_meta" id="q8ec7.game.36" initiator="g" type="query_yn">
+<nite:child href="q8ec7.g.moves.xml#id(q8ec7.g.move.85)..id(q8ec7.g.move.86.5)"/>
+<nite:child href="q8ec7.f.moves.xml#id(q8ec7.f.move.86)..id(q8ec7.f.move.87.5)"/>
+<nite:child href="q8ec7.g.moves.xml#id(q8ec7.g.move.87)"/>
+<nite:child href="q8ec7.f.moves.xml#id(q8ec7.f.move.88)"/>
+</game>
+<igs id="q8ec7.game.36.5">
+<nite:child href="q8ec7.g.moves.xml#id(q8ec7.g.move.88.5)"/>
+<nite:child href="q8ec7.f.moves.xml#id(q8ec7.f.move.89.5)"/>
+</igs>
+<game em="0" aban="false_aban" meta="false_meta" id="q8ec7.game.37" initiator="g" type="align">
+<nite:child href="q8ec7.g.moves.xml#id(q8ec7.g.move.89)"/>
+<nite:child href="q8ec7.f.moves.xml#id(q8ec7.f.move.90)"/>
+</game>
+<igs id="q8ec7.game.37.5">
+<nite:child href="q8ec7.g.moves.xml#id(q8ec7.g.move.90.5)"/>
+<nite:child href="q8ec7.f.moves.xml#id(q8ec7.f.move.91.5)"/>
+</igs>
+<game em="0" aban="false_aban" meta="false_meta" id="q8ec7.game.38" initiator="g" type="instruct">
+<nite:child href="q8ec7.g.moves.xml#id(q8ec7.g.move.91)..id(q8ec7.g.move.92.5)"/>
+<game aban="false_aban" meta="false_meta" id="q8ec7.game.39" initiator="f" type="query_yn" em="1">
+<nite:child href="q8ec7.f.moves.xml#id(q8ec7.f.move.92)..id(q8ec7.f.move.93.5)"/>
+<nite:child href="q8ec7.g.moves.xml#id(q8ec7.g.move.93)"/>
+<nite:child href="q8ec7.f.moves.xml#id(q8ec7.f.move.94)"/>
+</game>
+</game>
+<igs id="q8ec7.game.39.5">
+<nite:child href="q8ec7.g.moves.xml#id(q8ec7.g.move.94.5)"/>
+<nite:child href="q8ec7.f.moves.xml#id(q8ec7.f.move.95.5)"/>
+</igs>
+<game em="0" aban="false_aban" meta="false_meta" id="q8ec7.game.40" initiator="g" type="query_yn">
+<nite:child href="q8ec7.g.moves.xml#id(q8ec7.g.move.95)"/>
+<nite:child href="q8ec7.f.moves.xml#id(q8ec7.f.move.96)..id(q8ec7.f.move.98)"/>
+</game>
+<igs id="q8ec7.game.40.5">
+<nite:child href="q8ec7.g.moves.xml#id(q8ec7.g.move.98.5)"/>
+<nite:child href="q8ec7.f.moves.xml#id(q8ec7.f.move.99.5)"/>
+</igs>
+<game em="0" aban="false_aban" meta="false_meta" id="q8ec7.game.41" initiator="g" type="query_yn">
+<nite:child href="q8ec7.g.moves.xml#id(q8ec7.g.move.99)"/>
+<nite:child href="q8ec7.f.moves.xml#id(q8ec7.f.move.100)"/>
+</game>
+<igs id="q8ec7.game.41.5">
+<nite:child href="q8ec7.g.moves.xml#id(q8ec7.g.move.100.5)"/>
+<nite:child href="q8ec7.f.moves.xml#id(q8ec7.f.move.102.5)"/>
+</igs>
+<game em="0" aban="false_aban" meta="false_meta" id="q8ec7.game.42" initiator="g" type="instruct">
+<nite:child href="q8ec7.g.moves.xml#id(q8ec7.g.move.101)..id(q8ec7.g.move.103.5)"/>
+<game aban="false_aban" meta="false_meta" id="q8ec7.game.43" initiator="f" type="query_w" em="1">
+<nite:child href="q8ec7.f.moves.xml#id(q8ec7.f.move.103)..id(q8ec7.f.move.104.5)"/>
+<nite:child href="q8ec7.g.moves.xml#id(q8ec7.g.move.104)..id(q8ec7.g.move.106.5)"/>
+<game aban="false_aban" meta="false_meta" id="q8ec7.game.44" initiator="f" type="query_yn" em="2">
+<nite:child href="q8ec7.f.moves.xml#id(q8ec7.f.move.105)..id(q8ec7.f.move.108.5)"/>
+<nite:child href="q8ec7.g.moves.xml#id(q8ec7.g.move.107)..id(q8ec7.g.move.109.5)"/>
+</game>
+</game>
+<game aban="false_aban" meta="false_meta" id="q8ec7.game.45" initiator="f" type="check" em="1">
+<nite:child href="q8ec7.f.moves.xml#id(q8ec7.f.move.109)..id(q8ec7.f.move.111.5)"/>
+<nite:child href="q8ec7.g.moves.xml#id(q8ec7.g.move.110)..id(q8ec7.g.move.111)"/>
+<nite:child href="q8ec7.f.moves.xml#id(q8ec7.f.move.112)"/>
+</game>
+</game>
+<igs id="q8ec7.game.45.5">
+<nite:child href="q8ec7.g.moves.xml#id(q8ec7.g.move.112.5)"/>
+<nite:child href="q8ec7.f.moves.xml#id(q8ec7.f.move.114.5)"/>
+</igs>
+<game em="0" aban="false_aban" meta="false_meta" id="q8ec7.game.46" initiator="g" type="align">
+<nite:child href="q8ec7.g.moves.xml#id(q8ec7.g.move.113)"/>
+</game>
+<igs id="q8ec7.game.46.5">
+<nite:child href="q8ec7.g.moves.xml#id(q8ec7.g.move.113.5)"/>
+</igs>
+<game em="0" aban="false_aban" meta="false_meta" id="q8ec7.game.47" initiator="g" type="instruct">
+<nite:child href="q8ec7.g.moves.xml#id(q8ec7.g.move.114)"/>
+<nite:child href="q8ec7.f.moves.xml#id(q8ec7.f.move.115)"/>
+</game>
+<igs id="q8ec7.game.47.5">
+<nite:child href="q8ec7.g.moves.xml#id(q8ec7.g.move.115.5)"/>
+<nite:child href="q8ec7.f.moves.xml#id(q8ec7.f.move.118.5)"/>
+</igs>
+<game em="0" aban="false_aban" meta="false_meta" id="q8ec7.game.48" initiator="g" type="align">
+<nite:child href="q8ec7.g.moves.xml#id(q8ec7.g.move.116)"/>
+</game>
+<igs id="q8ec7.game.48.5">
+<nite:child href="q8ec7.g.moves.xml#id(q8ec7.g.move.116.5)"/>
+</igs>
+<game em="0" meta="false_meta" id="q8ec7.game.49" initiator="g" type="instruct" aban="true_aban">
+<nite:child href="q8ec7.g.moves.xml#id(q8ec7.g.move.117)"/>
+</game>
+<igs id="q8ec7.game.49.5">
+<nite:child href="q8ec7.g.moves.xml#id(q8ec7.g.move.117.5)"/>
+</igs>
+<game em="0" aban="false_aban" meta="false_meta" id="q8ec7.game.50" initiator="g" type="query_yn">
+<nite:child href="q8ec7.g.moves.xml#id(q8ec7.g.move.118)..id(q8ec7.g.move.120.5)"/>
+<nite:child href="q8ec7.f.moves.xml#id(q8ec7.f.move.119)..id(q8ec7.f.move.120)"/>
+<nite:child href="q8ec7.g.moves.xml#id(q8ec7.g.move.121)"/>
+</game>
+<igs id="q8ec7.game.50.5">
+<nite:child href="q8ec7.g.moves.xml#id(q8ec7.g.move.122.5)"/>
+<nite:child href="q8ec7.f.moves.xml#id(q8ec7.f.move.123.5)"/>
+</igs>
+<game em="0" aban="false_aban" meta="false_meta" id="q8ec7.game.51" initiator="g" type="instruct">
+<nite:child href="q8ec7.g.moves.xml#id(q8ec7.g.move.123)..id(q8ec7.g.move.124.5)"/>
+<nite:child href="q8ec7.f.moves.xml#id(q8ec7.f.move.124)"/>
+<nite:child href="q8ec7.g.moves.xml#id(q8ec7.g.move.125)"/>
+</game>
+<igs id="q8ec7.game.51.5">
+<nite:child href="q8ec7.f.moves.xml#id(q8ec7.f.move.126.5)"/>
+<nite:child href="q8ec7.g.moves.xml#id(q8ec7.g.move.125.5)"/>
+</igs>
+<game em="0" aban="false_aban" meta="false_meta" id="q8ec7.game.52" initiator="g" type="query_w">
+<nite:child href="q8ec7.g.moves.xml#id(q8ec7.g.move.126)"/>
+<nite:child href="q8ec7.f.moves.xml#id(q8ec7.f.move.127)"/>
+</game>
+<igs id="q8ec7.game.52.5">
+<nite:child href="q8ec7.g.moves.xml#id(q8ec7.g.move.127.5)"/>
+<nite:child href="q8ec7.f.moves.xml#id(q8ec7.f.move.128.5)"/>
+</igs>
+<game em="0" aban="false_aban" meta="false_meta" id="q8ec7.game.53" initiator="g" type="query_yn">
+<nite:child href="q8ec7.g.moves.xml#id(q8ec7.g.move.128)..id(q8ec7.g.move.129.5)"/>
+<nite:child href="q8ec7.f.moves.xml#id(q8ec7.f.move.129)"/>
+<nite:child href="q8ec7.g.moves.xml#id(q8ec7.g.move.130)"/>
+</game>
+<igs id="q8ec7.game.53.5">
+<nite:child href="q8ec7.f.moves.xml#id(q8ec7.f.move.131.5)"/>
+<nite:child href="q8ec7.g.moves.xml#id(q8ec7.g.move.130.5)"/>
+</igs>
+<game em="0" aban="false_aban" meta="false_meta" id="q8ec7.game.54" initiator="g" type="query_yn">
+<nite:child href="q8ec7.g.moves.xml#id(q8ec7.g.move.131)"/>
+<nite:child href="q8ec7.f.moves.xml#id(q8ec7.f.move.132)"/>
+</game>
+<igs id="q8ec7.game.54.5">
+<nite:child href="q8ec7.g.moves.xml#id(q8ec7.g.move.132.5)"/>
+<nite:child href="q8ec7.f.moves.xml#id(q8ec7.f.move.134.5)"/>
+</igs>
+<game em="0" aban="false_aban" meta="false_meta" id="q8ec7.game.55" initiator="g" type="instruct">
+<nite:child href="q8ec7.g.moves.xml#id(q8ec7.g.move.133)..id(q8ec7.g.move.134)"/>
+<nite:child href="q8ec7.f.moves.xml#id(q8ec7.f.move.135)"/>
+</game>
+<igs id="q8ec7.game.55.5">
+<nite:child href="q8ec7.g.moves.xml#id(q8ec7.g.move.135.5)"/>
+<nite:child href="q8ec7.f.moves.xml#id(q8ec7.f.move.137.5)"/>
+</igs>
+<game em="0" aban="false_aban" meta="false_meta" id="q8ec7.game.56" initiator="g" type="align">
+<nite:child href="q8ec7.g.moves.xml#id(q8ec7.g.move.136)"/>
+</game>
+<igs id="q8ec7.game.56.5">
+<nite:child href="q8ec7.g.moves.xml#id(q8ec7.g.move.136.5)"/>
+</igs>
+<game em="0" aban="false_aban" meta="false_meta" id="q8ec7.game.57" initiator="g" type="instruct">
+<nite:child href="q8ec7.g.moves.xml#id(q8ec7.g.move.137)..id(q8ec7.g.move.138.5)"/>
+<game aban="false_aban" meta="false_meta" id="q8ec7.game.58" initiator="f" type="query_yn" em="1">
+<nite:child href="q8ec7.f.moves.xml#id(q8ec7.f.move.138)..id(q8ec7.f.move.139.5)"/>
+<nite:child href="q8ec7.g.moves.xml#id(q8ec7.g.move.139)"/>
+<nite:child href="q8ec7.f.moves.xml#id(q8ec7.f.move.140)"/>
+</game>
+</game>
+<igs id="q8ec7.game.58.5">
+<nite:child href="q8ec7.g.moves.xml#id(q8ec7.g.move.140.5)"/>
+</igs>
+<game em="0" aban="false_aban" meta="false_meta" id="q8ec7.game.59" initiator="g" type="explain">
+<nite:child href="q8ec7.g.moves.xml#id(q8ec7.g.move.141)"/>
+</game>
+</nite:root>
+

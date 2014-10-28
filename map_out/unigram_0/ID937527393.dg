@@ -1,0 +1,28 @@
+Y,Opening,Hi thanks for reaching out to Samsung tech support. How can I help you today?
+N,Issue_Statement,I have a galaxy tab 2 7inch and the charger no longer works. I tried it on my sisters tabs and also didnt work. We bought it in october.
+Y,Acknowledgement,I am sorry to hear that.
+Y,Open_Question,Could you provide me with the model number of your tab? You can find it in settings>> about device
+N,Word_Answer,GT-P3113
+Y,YN_Question,Have you tried charging through different wall outlets?
+N,Positive,Yes
+Y,PresentSolution,To isolate the issue charge the tab by connecting to computer/laptop and check if it charges.
+N,Issue_Statement,Its charged. I have a secong tablet that we use d to charge it. The broken charger puts a red x in the charging icon when its on and plugged into it.
+Y,YN_Question,Are you able to charge this tab with a different charger?
+N,NotSolved_Answer,I just tried on computer and not working.
+N,Word_Answer,Yes any other charger works.
+Y,PresentSolution,I will escalate the issue to appropriate department and you will receive a call in 2 business days.
+Y,Open_Question,Please provide me with the following details:
+Y,PresentSolution,1. Full Name:
+Y,PresentSolution,2. Contact number:
+Y,Open_Question,3. Email address:
+Y,PresentSolution,4. Shipping address:
+Y,Open_Question,5. Zip code:
+Y,Open_Question,6. Model code:
+Y,Open_Question,7. Serial number:
+N,Issue_Statement,I will just call somebody in the morning.
+Y,Word_Answer,You can get back with this chat ID:LTK111790232540X.
+Y,Closing,We are available 24X7 and happy to assist you.
+N,Connection_check_Question,Thankyou.
+Y,YN_Question,You're welcome. Is there anything else I can assist you with?
+N,Connection_check_Question,Nope.
+Y,Closing,Thank you for chatting with us. If you have a minute please click on the blue “X close” button to receive a transcript of your chat and fill out a brief survey to help us serve you better. Have a wonderful day!<BR> Follow Samsung Service on <a href="http://www.facebook.com/samsungsupport" target="_blank">Facebook</a> <a href="http://twitter.com/samsungsupport" target="_blank">Twitter</a> and <a href="http://www.youtube.com/samsungservice" target="_blank">YouTube</a>.

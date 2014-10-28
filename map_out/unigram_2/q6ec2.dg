@@ -1,0 +1,445 @@
+g,query_yn,um are you at the start
+g,instruct,um move downwards on the map so that the telephone kiosk you're to the left of the telephone kiosk
+f,acknowledge,right
+g,instruct,and continue to move downwards until you are para-- level with the stone circle
+f,check,i haven't got a stone circle
+g,check,you don't have a stone circle
+f,reply_n,no
+g,ready,okay
+g,query_yn,do you have a stone circle on the map at all
+f,query_yn,um i have a ruined monastery
+g,acknowledge,fine
+g,query_yn,um do you have any obstacle below the telephone kiosk
+f,reply_w,a broken gate and a meadow
+g,query_yn,a brok--
+g,check,a broken gate
+g,check,directly below the telephone kiosk
+f,reply_n,oh not directly below no
+g,query_yn,do you have anything directly below the telephone kiosk no
+g,acknowledge,move downwards
+f,acknowledge,mmhmm
+g,instruct,until move completely move downwards until you're almost at the bottom of the paper
+f,acknowledge,right
+f,check,will i not fall over broken stones
+g,reply_y,uh-huh
+g,clarify,are you downwards until you're almost at the bottom of the paper
+f,acknowledge,yep
+g,instruct,then move right along not comple-- for if you want it in inches about four inches
+f,query_yn,have you got a meadow
+g,reply_y,yeah
+g,check,but that's farther along
+g,reply_n,not that far along
+f,reply_n,not that far along
+f,reply_w,to about the middle
+g,reply_n,no no no no no
+f,acknowledge,mmhmm mmhmm
+g,instruct,move when you have gone down from the telephone kiosk and you're almost at the bottom of the paper
+g,instruct,move in inches about three inches along the map
+f,acknowledge,right okay
+g,align,okay
+f,align,okay
+g,instruct,now move
+g,align,do you have a farmer's gate upwards from where you are at the moment
+f,reply_y,mm yeah
+f,uncodable,it's broken
+g,reply_y,broken yeah
+f,reply_n,no
+g,query_w,but it says farmer's gate or does it say broken gate
+f,reply_y,it says broken gate aye
+g,acknowledge,okay fine
+g,instruct,move upwards an-- so that you're to the left of the broken gate
+f,acknowledge,i'm too far along here
+g,reply_w,and just level to the gatepost
+f,check,so you want me to the left of the gate
+g,reply_y,to the gate yeah
+f,explain,i'll have to go back a bit now then
+g,reply_y,yeah
+g,explain,well i wasn't sure about the distance
+f,align,okay
+g,acknowledge,okay
+g,align,now you are at the left of the gatepost
+f,reply_y,mmhmm
+g,align,and if you see what i mean standing at the top of it yeah ehm
+f,check,do you want me to go through the gate
+g,reply_n,no
+f,acknowledge,oh okay
+g,instruct,ah if as long as you're um next to the gatepost to the left that's fine
+f,acknowledge,mmhmm
+g,ready,um now
+g,instruct,on this map if you were to move upwards slightly and to the right and then once you'd moved to the right 'til about three quarters along the paper
+f,acknowledge,mmhmm
+g,instruct,and then move upwards
+f,acknowledge,uh-huh
+g,clarify,you would come to a ruined monastery
+f,acknowledge,uh-huh
+g,explain,is that the same
+f,reply_y,yeah
+f,query_yn,have you got a youth hostel
+g,reply_n,no
+f,acknowledge,oh
+g,acknowledge,okay
+f,ready,well
+f,reply_w,if i go up and right i come to a youth hostel before i come to a ruined monastery
+g,acknowledge,yeah
+f,acknowledge,is that okay
+g,explain,well it doesn't exist on mine so
+f,reply_y,i can go via the
+g,align,you just have to move round okay
+f,acknowledge,okay
+g,instruct,you just you just have to move round okay now move
+g,acknowledge,right
+g,instruct,i'll explain what to do before you do it
+g,reply_w,but on your map you'll have to avoid the youth hostel
+f,query_w,why
+g,explain,because i don't have one on mine
+f,ready,well
+f,explain,can i not go through it anyway
+f,check,it's not going to eat me
+g,explain,don't you think
+f,explain,it might
+g,acknowledge,anyway
+g,ready,okay eh
+g,explain,i'll just relay mine
+g,acknowledge,okay
+g,align,now you're at
+f,check,am i supposed to go through this gate
+g,reply_y,you're at the broken gate
+f,reply_y,yeah
+f,explain,do i
+g,check,don't move thr-- through the broken gate
+f,reply_n,why not
+f,query_yn,do i have to climb the wall
+g,reply_w,p-- 'cause i don't
+f,acknowledge,oh
+g,align,okay
+f,align,okay
+g,ready,so
+g,query_w,wha-- what does your obstacle look like
+f,reply_w,what obstacle
+g,reply_w,the gate
+f,reply_n,no gate
+g,query_w,what's it look like
+f,ready,well
+f,explain,it's like a wall and then it's like a gate which is broken
+f,explain,if i don't go through the gate i have to
+g,check,so it's it's basically two posts with a broken gate
+f,acknowledge,uh-huh
+g,ready,okay
+g,instruct,and you're standing to the left of the left-hand post
+f,acknowledge,mmhmm
+f,align,by the wall
+g,acknowledge,yep well
+g,instruct,move up until you're slightly clear of the gatepost if you see what i mean
+f,ready,right
+f,check,shall i jump over the wall
+g,reply_n,no
+g,explain,i didn't realise that there was a wall
+g,explain,mine doesn't have a wall
+f,query_yn,oh mine does
+g,align,okay
+g,ready,well just
+f,reply_w,jump over the wall
+g,reply_y,basically jump over the wall yeah
+f,acknowledge,okay jumped
+g,ready,okay
+g,ready,now move right
+f,acknowledge,right okay
+g,instruct,and move along to about three quarters along the way of the paper
+f,acknowledge,three quarters
+f,uncodable,uh
+f,acknowledge,okay i'll go that side okay
+g,align,now
+g,instruct,on my map if you were to move straight up until slightly higher than halfway up the paper
+f,acknowledge,mmhmm
+f,clarify,here's a ruined monastery
+g,check,there's a ruined monastery
+f,acknowledge,okey-dokey
+g,explain,now
+g,instruct,move around the ruined monastery to the left
+f,acknowledge,to the left mmhmm
+g,instruct,and then move
+g,query_yn,do you have any obstacles between the monastery and the lake
+f,reply_n,um not directly no
+g,check,the lake is slightly lo-- the lake is lower down the lake is lower down than the monastery is
+f,check,is it
+g,reply_y,it is on this one yeah
+f,explain,oh well my lake's in the top right-hand corner
+g,acknowledge,oh i see
+g,explain,i have a west lake which is on the east actually but never mind
+f,acknowledge,oh i have an east lake
+g,reply_y,yeah okay
+g,query_yn,do you have a stile
+f,reply_y,yes
+g,query_yn,you do have a stile
+f,check,i have a stile
+g,query_yn,now is the s--
+f,explain,it's above the monastery
+g,explain,it's
+f,query_yn,above the monastery
+g,clarify,it's above and to the left of the monastery
+f,reply_y,yeah
+g,acknowledge,okay
+g,instruct,now move over the top of the monastery if you see what i mean in relation to the paper
+f,reply_w,oh i've just moved underneath
+g,reply_n,no no well
+g,instruct,go back and move over the top
+f,acknowledge,okay right okey-dokey
+g,instruct,and then move left and upwards 'til you come to the stile
+f,query_w,what on a diagonal
+g,clarify,i'm not sure how that's going to aff-- affect your lake
+g,ready,well
+g,instruct,you could move aro-- you could move around and down in a sort of circular if you like you don't have to move diagonally
+f,ready,well
+f,reply_y,it's the easiest way
+g,reply_y,yeah i suppose
+f,query_yn,shorter
+g,reply_y,i suppose
+g,reply_w,don't tire yourself out erm
+g,instruct,now move
+f,reply_y,mmhmm
+g,instruct,directly upwards until you're clear of the stile much the same way as you did with the gate
+f,acknowledge,jumping over the fence
+g,reply_y,yeah
+g,ready,and then move
+g,query_yn,do you have any obstacles between the stile and the dead tree
+g,query_yn,do you have a dead tree
+f,reply_n,i have no
+g,acknowledge,no r--
+f,explain,i have a dut--
+g,query_w,in relation to the
+f,explain,dutch elm if that's any good
+g,align,so where are you at the moment
+f,reply_w,i'm above the stile
+g,reply_y,above the stile that's fine
+g,ready,now
+f,acknowledge,mmhmm
+g,reply_w,if level with the stile on the extreme right-hand side there's a dead tree
+f,ready,well
+f,explain,i've got a dutch elm
+g,ready,well
+g,check,that's dead isn't it
+f,reply_n,not necessarily
+g,query_w,why
+f,check,it might not have had dutch elm disease
+g,check,it wouldn't be a dutch elm then
+f,acknowledge,okay
+f,reply_y,yes
+f,explain,i've got a tree
+g,acknowledge,fine okay you've got a tree
+g,ready,now
+g,explain,i'll just have to relay the route on the map
+g,acknowledge,okay
+f,align,okay
+g,instruct,move left from where you are at the moment so that you're above the stile but stop when you get past the stile
+f,acknowledge,yeah
+g,ready,okay ehm
+f,explain,i'm above the stile now
+g,align,you're above the stile
+g,instruct,now move in a move right so that when you s-- so that you stop just after the stile finishes
+g,uncodable,ehm
+g,instruct,you're bloody useless
+f,explain,i'm on the right of the stile anyway
+g,query_yn,are you
+f,reply_y,yeah
+g,uncodable,told you
+g,query_w,why aren't you on the left of it
+f,ready,well
+f,explain,i didn't go to the left of it
+g,ready,well
+f,ready,well
+g,query_yn,you ought to have gone to the left of it
+f,explain,you didn't say
+g,acknowledge,okay
+g,query_yn,i'm saying now
+f,ready,so
+f,check,you want me to go to the left and then back to the right again
+g,reply_y,yeah
+g,clarify,go to the left
+f,acknowledge,right okay
+g,align,okay
+g,instruct,then move upwards and to the right
+f,acknowledge,okay
+g,instruct,and stop when the stile stops
+f,acknowledge,okay
+g,ready,okay
+g,reply_y,yeah i know
+f,check,i'm in exactly the same place as i was before when you going to t--
+g,explain,but but at least you've gone round the stile
+f,align,okay
+g,align,and there might be a monster who inhabits the right-hand of the stile you don't know
+f,acknowledge,oh
+f,ready,well
+f,reply_w,i've missed it now
+g,ready,now right
+g,instruct,now move straight up until you're about three quarters
+f,check,what about this dead tree
+g,ready,well
+g,instruct,we're coming to that in a minute
+f,acknowledge,okay right
+g,instruct,so
+g,instruct,move three quarters upwards in relation
+f,clarify,three quarters of what upwards
+g,clarify,to the entire map
+f,ready,well
+f,explain,i'm about three quarters upwards anyway
+g,acknowledge,well
+f,instruct,a bit further upwards
+g,instruct,don't move very much then
+f,query_yn,have you got a popular tourist spot
+g,explain,a poplar
+f,explain,popular tourist spot
+g,reply_n,no
+f,explain,oh i have
+f,reply_w,shall i miss it out
+g,ready,well well
+g,reply_w,if the maps may not be the same presumably you're we're going to have to avoid these obstacles
+f,reply_y,mmhmm
+g,acknowledge,yeah
+f,query_yn,have you got a great viewpoint
+g,reply_y,yeah
+g,explain,i've actually got two great viewpoints
+f,explain,oh i've only got one that's not fair
+f,query_w,how far do i walk from where
+f,acknowledge,okay
+g,explain,you can have my map if you want two i'm i'm not very keen on great viewpoints
+f,query_w,so do i go near the great viewpoint or not very far
+g,uncodable,um ah
+g,explain,so the great viewpoint's in the way
+f,ready,well
+f,explain,it's about sort of four inches up
+g,instruct,four inches up and slightly to the left
+f,query_w,well
+f,explain,very very slightly
+f,query_yn,are we going to go to this tree afterwards
+g,reply_y,uh-huh
+f,ready,well
+f,explain,can i not go straight down because otherwise i'll have to go over the
+g,query_w,where are you at the moment
+f,check,above the stile
+g,check,above the stile
+g,explain,on this map there's a a sort of a bump basically in in the route
+f,align,bump like a like a hill
+g,reply_y,yeah
+g,reply_n,no no no
+g,reply_y,well like a hill except yeah i suppose
+f,acknowledge,yeah okay so
+f,acknowledge,okay
+f,acknowledge,i'll go right
+g,explain,what i mean by that is there's a bump in the route there isn't a bump on the map
+f,explain,i've gone i've gone further up
+g,acknowledge,right
+f,acknowledge,right
+f,check,to the tree
+g,instruct,now move right and down in a sort of circular sweep until you get to the dead tree
+f,ready,yay
+g,instruct,and then move around a-- and
+f,query_w,what side of the tree do you want me to be on
+g,clarify,oh on the right side of the tree i want you to finish up on the right side of the tree
+f,acknowledge,right okay
+g,instruct,then move up and left and up so that you're to the right of the great viewpoint when you finish
+f,uncodable,okay
+g,instruct,assuming that your great viewpoint's in the same place as mine
+g,acknowledge,ah
+f,explain,oh i've got to be on the left hang on
+f,query_w,what
+g,reply_w,i have two great viewpoints
+f,acknowledge,oh
+g,ready,okay tuba ehm
+g,instruct,go back until you're right of the dead tree
+f,check,right i'm by the tree
+g,ready,right
+g,query_yn,do you have a lake to the top
+f,reply_w,i've an east lake
+g,reply_y,to the top that's fine
+g,ready,now
+g,align,below the east lake
+f,reply_y,uh-huh
+g,explain,there's a great viewpoint as well
+f,explain,well i've got a rocket laun-- launch pad
+g,instruct,well
+g,explain,that probably
+f,query_w,same thing
+g,explain,similar
+g,reply_y,yeah
+g,acknowledge,fine
+g,instruct,so if you can move
+g,query_w,where is the rocket launch pad in relation to the lake
+f,reply_w,erm it's beneath the lake on the right side
+g,acknowledge,beneath the lake on the right side
+f,reply_y,mmhmm
+g,ready,mm
+g,align,how can it be beneath the lake and on the right
+f,ready,well
+g,reply_n,nope
+f,explain,it's beneath the lake and a bit on the right edge of the lake rather than on the left edge of the lake
+g,acknowledge,oh i see
+g,check,oh
+f,check,is that not it
+g,ready,well
+g,reply_w,the great viewpoint that i have is below the lake and if there was a midline through the lake it would be probably s-- s-- very slightly to the left of the midline
+f,acknowledge,oh oh okay well
+f,instruct,if i just go up say about by the edge of the lake where it's
+f,acknowledge,mmhmm
+g,instruct,if you go upwards and stop below the bottom of the lake so that you're about two thirds along the length of the lake
+f,acknowledge,right
+f,reply_y,okay
+g,align,okay
+f,ready,right
+g,ready,now
+g,instruct,if you move left and along the bottom of the lake until the lake finishes
+g,reply_n,no
+f,reply_y,yeah hang on i've done this wrong
+g,acknowledge,yeah
+f,ready,right
+f,explain,i was underneath the tree
+g,reply_y,uh-huh
+f,explain,and i've done a very squiggly line
+g,reply_y,yeah
+f,uncodable,ehm
+f,reply_w,and i went up and along left and then up again
+g,query_yn,you went up
+f,reply_w,and a-- up and along and up
+g,query_yn,up along to the left and then up
+f,reply_y,uh-huh
+g,check,along the lake
+f,check,and i'm about two thirds along the lake
+f,check,and
+g,check,from the left of the lake two thirds along
+f,reply_n,no
+f,check,two thirds along from the right
+g,explain,i see
+g,check,no you want to be two thirds along from the left
+f,acknowledge,okay
+f,check,so after the rocket launch
+g,reply_y,yeah
+f,acknowledge,okay
+f,instruct,and then where do i go up to the lake and along left
+g,ready,now wh--
+g,align,where you are from where you are at the moment if you were
+f,acknowledge,making a right pig's ear of this map
+g,instruct,if you move
+f,acknowledge,okay
+g,reply_w,left and along the base of the lake
+f,acknowledge,okay all along right
+g,instruct,until the lake finishes
+f,ready,well
+f,reply_w,the lake's quite long
+g,reply_y,yeah
+f,acknowledge,right okay
+g,ready,now
+f,acknowledge,mmhmm
+g,align,you ought to be standing at the
+f,check,do you want me to go down a bit
+g,reply_n,no
+g,clarify,you ought to be standing
+g,reply_w,if the lake continued down if the edge of the lake wasn't curved
+f,acknowledge,mm upwards
+g,align,yeah
+f,reply_y,mmhmm
+g,align,then you ought to be standing at the extreme left edge of the lake
+f,reply_y,yeah
+g,align,you are
+f,reply_y,mmhmm
+g,ready,well
+g,instruct,that's you finished
+f,acknowledge,oh

@@ -1,6 +1,12 @@
 '''
 Created on 2014. 6. 9.
 
+  This module extract features followings
+  N-gram(Unigram, Bigram, Trigram)    : extractNgrams()
+  
+  , store to a file and load from it  : saveFeatureMap(), loadFeatureMap()
+  , make the features as context which is a list of existence of a feature : toContext()
+ 
 @author: yeonchan
 '''
 
@@ -110,9 +116,7 @@ def processFeatExtract():
 
     
     saveFeatureMap()
-    
-
-    
+        
 #def getDialogActsLabel():
 #    transPathName = "Tr_test"
 #    filelist = os.listdir(transPathName)
@@ -167,8 +171,6 @@ def mappping(grams, itmap, timap):
         idx = len(g_fm.timap)
         g_fm.timap[gram] = idx
         g_fm.itmap[idx] = gram
-
-
        
 if __name__=="__main__":
     pass

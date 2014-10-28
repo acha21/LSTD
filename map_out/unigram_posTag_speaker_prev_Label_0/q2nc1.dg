@@ -1,0 +1,89 @@
+g,ready,right
+g,instruct,start from the sandy shore
+f,acknowledge,okay
+g,instruct,moving down straight down
+f,query_w,how far
+g,instruct,down as far as the bottom of the well
+f,explain,i don't have a well
+g,acknowledge,ah right eh
+g,instruct,move down eh vertically down about quarter of the way down the page
+g,instruct,move to the right in
+g,query_yn,do you have local residents
+f,reply_y,i do
+g,ready,right
+g,instruct,well move up and round and above them
+f,acknowledge,okay
+g,ready,right
+g,instruct,across not as far as the wood
+g,query_yn,do you have a wood
+f,check,do i cross the bridge
+g,reply_w,eh i don't have a bridge ah
+g,clarify,i would cross a bridge
+f,acknowledge,eh okay
+g,ready,right
+g,query_yn,do you have a stream forked stream
+f,reply_y,eh yes
+g,ready,right
+g,instruct,follow the stream follow the path of the stream right down
+f,query_w,how far
+g,instruct,eh to about a third of the way down the page
+f,query_yn,is there a bend in the stream
+g,reply_y,yes
+g,instruct,round the bend
+f,check,round the bend
+g,reply_y,yeah
+g,instruct,and stop
+g,query_yn,do you have farmed land
+f,reply_n,no
+g,query_yn,right do you have a dead tree
+f,reply_y,yes
+g,ready,right eh
+g,instruct,move eh r-- to the right almost to the edge of the page horizontally across
+f,query_w,where in relation to the fork in the stream is this
+g,explain,eh this is a-- the-- this is at the fork in the stream
+f,check,move right to the edge of the page
+g,reply_y,yeah
+f,acknowledge,okay
+g,instruct,down about two inches and then back across avoiding the dead tree
+f,check,across the stream
+g,reply_y,yeah cross the stream
+g,instruct,and stop right in line with the dead tree
+f,check,do i move in a v-- straight line from the edge of the page
+g,reply_y,yeah
+f,acknowledge,right across the stream
+g,instruct,and stop right underneath the dead tree
+f,acknowledge,okay
+g,instruct,now move down about three inches
+f,acknowledge,okay
+g,instruct,then move to the left three inches
+g,query_yn,do you have a lagoon
+f,reply_y,yes
+g,instruct,right well go down and round to the bottom of the lagoon
+f,acknowledge,okay
+g,ready,right
+f,query_yn,do you have treasure on your map above the lagoon
+g,reply_n,no i don't
+f,acknowledge,okay
+g,query_yn,eh and move above a rock fall if you have it
+f,explain,don't have a rock fall
+g,acknowledge,ah right
+g,instruct,well in that case move diagonally across to the left-hand side from the bottom of lagoon for about three inches then
+f,query_yn,do you have a bay at the bottom here a large bay
+g,reply_n,no don't
+f,reply_n,not marked at all
+g,reply_y,no oh yeah i do sorry aye
+f,reply_y,aye
+f,query_w,where in relation to the the top or the middle or the bottom of the bay
+g,instruct,to the top
+f,acknowledge,okay
+g,query_yn,and do you have a pirate ship
+f,reply_y,yes
+g,ready,right
+f,acknowledge,right
+g,instruct,and just move from the very top onto the pirate ship
+f,check,through the water
+g,reply_y,yeah
+f,acknowledge,okay
+g,instruct,along and down and hit the pirate ship
+f,acknowledge,right
+g,explain,that's it

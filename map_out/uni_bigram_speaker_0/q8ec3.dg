@@ -1,0 +1,193 @@
+g,ready,'kay
+f,acknowledge,right
+g,instruct,right starting at the top left of the right
+f,acknowledge,right right
+g,instruct,if you come down sort of south southeast
+g,query_yn,you got a burnt forest
+f,reply_y,aye
+g,instruct,now come down round the left of the burnt forest so that you're just about underneath the "b"
+f,ready,right hold on
+g,acknowledge,oh right
+f,acknowledge,right
+f,explain,i'm just below the "b"
+g,ready,right
+g,instruct,now come down to the other direction now and
+g,query_yn,have you got a ravine
+f,reply_y,yes
+g,ready,right
+g,instruct,if you see the bottom of the ravine then take a line across to the left-hand side of the page
+g,ready,right
+f,ready,s-- so
+f,acknowledge,right
+g,align,have you if you think of the ravine right
+g,acknowledge,right uh-uh
+f,check,i'm at the burnt forest right up the top here right
+g,instruct,if you we're going to go down
+f,query_yn,have you got a carpenter's cottage
+g,explain,no i haven't
+g,align,erm if if you can see the start mark
+f,check,oh you just want me to just go to the left of the ravine
+g,reply_n,no i don't
+f,reply_n,no
+g,align,if see the bottom of the ravine right
+f,acknowledge,right
+g,instruct,you're we you're going to end up in a line with the bottom of the ravine
+g,ready,right
+f,acknowledge,right
+g,align,underneath the start point
+g,ready,right
+f,acknowledge,right
+f,acknowledge,right
+g,align,under the start point but on the same line as the ravine bottom of the ravine
+g,ready,right
+f,acknowledge,right
+g,instruct,if you could sort of curve round
+f,acknowledge,mmhmm
+g,clarify,so that you're vertically underneath the start point
+f,acknowledge,oh jeez
+g,instruct,missing
+f,acknowledge,right
+f,uncodable,a--
+g,align,is it is that where your carpenter's cottage is underneath the burnt forest
+f,reply_y,aye
+f,explain,it's just directly underneath there
+g,reply_w,well if you go to the
+f,check,to the left of that
+g,reply_w,to the left of that
+f,acknowledge,right
+f,explain,right i'm down here
+g,ready,right
+f,acknowledge,right
+g,ready,now
+g,instruct,along so that you're couple of centimetres left of the ravine along horizontally
+f,check,to the left of it
+g,reply_y,uh-huh
+f,acknowledge,right
+g,query_yn,and do you have the remote village
+f,reply_n,no
+g,explain,doesn't matter
+f,explain,i've got a tiled land just underneath that
+g,reply_y,yeah
+g,align,okay
+g,instruct,if you go up sort of slope if you slope up to the top left-hand corner of the ravine
+f,acknowledge,right
+g,ready,right
+g,instruct,and go up another centimetre maybe
+f,acknowledge,right
+g,instruct,and go along 'til you're at the top right of the ravine
+f,acknowledge,right
+g,reply_y,yeah and along a few centimetres more
+g,query_yn,do you have a pine grove
+f,reply_y,aye
+g,ready,right
+g,instruct,if you if you just take a straight line from where you are down to the bottom left of the pine grove
+f,acknowledge,right
+g,check,and do you have something underneath that
+f,explain,er there's an avalanche just slightly to the right
+g,reply_w,to the right
+f,acknowledge,mmhmm
+g,reply_w,underneath the pine grove
+f,acknowledge,mmhmm
+g,ready,right
+f,explain,it's a good wee bit down but
+g,uncodable,erm
+g,ready,right
+g,instruct,if you go under the pine grove
+f,acknowledge,right
+g,clarify,but at south a southeasterly angle sort of thing
+f,acknowledge,right
+g,ready,and
+g,instruct,so that you're and you should finish underneath
+g,acknowledge,och no
+g,query_yn,have you got concealed hideout
+f,reply_y,aye
+g,align,you've got a concealed hideout right
+f,reply_w,i've got an avalanche directly above that
+g,ready,right
+f,query_yn,have you no
+g,explain,no i haven't
+g,explain,we're trying to get to the right of the concealed hideout
+g,ready,right
+f,query_yn,just to the right of it
+g,reply_y,yeah so
+f,explain,well i'll just go straight down there
+g,reply_y,well aye
+g,instruct,if you sort of miss out the r-- go round the avalanche
+f,acknowledge,right i will
+g,explain,which i presume and you should be at the right of the concealed hideout
+f,acknowledge,right
+f,explain,i'm at the right of it
+g,ready,right
+g,instruct,now go underneath it so that you're just underneath the "c" you horizontally are down to the bottom of the concealed hideout and along so that you're just about under the "c"
+f,check,the sea
+g,clarify,of concealed sorry
+f,explain,oh sorry i thought you were talking about
+g,align,okay
+g,query_yn,do you have a boat house
+f,explain,eh it's away down to the right
+f,reply_y,aye
+g,uncodable,oh there's two boathouses ah
+f,acknowledge,right
+g,explain,well i've got another boat house
+g,instruct,if you maybe two centimetres more past the "c"
+f,check,to the left
+g,reply_y,yeah
+f,acknowledge,right
+g,ready,right
+g,query_yn,and do you have crane bay marked
+f,acknowledge,mmhmm
+g,query_w,and eh is is it curved
+f,reply_y,aye
+g,instruct,where about u-- up above the "b"
+f,reply_y,aye
+g,align,of bay
+f,acknowledge,mmhmm
+f,acknowledge,right
+g,instruct,well follow that curve round until you get above the "r" vertically down from the boat house and curve round 'til you get to the "r"
+g,ready,right
+f,acknowledge,got it
+g,query_yn,do you have a coconut palm
+f,reply_n,no
+g,instruct,a pebbled shore
+f,reply_y,aye
+g,ready,right
+g,instruct,if you follow the coast round right until you get to above the pebbled shore
+f,acknowledge,mmhmm
+g,instruct,then you're going
+f,check,follow it quite close
+g,reply_n,no not terribly close
+f,acknowledge,right
+g,instruct,and then you're going to the left of the pebbled shore
+f,check,above it
+g,reply_y,uh-huh
+g,acknowledge,above and to the left
+f,acknowledge,right
+g,align,okay
+f,acknowledge,mmhmm
+g,query_yn,do you have something underneath the pebbled shore
+f,explain,washed stones
+g,ready,right
+g,explain,i don't have these
+g,instruct,if you go southwest that's towards the bottom left-hand corner
+g,ready,right
+f,acknowledge,right
+g,clarify,within a centimetre of the edge of the page
+f,acknowledge,right
+g,query_yn,do you have a flagship
+f,reply_y,yes
+g,ready,right
+g,query_w,the finish
+g,instruct,wait a minute
+f,explain,right i'm down i'm at the bottom of the pa--
+g,instruct,wait a minute right
+g,explain,the finish point is on land
+f,acknowledge,right
+g,align,on the same line as the bottom of the flagship
+g,ready,right
+f,acknowledge,right
+g,clarify,it's about a centimetre inland
+f,acknowledge,right
+g,instruct,and but you have to curve round the washed stones or whatever you've got there
+f,acknowledge,right i will
+g,ready,and
+g,instruct,presumably "x" marks the spot

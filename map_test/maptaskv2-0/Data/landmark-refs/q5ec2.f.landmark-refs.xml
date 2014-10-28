@@ -1,0 +1,142 @@
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="landmark-refs.q5ec2.f">
+<landmark_reference id="q5ec2.f.ref.1" stat="0" def="dctc" men="rep0" lit="none" plural="0" part_reference="no">
+  <nite:child href="q5ec2.f.timed-units.xml#id(q5ec2f.22)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m9_stony_desert)"/>
+</landmark_reference>
+<landmark_reference id="q5ec2.f.ref.2" stat="0" lit="l" def="def" men="rep0" plural="0" part_reference="no">
+  <nite:child href="q5ec2.f.timed-units.xml#id(q5ec2f.26)..id(q5ec2f.27)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m9_start)"/>
+</landmark_reference>
+<landmark_reference id="q5ec2.f.ref.3" stat="0" lit="rl" def="def" men="intro_ql" plural="0" part_reference="no">
+  <nite:child href="q5ec2.f.timed-units.xml#id(q5ec2f.68)..id(q5ec2f.70)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m9_site_of_plane_crash)"/>
+</landmark_reference>
+<landmark_reference id="q5ec2.f.ref.4" stat="0" def="dctc" men="intro_q" lit="none" plural="0" part_reference="no">
+  <nite:child href="q5ec2.f.timed-units.xml#id(q5ec2f.88)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m9_finish)"/>
+</landmark_reference>
+<landmark_denial id="q5ec2.f.ref.5" stat="0" part_reference="no">
+  <nite:child href="q5ec2.f.timed-units.xml#id(q5ec2f.92)..id(q5ec2f.97)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m9_site_of_plane_crash)"/>
+</landmark_denial>
+<landmark_reference id="q5ec2.f.ref.6" stat="0" def="numpro" men="rep0" lit="none" plural="0" part_reference="no">
+  <nite:child href="q5ec2.f.timed-units.xml#id(q5ec2f.97)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m9_site_of_plane_crash)"/>
+</landmark_reference>
+<landmark_reference id="q5ec2.f.ref.7" stat="0" lit="ld" def="indef" men="intro_q" plural="0" part_reference="no">
+  <nite:child href="q5ec2.f.timed-units.xml#id(q5ec2f.113)..id(q5ec2f.114)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m9_collapsed_shelter)"/>
+</landmark_reference>
+<landmark_reference id="q5ec2.f.ref.8" stat="0" lit="l" def="indef" men="rep0" plural="0" part_reference="no">
+  <nite:child href="q5ec2.f.timed-units.xml#id(q5ec2f.118)..id(q5ec2f.120)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m9_collapsed_shelter)"/>
+</landmark_reference>
+<landmark_reference id="q5ec2.f.ref.9" stat="0" lit="l" def="indef" men="intro_ql" plural="0" part_reference="no">
+  <nite:child href="q5ec2.f.timed-units.xml#id(q5ec2f.162)..id(q5ec2f.163)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m9_waterhole)"/>
+</landmark_reference>
+<landmark_reference id="q5ec2.f.ref.10" stat="0" def="dctc" men="rep0" lit="none" plural="0" part_reference="no">
+  <nite:child href="q5ec2.f.timed-units.xml#id(q5ec2f.171)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m9_savannah)"/>
+</landmark_reference>
+<landmark_reference id="q5ec2.f.ref.11" stat="0" lit="l" def="def" men="rep0" plural="0" part_reference="no">
+  <nite:child href="q5ec2.f.timed-units.xml#id(q5ec2f.181)..id(q5ec2f.182)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m9_waterhole)"/>
+</landmark_reference>
+<landmark_reference id="q5ec2.f.ref.12" stat="0" lit="l" def="def" men="rep0" plural="0" part_reference="no">
+  <nite:child href="q5ec2.f.timed-units.xml#id(q5ec2f.204)..id(q5ec2f.205)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m9_savannah)"/>
+</landmark_reference>
+<landmark_reference id="q5ec2.f.ref.13" stat="0" lit="l" def="null" men="rep0" plural="0" part_reference="no">
+  <nite:child href="q5ec2.f.timed-units.xml#id(q5ec2f.213)..id(q5ec2f.214)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m9_slate_mountain)"/>
+</landmark_reference>
+<landmark_denial id="q5ec2.f.ref.14" stat="0" part_reference="no">
+  <nite:child href="q5ec2.f.timed-units.xml#id(q5ec2f.219)..id(q5ec2f.222)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m9_slate_mountain)"/>
+</landmark_denial>
+<landmark_reference id="q5ec2.f.ref.15" stat="0" def="num" men="rep0" lit="none" plural="0" part_reference="no">
+  <nite:child href="q5ec2.f.timed-units.xml#id(q5ec2f.222)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m9_slate_mountain)"/>
+</landmark_reference>
+<landmark_reference id="q5ec2.f.ref.16" stat="0" def="pro" men="intro" lit="none" plural="0" part_reference="no">
+  <nite:child href="q5ec2.f.timed-units.xml#id(q5ec2f.224)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m9_white_mountain)"/>
+</landmark_reference>
+<landmark_reference id="q5ec2.f.ref.17" stat="0" lit="l" def="def" men="rep0" plural="0" part_reference="no">
+  <nite:child href="q5ec2.f.timed-units.xml#id(q5ec2f.227)..id(q5ec2f.229)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m9_white_mountain)"/>
+</landmark_reference>
+<landmark_reference id="q5ec2.f.ref.18" stat="0" lit="l" def="def" men="rep0" plural="0" part_reference="no">
+  <nite:child href="q5ec2.f.timed-units.xml#id(q5ec2f.242)..id(q5ec2f.243)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m9_savannah)"/>
+</landmark_reference>
+<landmark_reference id="q5ec2.f.ref.19" stat="0" def="dctc" men="rep0" lit="none" plural="0" part_reference="no">
+  <nite:child href="q5ec2.f.timed-units.xml#id(q5ec2f.251)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m9_savannah)"/>
+</landmark_reference>
+<landmark_reference id="q5ec2.f.ref.20" stat="0" lit="nl" def="def" men="rep0" plural="0" part_reference="no">
+  <nite:child href="q5ec2.f.timed-units.xml#id(q5ec2f.275)..id(q5ec2f.277)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m9_slate_mountain)"/>
+</landmark_reference>
+<landmark_reference id="q5ec2.f.ref.21" stat="0" lit="l" def="def" men="rep0" plural="0" part_reference="no">
+  <nite:child href="q5ec2.f.timed-units.xml#id(q5ec2f.279)..id(q5ec2f.280)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m9_savannah)"/>
+</landmark_reference>
+<landmark_reference id="q5ec2.f.ref.22" stat="0" lit="l" def="def" men="rep0" plural="0" part_reference="no">
+  <nite:child href="q5ec2.f.timed-units.xml#id(q5ec2f.325)..id(q5ec2f.327)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m9_hot_wells)"/>
+</landmark_reference>
+<landmark_reference id="q5ec2.f.ref.23" stat="0" lit="l" def="null" men="intro_l" plural="0" part_reference="no">
+  <nite:child href="q5ec2.f.timed-units.xml#id(q5ec2f.343)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m9_elephants)"/>
+</landmark_reference>
+<landmark_reference id="q5ec2.f.ref.24" stat="0" lit="l" def="def" men="intro" plural="0" part_reference="no">
+  <nite:child href="q5ec2.f.timed-units.xml#id(q5ec2f.348)..id(q5ec2f.350)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m9_hot_springs)"/>
+</landmark_reference>
+<landmark_reference id="q5ec2.f.ref.25" stat="0" def="pro" men="rep0" lit="none" plural="0" part_reference="no">
+  <nite:child href="q5ec2.f.timed-units.xml#id(q5ec2f.357)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m9_elephants)"/>
+</landmark_reference>
+<landmark_reference id="q5ec2.f.ref.26" stat="0" lit="l" def="def" men="rep0" plural="0" part_reference="no">
+  <nite:child href="q5ec2.f.timed-units.xml#id(q5ec2f.423)..id(q5ec2f.425)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m9_white_mountain)"/>
+</landmark_reference>
+<landmark_denial id="q5ec2.f.ref.27" stat="0" part_reference="no">
+  <nite:child href="q5ec2.f.timed-units.xml#id(q5ec2f.442)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m9_roman_baths)"/>
+</landmark_denial>
+<landmark_reference id="q5ec2.f.ref.28" stat="0" lit="rl" def="def" men="rep0" plural="0" part_reference="no">
+  <nite:child href="q5ec2.f.timed-units.xml#id(q5ec2f.449)..id(q5ec2f.451)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m9_site_of_plane_crash)"/>
+</landmark_reference>
+<landmark_reference id="q5ec2.f.ref.29" stat="0" lit="rl" def="def" men="rep0" plural="0" part_reference="no">
+  <nite:child href="q5ec2.f.timed-units.xml#id(q5ec2f.464)..id(q5ec2f.466)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m9_site_of_plane_crash)"/>
+</landmark_reference>
+<landmark_reference id="q5ec2.f.ref.30" stat="0" lit="l" def="null" men="intro_l" plural="0" part_reference="no">
+  <nite:child href="q5ec2.f.timed-units.xml#id(q5ec2f.479)..id(q5ec2f.480)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m9_round_rocks)"/>
+</landmark_reference>
+<landmark_reference id="q5ec2.f.ref.31" stat="0" def="dctc" men="rep0" lit="none" plural="0" part_reference="no">
+  <nite:child href="q5ec2.f.timed-units.xml#id(q5ec2f.485)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m9_lake)"/>
+</landmark_reference>
+<landmark_reference id="q5ec2.f.ref.32" stat="0" def="dctc" men="rep0" lit="none" plural="0" part_reference="no">
+  <nite:child href="q5ec2.f.timed-units.xml#id(q5ec2f.491)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m9_round_rocks)"/>
+</landmark_reference>
+<landmark_reference id="q5ec2.f.ref.33" stat="0" lit="l" def="null" men="rep0" plural="0" part_reference="no">
+  <nite:child href="q5ec2.f.timed-units.xml#id(q5ec2f.497)..id(q5ec2f.498)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m9_round_rocks)"/>
+</landmark_reference>
+<landmark_reference id="q5ec2.f.ref.34" stat="0" lit="l" def="def" men="rep0" plural="0" part_reference="no">
+  <nite:child href="q5ec2.f.timed-units.xml#id(q5ec2f.505)..id(q5ec2f.506)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m9_lake)"/>
+</landmark_reference>
+<landmark_reference id="q5ec2.f.ref.35" stat="0" lit="l" def="def" men="rep0" plural="0" part_reference="no">
+  <nite:child href="q5ec2.f.timed-units.xml#id(q5ec2f.534)..id(q5ec2f.535)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m9_lake)"/>
+</landmark_reference>
+</nite:root>

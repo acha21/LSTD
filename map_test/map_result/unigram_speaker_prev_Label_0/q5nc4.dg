@@ -1,0 +1,291 @@
+g,align,okay
+f,acknowledge,mm
+g,instruct,you're going to go down slightly to the right just slightly in sort of ehm in a curve shape an outward curve curve shape from the cliffs
+g,align,okay
+f,ready,now
+f,check,where do i go from the start
+g,ready,right
+g,instruct,you're going to go down
+g,ready,right
+f,reply_y,uh-huh
+g,instruct,but just slightly down and slightly to the right
+f,reply_y,uh-huh
+f,check,so i go underneath the cliffs
+g,instruct,so you're get going to get a curve shape
+g,reply_y,uh-huh a--
+f,reply_y,uh-huh
+g,instruct,curve at the cliffs
+f,reply_y,yeah
+g,ready,right
+f,acknowledge,right
+g,query_yn,have you got a forge
+f,reply_n,ehm no
+g,reply_n,no
+f,reply_n,no
+g,ready,right
+g,instruct,come to the left
+f,acknowledge,right
+f,check,so i go underneath the cliffs
+f,reply_n,no
+f,reply_n,no
+g,instruct,no don't go underneath the cliffs
+f,acknowledge,right
+g,reply_n,no no no
+g,instruct,it's like a backward "s" shape you're forming
+f,reply_y,mm yeah think i know
+g,ready,right
+f,acknowledge,yeah okay
+g,ready,so
+g,instruct,at at the bottom of the sort of backward "s"
+g,query_yn,have you got that far
+f,acknowledge,i don't know
+g,acknowledge,right okay right
+g,instruct,from the start you're going to go down slightly to the right and form a curve an outward curve
+f,acknowledge,to the right to the right okay
+g,align,okay
+f,acknowledge,thanks
+g,ready,and then
+g,instruct,you're going to do the opposite of that you're going to go out
+f,acknowledge,mm
+g,instruct,further to the left
+f,reply_y,yeah
+f,ready,now
+f,explain,i've got an old pine here
+f,query_w,what do i do in relation to it
+g,align,come back an old pine an old pine
+f,check,oh and you don't have it
+g,ready,right ehm
+g,query_w,is the old pine at the the bottom of the curve or sort of next to it
+f,query_yn,the old pine is ehm underneath and
+g,instruct,underneath the curve
+f,check,to the to the right of the cliffs
+g,uncodable,really ehm
+f,acknowledge,right okay
+g,align,okay
+f,check,forget the old pine
+f,acknowledge,right
+g,instruct,well you're going to go round the old pine
+g,ready,right
+f,query_yn,am i
+f,acknowledge,right
+g,ready,but
+f,acknowledge,ah
+g,instruct,go round the old pine
+f,acknowledge,mmhmm
+g,align,okay
+f,ready,wh-- right
+f,query_w,what am i going above it or what
+g,clarify,above it
+g,clarify,above it
+f,acknowledge,right
+g,reply_y,straight above it right
+f,acknowledge,okay
+g,instruct,go slightly
+g,uncodable,let me see
+g,instruct,ehm going to go to the left go slightly to the left and you're going to curve down just a slightly go about f-- about ehm five centimetres
+f,query_w,now where am i now
+g,ready,right
+f,acknowledge,don't know where i am
+g,instruct,go five centimetres
+g,query_yn,are you near a pine forest
+f,reply_y,eh yeah i can see
+g,ready,right
+f,check,the pine forest
+g,ready,right
+g,clarify,go sort of like slightly just parallel to the pine forest but about three centimetres out from it
+f,acknowledge,mm
+f,check,so i go over to the pine forest and then go down
+f,reply_n,no
+g,reply_n,no no no right
+g,ready,right
+g,instruct,go to the point where you're
+g,align,see the top of the pine forest
+f,reply_y,uh-huh
+g,align,the top of it right
+f,reply_y,yeah
+g,clarify,you're going to go to the left right you should be at the left of it right and paralle-- parallel to it
+f,acknowledge,mmhmm
+g,ready,right
+f,reply_y,yeah
+g,query_yn,are you there
+f,ready,ehm think so
+g,align,okay
+f,acknowledge,right
+g,uncodable,ehm
+f,acknowledge,oh dear
+g,ready,right
+g,instruct,ca-- you're going to slope down and it's going to be
+g,explain,oh let me see how i could explain that
+g,instruct,at about five o--
+g,instruct,say how like at five o'clock you'll have a small hand with the small hand sort of like darting down towards the five
+f,acknowledge,mmhmm
+g,ready,right
+f,acknowledge,right
+g,instruct,go down that that way to the bottom of pine forest at a slant
+g,ready,right
+f,reply_y,uh-huh yeah
+g,ready,right now
+f,acknowledge,okay
+g,instruct,you're going to form another outward curve like half a circle
+f,acknowledge,mmhmm
+g,clarify,just do sort of like a small half circle to your sort of like ehm a quarter down the page
+f,acknowledge,mmhmm
+f,query_w,so where am i heading
+g,align,right are you ne-- a--
+g,ready,right
+g,check,are y-- you near a bakery
+f,reply_y,eh yeah
+g,ready,right
+g,instruct,go right round that bakery
+f,check,round the bakery mm
+g,instruct,round the bakery
+f,acknowledge,god
+f,query_w,what way
+g,query_yn,ehm go out out out the way
+f,check,out the way so
+g,instruct,towards the towards the th-- ehm the edge of the page
+f,acknowledge,mm oh dear
+f,acknowledge,right
+f,query_yn,have you got a forest stream
+g,reply_n,no
+f,reply_n,no
+g,ready,right
+f,acknowledge,right
+f,query_w,what about wheatfields
+f,acknowledge,right the way over
+g,query_yn,i have wheatfields right
+f,reply_y,yeah now
+f,query_w,where am i going in relation to them
+g,explain,should be nowhere near them
+f,reply_y,yeah
+g,query_yn,have you
+f,check,well i'm not so far
+g,query_yn,have you got a canal
+f,reply_n,no
+g,ready,now right
+f,explain,but i've got a forest stream
+g,instruct,you're round the bakery you're round the bakery aren't you
+f,reply_n,no
+g,ready,so
+f,explain,because i've got a forest stream in the way oh my good god
+g,instruct,you can't go round the bakery
+f,explain,ehm i'll make my way round the stream here oh dear
+g,ready,right
+f,acknowledge,right i think so
+g,instruct,go round the bakery
+f,acknowledge,mm
+g,instruct,right round it and just pass i-- pass it erm a small fraction
+f,acknowledge,mmhmm
+g,ready,as well
+f,acknowledge,right
+g,ready,right
+g,instruct,you're going to go straight down this time for about four centimetres
+f,acknowledge,mmhmm
+g,ready,right
+f,reply_y,yeah
+g,instruct,you're going to form another slight curve ehm another circle but you're going to do it ehm ehm convex towards the page like outward an outward you're forming the outward ehm form of a circle here a minute
+g,acknowledge,no mmhmm
+g,ready,right
+g,instruct,go go ehm three centimetres to the left again no wait a minute where are we three centimetres to the right
+f,check,i'm going to go off the edge of the page here
+g,query_yn,right are you near wheatfields
+f,reply_n,no
+g,acknowledge,no right
+g,instruct,go back 'til you're sort of like middle of the page right
+f,acknowledge,right mm
+g,clarify,but down slightly but you're sort of still in the middle of the page
+g,query_yn,are you near crane bay
+f,acknowledge,mm yeah
+g,ready,right
+f,acknowledge,right
+f,query_w,what do i do there
+g,ready,right
+g,align,see the second peak of crane bay
+f,reply_y,uh-huh
+g,instruct,that's where you should be
+f,reply_n,no
+f,explain,i'm not there
+g,ready,right
+f,acknowledge,right
+f,acknowledge,forget that
+g,instruct,retrace all your steps and go go to there
+g,ready,right now
+g,query_yn,is is there wheatfields near
+f,ready,er right wait a minute
+f,instruct,i go round the the far side of the bakery and then head towards the s-- second peak of crane bay
+g,reply_y,uh-huh
+f,reply_y,uh-huh
+g,instruct,shi-- right sort of trace that sort of ehm bevelled shape in crane crane bay and you want to get to the second peak of crane bay
+g,ready,right
+f,reply_y,eh yeah i think so i'm getting there
+g,explain,the one that's towards the right
+f,reply_y,yeah
+g,align,okay
+g,ready,right
+g,instruct,follow that curve of crane bay down for about three centimetres
+f,acknowledge,mmhmm
+g,query_yn,are you near wheatfields
+f,reply_n,no
+g,reply_n,no
+f,query_yn,my wheatfields are on the middle of the page
+g,acknowledge,that's that's okay that's okay right
+g,instruct,go go along for another three centimetres
+f,query_yn,have you got a rocket warehouse
+g,reply_y,uh-huh
+f,ready,now
+f,query_yn,where am i supposed to be
+g,ready,right
+g,instruct,you're supposed to be just above the rocket warehouse
+f,check,just above it
+g,ready,right
+f,acknowledge,right
+f,check,so i go down and then along
+f,check,right i go down from crane bay
+g,reply_y,uh-huh
+f,check,and then across
+g,align,just you should be just above rocket warehouse
+f,reply_y,yeah
+g,ready,right
+f,reply_y,uh-huh think so
+g,ready,right
+g,instruct,head t-- down towards your right at a slant
+f,acknowledge,mmhmm
+g,ready,right
+f,reply_y,yeah
+g,ready,and then
+g,query_yn,you should be near enough at the edge of the page
+f,acknowledge,erm oh dear oh dear
+f,uncodable,ehm oh dear ehm
+g,instruct,you're about an in--
+f,check,i'm still at the left of the rocket warehouse
+g,ready,right
+f,reply_y,uh-huh
+f,explain,i'm above
+g,reply_w,you're at the left of the rocket ehm rocket warehouse
+g,instruct,above
+g,instruct,above
+f,check,and at the left of the rocket warehouse
+g,ready,right
+g,instruct,go straight down to a slant 'til you're near enough just a centimetre away from the edge of the page
+f,acknowledge,mm right okay
+g,align,okay
+f,check,hope so
+g,instruct,go down by another three centimetres
+f,acknowledge,oh
+g,ready,and then
+g,ready,tutu
+g,uncodable,ehm
+g,instruct,trying to think
+f,query_yn,have you got an old lighthouse
+g,reply_y,yeah
+f,explain,and a cave
+g,ready,well
+f,acknowledge,right
+g,instruct,you're heading towards the old lighthouse that's where you should be now
+f,reply_y,ehm yeah that's where i'm going
+f,query_w,so what do i do then
+g,explain,that's it that's it
+f,check,that's it
+f,check,and i go to the old lighthouse
+g,reply_y,yep
+f,acknowledge,right

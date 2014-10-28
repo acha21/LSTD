@@ -1,0 +1,212 @@
+g,query_yn,have you got the missionary camp at the right-hand side
+f,reply_y,yeah uh-huh
+g,acknowledge,okay
+g,query_yn,have you got the start
+f,reply_y,yeah i've got the start
+g,query_yn,is it at the top of it
+f,reply_y,uh-huh
+g,acknowledge,right okay
+g,instruct,go to the right i think it is yeah right go to the right about two centi-- about two three centimetres
+f,acknowledge,right
+g,instruct,go down two three centimetres
+f,check,down
+g,reply_y,uh-huh
+f,check,towards the missionary camp
+g,reply_w,you're at the top and that
+f,acknowledge,uh-huh
+g,instruct,go right about two go right three centimetres yeah
+f,acknowledge,uh-huh
+f,check,past the missionary camp
+g,reply_w,past missionary camp
+g,instruct,go down about two three centimetres
+f,acknowledge,right
+g,align,right
+g,query_yn,see your left-hand side have you got gorillas and trees and stuff
+f,explain,i've got a banana tree
+g,ready,right well
+f,ready,right
+g,instruct,go right along to it to the bottom of it right along to the bottom
+f,check,so i'll need to go down past the missionary camp won't i
+g,check,yeah down past the centre
+g,acknowledge,right along to the
+f,instruct,right along to the banana tree
+g,reply_y,yeah
+f,query_yn,to the bottom of it
+g,reply_y,yeah the bottom of it
+f,acknowledge,right
+g,instruct,then go round it to the top just go round it you know right to the end and then just go to the top
+f,acknowledge,uh-huh
+g,align,have you done that
+f,reply_y,yeah
+f,explain,there's a straight river
+g,acknowledge,uh-huh
+g,query_yn,a rope bridge
+f,reply_y,uh-huh
+g,acknowledge,right
+g,instruct,well you're supposed to cross it
+f,check,cross the rope bridge
+g,reply_y,yeah
+f,explain,so i need to go along toward
+g,check,along ri-- left
+f,reply_y,no right
+f,explain,the rope bi-- ri-- i've come to the bottom of the banana tree
+g,ready,right
+f,acknowledge,right
+g,reply_y,uh-huh
+f,clarify,then i came up beh-- towards the left of it
+f,acknowledge,right
+g,reply_y,mmhmm
+f,instruct,and now i'll need to go to the right to get to the rope bridge
+g,acknowledge,right to the rope bridge
+f,reply_y,mmhmm
+g,query_yn,you have to go r--
+g,acknowledge,okay right
+g,instruct,just go that way okay
+g,query_yn,have you got a waterfall
+f,query_yn,a waterf--
+f,reply_y,yeah
+f,check,that's right towards the other end
+g,check,it's on the right-hand side
+f,reply_y,uh-huh
+g,ready,well
+g,instruct,okay cross the bridge right and go to it just go right beside it
+f,acknowledge,right
+f,query_yn,cross the bridge
+g,reply_y,uh-huh
+f,instruct,and go to the waterfall
+g,reply_y,yeah
+f,acknowledge,right
+g,clarify,not to it but you know just beside it
+f,reply_y,uh-huh yeah
+g,query_yn,have you got lost steps
+f,reply_y,yeah
+g,instruct,right well go right up to them right to the top of them but not you know to the right-hand side of them not
+g,check,the
+f,clarify,to the right-hand side of them
+g,reply_y,yeah
+g,clarify,just right to the top to the righthand side
+f,instruct,so i need to curve up and go in a
+g,acknowledge,uh-huh
+f,acknowledge,right
+g,acknowledge,right g-- right
+g,instruct,go over the top
+g,query_yn,have you got fallen pillars
+f,acknowledge,uh i've got right
+f,explain,see at the top of the map there's a white mountain to the left of that there's rock fall there's a ruined city and gazelles
+f,acknowledge,oh fallen pillars yeah yeah i've got fallen pillars
+f,instruct,at the bottom
+g,reply_w,have you
+g,reply_y,uh-huh
+g,query_yn,have you got
+g,instruct,well right next well it's sort of the left-hand side to lost steps
+g,query_w,the fallen pillars
+f,ready,well
+f,reply_w,first i've got gazelles and then i've got fallen pillars
+g,uncodable,i see
+g,align,gazelles are on top of the lost steps
+f,reply_n,no
+f,explain,they're in my map they're ehm to the left in the middle they're in the middle of the map
+g,acknowledge,the middle of the map
+f,acknowledge,uh-huh
+g,ready,well
+g,acknowledge,never mind them right
+g,query_yn,have you got to the lost steps
+g,ready,well
+f,reply_y,yeah i'm at the lost steps just now
+g,instruct,go r-- go over go right around them
+f,query_w,mm
+g,clarify,to the fallen pillars that's to the left
+f,check,to the fallen pillars
+g,acknowledge,mmhmm
+f,reply_w,at the bottom of the fallen pillars
+g,acknowledge,yeah
+f,ready,right
+g,ready,sto-- right
+g,instruct,if you go right to the bottom okay
+f,reply_y,uh-huh
+g,instruct,ehm go two three centi-- three centimetres down
+f,acknowledge,down
+g,reply_y,mmhmm
+f,acknowledge,right
+g,ready,then
+g,check,this is so bad
+g,acknowledge,okay
+g,instruct,are you going down right
+f,reply_y,mmhmm
+g,instruct,then sort of go back up in a circle sort of thing you know just curve round to the a--
+g,query_yn,have you got
+f,instruct,curve round curve round the fallen pillars
+g,reply_n,no not curve round
+g,align,you're just at the bottom aren't you
+f,reply_y,uh-huh
+g,align,and you've gone down a bit
+f,reply_y,uh-huh
+g,clarify,then go right to the top not to the fallen pillars to the ancient ancient ruins
+g,query_yn,have you got ancient ruins
+f,reply_w,i've got a ruined city
+g,acknowledge,yeah
+g,ready,well
+g,instruct,just go right right up there up to that
+f,acknowledge,right
+f,reply_y,i'll need to go towards the left yeah
+g,acknowledge,right uh-huh left
+f,acknowledge,right
+f,instruct,and go up to the ruined city
+g,acknowledge,yeah
+f,query_w,whereabouts in the ruined city to the left of it or to the right of it
+g,reply_w,the left of it
+f,acknowledge,left of it right
+g,query_yn,have you got stones
+g,reply_w,to the le--
+f,reply_w,i've got rock fall just above the ruined city to the right
+g,check,ah just go up to that
+f,acknowledge,right
+g,align,okay
+g,reply_y,yeah
+f,query_w,to the bottom of the rock fall or the top
+g,reply_w,the bottom of the rock fall
+f,acknowledge,right
+g,ready,then
+g,instruct,turn left
+g,query_yn,have you got a white mountain
+f,reply_y,yeah
+g,ready,well
+g,instruct,turn left and go right over around it from the top
+f,acknowledge,right
+f,check,to the bottom of the white mountain
+g,reply_y,uh-huh
+g,instruct,go round it to the bottom
+f,acknowledge,right
+g,instruct,and keep on going eh
+g,query_yn,have you got eh soft furnishing store
+f,reply_n,soft furnishing store
+g,acknowledge,yeah
+g,check,right to the bottom of the white mountain
+f,reply_n,no
+g,query_w,what have you got
+f,reply_w,white lost steps
+g,query_w,what
+f,reply_w,there's a white mountain at the top of the map
+f,acknowledge,right
+g,reply_y,uh-huh
+f,explain,to at the right of the white mountain on my map the only thing i've got is lost steps
+g,instruct,no you don't go to that right
+g,align,have you gone to the white mountain
+f,reply_y,uh-huh
+g,instruct,go right round it
+f,acknowledge,uh-huh i've gone right round it
+f,explain,i'm at the
+g,align,have you gone right round the bottom of it
+f,check,to the bottom of it
+f,reply_y,uh-huh
+g,acknowledge,ah right round the bottom of it
+g,clarify,then go straight down to where
+g,align,you know where the gazelles are
+f,reply_y,uh-huh
+g,instruct,go right down to the left of them
+f,acknowledge,right
+g,align,okay
+g,instruct,then turn left about th-- three four centimetres
+f,acknowledge,right
+g,instruct,and that's you finished
+f,acknowledge,oh

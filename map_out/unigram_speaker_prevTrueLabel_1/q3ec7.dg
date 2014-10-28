@@ -1,0 +1,110 @@
+g,ready,right
+g,align,the start is at the top left-hand side of your page
+f,reply_y,mmhmm
+g,query_yn,there is a diamond mine to the right
+f,reply_y,yes
+g,instruct,go due south to the left of the diamond mine and curve underneath it
+f,query_yn,do i come up round the other side of it
+g,reply_y,i would go wes-- to go due east straight past it
+f,check,right i have it
+g,explain,i have a graveyard on mine
+g,clarify,which i don't believe you have on yours
+f,reply_n,no i haven't got it
+g,query_yn,all you have to do is
+g,query_yn,you have carved stones
+f,reply_y,yeah
+g,instruct,is go east almost to the left of the carved stones or sorry to the left of the carved stones and come up round in a big curve round the carved stones
+f,check,round the top of it
+g,reply_y,uh-huh
+g,instruct,so i want you to avoid the graveyard so i want you to go due east
+f,check,it's j--
+g,reply_y,and
+f,explain,i'm i'm
+f,check,underneath the diamond mine
+f,check,just straight due east from there
+g,reply_y,due east
+g,explain,and then up to the left of the carved stones
+g,instruct,that way you'll avoid the graveyard which is to the right of the diamond mine
+f,acknowledge,fine
+g,ready,right
+f,reply_y,okay i'm round at the top right of the carved stones
+g,instruct,i want you to go
+g,query_yn,do you have indian country
+f,reply_y,yeah
+g,instruct,i want you to go due south until and then just go due south
+f,acknowledge,mmhmm
+g,instruct,not as far as indian country a couple inches above it
+f,acknowledge,okay
+g,align,okay
+g,explain,i have a great rock on mine which i don't think you have on yours
+f,acknowledge,mmhmm
+g,explain,it's to the west of indian country
+f,acknowledge,mmhmm
+g,instruct,so i want you to go southwest down to the left of indian country that way you should avoid the s-- the great rock so i want you to go southwest down to the left of indian country to the level of the writing indian country
+f,acknowledge,right
+g,acknowledge,alright
+g,instruct,go due west
+g,explain,you ha-- also have a gold mine don't you
+f,reply_y,mmhmm
+g,instruct,go west and curve round the top of the gold mine and down the other side
+f,acknowledge,okay
+g,ready,right
+f,explain,i'm at the bottom of the gold mine at the bottom left
+g,check,i want you to go due south
+g,query_yn,you have do you have a cavalry stockade
+f,reply_n,nope
+g,ready,right
+f,uncodable,oh eh
+g,reply_n,no you don't
+f,reply_n,no i don't have it
+g,instruct,go due south down the left-hand side of the gold mine
+f,acknowledge,mmhmm
+g,instruct,f-- 'til you'll
+g,query_yn,you have a trout farm
+g,reply_y,mmhmm
+f,explain,no i've got a i've got a trout farm over to the right underneath indian country here
+g,instruct,i want you to go three inches past that going south in other words just to the level of that i mean not the trout farm
+f,check,to the level of what
+g,clarify,inches three south of the level of the trout farm going due south past the gold mine
+f,acknowledge,okay
+g,ready,right
+g,instruct,i want you
+f,query_w,i've got a totem pole just about where i am now just about where you s--
+g,check,to curve underneath that
+g,align,is that correct
+f,reply_y,uh-huh
+g,instruct,and curve back up underneath the trout farm so basically you're coming in a big curve underneath your totem pole
+f,acknowledge,mmhmm
+g,instruct,and curving up past the trout farm
+f,acknowledge,okay
+g,instruct,so you're below the trout farm
+f,reply_y,yeah
+g,instruct,i want you to go due east
+f,acknowledge,mmhmm
+g,instruct,underneath the trout farm
+f,acknowledge,mmhmm
+g,align,across to the right of your page
+f,acknowledge,okay
+f,acknowledge,right
+g,align,about an inch in from the right of your page should do
+g,explain,i've got a cavalry thing which you don't have
+f,acknowledge,mmhmm
+g,instruct,so avoiding that i want you to go due south from where you are which is the edge of the page
+f,query_w,how far to--
+f,reply_y,mmhmm
+g,instruct,down past the cattle stockade i want you to go underneath the cattle
+f,acknowledge,okay
+f,acknowledge,mmhmm
+g,instruct,and go west to the edge of the cattle stockade underneath it
+f,acknowledge,right
+g,query_yn,you then have a stream down there is that correct
+f,check,parched river bed
+g,acknowledge,parched river bed
+g,instruct,i want you to go up and above curving above that to avoid it not much just enough
+f,acknowledge,okay
+g,instruct,i want you then to go southwest and due west underneath the bandit territory
+f,acknowledge,okay
+g,instruct,you then curve up just above the level of the bandit territory an inch or in from your page
+f,acknowledge,mmhmm
+g,instruct,and that's your end
+f,acknowledge,lovely

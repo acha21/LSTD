@@ -1,0 +1,25 @@
+Y,Opening,Hi thank you for reaching out to Samsung technical support. How may I assist you?
+N,Issue_Statement,I have a question I got my tab 3 in december of 2013 for a christmas present and it wont charge above 70%
+N,Issue_Statement,Would there be insurance on it
+Y,ConfirmIssue_Question,I understand that you are unable to charge the device above 70%. Am I correct?
+N,Issue_Statement,Yea it stops in the 70's it changes
+Y,Open_Question,Could you please provide the complete model number. You can find it on the rear panel of the unit?
+N,Word_Answer,Gt-p5210gnyxar
+Y,Acknowledgement,Thank you for providing the model number.
+Y,YN_Question,Are you using the default charger that came with the unit to charge?
+N,Positive,Yea
+Y,Acknowledgement,Thank you.
+Y,Open_Question,How long have you kept the unit for charging connecting to the wall charger?
+N,Issue_Statement,Usaully when I notice its 100 then remove it but never all night
+N,NotSolved_Answer,I plugged it in one time and the battery had a red x
+Y,YN_Question,Just to confirm are charging the device through USB cable connecting to PC?
+N,NotSolved_Answer,I have a wall charger thats what came with it
+Y,Acknowledgement,Thank you for the information.
+Y,PresentSolution,To isolate the issue whether it's with the charger or USB cable or tab itself please connect the tab to the  computer and keep the tab for charging for minimum of 3 hrs and check whether you're able to power on the tab.
+Y,Closing,I suggest that you try it out and get back to us in case you need further assistance. We will be glad to assist you further. Live Chat is available 24X7. This chat session will be saved in our records for future reference and the ticket number for this chat session is: LTK112356040991X.
+N,Etc_Statement,If its the device will I have to pay to get fixed
+Y,Word_Answer,No. As you have said that the device was purchased in December I see the device is still under warranty.
+Y,PresentSolution,As all the samsung device comes with the warranty of 12 months of labor and parts.
+N,Acknowledgement,Ok thanks for the service
+Y,PresentSolution,If you are looking for more details on the functionality of a product or would like to find answers to some of the questions visit us at <a href="http://www.samsungsimulator.com" target="_blank">SamsungSimulator</a> for an interactive review of some of our Samsung products.
+Y,YN_Question,You're welcome. Is there anything else that I can assist you with?

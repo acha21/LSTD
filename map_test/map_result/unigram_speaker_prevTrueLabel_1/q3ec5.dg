@@ -1,0 +1,115 @@
+g,ready,okay eh
+g,instruct,you've got a starting point
+f,explain,just above a forest fire site of a forest fire
+g,reply_y,yeah right
+g,instruct,so if you go left to the edge of the page and then
+f,check,left to the edge of the page
+g,check,left to left to the edge of the page
+f,acknowledge,right okay
+g,instruct,and go straight down eh almost to the bottom of the page
+g,query_yn,you got a picnic site there
+f,reply_n,no i haven't
+g,acknowledge,no okay ehm
+f,check,almost to the bottom
+g,clarify,almost to the bottom of the page
+g,acknowledge,eh okay
+g,query_yn,have you got an adventure playground
+f,reply_y,uh-huh i have
+g,acknowledge,okay
+g,instruct,if you go right until you're eh just at the left-hand edge of the adventure playground underneath it
+f,acknowledge,right
+g,instruct,and go straight up eh to the top of the adventure playground
+f,query_yn,in between the adventure playground and the forest fire
+g,reply_y,uh-huh
+f,query_w,how far up
+g,reply_w,just to the very top of the adventure playground
+f,acknowledge,right s--
+g,ready,okay ehm now
+g,query_yn,have you got a granite quarry marked
+f,reply_y,uh-huh
+g,check,in the middle almost in the middle of the page
+f,reply_y,yes
+g,clarify,can you go straight right until you're at the le-- at the right-hand edge of the granite quarry you go straight right until you're onto that without hitting anything
+f,explain,is there privately owned fields on your thing
+g,reply_n,i haven't got it no
+f,acknowledge,right
+g,align,okay
+g,instruct,now can you go straight up to the top of the granite quarry
+f,explain,in between the granite quarry and the quarry and the for-- fallen cairn
+g,reply_y,yeah
+f,acknowledge,right
+f,acknowledge,that's okay
+g,instruct,now eh left and then down to the bottom of the s-- the other side of the granite quarry
+g,query_yn,can you do that without
+f,reply_y,mmhmm
+g,instruct,left and then down
+f,acknowledge,right
+g,query_yn,now eh have you got a waterfall marked
+f,reply_y,i've got waterfall
+g,acknowledge,okay
+g,instruct,if you go left from there to the the ri-- to the left-hand edge of the waterfall
+f,acknowledge,right
+g,instruct,and can you go straight up to the top of the waterfall
+f,acknowledge,right
+g,instruct,eh and then right to-- to the right-hand edge of the waterfall
+g,ready,okay ehm
+f,reply_y,yes i have
+g,query_yn,have you got cornfields marked at the top of the page
+g,reply_y,okay
+g,instruct,if you go straight up eh until you're halfway between the waterfall and the cornfields
+g,align,okay
+g,instruct,now can you go s-- like eh diagonally ehm southeast from there
+g,query_yn,have you got a fallen ca-- cairn marked
+f,reply_y,uh-huh
+g,instruct,eh at the right-hand side of the
+f,reply_y,yeah
+g,explain,i don't have it
+f,explain,there's have you got a public footpath that's just like to just to the the southeast between me and the fallen cairn just now
+f,reply_y,so i'll just go
+g,align,okay
+g,instruct,if you get to the bottom of the fallen cairn from there without
+g,query_yn,i haven't got anything else marked between there so
+f,check,so it's more or less have you got more or less a straight line so
+g,reply_y,more or less a straight line down
+g,reply_y,so yeah
+f,explain,right so if i just avoid this public footpath and then go down from there
+f,acknowledge,right
+f,check,i'm at the fallen cairn
+g,ready,okay
+g,instruct,now if you go round to the other side of the fallen cairn and just up to the top of it
+f,ready,right
+g,align,under-- you know underneath it and up
+f,check,underneath it
+g,reply_y,mmhmm
+f,acknowledge,and up right side
+f,check,to the fallen cairn right
+g,ready,top
+f,check,i'm at the bottom right-hand side of the fallen cairn
+g,ready,okay ehm
+f,check,you want me to go up
+g,clarify,if you go up to the top of it
+g,clarify,then almost come back come back to like the mi-- the middle of it almost up and then you know left along
+f,acknowledge,right
+g,clarify,just to the middle of it
+f,check,i've got it
+f,acknowledge,uh-huh
+g,query_yn,eh now can you go straight up from there
+g,query_yn,eh have you got a lake marked at the top yeah
+f,query_yn,i have got an east lake
+g,acknowledge,okay
+g,query_yn,if you can you go straight up to the lake from there
+f,acknowledge,right
+g,instruct,and if you follow the line of the bottom of the lake until it's you know about h-- half an inch past the end of it just like go straight along the line of it
+f,align,right
+g,explain,and that should be the finish there that's it
+f,query_w,how far eh between the lake and the cornfields
+g,reply_w,well just at at like if you g-- you
+g,align,you know you've got the top corner of the lake
+g,instruct,just underneath the top corner of it
+f,check,oh the top corner on the right
+g,clarify,on the left
+f,check,on the left
+f,check,so it's the top corner
+g,clarify,just so if you just stop you know anywhere
+g,align,right
+f,acknowledge,right that's it

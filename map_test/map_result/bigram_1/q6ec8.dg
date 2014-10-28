@@ -1,0 +1,163 @@
+g,ready,okay
+g,uncodable,um
+g,query_yn,do you have a telephone kiosk
+f,acknowledge,yeah
+g,explain,it's at the bottom left
+f,acknowledge,uh-huh
+g,acknowledge,right
+g,instruct,if you move so that if you move left and down so that you're on the left of the telephone kiosk on the way down you're almost at the bottom of the page almost in the extreme left-hand corner
+f,acknowledge,mmhmm
+g,ready,now
+g,query_yn,do you have a stone circle
+f,reply_n,no
+g,check,you don't
+g,instruct,um if you move right along the bottom of the page until you're about quarter the way along the page
+g,acknowledge,yeah
+f,check,the very bottom of the page
+g,acknowledge,well
+g,check,v-- closeish to the bottom
+f,instruct,couple of centimetres
+g,acknowledge,yeah
+f,acknowledge,right
+g,ready,now
+g,explain,you should be about quarter the way along the page
+g,query_yn,do you have a farmer's gate
+f,reply_y,yeah
+g,check,you do
+g,ready,well
+g,instruct,can you move upwards so that you're left of the farmer's gate
+f,acknowledge,mmhmm
+g,ready,right um
+g,ready,now
+g,query_yn,do you have a ruined monastery
+f,reply_n,no
+f,explain,oh in the middle of the page
+g,reply_y,yeah uh-huh
+f,acknowledge,yeah
+g,query_yn,um do you have any other obstacles between the gate and the monastery
+f,check,only an overnight accommodation place but that's quite far away
+g,ready,okay
+g,uncodable,um
+g,instruct,what you want to do is move from the farmer's gate to the le-- from the left of the farmer's gate right and up until you're left of the ruined monastery
+f,acknowledge,so
+g,reply_y,uh-huh
+f,check,i go round the left of the farmer's gate and up
+g,check,yeah and up
+g,check,up and right
+f,acknowledge,and straight up to the
+g,check,and straight up to the l-- right of the ruined monastery
+f,check,so diagonally
+g,reply_y,mm
+f,acknowledge,that's me
+g,ready,right
+f,align,okay
+g,instruct,now if you move over the top of the ruined monastery and left and stop at the end of the ruined monastery if you see what i mean the left-hand side
+g,check,and then move downwards a few centimetres and left
+f,query_w,how far
+g,query_yn,er mm do you have a stile
+f,query_yn,quite a bit up
+g,acknowledge,mmhmm
+f,reply_y,yeah
+g,ready,well
+g,instruct,what you want to do is move along until you are level with the left of the stile
+g,check,and then move up to the top of the stile so that you're on the left-hand side of it
+f,acknowledge,okay
+g,ready,now
+g,instruct,if you move right so that you are level with the right-hand edge of the stile now and above it
+f,acknowledge,that's me
+g,reply_y,uh-huh
+g,clarify,and then up
+f,query_yn,do you have a popular tourist spot
+g,reply_n,ah no
+f,acknowledge,no okay
+g,ready,right
+g,instruct,if you move up a few centimetres and stop and then move right a few centimetres and stop
+f,acknowledge,okay
+g,align,okay
+g,query_yn,now do you have a dead tree about ha-- three quarters of the way up the page on the right-hand side
+f,reply_n,ehm no
+f,ready,well
+g,query_w,you do--
+f,explain,i've got a dutch elm
+g,acknowledge,yeah well tha-- that's fine
+g,ready,now
+g,align,if you can move so that from where you are at the moment diagonally until you're underneath the tree
+f,acknowledge,it's about just above the middle of the page on the right-hand side
+g,acknowledge,that's right that's right yeah
+g,check,so you have a diagonal line
+f,uncodable,to whereabouts sorry
+g,clarify,just underneath the bottom of the tree
+f,acknowledge,right okay
+g,ready,now
+g,instruct,if you can move around the tree so that you end up at the top of it on the right-hand side
+f,acknowledge,right
+g,ready,now
+g,explain,on this map there is a viewpoint a great viewpoint and an east lake
+f,acknowledge,uh-huh
+f,align,at the top
+g,reply_y,uh-huh
+f,reply_y,yeah
+g,query_yn,do you have a great viewpoint
+f,reply_y,yeah
+f,clarify,top left-hand corner
+g,explain,no there's another one as well
+g,explain,on this one
+f,explain,i've got a
+f,explain,i've got the east lake
+g,acknowledge,uh-huh hmm
+f,explain,and then underneath that on the right i've got a rocket launch pad
+g,acknowledge,yeah
+g,explain,on this one the viewpoint is underneath that and almost on the mid line maybe slightly left
+g,acknowledge,right
+f,acknowledge,right okay
+g,ready,so
+g,instruct,if you can move from the where you are at the moment upwards and left so that you are just below the bottom of the lake and about midway along the lake
+f,check,so i'm going up the edge of the page
+g,uncodable,mm
+g,instruct,you can move diagonally i reckon you could move diagonally 'cause you're going to be midway along the lake
+g,acknowledge,oh yeah i see what you mean
+g,check,no
+g,instruct,midway along from the left to the right not from like the top to the bottom if you see what i mean
+f,check,so i'm
+g,acknowledge,okay
+f,explain,i'm at the
+g,reply_y,right
+g,align,just take where you are at the moment
+f,reply_y,right
+f,explain,i'm at the top right-hand corner of the dutch elm tree
+g,reply_y,of the tree yeah right
+g,check,um
+g,explain,the lake on this map has a viewpoint
+f,ready,uh-huh
+f,acknowledge,mmhmm
+g,instruct,which is halfway along the bottom of the lake
+g,instruct,and you want to move from where you are at the moment 'til halfway along the bottom of the lake
+f,acknowledge,okay
+f,check,diagonally about
+g,acknowledge,diagonally yeah
+f,query_yn,and have you got a rocket launch pad
+g,reply_n,no
+f,ready,well
+f,instruct,it's underneath the right-hand point of the lake
+g,ready,on the right yeah uh-huh
+f,clarify,so will i just sort of go round that
+g,reply_w,so go round it
+g,check,to the left
+f,acknowledge,right okay
+f,ready,right
+g,instruct,and end up halfway along the bottom of the lake
+f,acknowledge,okay
+g,ready,right now
+g,instruct,if you follow the bottom of the lake along to the left
+f,acknowledge,mmhmm
+g,instruct,and continue doing that until the lake effectively stops
+f,ready,and then it goes up and
+g,explain,then it goes up
+f,reply_y,yeah
+g,reply_w,in a sort of a curve
+f,acknowledge,mmhmm
+g,instruct,and if you can follow if you can continue to move left basing it on the line that you you're at just now until the left completely fini-- until the lake completely finishes
+g,explain,because there's a bit above you
+f,acknowledge,right okay
+g,ready,so
+g,instruct,if you cn you can actually do that and stop then that's that's it finished

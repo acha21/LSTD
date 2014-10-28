@@ -1,0 +1,228 @@
+g,ready,right
+g,reply_y,start top left yeah
+f,acknowledge,right
+f,acknowledge,okay
+g,acknowledge,no left
+g,ready,right erm
+g,ready,burnt forest right
+f,reply_y,yeah
+f,check,right beside the start
+g,instruct,go down diagonally so you're just next to the "b"
+f,explain,just next to the "b" okay
+g,ready,right
+f,check,diagonally
+g,reply_y,yeah
+g,ready,right
+f,acknowledge,yeah okay
+g,query_yn,you should have something straight under the burnt forest
+f,reply_y,yes
+f,check,a carpenter's cottage
+g,ready,right
+g,instruct,we're going to the we're going to the l-- left-hand side of that
+g,align,okay
+f,acknowledge,left
+g,instruct,but don't do it yet
+g,ready,right
+g,instruct,we're going to left-hand side
+f,acknowledge,right
+g,align,see the ravine right
+f,reply_y,yeah
+g,align,see the bottom of the ravine right
+f,reply_y,uh-huh
+g,align,and see the start
+f,reply_y,yeah
+g,ready,right
+g,instruct,we're going to the cross between vertical down start and horizontal
+g,ready,right
+f,acknowledge,right
+g,ready,right
+g,ready,right
+f,check,from the start down to the "b" of the burnt forest right
+f,query_w,which direction
+f,check,curve round
+g,instruct,then we're going to curve round to where the bottom of the ravine and the vertical from the start meet
+g,align,okay
+f,instruct,we'll want to curve round the ravine and where the bottom of this
+g,instruct,no curve curve
+g,align,see the start
+g,instruct,you want to be d-- y-- you're going to finish directly under the start
+g,ready,right
+f,acknowledge,yeah okay
+g,clarify,opposite the bottom of the ravine
+g,ready,right
+f,check,opposite the bottom of the ravine so o--
+g,clarify,so you're vertically under start but you're at the bottom of the ravine
+g,align,okay
+f,reply_y,yeah
+g,instruct,and go round the side of the whatever you've got there
+f,acknowledge,carpenter's cottage
+g,ready,right
+g,instruct,to the left
+g,align,okay
+f,check,to the left okay so
+g,instruct,on you go
+g,explain,i don't have a carpenter's cottage i'm just
+f,check,we slope down in between the carpenter's cottage and the ravine er beside the ravine slope down beside the ravine
+g,reply_n,no
+f,reply_n,no
+g,instruct,like you'll you'll want to be directly under the start the starting cross right but you're opposite the bottom of the ravine
+g,align,okay
+f,acknowledge,opposite the bottom okay
+f,check,so
+g,instruct,you're still directly you want to end up directly under the start opposite the bottom of the ravine
+f,acknowledge,okay
+g,align,right okay
+f,acknowledge,right hold on
+g,ready,right
+g,instruct,go along horizontally until you're about two centimetres away from the bottom of the ravine
+f,acknowledge,okay
+g,align,okay
+g,align,okay
+f,reply_y,yeah
+g,ready,right
+g,clarify,diagonally up to one centimetre above the top left of the ravine
+f,acknowledge,one centimetre above from the top okay
+g,align,okay
+g,ready,now
+g,instruct,we're going horizontally along
+g,ready,right
+f,acknowledge,right
+g,check,you've got pine grove haven't you
+f,reply_y,yeah
+g,instruct,erm go along to the top right hand side of the ravine
+f,acknowledge,okay
+g,ready,right
+g,instruct,and another two centimetres from that
+g,ready,right
+g,instruct,now go diagonally down to the bottom left of the pine grove
+f,acknowledge,okay
+f,acknowledge,okay
+g,ready,right
+g,explain,you've got an avalanche somewhere haven't you
+f,reply_y,yes er
+g,ready,right
+g,align,see the concealed hideout
+f,acknowledge,mmhmm
+g,acknowledge,the right hand side
+f,reply_y,yeah
+g,instruct,that's where we're trying to go
+g,align,okay
+f,acknowledge,okay
+g,ready,so
+g,instruct,if you sort of curve round an inverted "s" shape
+f,acknowledge,an inverted "s"
+g,reply_w,yeah well it's li-- like a "2"
+g,ready,right
+f,acknowledge,right
+g,clarify,so that you miss the avalanche
+f,acknowledge,miss the avalanche okay
+g,clarify,and end up at the bottom of the concealed hide-- well the side of the concealed hideout anyway
+f,acknowledge,okay
+g,align,okay
+f,acknowledge,right yeah
+g,ready,now
+g,instruct,curve round until you're under the "c" of concealed hideout
+f,clarify,curve round 'til er i-- i'm just under the "c"
+g,ready,right
+f,reply_y,yeah
+g,instruct,then two centimetres further left
+f,acknowledge,further left
+g,ready,right
+f,acknowledge,okay
+g,ready,now
+f,query_w,left to whereabouts
+g,ready,so
+g,instruct,you're now two centimetres to the left of "c"
+f,acknowledge,oh "c"
+g,reply_w,just about underneath it
+g,align,okay
+g,reply_y,yeah
+f,check,is this along to l-- my left directly along two centimetres along from the "c"
+f,acknowledge,okay
+g,align,okay
+f,reply_y,yeah
+g,ready,right
+g,ready,now
+g,align,see crane bay right
+f,reply_y,yes
+g,explain,there's a there's a curved bit just above the letters crane er "e" "b" alright
+f,reply_y,yeah
+g,align,the curved bit right and see the peninsula around where "r" is above "r" the corner
+f,reply_y,yeah
+g,instruct,go vertically down and then follow the curve round until you get above "r"
+f,acknowledge,okay
+g,align,the "r" bit okay
+f,acknowledge,okay right
+g,ready,right
+f,check,above "r"
+g,clarify,well on the on the on land
+f,acknowledge,on l--
+g,align,you're still on land aren't you
+g,align,you shouldn't be in the sea yet no right
+f,reply_y,yeah yeah it's alright i'm on land yeah
+g,query_yn,do you have a coconut palm
+f,reply_n,no
+g,align,but you've got pebbled shore
+f,reply_y,yeah
+g,ready,now
+g,instruct,follow the coast round don't do it yet right follow the y-- we're going to end up above the middle of the pebbled shore
+g,ready,right
+f,acknowledge,above the middle okay
+g,instruct,and follow the coast round but not too closely
+f,acknowledge,okay
+g,ready,but
+f,query_w,whereabouts is this
+g,align,sort of
+g,uncodable,erm
+f,query_w,coconut what was it you said
+g,align,you have to be quick
+g,instruct,follow the coast round
+g,ready,right
+f,acknowledge,okay
+g,instruct,until you get horizontally above the pebbled shore
+g,ready,right
+g,instruct,and then go along 'til you're above the middle of the pebbled shore
+f,acknowledge,okay right
+g,ready,right now
+g,explain,you've got some washed pebbles haven't you underneath the pebbled shore
+f,acknowledge,washed s-- yeah
+g,ready,right
+g,instruct,go go
+g,uncodable,hmm
+g,align,see the flagship
+f,reply_y,yeah
+g,ready,right
+g,align,don't do anything yet right
+g,align,see the flagship the bottom of the flagship right
+f,reply_y,yeah
+g,query_yn,along that is a line where the finish is right along that line
+f,reply_y,yeah along this line
+g,instruct,t-- about two centimetres inland
+f,acknowledge,two centimetres inland okay
+g,align,along the line from the bottom of the flagship
+g,ready,right
+g,explain,that's where the finish is
+g,align,okay
+f,acknowledge,okay
+g,ready,right
+g,align,don't do anything yet right
+g,ready,now
+g,align,see you're at the s-- so-- top of the pebbled shore right
+f,reply_y,yeah
+g,ready,now
+g,instruct,go diagonally to the left-hand side of the page
+f,acknowledge,okay
+g,clarify,so that you miss the washed pebbles
+f,check,miss the washed pebbles
+g,align,but you should be
+f,check,to the left of them
+g,reply_y,yeah
+f,check,to the left of them
+g,instruct,and you should be about a centimetre from the edge of the page
+f,reply_y,yeah
+g,instruct,and come down vertically and curve in so that you end up at the finish mark
+f,acknowledge,okay
+g,instruct,big cross
+f,acknowledge,right
+g,instruct,and we're finished
+f,acknowledge,okay

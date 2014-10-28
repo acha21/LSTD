@@ -1,3 +1,43 @@
-Yeonchan Ahn
+MAXENTROPY DA CLASSIFIER FOR SAMSUNG DIALOG CORPUS
+----------------------
 
-This program classify dialog act in the Mapcurpus
+This folder contains the code necessary for DA classifier and folders for evaluating it.
+This implementation is based on 
+S. Bangalore, G. Di Fabbrizio, and A. Stent, "Learning the structure of task-driven human–human dialogs," Audio, Speech, and Language Processing, IEEE Transactions on, vol. 16, pp. 1249-1259, 2008.
+
+
+LICENSE
+-------
+
+The code is written in Python and is tested on 64bit Ubuntu Linux machine (4 cores and
+6.4GB RAM) using Python 2.7. It is not tested on other platforms and might or might not
+work (as Python itself is platform independent, the chances are you might be able to
+get it worked as it is on other platforms too, but some minor modifications might be required.)
+ 
+The code has several dependencies and these must be downloaded and installed first on
+your system. 
+
+DEPENDENCIES
+-------------
+
+1. Maximum Entropy Modeling Toolkit for Python and C++
+   http://homepages.inf.ed.ac.uk/lzhang10/maxent_toolkit.html
+
+2. NLTK: Natural Language Tool Kit in Python.
+   http://www.nltk.org/
+
+
+GETTING STARTED
+---------------
+
+To train and test using the MaxEntropy classifier use the following script diact_classifier.py .
+In this script, evaluation using cross validation is performed
+
+ss_dialog :  Samsung corpus for DA classification
+map_test : DA classification result on Map corpus
+
+CONTACT
+-------
+For questions, comments etc. contact Yeonchan Ahn.
+acha21@europa.snu.ac.kr
+   

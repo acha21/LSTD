@@ -1,0 +1,206 @@
+g,ready,right ehm
+g,align,have you got the start yeah
+f,reply_y,yeah
+g,query_yn,at the sandy shore
+f,reply_y,yeah
+g,ready,right ehm
+g,query_yn,see at the tip of crane bay have you got a well
+f,reply_n,no i've not got a well no
+g,query_yn,ehm have you got anything there no
+f,reply_w,i've got s-- ehm at the bottom of crane bay where it goes into the gurgling brook i've got an iron bridge over that
+f,query_yn,have you got that
+g,acknowledge,oh right
+g,reply_n,no
+g,align,ehm you know how there's local residents
+f,reply_y,uh-huh
+g,query_yn,is that to the left of it you've got that
+f,explain,it's just above the iron bridge is just above local residents
+g,acknowledge,oh right
+g,ready,well
+g,reply_w,see at the tip of crane bay i've got a well
+g,ready,so
+g,instruct,if like you go down sandy shore
+f,reply_y,uh-huh
+g,instruct,and then go around the tip as though there is a well there and then up to the wee groove where in crane bay just well above the local residents if you go there
+f,check,up
+g,query_yn,to the left of to the left of sandy shore
+g,acknowledge,right
+f,acknowledge,right
+f,instruct,i want to go down to the left of sandy shore
+g,reply_y,uh-huh
+f,acknowledge,right
+g,instruct,and then curve out as though there is a well there just where the tip of crane bay is
+f,check,eh just go down from there in other words
+g,reply_y,uh-huh yeah
+f,acknowledge,right
+f,ready,and then
+g,check,and then up
+g,align,you know how there's a a wee kind of groove in crane bay then it goes down towards the forked stream
+f,reply_y,yeah
+g,instruct,if you go up to there
+g,acknowledge,right
+f,reply_y,uh-huh
+g,instruct,and just stop there
+g,ready,right ehm
+g,align,you know how there's local residents there
+f,reply_y,yeah
+g,acknowledge,right
+g,align,well see where you've stopped
+f,reply_y,uh-huh
+g,check,just go to the right
+f,reply_y,round the side of it yeah
+g,reply_y,uh-huh just to the right
+g,check,and then stop a couple of centimetres after crane bay
+g,ready,now ehm
+g,query_yn,have you got a forked stream yeah
+f,reply_y,yeah i've got a forked stream
+f,query_yn,right down gurgling
+f,query_yn,have you got gurgling brook coming out of crane bay
+g,reply_n,no i don't have a gurgling brook
+g,reply_y,uh-huh
+f,align,eh just it forks where there's a tree is that right
+f,reply_y,uh-huh yeah
+g,acknowledge,yeah right
+f,acknowledge,right
+g,instruct,see if you go down just from where you are just go down beside the forked stream to where it divides and stop there
+f,acknowledge,right okay
+g,acknowledge,right
+f,acknowledge,right
+g,ready,ehm now
+g,query_yn,to the right of the dead tree have you got farmed land
+f,reply_n,no i've not no
+g,ready,ehm right
+g,query_yn,have you got anything there no
+g,reply_n,no
+f,reply_n,no i've not got anything no
+g,acknowledge,right
+g,instruct,well if you just ehm curve out about five centimetres from where you've stopped
+f,check,to the right
+g,reply_y,uh-huh to the right
+f,ready,so over the river then
+g,ready,ehm no hang on
+f,explain,i'm at i'm at the left of the of the stream going down
+g,acknowledge,oh right right sorry
+g,instruct,ehm you're supposed to be at the right
+g,uncodable,ehm
+f,reply_w,oh i'm supposed to right i'm supposed to go over the river then
+g,reply_n,no
+g,acknowledge,right
+g,align,go back to where the groove in crane bay is
+f,reply_y,uh-huh
+g,acknowledge,right
+g,query_yn,ehm now did you go along to the right yeah
+f,reply_w,i went to the right
+f,instruct,and down past the side of the local residents you know between that and the river
+g,acknowledge,oh right right oh right sorry ehm
+f,acknowledge,right
+g,instruct,no you were supposed to go past the river a few centimetres out of the river so that you were to the right of it
+f,reply_w,right okay i'm to the right of the i'm to the right of the river
+f,instruct,and then down
+g,reply_y,uh-huh
+f,check,down
+g,instruct,down to where it divides
+f,instruct,down to where it divides
+g,query_yn,to the right of it
+g,reply_y,uh-huh yeah
+f,acknowledge,right okay i'm there now
+f,acknowledge,right
+g,ready,right and ehm
+g,query_yn,you're going to have to like curve out to the right as though there's something there
+g,explain,'cause i've got farmed land here so
+f,acknowledge,right
+g,instruct,curve out have to ehm
+f,query_w,is it a sort of straight line out or just a you know to the right or s-- just curved lands out
+g,instruct,eh just sloping very slightly
+g,check,downwards
+f,acknowledge,right
+g,uncodable,very slightly ehm
+f,acknowledge,right
+g,instruct,curve out about five six centimetres
+f,acknowledge,right okay
+g,instruct,and curve round and then ehm go straight along to the bottom of the dead tree
+f,instruct,so curve round and then straight along to the bottom
+g,reply_y,uh-huh
+g,check,of the dead tree
+f,acknowledge,right
+f,align,i'm still on the right-hand side of the river is that right
+g,ready,uh well
+g,instruct,you've curved out towards the right so you're like in the middle of the river now kind of thing where the dead tree is at the bottom of that
+f,acknowledge,right
+f,explain,i'm right in the middle of the river
+g,reply_y,uh-huh
+f,acknowledge,right okay
+g,reply_w,at the bottom of dead tree
+f,acknowledge,right
+g,ready,right ehm now
+g,query_yn,have you got a lagoon to the left of the map just ehm
+g,reply_y,uh-huh
+f,reply_y,yes i have yeah
+g,acknowledge,right
+g,instruct,if you go straight down about six seven centimetres
+f,acknowledge,right
+g,ready,right and then
+g,instruct,go straight to the left just ehm just to the right of the lagoon
+f,acknowledge,right
+f,reply_w,to the the top of the where it sort of splurges out into the lagoon
+g,reply_y,uh-huh
+f,acknowledge,right
+g,acknowledge,yeah right
+g,instruct,now if you go ehm down the right-hand side of the lagoon and stop at the bottom of the lagoon where at the tip of the lagoon
+f,acknowledge,right
+g,ready,ehm right
+g,query_yn,have you got eh you know green bay
+g,acknowledge,right
+f,reply_y,yeah i've got green bay yeah
+g,query_yn,just ehm above green bay have you got rock fall
+f,reply_n,no i've not no
+g,query_yn,ehm have you got anything there
+g,reply_n,no
+f,reply_n,no
+f,explain,i've just got green bay i've got the ship in it and a com--
+g,acknowledge,oh right
+f,check,computer controlled sub that's all
+g,acknowledge,oh right
+g,ready,ehm now
+g,instruct,see if you go from the tip of the lagoon and uh down to the left but you'll need to curve out a bit as though
+g,explain,'cause i've got a rock fall there
+f,ready,so
+g,ready,so
+f,check,i w-- i want to curve out to the left
+g,reply_y,uh-huh yeah
+f,clarify,eh heading heading for where the top of green bay
+g,acknowledge,eh right
+g,align,you know how where there's ehm
+g,ready,let me see
+g,query_yn,know how where sandy shore is that line towards the left
+f,reply_y,uh-huh
+f,reply_y,yeah
+g,clarify,it comes right down to the bottom forms a tip
+g,instruct,if you go to there
+f,acknowledge,right
+f,explain,so i'm in a sort of line down from that sort of thing
+g,reply_y,uh-huh yeah
+g,reply_y,yeah
+f,acknowledge,right
+f,explain,and just above the green
+g,reply_y,uh-huh
+g,acknowledge,right
+f,acknowledge,right that's right i'm there okay
+g,ready,right and
+g,query_yn,have you got the pirate ship yeah
+f,reply_y,yeah i have uh-huh
+g,acknowledge,right
+g,instruct,'cause the finish is just to the left of the pirate ship ehm just go straight down
+f,acknowledge,right
+f,reply_y,uh-huh
+g,instruct,and then along a few centimetres to the right just to the t-- ehm left of the pirate ship and that's where it finishes
+f,instruct,straight down a few centimetres to the right right
+f,explain,i've got computer controlled sub that i better
+g,acknowledge,uh-huh right
+f,explain,avoid
+f,check,and i finish at the left of the pirate ship
+g,reply_y,uh-huh yeah
+f,acknowledge,right
+f,check,at the bottom
+g,reply_y,uh-huh
+f,acknowledge,right that's it

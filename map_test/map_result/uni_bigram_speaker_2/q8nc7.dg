@@ -1,0 +1,189 @@
+g,instruct,the start
+g,query_yn,have you got an extinct volcano
+f,reply_y,yeah
+f,reply_w,it's just at the top of it
+g,acknowledge,right okay
+f,ready,okay
+g,instruct,you go ehm down the left-hand side of the extinct volcano 'til you're about a centimetre below it and then you go along the bottom of the page
+g,query_yn,have you got a tribal settlement
+f,acknowledge,right
+f,check,go down down the left-hand side of the extinct v-- volcano
+g,acknowledge,uh-huh
+f,acknowledge,right
+f,check,along and down 'til i'm about a centimetre below it
+g,acknowledge,uh-huh
+g,instruct,just
+f,check,that's about just down from the "e" down and along from the "e"
+g,reply_y,uh-huh that's right
+f,acknowledge,okay
+g,instruct,and then
+g,query_yn,do you have a tribal settlement
+f,reply_n,no
+g,instruct,well go along the bottom of the page and
+f,check,to the left
+g,acknowledge,uh-huh sorry to the left
+g,instruct,until you're a couple of centimetres in from the left-hand side of the page
+f,acknowledge,okay
+g,instruct,and a couple in from the bottom of the page
+g,align,right
+f,acknowledge,okay right right
+g,ready,and then
+g,query_yn,have you got a rope bridge
+f,reply_y,yeah
+g,instruct,well go straight up until you're to just to the le-- left of the rope bridge and then go across it from left to right
+f,acknowledge,okay
+g,reply_y,okay
+g,instruct,when you get to the other side of the rope bridge go down about a centimetre immediately
+f,acknowledge,okay
+g,align,okay
+g,instruct,or a couple of centimetres
+f,query_yn,is that the machete there
+f,query_yn,have you got a machete
+g,reply_y,aye well yeah that's right
+g,explain,i haven't got that
+g,instruct,so avoid the machete i suppose you must go under it
+f,acknowledge,right okay
+f,reply_y,uh-huh
+g,instruct,okay so you go you go down probably a couple of centimetres after you get to the other side of the rope bridge
+g,check,and then you go along to the right
+f,acknowledge,right
+g,instruct,until you're just above the start again
+g,instruct,okay
+f,acknowledge,okay right got you
+g,query_yn,have you got a collapsed shelter
+f,reply_y,yes
+g,instruct,oh go up past that to the left of it
+f,acknowledge,uh-huh
+g,clarify,just go straight past it
+g,query_yn,do you have a saxon barn
+f,reply_y,yes to the
+f,check,about
+g,instruct,well go s-- eh sort of up past the collapsed shelter and straight up until you're a-- about a centimetre above the level of the top of the saxon barn but above the collapsed shelter if you see what i mean
+f,acknowledge,okay
+f,reply_n,directly up
+g,reply_y,uh-huh straight up
+f,acknowledge,right okay
+g,align,without going left or right
+f,query_yn,have you not got a crevasse there no
+g,reply_n,eh no
+f,check,no so it's a centimetre above the saxon barn
+g,acknowledge,uh-huh
+f,acknowledge,yeah
+g,instruct,but you're not anywhere near it you're above the collapsed shelter
+g,align,okay
+f,reply_y,i'm right to the right of it yeah
+g,align,right
+g,query_yn,so you must have the crevasse beside the saxon barn
+g,instruct,go over the top of the crevasse then
+f,acknowledge,okay
+f,reply_w,left
+g,reply_y,uh-huh
+g,clarify,go left and then down the left-hand the right-hand side of the saxon barn
+f,acknowledge,oh
+g,clarify,and under the saxon barn
+f,acknowledge,okay
+g,instruct,until you're to the bottom left-hand side of it
+g,align,okay
+f,acknowledge,okay got you
+f,reply_y,uh-huh
+g,instruct,then when you get there go down ehm a couple of centi-- go down about an inch a couple of centime-- centimetres
+f,acknowledge,mmhmm
+g,instruct,and i've got pelicans at this point
+g,ready,right
+f,acknowledge,mmhmm
+f,check,saxon barn
+f,acknowledge,right
+g,instruct,so go down a couple of centimetres when you're at the bottom left-hand side of the saxon barn
+g,instruct,and then go along a couple of centimetres
+f,check,to the left yeah
+g,instruct,to the left
+g,clarify,until you're a coup-- mm about a centimetre and a half in from the side of the page
+g,instruct,and then go up again straight up until you're about level with saxon barn
+f,acknowledge,okay
+g,uncodable,oh oh
+f,query_w,which is it the top bottom of it which part
+g,reply_w,the top
+f,acknowledge,okay
+g,align,okay
+f,reply_y,right
+g,ready,right
+g,query_yn,have you got a white mountain
+f,reply_y,yes
+g,instruct,go up towards that and along the side of it to the l-- along the left-hand side of it 'til you get to the top
+f,acknowledge,okay
+g,instruct,just to the left of the top
+f,ready,right
+g,reply_y,okay
+g,query_yn,have you got a golden beach
+f,reply_y,yes uh-huh
+g,instruct,well go straight up from the top of the white mountain 'til you're just beside the golden beach to the right of it
+f,acknowledge,right
+f,explain,you want me to go dilect-- directly right
+g,reply_n,no
+g,clarify,directly up
+f,align,but golden beach is away in the far right
+g,acknowledge,ah right
+f,query_yn,have you got your
+g,reply_w,i've got two golden beaches
+f,acknowledge,ah
+f,check,is there
+g,explain,sorry so there's the one above the white mountain as well to the left of it for me
+f,acknowledge,yeah there's nothing nothing there
+g,acknowledge,right okay
+g,ready,well
+g,align,are you at the top of the white mountain
+f,reply_y,yeah
+f,explain,i'm just top and to the left of it
+g,acknowledge,that's fine
+g,instruct,go s-- go straight up about three or four centimetres
+g,align,right
+f,reply_y,okay
+f,reply_y,uh-huh
+g,instruct,and then do a sharp turn to the right towards the slate mountain
+g,query_yn,have you got that
+f,reply_y,yeah
+g,acknowledge,ah
+f,check,do you want me to just put below the slate mountain
+g,clarify,just to the left of it
+f,acknowledge,right just below and to the left okay
+g,align,okay
+f,acknowledge,right i'm there
+g,instruct,and then do a circle right round the slate mountain 'til you come back to the ehm bottom left-hand side of it again
+g,check,all the way round it
+g,reply_y,uh-huh
+f,reply_y,so you want to go d-- i'm going round anticlockwise yeah
+g,reply_n,um no
+g,uncodable,clockwise sorry
+f,check,so i just go up and round
+g,instruct,right you start off sort of
+f,acknowledge,going up and round
+g,check,just to the left of it
+g,ready,right
+f,reply_y,uh-huh
+g,instruct,and then you go up the side of it
+f,acknowledge,right
+f,reply_y,uh-huh
+g,clarify,over the summit down the right-hand side of it and underneath it
+f,acknowledge,okay
+g,align,okay
+f,check,back just about back to where i started near enough
+g,reply_y,that's right
+f,acknowledge,okay
+f,acknowledge,okay
+g,instruct,just back to the b-- bottom left-hand side of the slate mountain
+g,align,okay
+f,reply_y,yeah
+g,query_yn,have you got a secret valley
+f,reply_y,yes
+g,ready,right well
+g,explain,you're at the bottom left-hand side of the slate mountain right
+f,acknowledge,uh-huh
+g,instruct,go straight down past the left-hand side of the secret valley until you're at the bottom left-hand side of that
+f,acknowledge,okay
+g,align,okay
+f,reply_y,got you
+g,instruct,and then go underneath it 'til you're at the bottom right-hand side of it
+f,acknowledge,okay
+g,instruct,and that's the finish
+f,acknowledge,okay
+g,align,okay

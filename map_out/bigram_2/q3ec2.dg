@@ -1,0 +1,89 @@
+f,reply_y,yeah
+g,query_yn,right have you got a starting point at
+g,check,this ke-- this is kenneth
+g,query_yn,have you got a starting point at the top left of your map corner
+g,reply_y,right
+g,instruct,eh could you move about due south from that starting point about eh four inches
+f,ready,right
+g,instruct,could could you move to the right of the point you're at now by three inches
+f,acknowledge,right
+g,instruct,could you move up three inches
+f,check,three inches
+g,reply_y,mmhmm
+f,align,okay
+g,instruct,could you move to your right again approximately five inches
+f,ready,right
+g,instruct,could you
+f,ready,okay
+g,acknowledge,right right right
+g,align,i d-- think i know where you are
+g,align,right
+g,instruct,could you move down from the point you're at by about eh three inches
+f,acknowledge,okay
+g,instruct,could you go to your right another three inches
+f,check,eh well no a bit off the edge of the page
+g,reply_y,right
+g,clarify,well whatever you can manage
+f,acknowledge,okay
+g,instruct,ehm could you move down from that point about three inches
+f,ready,right
+g,instruct,could you move back from that point eh another three inches
+f,acknowledge,that's left
+g,clarify,that's left
+g,explain,it's away from the edge of the paper
+f,acknowledge,mm okay
+g,uncodable,right eh
+g,query_yn,could you move
+g,ready,oh
+g,instruct,could you move down from that point one inch
+f,ready,right
+g,instruct,could you move back across to the edge of the paper again
+f,check,right the way across
+g,clarify,another three inches right again
+g,align,yeah
+f,align,okay
+g,instruct,can you move down eh three inches
+g,instruct,could you move to your left ah approximately six inches
+f,query_w,am i allowed to say if i'm going to go into one of these obstacles
+f,clarify,it's got right in the middle of the water
+f,reply_w,six inches
+g,acknowledge,mmhmm
+f,acknowledge,right
+f,reply_y,okay
+g,instruct,could you move
+g,clarify,you're going to be in the middle of the water
+f,check,but i'm not any more i've fixed it
+g,ready,right eh
+g,query_yn,could you move down approximately three inches
+f,ready,okay
+g,instruct,could you move to your left approximately three inches
+f,ready,right
+g,instruct,could you move diagonally down and to your left
+f,acknowledge,mmhmm
+g,check,approximately four inches
+f,ready,okay
+g,instruct,could you move down from that point two inches
+f,ready,right
+g,instruct,could you move left from that point approximately three inches
+f,explain,no i'll be off the edge of the page again
+g,instruct,well to the edge of
+f,clarify,i'll go as far as i can
+g,clarify,the paper go as far as you can
+f,ready,right okay
+g,instruct,could you move down from that point another three inches
+f,ready,okay
+g,instruct,and could you finally move to your right two inches
+g,check,and that should be the finish point
+g,reply_w,that should be the finish point
+f,query_w,well what's the finish point
+g,explain,i don't know but that's where it i've got a i've got a cro--
+f,acknowledge,is it just got
+g,explain,i've got a cross on my map here down near the it's down near the
+f,reply_y,bottom left of the page
+g,reply_y,bottom left of the page
+f,acknowledge,yeah
+g,query_yn,have you got a tree there
+f,reply_y,i'm at a chestnut tree
+g,acknowledge,you're at a chestnut tree
+g,check,right is that it
+f,reply_y,is that all we have to do

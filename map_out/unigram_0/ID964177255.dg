@@ -1,0 +1,20 @@
+Y,Opening,Hi thanks for reaching out to Samsung tech support. How can I help you today?
+N,Word_Answer,I was just chatting with Seth. Hi my name is Misty not happy at this moment just broke my Samsung tablet screen. Model gt-p7510 is it coverd under a warrenty
+Y,Acknowledgement,I am sorry to hear that.
+Y,Open_Question,When was the situation you first noticed the issue?
+N,Word_Answer,It happened today
+Y,Etc_Statement,Was there any physical damage like was it dropped or was it hit by any object?
+N,Issue_Statement,accidently dropped it trying to open the door.
+Y,PresentSolution,I am sorry; physical damages are not covered under warranty.
+Y,Word_Answer,Out of warranty charges apply for the repair.
+Y,PresentSolution,Would you like me to get the details to set up service for the tablet?
+N,Solved_Answer,how much to get it fixed .
+Y,PresentSolution,The unit needs to be shipped to the service center and the service center details will be e-mailed to you after filing the request. You can contact the Service Technician for further information regarding the repair and cost of the repair.
+Y,PresentSolution,Please click on the link below to file a service request:
+Y,PresentSolution,http://www.samsung.com/us/support/service/request
+N,Positive,ok. thanks so much I love my tablet ... :(
+Y,PresentSolution,You can get back to Live Chat with the ticket ID: LTK111790549448X anytime if you run into issues filing service request. We are available 24X7.
+Y,YN_Question,You're welcome. Is there anything else I can assist you with?
+N,Positive,OK
+N,Negative,Nope
+Y,Closing,Thank you for chatting with us. If you have a minute please click on the blue “X close” button to receive a transcript of your chat and fill out a brief survey to help us serve you better. Have a wonderful time!<br> Follow Samsung Service on <a href="http://www.facebook.com/samsungsupport" target="_blank">Facebook</a> <a href="http://twitter.com/samsungsupport" target="_blank">Twitter</a> and <a href="http://www.youtube.com/samsungservice" target="_blank">YouTube</a>.

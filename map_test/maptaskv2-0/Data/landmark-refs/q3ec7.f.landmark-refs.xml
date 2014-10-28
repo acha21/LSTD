@@ -1,0 +1,58 @@
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="landmark-refs.q3ec7.f">
+<landmark_reference id="q3ec7.f.ref.1" stat="0" def="pro" men="rep0" lit="none" plural="0" part_reference="no">
+  <nite:child href="q3ec7.f.timed-units.xml#id(q3ec7f.19)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m14_diamond_mine)"/>
+</landmark_reference>
+<landmark_denial id="q3ec7.f.ref.2" stat="0" part_reference="no">
+  <nite:child href="q3ec7.f.timed-units.xml#id(q3ec7f.31)..id(q3ec7f.35)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m14_graveyard)"/>
+</landmark_denial>
+<landmark_reference id="q3ec7.f.ref.3" stat="0" def="pro" men="rep0" lit="none" plural="0" part_reference="no">
+  <nite:child href="q3ec7.f.timed-units.xml#id(q3ec7f.35)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m14_graveyard)"/>
+</landmark_reference>
+<landmark_reference id="q3ec7.f.ref.4" stat="0" def="pro" men="rep0" lit="none" plural="0" part_reference="no">
+  <nite:child href="q3ec7.f.timed-units.xml#id(q3ec7f.48)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m14_carved_stones)"/>
+</landmark_reference>
+<landmark_reference id="q3ec7.f.ref.5" stat="0" lit="l" def="def" men="rep0" plural="0" part_reference="no">
+  <nite:child href="q3ec7.f.timed-units.xml#id(q3ec7f.60)..id(q3ec7f.61.1)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m14_diamond_mine)"/>
+</landmark_reference>
+<landmark_reference id="q3ec7.f.ref.6" stat="0" lit="l" def="def" men="rep0" plural="0" part_reference="no">
+  <nite:child href="q3ec7.f.timed-units.xml#id(q3ec7f.88)..id(q3ec7f.90)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m14_carved_stones)"/>
+</landmark_reference>
+<landmark_reference id="q3ec7.f.ref.7" stat="0" lit="l" def="def" men="rep0" plural="0" part_reference="no">
+  <nite:child href="q3ec7.f.timed-units.xml#id(q3ec7f.133)..id(q3ec7f.134.1)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m14_gold_mine)"/>
+</landmark_reference>
+<landmark_reference id="q3ec7.f.ref.8" stat="0" def="el" men="rep0" lit="none" plural="0" part_reference="no">
+  <nite:child href="q3ec7.f.timed-units.xml#id(q3ec7f.140)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m14_gold_mine)"/>
+</landmark_reference>
+<landmark_denial id="q3ec7.f.ref.9" stat="0" part_reference="no">
+  <nite:child href="q3ec7.f.timed-units.xml#id(q3ec7f.151)..id(q3ec7f.155)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m14_cavalry)"/>
+</landmark_denial>
+<landmark_reference id="q3ec7.f.ref.10" stat="0" def="pro" men="rep0" lit="none" plural="0" part_reference="no">
+  <nite:child href="q3ec7.f.timed-units.xml#id(q3ec7f.155)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m14_cavalry)"/>
+</landmark_reference>
+<landmark_reference id="q3ec7.f.ref.11" stat="0" lit="l" def="indef" men="rep0" plural="0" part_reference="no">
+  <nite:child href="q3ec7.f.timed-units.xml#id(q3ec7f.172)..id(q3ec7f.174)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m14_trout_farm)"/>
+</landmark_reference>
+<landmark_reference id="q3ec7.f.ref.12" stat="0" lit="l" def="null" men="rep0" plural="0" part_reference="no">
+  <nite:child href="q3ec7.f.timed-units.xml#id(q3ec7f.182)..id(q3ec7f.183)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m14_indian_country)"/>
+</landmark_reference>
+<landmark_reference id="q3ec7.f.ref.13" stat="0" lit="l" def="indef" men="intro_l" plural="0" part_reference="no">
+  <nite:child href="q3ec7.f.timed-units.xml#id(q3ec7f.199)..id(q3ec7f.201)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m14_totem_pole)"/>
+</landmark_reference>
+<landmark_reference id="q3ec7.f.ref.14" stat="0" lit="l" def="null" men="rep0" plural="0" part_reference="no">
+  <nite:child href="q3ec7.f.timed-units.xml#id(q3ec7f.271)..id(q3ec7f.274)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m14_parched_river_bed)"/>
+</landmark_reference>
+</nite:root>

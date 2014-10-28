@@ -1,0 +1,276 @@
+g,acknowledge,okay phil
+f,acknowledge,right
+g,explain,on my map i have a telephone kiosk in the bottom left-hand corner
+f,reply_y,uh-huh
+g,instruct,okay the route starts above it
+f,acknowledge,mmhmm
+g,reply_w,directly above it about on my map about half an inch from the top of the telephone kiosk
+f,acknowledge,yeah got you
+g,acknowledge,okay
+g,check,it's a dotted line that moves around to the left of the k-- telephone kiosk down
+f,acknowledge,mmhmm
+g,instruct,passing around the left-hand side of the stone circle
+f,reply_y,stone circle
+g,reply_y,yeah
+f,explain,how don't think i've got that on my map i have a telephone kiosk and a the nearest thing is a broken gate to the bottom right-hand
+g,reply_y,yeah
+g,explain,well under on on my map directly under the telephone kiosk
+f,acknowledge,mmhmm
+f,reply_y,yeah
+g,explain,at the right on the bottom left-hand corner of the page i have a stone circle
+f,acknowledge,right
+g,instruct,so if you could take your route straight down 'til about an inch above the bottom of the page
+f,reply_y,uh-huh
+g,acknowledge,okay
+f,acknowledge,right
+g,instruct,then go straight straight on
+f,query_w,to the r--
+g,instruct,horizontally about and for about another inch
+f,acknowledge,to the right
+g,reply_y,yeah to the right
+f,acknowledge,right
+g,acknowledge,okay
+f,acknowledge,okay
+g,instruct,now if you move straight up you're going to be on the left-hand side of that farmer's gate
+f,acknowledge,right
+g,acknowledge,that correct
+f,reply_y,yeah
+g,acknowledge,okay
+g,instruct,if you move straight up until you're at the top left-hand corner of the broken gate
+f,acknowledge,mmhmm
+f,acknowledge,right
+g,acknowledge,okay
+g,query_yn,now we're going to move do you have a meadow in the bottom right-hand corner
+f,reply_y,meadow yeah uh-huh
+g,acknowledge,okay
+g,instruct,now you're going to move in a diagonal line
+g,query_yn,do you have little seagulls drawn on it
+f,reply_n,no not at all
+g,clarify,little birds
+g,acknowledge,okay
+f,reply_y,oh yeah sorry i do yeah
+g,query_yn,no you do
+f,reply_y,uh-huh
+g,explain,well i've got five little birds on mine
+f,reply_y,yeah just above the meadow
+g,acknowledge,okay
+f,acknowledge,right
+g,instruct,so if you take the middle bird
+f,reply_y,uh-huh
+g,instruct,and you move up the page until you're probably about to a point that's about half an inch horizontally higher than the point you're at at the farmer's gate
+f,acknowledge,right
+g,acknowledge,okay
+f,acknowledge,mmhmm
+g,instruct,now if you take your route from where you are now to that point
+f,acknowledge,right
+g,check,diagonally upwards
+f,acknowledge,right
+g,instruct,okay we're going to move up from there to the ruined monastery
+f,acknowledge,right
+g,instruct,and your route's
+f,query_yn,h-- have you got overnight accommodation on yours
+g,reply_n,no i don't
+f,explain,well i've got overnight accommodation in a diagonal line between the ruined monastery and the point i'm at just now
+g,check,in a diagonal line
+f,reply_y,yeah
+f,explain,it's about if upwards was north it would be northwest of where i am just now
+g,explain,yeah oh that sounds that sounds like the same route that i have here
+g,instruct,does that take you up to the top right-hand corner say of the the ruined monastery you know just off the ruined monastery
+f,ready,erm well
+g,instruct,by that pa--
+f,explain,if i was goi-- to go up in a straight line just now i'd end up slightly to the right of the ruined monastery
+g,acknowledge,okay
+g,clarify,well it's slightly diagonally northwest as you said
+f,reply_y,yeah well that's through the overnight accommodation then
+g,acknowledge,well that's that'd be good
+f,explain,i don't suppose that's an obstacle really
+g,reply_n,no
+g,instruct,that'd be quite good actually
+f,check,right go straight through it then
+g,reply_y,yeah
+g,check,we're going right up there and around the top of the ruined monastery curving round the top
+f,clarify,curving round the top the right-hand side or the left-hand side
+g,clarify,oh we're coming up you're coming up on the right-hand side
+f,acknowledge,mmhmm
+g,instruct,and you're going over to the left-hand side and down
+f,acknowledge,right
+g,align,so it's curved down towards the west lake
+f,clarify,sorry where am i going from the point just now just up northwest
+g,acknowledge,up northwest
+f,reply_y,uh-huh
+g,instruct,say to the top right-hand corner of the ruined monastery
+f,reply_y,uh-huh
+f,acknowledge,right
+g,instruct,okay and you're going to draw like a small arch just skimming round the outside of it
+f,acknowledge,right
+f,check,to the left
+g,explain,an arch
+g,reply_y,down to the left yes
+f,reply_y,yeah
+g,acknowledge,okay
+f,acknowledge,mmhmm
+g,instruct,now you're going to keep moving downwards like in an arc
+f,reply_y,yeah
+g,check,around the edge of the west lake
+g,query_yn,do you have the west lake on yours
+f,reply_n,nope not at all no
+g,acknowledge,okay
+g,uncodable,let me see
+g,check,now you've skimmed an arch around the top of the ruined monastery
+f,reply_y,yeah
+f,acknowledge,mmhmm
+f,acknowledge,right
+g,instruct,come down about an inch keep the keep the arc coming down for about an inch
+g,check,past the bottom of the ruined monastery
+f,acknowledge,right
+g,instruct,okay now you're going to curve it back
+g,query_yn,do you have a stile
+g,check,up to
+f,reply_y,eh yeah uh-huh
+g,reply_y,yeah
+f,reply_y,yeah
+g,clarify,well if you can curve it round until a point that's directly below the left-hand corner of the stile
+f,acknowledge,mmhmm
+g,instruct,and then move straight upwards towards the left-hand side skim round the left-hand side of the stile
+f,check,am i doing an arc eh that's curving up and over to the left
+g,reply_y,yeah
+g,align,you've just done one that's curved down
+f,reply_y,uh-huh
+g,check,from the ruined monastery and you're curving back up now towards the stile
+f,acknowledge,right
+g,clarify,on the left-hand side of it
+f,reply_y,yeah
+f,acknowledge,right i'm there
+g,align,okay come over the top
+f,acknowledge,mmhmm
+g,instruct,and then once you're past the stile go straight up about two inches
+f,reply_y,uh-huh
+g,acknowledge,okay
+f,reply_y,yeah
+g,instruct,right at this point across t-- and down to the right-hand side of your page do you have a dead tree
+f,reply_n,eh no
+f,explain,i have a dutch elm but erm
+g,explain,well that's
+g,ready,possibly
+f,query_yn,is that the dead tree
+g,reply_y,yeah
+g,check,above
+g,acknowledge,right
+f,explain,well it's on the very far right-hand side of the page though
+g,reply_y,yeah
+g,query_yn,on the ri-- dilect directly right across from where you are do you have a great viewpoint a drawing of a telescope i have here
+f,explain,eh it's directly above where i am just now directly above the stile about four inches
+g,reply_y,yeah i've got that
+g,explain,i've got another one across to the right
+f,reply_n,no i haven't got that one
+g,acknowledge,okay
+f,reply_y,uh-huh
+g,query_yn,and do you have the east lake up in the top right-hand corner
+f,reply_y,yeah
+g,instruct,where you are just now should be horizontally across from say just below the bottom right-hand tip of it that's how high you should be on the map
+f,clarify,the great viewpoint
+g,reply_n,no
+g,check,no from the ea-- the bottom right-hand corner of the east lake
+f,acknowledge,bottom right-hand corner uh-huh
+g,acknowledge,okay
+f,reply_y,uh-huh
+g,instruct,now you should be say about a half an inch below that only across the other side of the page
+f,reply_y,yeah got that exactly yeah
+g,explain,excellent
+g,align,now you see where the ruined monastery is
+f,reply_y,yeah uh-huh
+g,check,back to the ruined monastery again
+f,instruct,straight line up
+f,acknowledge,oh right
+g,explain,and you've got you've got an elm tree sort of just off to the right of that
+f,reply_y,yeah uh-huh
+g,acknowledge,okay
+g,instruct,what we're going to do then is draw a diagonal line from where you are now
+f,acknowledge,mmhmm
+g,instruct,down to a point that goes around the outside of the elm tree
+f,acknowledge,right
+f,explain,i've got a popular tourist spot erm between the dutch elm and where i am just now
+g,query_yn,do you
+f,reply_y,yeah
+f,check,so go straight through that
+g,reply_y,yeah go straight through it
+f,reply_w,towards the dutch elm
+g,reply_y,yeah
+f,explain,and which side of the dutch elm should i end up on
+g,instruct,y-- you're going to draw a line around the outside of it so you should be underneath the dutch elm
+f,acknowledge,right
+f,check,so i'm drawing a line around the top of the dutch elm ending up at underneath it
+g,reply_y,yeah that's right
+f,acknowledge,right
+f,acknowledge,right
+g,instruct,we're going to curve around the outside of the elm
+f,acknowledge,mmhmm
+g,acknowledge,okay
+f,reply_y,i've done that yeah
+g,ready,now
+g,explain,this dutch elm you have if you look across the page to the stile again
+f,reply_y,uh-huh
+g,query_w,is it beneath the stile or
+f,reply_w,slightly beneath it the base of the dutch elm is about maybe half an inch below the bottom of the stile
+g,reply_y,uh-huh
+g,align,and away f-- is it about an inch away from the right-hand side of the page
+f,reply_y,yeah uh-huh
+g,explain,oh must be the same tree i would think anyway
+f,acknowledge,mmhmm
+g,explain,sounds similar
+g,instruct,okay you're going to come around the outside of that
+f,reply_y,yeah
+g,instruct,you'll be about an inch away from the right-hand s-- edge of the page
+f,acknowledge,right
+g,acknowledge,okay
+f,acknowledge,mmhmm
+g,clarify,and you're going to come back in as if you'd drawn about two thirds of a circle around the tree just about
+g,acknowledge,okay
+f,acknowledge,right got you
+f,reply_y,yeah
+g,ready,now
+g,check,you don't have a telescope between you and the the east lake no
+f,reply_n,no
+g,clarify,a great viewpoint
+f,explain,i've
+g,query_yn,do you have any kind of marking at all
+f,reply_w,rocket launch pad
+g,query_yn,a rocket launch pad
+f,reply_y,yeah
+g,explain,excellent
+g,explain,eh no i don't have a rocket launch pad on mine
+g,explain,but i don't think that would be a tremendously good place to go through
+f,reply_n,no
+g,acknowledge,right
+g,acknowledge,okay
+g,query_yn,do you have east lake written on the east lake
+f,reply_y,uh-huh yeah
+g,reply_y,yeah
+g,align,see where the "e" is
+f,reply_y,uh-huh
+g,instruct,erm if you draw a line if you are just about directly beneath that "e"
+f,acknowledge,mmhmm
+g,instruct,okay draw a line up to the water's edge maybe just to the right of that "e"
+f,check,s-- straight up
+g,reply_y,straight up yeah
+f,clarify,just slightly to the right of the "e"
+g,acknowledge,mmhmm
+g,clarify,until you're just like virtually on the water's edge
+f,acknowledge,mmhmm
+g,acknowledge,okay
+f,acknowledge,right
+g,instruct,now mark your route along the water's edge to a point that's just past the sort of bottom left-hand edge of it
+f,reply_y,uh-huh
+g,acknowledge,okay
+g,align,that's pointing
+f,instruct,bottom left-hand edge
+g,reply_y,yeah
+g,instruct,if if your line is pointing you-- you're not we're not going to take it that far but if your line is pointing towards the great viewpoint which is on the top left-hand corner
+f,reply_y,uh-huh
+f,acknowledge,right
+g,instruct,and you're still underneath the east lake then that's you
+f,acknowledge,right got you
+g,instruct,"x" marks the spot and we're finished
+g,acknowledge,that's you
+f,query_w,so where am i going now to the great viewpoint
+g,acknowledge,no that's you

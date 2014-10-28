@@ -1,0 +1,240 @@
+f,reply_y,go
+g,instruct,okay we're going to start above th-- directly above the telephone kiosk
+f,acknowledge,okay
+g,query_yn,do you have that
+f,reply_y,i've got the start yeah
+g,acknowledge,okay
+g,instruct,you're going to move around the left of the telephone kiosk the same distance as you are above it
+g,instruct,you're about what half an inch above it
+f,acknowledge,uh-huh
+f,acknowledge,downwards
+g,acknowledge,okay
+g,instruct,downwards sort of skipping
+f,check,to the left-hand side
+g,reply_y,yeah
+g,instruct,down until you're about an inch from the bottom of the page you should be skipping the edge of the page by about half an inch
+g,acknowledge,okay
+f,acknowledge,okay
+g,query_yn,now take it do you have a stone circle at the bottom
+f,reply_n,no
+g,acknowledge,no you don't
+g,acknowledge,okay
+g,instruct,now are you like if you come in a wee bit so that you're about an inch away from both edges
+f,acknowledge,okay
+g,ready,okay
+f,acknowledge,okay
+g,instruct,if you get to that point
+g,instruct,now move along about an inch
+f,check,to the right
+g,instruct,to the right
+g,instruct,directly horizontally across
+f,acknowledge,okay
+g,acknowledge,okay
+g,instruct,now curve up and out a wee bit and then straight up
+g,ready,so that you're
+f,query_w,up and up and left or right
+g,align,see where your farmer's gate is
+f,reply_y,right
+g,align,okay
+g,instruct,we're going to come up on the left-hand side of that you'll just skim it by about a centimetre
+g,align,okay
+f,check,up and to the right
+g,clarify,up to the left-hand side of it yeah until you're at the top left-hand corner of the drawing
+f,acknowledge,of the broken gate
+g,align,of the broken gate that's correct
+f,acknowledge,okay
+g,reply_y,okay
+g,ready,now
+g,instruct,you're going to move right
+g,align,you know where the meadow is in the bottom right-hand corner
+f,reply_y,yeah
+g,acknowledge,okay
+g,align,see the third seagull along
+f,reply_y,yeah
+g,align,okay
+g,instruct,now go upwards until you're level with the point you're at at the f-- the broken gate
+f,query_yn,sorry have i to go round the top of it
+g,reply_n,no no
+g,instruct,don't don't draw anything yet
+g,instruct,just like say with your finger an imaginary point
+f,check,above the third seagull
+g,instruct,above the seagull so that both like your pen
+f,acknowledge,okay
+g,instruct,and your finger are level
+f,acknowledge,right
+g,acknowledge,okay
+f,acknowledge,okay
+g,align,now if you raise your right this imaginary point up about three quarters of an inch say
+g,acknowledge,okay
+f,acknowledge,okay
+g,align,see the point you're at there
+g,instruct,draw a diagonal line linking these two points
+f,align,okay
+f,acknowledge,right
+g,align,okay
+g,ready,now
+g,query_yn,do you have a ruined monastery
+f,reply_n,eh not near where i am just now
+f,explain,it's in the middle of the page
+g,reply_y,yeah
+g,align,right up at the middle of the page
+f,reply_y,yeah
+g,align,okay
+g,instruct,now if you say put make a point that that's just off the top right-hand turret or whatever it is you know just the top right-hand edge of that
+f,acknowledge,okay yeah
+g,instruct,it's about a centimetre off it
+f,acknowledge,okay
+g,ready,okay
+g,instruct,if you draw a kind of diagonal line curving yourself
+f,explain,round the monastery down to where i was
+g,clarify,eh just from that edge to where you were
+f,acknowledge,right okay
+f,query_yn,do you have the overnight accommodation
+g,reply_n,no
+f,acknowledge,okay
+g,instruct,but you can go through that
+f,acknowledge,okay okay
+g,ready,okay
+f,acknowledge,right
+g,query_yn,now do you have the west lake down to your left
+f,reply_n,no
+g,acknowledge,okay
+g,clarify,right if you draw like a curved arch from the point you're at eh over the top of the the ruins
+f,acknowledge,right
+g,ready,okay
+g,clarify,back down to like say a point that's level only on the other side
+g,align,okay
+f,acknowledge,right
+g,ready,right
+g,instruct,what you're going to do is you're going to continue your downward line for about another inch moving down towards let me see in a compass direction it would be southwest
+f,acknowledge,right
+g,instruct,right just continue down the way
+f,acknowledge,okay
+g,instruct,moving both outwards and downwards
+f,acknowledge,right
+g,acknowledge,okay
+g,instruct,now skim a line that's pointing diagonally up if you take a point about an inch and a half from the edge of the page
+f,query_w,level with where i am
+g,query_w,level from where you are
+g,align,okay
+f,acknowledge,okay
+g,instruct,then move that point up half an inch so you've got a kind of diagonal line again
+f,acknowledge,right
+g,align,okay this is the left-hand edge of the page yeah
+f,acknowledge,yeah okay
+g,align,okay
+g,instruct,if you connect these two points
+f,acknowledge,okay
+f,reply_y,yeah
+g,query_yn,do you have a stile above you
+g,reply_y,okay
+g,explain,are you downwards and slightly to the left of the stile
+f,check,i'm down and about an inch to the left
+g,acknowledge,an inch to the okay
+g,instruct,you could come in a wee bit so that when you go up you uh you go up to the top left-hand corner of the stile but you're only say about a centimetre from the edge so that's your line
+f,acknowledge,okay
+g,instruct,your point should be downwards you probably got the distance correct down the way but that'll be your route
+f,check,up to the top of the stile
+g,reply_y,yeah
+g,explain,top left-hand corner
+f,acknowledge,okay
+g,instruct,now if you like sort of draw a line along the top of that as if we're skirting round the ex-- the edge of it
+f,acknowledge,okay
+g,instruct,again now we're going to move straight up about an inch and a half
+g,ready,i've
+g,reply_y,uh-huh
+f,explain,from the right-hand corner of the stile
+g,query_yn,do you have an obstacle there
+f,reply_w,i've got a popular tourist spot slightly to the right and up from the stile
+g,acknowledge,okay
+g,instruct,now we go up
+g,instruct,right so you're at a point that's probably about two to three inches away from both the top edge and the left-hand side edge is that correct
+g,reply_n,no
+f,reply_n,no not at the moment
+g,instruct,right can you see that point well if you imagine a point
+f,check,up in the top left-hand corner
+g,reply_w,right the top left-hand corner
+g,instruct,if you come down about three inches
+f,acknowledge,aye right okay
+g,align,okay
+f,explain,i've got i've got
+g,align,and you come in about three inches okay there's a point
+f,check,i've got a great viewpoint there
+f,acknowledge,okay
+g,instruct,oh wait a minute
+g,reply_n,no no
+g,explain,i've got a great viewpoint away up in the top left-hand corner
+f,acknowledge,yeah
+f,explain,that's what i thought you were talking about
+g,reply_n,no
+g,instruct,if you diagonally if you came in the same distance again
+g,align,do you get it sh--
+g,instruct,oh wait a minute what would that be hold on
+g,instruct,one two three say four inches ac-- in fact chris
+f,align,okay
+g,clarify,four inches away from the top edge four inches away from the the edge on the left-hand side
+f,acknowledge,right
+g,explain,now on my map that should be that's like up from the stile
+f,acknowledge,right
+g,ready,okay
+g,query_yn,now if you're at that point do you have a a dead tree it's an elm tree down to your
+f,acknowledge,yeah
+f,check,right over the other side of the page
+g,ready,okay
+g,instruct,now see there the letter "d"
+f,reply_y,mmhmm
+g,explain,that one oh i've got dead tree you've got elm tree
+g,uncodable,is it
+f,explain,i've got dutch elm
+g,align,dutch elm
+g,query_yn,is it written underneath the tree
+f,reply_y,yeah
+g,ready,okay
+g,align,see the first letter of dutch say
+f,acknowledge,mmhmm
+g,align,okay about a centimetre below that
+f,acknowledge,right
+g,query_yn,okay if you draw a line is that a can you ha-- have a diagonal line going from where you are right down to
+f,reply_y,yeah
+g,reply_y,yeah
+g,query_yn,do you go through anything
+f,reply_n,no
+g,ready,okay
+g,query_w,see the popular viewpoint what happened to it did we go round it or what
+f,reply_w,no we just stayed away from it
+g,reply_w,oh never went anywhere near it
+f,reply_w,no w-- well we went round the popular tourist spot we avoided the great viewpoint
+g,acknowledge,yeah okay went round that that's fine
+g,instruct,okay you're going to curve half a circle around that tree
+f,query_yn,up the way
+g,reply_y,up the way
+g,align,so that
+g,align,see the third branch from the left
+f,reply_y,uh-huh
+g,instruct,until you're say above that that's your half circle
+f,acknowledge,okay
+g,align,okay you've done a "u" turn
+g,ready,now
+g,instruct,if you draw like a kind
+g,ready,let's see
+g,align,see where you have the east lake at the top
+f,reply_y,yeah
+g,instruct,right if you draw a line if you go from the "e" in lake down the way
+g,align,okay
+f,acknowledge,okay
+g,instruct,on to the edge of the lake
+f,acknowledge,right
+g,clarify,and then say about half a centimetre from the edge of the lake if you connect those two points
+f,acknowledge,okay
+g,instruct,now skirt the edge of the lake to the left move left along the edge of the lake
+f,acknowledge,okay
+g,instruct,for about three inches
+f,check,to the corner
+g,reply_y,yeah to the corner
+f,acknowledge,okay
+f,ready,right
+g,instruct,so you're just past go past that co-- don't go up or anything like that just go past the corner for about an inch
+f,acknowledge,right
+g,reply_y,and finish there
+g,align,you
+g,align,okay

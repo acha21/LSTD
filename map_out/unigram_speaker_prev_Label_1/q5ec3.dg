@@ -1,0 +1,146 @@
+g,ready,right
+f,acknowledge,right
+g,instruct,now the start is above the diamond mine
+f,acknowledge,right
+g,instruct,now you come down d-- the diamond mine eh down the map from the diamond mine now can you if you can imagine you're you-- y-- you're walking down that line the diamond mine would be on your left
+f,acknowledge,uh-huh
+g,instruct,right you just pass the diamond mine and then you turn to y--
+f,check,the diamond mine on my graph makes me on my right on it on its on my right
+g,reply_y,ah
+f,check,if i come straight down in a straight line from the start
+g,reply_y,mmhmm
+f,explain,then the diamond mine's on my right
+g,instruct,well it doesnae really matter
+g,instruct,you leave y-- you turn left past the diamond mine so you're going into the map
+f,acknowledge,right
+f,acknowledge,mmhmm
+g,instruct,and you keep going d-- eh straight across
+g,instruct,now you should be a graveyard on your left-hand side
+f,reply_n,no
+g,explain,there's no a graveyard
+f,acknowledge,that doesn't matter
+g,ready,right
+g,query_yn,well do you see a fast flowing river
+f,reply_w,fast running creek
+g,ready,well
+f,reply_y,yeah
+g,instruct,go towards the frast fast running creek
+f,check,diagonally
+g,reply_y,aye well aye
+g,explain,if there's there should be a graveyard but there's no so
+f,acknowledge,right
+g,ready,right
+g,instruct,and then go up to the top of the map and round it
+f,acknowledge,right
+g,instruct,keeping it on your it would be on your right this time
+f,acknowledge,uh-huh
+g,instruct,and then circuit it right and come right down the paper
+f,explain,oh right you're talking about as if i'm walking from the start myself and a wee guy
+g,acknowledge,aye
+f,acknowledge,right i get it i get it right
+f,explain,down the paper
+f,check,past canoes
+g,reply_n,no
+g,explain,there's nae canoes
+f,acknowledge,right okay
+g,explain,eh now there's an apache camp
+f,acknowledge,uh-huh
+g,explain,so there's a a right so there's obviously they're the apaches' canoes
+f,ready,right
+g,instruct,now y-- ye-- you keep the apache camp to your left-hand side
+f,acknowledge,right
+g,instruct,and then you turn into the middle of the paper turn right into the middle of the paper
+f,acknowledge,right
+g,query_yn,is there a carved wooden pole
+f,reply_n,no
+g,acknowledge,no
+g,query_yn,is there a walled city
+f,reply_y,uh-huh
+g,instruct,you wal-- go towards the walled city
+f,acknowledge,right
+f,explain,am i above the walled s-- th-- the line i'm drawing should it be
+g,check,above the walled city
+f,reply_y,right
+f,explain,well i'll need to move up
+g,instruct,so that the walled city would be on your right again sorry your left
+f,acknowledge,right sorry okay
+f,acknowledge,right
+g,align,mea culpa that was
+f,acknowledge,eh hang on a minute right
+f,explain,we'll start back at the right i'm got i'm at the word apache camp
+f,acknowledge,right
+g,reply_y,mmhmm
+f,query_yn,so i have to go along towards the walled city
+g,reply_y,aye
+f,instruct,so do i go along and then move up to go round it like that
+g,instruct,you're not supposed to use your hands
+g,instruct,aye you keep the walled city on your you you as the wee man walking along you'd be o-- on your left
+g,instruct,and circuit it
+f,acknowledge,right so i go up and round right
+g,instruct,and come straight back down the paper
+f,acknowledge,right
+g,ready,now
+g,instruct,down by the walled city
+f,acknowledge,uh-huh
+g,instruct,now you've got to come down a good bit in a kind of
+f,acknowledge,uh-huh
+g,instruct,a good bit down and then you turn back into the paper so it would be back to your left
+f,acknowledge,right
+f,query_yn,now do i go past anything
+g,reply_w,not at that point
+g,query_yn,eh in front of you you should see a stone creek
+f,reply_y,right that's okay
+g,instruct,now keep that going across the paper keep that on your right-hand side again as the wee man walking down the
+f,acknowledge,right
+g,query_yn,and then is there flat rocks
+f,uncodable,above me
+g,reply_y,aye
+f,acknowledge,yeah
+g,explain,so they're on your left-hand side
+f,acknowledge,uh-huh
+g,ready,right
+g,instruct,go between the stone creek and the flat rocks
+f,acknowledge,right
+g,instruct,and then come to the edge of the paper and turn to your right so you're heading for the bottom of the paper
+f,query_yn,you haven't got a saloon bar
+g,reply_n,no i don't
+f,acknowledge,right
+f,instruct,well i'll go along and go up round the saloon bar right and then down towards buffalos
+g,check,don't have a pint when you're in
+f,acknowledge,no right
+g,ready,right buffalos
+f,acknowledge,right
+g,instruct,now keep the buffalos to your right-hand side
+f,acknowledge,uh-huh
+g,instruct,and turn right immediately past them
+f,acknowledge,right
+g,align,now ther-- ther-- there's a cattle ranch
+f,reply_y,right
+g,instruct,keep that on your left-hand side
+f,acknowledge,right
+g,align,are you by it
+g,instruct,go by the cattle ranch
+f,query_yn,a-- there isn't one on my page
+g,uncodable,oh
+g,explain,well is there a fort
+f,acknowledge,s-- yes
+f,explain,it's to my left but quite a bit in front
+g,instruct,well head for it
+f,acknowledge,right
+g,instruct,and go round it keeping it to your right go between the fort and the bottom of the paper
+f,acknowledge,right
+g,instruct,and then turn right and you're up at the finish
+g,instruct,by the fort turn right
+f,acknowledge,right
+f,query_w,how much by it
+g,reply_w,just a wee bit
+f,acknowledge,right
+f,explain,'cause i've got a v-- carved wooden pole
+g,explain,the carved wooden pole is to the nor-- the s-- to the right of the finish
+f,check,above it
+g,reply_y,aye
+f,acknowledge,right i get it
+f,check,so the finish is directly below the start
+g,reply_y,almost aye
+f,acknowledge,right
+f,acknowledge,right

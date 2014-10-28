@@ -1,0 +1,211 @@
+g,ready,right okay audrey
+f,acknowledge,left
+g,instruct,you're starting to the to my left-hand side of the bandit territory
+f,acknowledge,oh my
+f,acknowledge,right okay
+g,align,okay
+f,check,to your left-hand side
+g,reply_y,uh-huh
+f,acknowledge,right okay
+g,instruct,the left-hand side
+f,check,so that's like my right-hand side right
+f,acknowledge,okay
+g,reply_y,yeah
+g,clarify,you're going underneath where the guy is and underneath the writing
+f,acknowledge,right
+g,instruct,you're going along mm long a bit and then start going up 'til you're sort
+f,query_yn,along to your left
+g,acknowledge,along to my right
+f,instruct,wait a minute a-- along to your
+f,check,first of
+g,instruct,along to my right in the direction of the cattle stockade
+f,explain,oh my god oh my god
+g,clarify,along t--
+f,explain,along to your right are you sure it's your not your left
+g,reply_n,no
+g,acknowledge,along to my right
+g,query_yn,directly in front of me i have the bandit territory on the left
+g,reply_y,okay
+g,explain,and i've got the cattle stockade on my right
+f,acknowledge,right okay
+g,align,okay
+g,instruct,you're starting just to the left-hand side of the bandit territory
+f,acknowledge,right
+g,instruct,and then you're going underneath the bandit territory
+g,clarify,and then you start
+f,check,oh have i missed that
+f,acknowledge,oh right
+g,align,okay
+g,instruct,you start slowly moving up 'til you're sort of level with the cattle stockade
+f,acknowledge,right
+f,query_yn,is there a parched river bed in between them
+g,reply_n,no
+g,explain,i don't have anything like that
+f,acknowledge,oh well i've got a parched river bed so
+g,instruct,well you just sort of
+f,query_yn,will i sort of try and avoid it or
+g,reply_y,yeah
+g,clarify,just sort of come up a bit 'til you're sort of level with the with the cattle part and then go down underneath it underneath it 'til like 'til the end of it
+g,align,right
+f,explain,oh i've to come up t-- and then go back down again
+g,acknowledge,yeah
+g,instruct,just up slightly so you're sort of level with the little guys hat at the bandit territory
+f,acknowledge,okay
+g,align,okay
+f,reply_y,oopala
+g,uncodable,oopala
+f,acknowledge,certainly
+g,ready,right
+f,explain,well my map's looking quite funny at the moment but never mind right
+g,instruct,you go back down underneath the cattle stockade
+f,check,again
+f,acknowledge,i've come
+g,reply_n,no tho-- sorry
+g,clarify,i thought you were j--
+g,query_yn,are you there
+g,ready,right
+g,instruct,when you get to the cattle stockade go straight up
+f,reply_y,uh-huh
+g,ready,right
+g,instruct,'til you get to the cavalry place that you've got a little fort thing
+g,align,okay have you got that
+f,reply_y,except i haven't
+g,reply_y,you haven't
+f,explain,i've got straight above the cattle stockade i've got a trout farm
+g,ready,right
+g,instruct,the cavalry place is sort of just just down below that
+f,acknowledge,below the trout farm
+g,reply_y,yeah just
+f,explain,there's absolutely nothing in my
+g,acknowledge,right
+g,explain,it's just directly below that anyway
+f,acknowledge,right
+f,explain,i'll just sort of come up 'til i'm directly below the trout farm
+g,acknowledge,the trout farm
+f,acknowledge,right
+g,ready,right
+g,instruct,go back along towards the left
+f,acknowledge,right
+g,instruct,just below the trout farm
+f,check,to yo-- to you--
+f,explain,oh i'll just go to the left i don't care if it's your left or my left
+f,acknowledge,right
+g,explain,well it's my left anyway
+g,instruct,start to slowly walk go down the way
+g,query_yn,have you got a picture of a great rock
+f,reply_y,uh-huh
+g,reply_y,yeah it's just
+g,instruct,come down 'til you're about ehm two in-- two to three inches above that
+f,acknowledge,right
+g,align,okay
+f,acknowledge,right
+g,instruct,ehm go along to like level with the "b" from the bandit territory
+f,acknowledge,okay
+g,instruct,if you know what i mean if you just walk up
+g,clarify,and then start going back up the way again to the outside of a gold mine
+g,align,have you got a gold mine
+f,reply_w,i've got a to-- i've got
+f,acknowledge,right
+f,explain,i've came down to an inch ab-- two inches above the great rock right
+g,acknowledge,right
+f,acknowledge,to the right of the great rock
+f,explain,and then above the great rock i've got a totem pole and then i've got a gold mine
+g,ready,right
+g,instruct,go right up to like beside the gold mine
+f,acknowledge,right
+g,align,sort of curved out the way
+f,instruct,but see what about the "b" what did you say about the "b" in the bandit territory
+g,clarify,i just meant like that was how far out you were to go to
+f,acknowledge,oh above the great rock
+g,reply_y,yeah
+f,acknowledge,right okay
+g,align,okay
+f,acknowledge,right
+f,check,and then right up to the gold mine
+g,instruct,u-- up to the gold mine
+f,query_w,to the left or to the right
+g,ready,well
+g,instruct,once you get to the gold mine you start going to m-- my right
+g,acknowledge,and you've got another great rock
+f,explain,i haven't
+g,query_yn,have you got the indian country
+f,reply_y,uh-huh
+g,ready,right
+f,reply_w,it's sort of away over to the right-hand side
+g,reply_y,uh-huh
+f,acknowledge,right
+g,instruct,when you get to the gold mine start going down a bit
+f,acknowledge,mmhmm
+g,ready,right
+f,explain,well i've come up to the sort of bottom left-hand corner of the gold mine right
+g,acknowledge,right you're
+f,acknowledge,right okay
+f,acknowledge,right
+g,clarify,go above the gold mine above the little dr-- drawing bits of the gold mine
+f,reply_w,to the and then along to the indian country which is below it
+g,ready,yeah
+g,instruct,go down the way so that you miss the great rock
+f,acknowledge,right
+g,instruct,and then back up above the tote-- above the wigwams
+f,acknowledge,of the indian country
+g,align,o-- of the indian country
+g,ready,right
+g,instruct,go above them
+f,acknowledge,right
+g,instruct,then go up
+g,query_yn,have you got the carved stones
+f,explain,i've got an indian country then a ravine
+f,explain,and then the carved stones
+g,instruct,well avoid the ravine
+f,acknowledge,right
+g,instruct,and go ehm above the indian s-- above the carved stones sorry
+f,acknowledge,right
+g,ready,right
+g,instruct,go round and above them heading back to the left again
+f,acknowledge,right
+g,query_yn,do you have a graveyard
+f,reply_n,nope
+g,acknowledge,no
+g,query_yn,what do you have there
+f,explain,i've got the carved stones and then a diamond mine
+g,acknowledge,right
+f,check,like towards the
+g,instruct,come down just after the carved stones
+f,acknowledge,right
+g,instruct,to the left of the carved stones
+f,explain,to the left of the carved stones right
+g,instruct,and then sort of go back a bit to the right
+f,check,back up
+g,instruct,and you're sort of undernea-- back
+g,align,back towards the right
+g,instruct,curve round to
+f,check,towards the ravine
+g,instruct,yeah well try and avoid the ravine
+f,acknowledge,right okay
+f,acknowledge,right
+g,explain,and well the graveyard's here
+f,acknowledge,right
+g,query_yn,so do you have gallows
+f,reply_y,uh-huh
+g,reply_y,yeah
+g,align,okay
+f,reply_w,they're sort of away over to the left hand side
+g,instruct,well say about ehm a centimetre above them
+f,acknowledge,mmhmm
+f,acknowledge,okay
+g,instruct,go underneath like where the graveyard is to the diamond mine straight along to the diamond right mine
+f,acknowledge,right
+g,explain,by the way i started at the finish instead of at the start i've just realised that
+f,acknowledge,i know
+f,explain,'cause i was just aye just about a couple of minutes ago i saw the start thing
+g,acknowledge,yeah snap
+g,query_w,who cares
+f,reply_y,uh-huh
+g,instruct,anyway and then like after the diamond mine cut up on the left-hand side of it up to the start
+f,acknowledge,different
+f,acknowledge,oh no
+g,clarify,well we did it reversed
+f,query_yn,so we should have started there
+g,reply_y,yeah
+f,explain,doesn't matter
+g,explain,well we did it the wrong way round but

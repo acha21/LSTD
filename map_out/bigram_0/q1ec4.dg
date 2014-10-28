@@ -1,0 +1,93 @@
+g,acknowledge,right
+g,check,s-- straight down south quite a bit and you'll pass um some cliffs on the east
+f,ready,sandstone cliff
+g,reply_y,uh-huh
+f,reply_y,mm oh aye
+g,check,cliffs on the east
+f,acknowledge,right
+f,reply_w,forge
+g,instruct,then keep going down and you'll pass a forge on the east as well
+f,reply_n,no
+g,instruct,well keep going down past the cliffs
+f,acknowledge,right
+g,ready,and then um
+g,reply_w,you go east in a curve curve down towards the east
+f,instruct,dow--
+g,instruct,and then back up again and you sh-- go past um a pine on your right
+f,instruct,down below that
+g,reply_w,up above it
+f,reply_w,up above it
+g,clarify,past the side of it
+g,instruct,keep it on your right right and go up 'til you get just p-- above the top of it
+f,acknowledge,right
+g,acknowledge,right
+g,instruct,and then go due east
+f,acknowledge,right
+g,ready,and
+g,instruct,start going down southeast you go past a pine forest on your right
+f,query_w,keep to my left or what
+g,acknowledge,mmhmm
+f,acknowledge,right
+g,ready,right um
+g,instruct,down curve under it towards east curve under it slightly don't go past the edge of it though the the fu-- far away edge and then
+f,instruct,edge of the fine pine fore--
+g,acknowledge,the pine forest uh-huh
+g,instruct,and then down south
+f,acknowledge,mm
+g,query_yn,um and then curve to the east above a bakery
+f,check,no so you do you want me to go right round pine forest
+g,reply_n,no
+g,instruct,just 'til you're underneath it and then go south when you're underneath it
+f,query_yn,like have you got a forest stream th--
+g,reply_n,no
+f,acknowledge,right
+f,check,so i've to go above the bakery down and and round
+g,acknowledge,mmhmm
+f,reply_y,top of the bakery
+g,instruct,uh-uh 'til you're above the bakery
+f,acknowledge,right
+g,acknowledge,right
+g,instruct,and then curve round about the bakery like to the east
+f,acknowledge,right
+g,instruct,right so you're underneath the bakery
+f,acknowledge,right
+g,acknowledge,right
+g,instruct,and then go west
+f,acknowledge,right
+g,query_yn,reach a canal
+f,reply_n,no
+g,acknowledge,um right
+g,instruct,and then go south
+f,acknowledge,mmhmm
+g,explain,and there's a crane bay
+f,acknowledge,mmhmm
+g,acknowledge,right
+g,ready,now
+g,query_yn,curve to the west like above the crane bay like following the edge of it
+f,acknowledge,mmhmm
+g,acknowledge,right
+g,instruct,'til you you're coming to like going away from the edge of it
+f,acknowledge,mmhmm
+g,align,and then it's southwest slightly going round about underneath wheatfields
+f,acknowledge,mmhmm
+g,instruct,right underneath the wheatfields
+g,instruct,and keep going west 'til you're just about past the wheatfields
+f,acknowledge,right
+g,acknowledge,right
+g,instruct,and then go down southwest
+f,acknowledge,right
+g,acknowledge,right
+g,instruct,towards the edge of the map
+f,acknowledge,right
+g,check,and then south and then curve back round again southeast 'til you come to the lighthouse
+f,ready,well
+g,instruct,so you went south and then you're going southeast you're going towards the east more or less
+f,check,see it does that mean like if you between the caves and the the warehouse um
+f,explain,i'll just get to the lighthouse
+g,acknowledge,mmhmm
+f,query_yn,is that how it finish
+g,instruct,take it to the lighthouse
+g,reply_y,uh-huh and that's it finished
+f,acknowledge,right
+g,acknowledge,right
+f,acknowledge,right

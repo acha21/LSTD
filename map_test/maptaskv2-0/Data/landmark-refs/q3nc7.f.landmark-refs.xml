@@ -1,0 +1,58 @@
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="landmark-refs.q3nc7.f">
+<landmark_reference id="q3nc7.f.ref.1" stat="0" def="el" men="rep0" lit="none" plural="0" part_reference="no">
+  <nite:child href="q3nc7.f.timed-units.xml#id(q3nc7f.27)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m14_graveyard)"/>
+</landmark_reference>
+<landmark_reference id="q3nc7.f.ref.2" stat="0" lit="l" def="def" men="intro" plural="0" part_reference="no">
+  <nite:child href="q3nc7.f.timed-units.xml#id(q3nc7f.99)..id(q3nc7f.101)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m14_totem_pole)"/>
+</landmark_reference>
+<landmark_denial id="q3nc7.f.ref.3" stat="0" part_reference="no">
+  <nite:child href="q3nc7.f.timed-units.xml#id(q3nc7f.112)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m14_trout_farm)"/>
+</landmark_denial>
+<landmark_reference id="q3nc7.f.ref.4" stat="0" lit="l" def="indef" men="rep0" plural="0" part_reference="no">
+  <nite:child href="q3nc7.f.timed-units.xml#id(q3nc7f.131)..id(q3nc7f.133)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m14_trout_farm)"/>
+</landmark_reference>
+<landmark_reference id="q3nc7.f.ref.5" stat="0" lit="l" def="poss" men="rep0" plural="0" part_reference="no">
+  <nite:child href="q3nc7.f.timed-units.xml#id(q3nc7f.145)..id(q3nc7f.147)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m14_trout_farm)"/>
+</landmark_reference>
+<landmark_reference id="q3nc7.f.ref.6" stat="0" def="pro" men="rep0" lit="none" plural="0" part_reference="no">
+  <nite:child href="q3nc7.f.timed-units.xml#id(q3nc7f.192)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m14_totem_pole)"/>
+</landmark_reference>
+<landmark_reference id="q3nc7.f.ref.7" stat="0" def="pro" men="rep0" lit="none" plural="0" part_reference="no">
+  <nite:child href="q3nc7.f.timed-units.xml#id(q3nc7f.196)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m14_trout_farm)"/>
+</landmark_reference>
+<landmark_reference id="q3nc7.f.ref.8" stat="0" def="pro" men="rep0" lit="none" plural="0" part_reference="no">
+  <nite:child href="q3nc7.f.timed-units.xml#id(q3nc7f.203)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m14_totem_pole)"/>
+</landmark_reference>
+<landmark_reference id="q3nc7.f.ref.9" stat="0" lit="l" def="def" men="intro" plural="0" part_reference="no">
+  <nite:child href="q3nc7.f.timed-units.xml#id(q3nc7f.222)..id(q3nc7f.224)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m14_cattle_stockade)"/>
+</landmark_reference>
+<landmark_reference id="q3nc7.f.ref.10" stat="0" def="pro" men="rep0" lit="none" plural="0" part_reference="no">
+  <nite:child href="q3nc7.f.timed-units.xml#id(q3nc7f.243)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m14_bandit_territory)"/>
+</landmark_reference>
+<landmark_reference id="q3nc7.f.ref.11" part_reference="yes" stat="0" def="null" men="rep0" lit="none" plural="0">
+  <nite:child href="q3nc7.f.timed-units.xml#id(q3nc7f.261)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m14_bandit_territory)"/>
+</landmark_reference>
+<landmark_reference id="q3nc7.f.ref.12" part_reference="yes" stat="0" def="def" men="rep0" lit="none" plural="0">
+  <nite:child href="q3nc7.f.timed-units.xml#id(q3nc7f.265)..id(q3nc7f.266)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m14_bandit_territory)"/>
+</landmark_reference>
+<landmark_reference id="q3nc7.f.ref.13" part_reference="yes" stat="0" def="pro" men="rep0" lit="none" plural="0">
+  <nite:child href="q3nc7.f.timed-units.xml#id(q3nc7f.275)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m14_bandit_territory)"/>
+</landmark_reference>
+<landmark_reference id="q3nc7.f.ref.14" stat="0" lit="l" def="def" men="rep0" plural="0" part_reference="no">
+  <nite:child href="q3nc7.f.timed-units.xml#id(q3nc7f.282)..id(q3nc7f.283)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m14_finish)"/>
+</landmark_reference>
+</nite:root>

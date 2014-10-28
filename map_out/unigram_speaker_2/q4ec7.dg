@@ -1,0 +1,226 @@
+g,instruct,start top of the extinct volcano
+g,explain,it's the bottom right-hand corner of the map
+f,acknowledge,oh
+f,acknowledge,okay
+g,explain,but it's marked well
+f,check,i was looking at the top
+g,query_yn,have you found it
+f,reply_y,yeah it's okay
+g,instruct,right and if you move maybe one and a half centimetres from the top of there to the left
+f,acknowledge,mmhmm
+g,instruct,and stop
+f,check,is that horizontally
+g,reply_y,horizontally yeah sorry
+f,acknowledge,okay
+g,instruct,and then go down vertically about maybe five centimetres so you're actually below the extinct volcano you go down the left-hand side of it
+f,acknowledge,pen's not working there that's done it okay
+g,instruct,and stop about you're there
+g,instruct,then you go horizontally left
+g,query_yn,have you got a tribal settlement
+f,reply_n,no
+g,explain,that's in the bottom left-hand corner of the map
+f,acknowledge,mm
+g,clarify,it's just a bit below the extinct volcano but sort just about the same level but the opposite side
+f,acknowledge,okay
+g,clarify,so you go from that point where you stopped
+f,acknowledge,mmhmm
+g,instruct,along to the left-hand corner of the map to about one and a half centimetres from the edge
+f,check,just in a horizontal line
+g,reply_y,horizontal line straight across
+f,query_yn,okay do i have to do anything to avoid the the settlement
+g,clarify,well if you if you go if you're just below the extinct volcano just now a bit below it
+f,acknowledge,uh-huh
+g,instruct,you can go straight along and you'll be underneath the tribal settlement
+f,acknowledge,okay
+f,query_w,how far away from the edge of the paper
+g,reply_w,one and a half centimetres
+f,acknowledge,okay
+g,instruct,stop
+f,explain,just get my ruler out
+g,query_yn,have you got a rope bridge
+f,reply_y,yeah
+g,instruct,if you go straight up the left-hand side of where the tribal settlement would be 'til you're ehm just maybe below the rope bridge but like in a straight line so you're not absolutely underneath it but you're to the left-hand side of it because it curves round over onto the rope bridge
+g,acknowledge,you know what i mean
+f,acknowledge,mmhmm
+g,ready,so
+f,acknowledge,okay
+g,instruct,upwards for about
+f,explain,so i i go upwards like the same distance away from the paper
+g,reply_y,yeah
+g,ready,un--
+f,reply_w,the edge of the paper until i'm just across from the rope bridge
+g,reply_n,no
+g,clarify,'til you've f-- maybe one centimetre below it and then you sort of curve round
+f,query_yn,below the writing of rope bridge
+g,acknowledge,no
+f,check,below
+g,uncodable,below
+g,query_yn,do you ha-- the left-hand side of the rope bridge
+f,reply_y,uh-huh
+g,instruct,but you don't go a straight line and then turn you curve round onto the rope bridge
+f,acknowledge,okay
+f,reply_y,so i'm going to cross the rope bridge yeah
+g,reply_y,yes you cro--
+f,acknowledge,okay
+g,query_yn,are you crossing the rope bridge
+f,reply_y,you want me to cross it uh-huh
+g,instruct,well if you curve round slightly and cross the rope bridge
+f,acknowledge,okay
+g,instruct,and then stop when you get to the other side
+f,acknowledge,uh-huh
+g,check,because you've got to curve down ehm it's not a wide cur-- curve it's quite a narrow curve down two centimetres
+f,acknowledge,mmhmm
+g,ready,so
+g,ready,instead
+f,query_yn,do you have a machete
+g,reply_n,no i don't
+g,query_w,where's the machete
+f,reply_w,it's to the right and just down
+g,query_yn,from the rope bridge
+f,reply_w,it's to it's about three centimetres to the right and just down from the rope bridge
+f,check,so if i if i curve down and and go underneath where that is is that okay
+g,reply_w,is that curving down a lot
+f,acknowledge,mmhmm
+g,instruct,'cause it's only about one and a half centimetres two centimetres you've got to curve down
+f,explain,well where would i go once i curve down on your map
+g,instruct,you turn right and go straight across so you're th-- you're about three centimetres above the start position
+f,acknowledge,okay that's fine
+f,check,i'll just go underneath it then
+g,instruct,and stop when you're you're
+g,query_yn,have you got a collapsed shelter
+f,reply_y,uh-huh
+f,check,just above there
+g,reply_y,yeah
+f,reply_y,so i should be like just underneath the collapsed shelter uh-huh
+g,reply_w,about two centimetr-- me-- --metres underneath it
+f,acknowledge,that's fine
+g,query_yn,have you got a saxon barn
+f,reply_y,uh-huh
+g,instruct,well you go straight up from that point where you were
+f,acknowledge,mm
+g,query_yn,past the left-hand side of the collapsed shelter
+f,reply_y,mmhmm
+g,instruct,just go straight up until you're on level with the top of the saxon barn
+g,instruct,and stop there
+g,reply_n,no
+f,check,so just so just in a diagonal upwards from right to left
+g,clarify,straight line up to s-- the left-hand side of collapsed shelter so you're on the level with the top of saxon barn but not actually near it you're still on the right-hand side of the map
+g,align,no
+f,check,so it's a it is a diagonal upwards towards the
+g,clarify,straight line upwards
+f,explain,well i can't do that
+g,query_w,why not
+f,check,'cause my saxon barn's on the
+g,reply_w,no you go straight up the left-hand side of the collapsed shelter
+f,acknowledge,uh-huh
+g,instruct,you're not going over towards the saxon barn yet you're going to be on the same level with it
+f,acknowledge,oh okay
+f,check,have you got a crevasse
+g,reply_n,no
+f,query_yn,well have you got anything to the right of the saxon barn
+g,reply_n,no
+g,instruct,so if you go straight up would you c-- curve round the crevasse to get to the saxon barn
+f,query_yn,if i went a bit to the right i could just go straight up
+f,acknowledge,would that be okay
+g,clarify,if you go well i was going
+f,reply_y,so i'd be on like a horizontal line with the saxon barn yeah
+g,align,but the the top of it
+f,reply_y,okay
+g,clarify,just a bit above
+g,instruct,and you go straight up and curve round and then down and underneath the saxon barn
+f,check,say that again
+f,clarify,i'm on just now i'm on a horizontal line just beside above the saxon barn
+g,align,but not right over it
+f,reply_n,no
+f,check,i'm not beside it yet
+g,ready,no right
+g,ready,ehm so you would
+g,query_yn,ehm is where's the crevasse from there is it underneath you
+f,reply_w,it's just beside me just now it's just to my right like if i if i went sorry if i went to my left i would pass the crevasse and i would pass the saxon barn
+g,ready,right
+g,instruct,so if you go over the top of the crevasse and down the side of it then underneath the saxon barn
+g,instruct,could you do that
+f,check,you want me to draw underneath the saxon barn
+g,reply_y,yes
+f,acknowledge,uh-huh okay
+f,query_w,where will i stop
+g,instruct,and stop ehm beside the "s"
+f,acknowledge,of saxon
+g,acknowledge,saxon
+f,acknowledge,okay
+g,query_yn,and have you got pelicans
+f,reply_n,no
+g,acknowledge,no
+g,instruct,ehm go down about three to four centimetres from the saxon barn vertically downwards
+f,check,so i'm above the rope bridge
+g,reply_y,just a bit above the rope bridge yeah
+f,acknowledge,okay
+g,instruct,the end of it
+f,reply_y,uh-huh
+g,instruct,and then go underneath where i've got pelicans towards the left-hand side
+f,acknowledge,mmhmm
+g,reply_y,uh-huh
+f,explain,is that just beside the edge of the paper uh-huh
+g,clarify,about a centimetre away from it
+f,acknowledge,okay
+g,instruct,stop
+g,query_yn,have you got a white mountain
+f,reply_y,uh-huh
+g,instruct,go straight up from there ehm slightly curving a bit round the white mountain
+f,query_w,over the top of it uh-huh
+g,reply_n,no
+g,clarify,don't go over it g-- stop when you're parallel to the top of the white mountain
+f,acknowledge,okay mmhmm
+g,explain,and have you got a golden beach at the top left-hand corner
+f,reply_y,yeah
+g,instruct,go up to go straight up from the top of the white mountain to the edge of the golden beach
+f,acknowledge,okay
+g,reply_y,yes
+f,query_yn,have you got secret valley or submerged rocks
+g,reply_y,so i've got secret valley
+f,acknowledge,okay
+g,uncodable,nowhere ne--
+f,check,so you want me to go above secret valley
+g,reply_y,nowhere near secret valley
+f,uncodable,what
+g,query_yn,have you have you your golden beach is it at the top left-hand corner or the right-hand corner
+f,reply_w,top right-hand corner
+g,ready,oh well
+g,explain,there's one at the top left-hand corner of this map as well
+f,acknowledge,oh okay
+g,instruct,so you're at the top of the white mountain just now
+f,acknowledge,mmhmm
+g,instruct,go straight up five or six centimetres and stop
+f,explain,right i'm meant to be right on top of white mountain just well just beside the top yeah
+g,reply_y,well yes parallel to it uh-huh
+g,clarify,straight up
+f,ready,so okay
+g,instruct,stop
+g,query_yn,have you got slate mountain
+f,reply_y,yeah
+g,instruct,go directly along from that point to the end of slate mountain
+f,query_yn,to the right-hand end of the slate mountain
+g,clarify,uh-huh left-hand end of slate slate mountain 'cause you go over the top of it
+f,acknowledge,okay
+g,instruct,so just do that then go rou--
+f,query_w,whe-- where's the golden beach i've got to avoid is that like above
+g,check,that's in the top left-hand corner yeah
+f,reply_y,okay okay
+f,reply_y,right
+g,align,kind of are you over the mountain
+f,check,you want me to go over it
+g,instruct,just go over it and stop at the other side and curve right round underneath it so that you're about a centimetre underneath the "s"
+f,acknowledge,mmhmm
+g,align,and you got a secret valley
+f,reply_y,yeah
+g,query_yn,can you go d-- v-- down from there down the left-hand side of the secret valley
+f,reply_y,mmhmm
+g,align,and are you underneath the secret valley
+f,reply_y,hold on you want me to be underneath the secret valley
+g,instruct,go draw a straight line to the end of just about a centimetre away from the "y" and that's the finish
+f,acknowledge,underneath it
+g,reply_y,underneath the "y" of secret valley
+g,reply_y,mmhmm
+f,check,a centimetre down from the "y" yeah
+f,acknowledge,okay
+g,reply_y,that's it

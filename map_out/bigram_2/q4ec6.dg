@@ -1,0 +1,112 @@
+g,ready,right
+g,instruct,you go down to the bottom left corner to the left of the camera shop
+f,check,to the left of the camera shop
+g,reply_y,yes
+g,acknowledge,ehm
+f,check,to the bottom corner
+g,query_yn,y-- yeah eh er you have a parked van marked on your map underneath the camera shop
+f,acknowledge,no
+g,acknowledge,no
+g,clarify,well about an inch from the bottom of the page you sudden-- you go right and then up to the corner of the allotments to the left-hand side
+f,check,so go right underneath the camera shop at the bottom
+g,reply_y,yes
+g,check,and then up
+f,clarify,and then up
+g,check,straight up
+g,reply_y,yes
+f,align,the left-hand side of the allotments
+f,align,i stop at the top of the allotments
+g,reply_y,yes
+g,acknowledge,and
+f,acknowledge,right
+g,check,you have a l-- a yacht club in the bottom right corner
+f,reply_y,yes
+g,instruct,slightly to the left of that you have to draw a point on a level with the c-- the top of the camera shop and then draw a straight line from the corner of the allotments to that point
+f,check,so have you got a flight museum on your
+g,reply_n,no
+f,acknowledge,no
+f,check,so i've got to go along from the allotments to the right
+g,reply_y,yes
+f,instruct,and how far away from the yacht club
+f,acknowledge,uh-huh
+g,clarify,it's on a l-- it's on a level with the cam-- the roof of the camera shop horizontally and vertically slightly to the left of the c-- yacht club
+f,check,right
+g,reply_y,you got that
+f,reply_y,mmhmm
+g,instruct,then you go straight up and curve over the top of the disused monastery
+f,check,straight up right
+g,query_yn,have you over th-- o-- are you eh curved over the monastery
+f,reply_y,mmhmm above the monastery
+g,check,you go down to the left-hand side in this following the same curve
+f,check,so it's right round the monastery
+g,reply_y,yeah
+f,acknowledge,mmhmm
+g,instruct,then at that point the curve reverses itself and dips round to a level which is vertically at the left-hand side of the alpine garden
+f,instruct,s--
+g,clarify,roughly but it ends at the same line as the disused monastery in a curve that dips down from the left-hand side of it
+g,instruct,then you go straight up to the left-hand side of the alpine garden
+f,acknowledge,mmhmm
+g,clarify,then to the right 'til the other side of the lef-- the alpine garden and straight up
+g,query_yn,now have you got a youth hostel marked there
+f,reply_n,no
+g,acknowledge,no
+g,instruct,well you go up about four inches from the alpine garden and then draw a line two inches to the right
+f,query_yn,have you got parked van
+g,reply_y,yes
+g,check,it's it's below the parked van
+f,acknowledge,uh-huh
+g,clarify,it's about it's below the level of the picket fence
+g,query_yn,have you got that
+f,reply_y,yeah
+f,acknowledge,right
+g,instruct,it's about an inch below the level of the picket fence
+f,acknowledge,uh-huh
+g,instruct,and then you go to your right
+f,check,underneath the parked van
+g,reply_y,yes
+g,check,to appro-- to roughly about the middle of the parked van a line and that
+f,reply_y,uh-huh
+g,query_yn,and do you have a telephone box
+f,reply_y,yeah
+g,acknowledge,well do
+g,instruct,you the next stage is you have to draw a diagonal line from the right-hand side of the youth hostel down to
+f,reply_n,i don't have youth hostel
+g,acknowledge,oh right
+f,acknowledge,mmhmm
+g,instruct,well from that point that i've just gone round
+g,check,down to the it's slightly to the left of the telephone box 'cause there's
+f,clarify,so vertical
+f,query_yn,have you got level crossing
+g,reply_n,no
+f,reply_n,no
+g,explain,there's a v-- there's a hori-- horizontal line that goes under the telephone box
+f,acknowledge,uh-huh
+g,instruct,eh that's on a line with the yacht club and you've to draw a diagonal line between that and the point you've just ended at
+f,acknowledge,right
+f,reply_y,right i've done that
+g,instruct,then you go up to about slightly above the top of the telephone box
+f,acknowledge,mmhmm
+g,reply_w,then the path curves it in a follows a curve rising to the left until it reaches a line approximately level with the middle of east lake that's a ve-- a vertical line approximately the middle of east lake
+f,reply_y,mmhmm
+f,explain,so i've got a level cross between telephone box and the east lake
+f,check,so i curve round that
+g,reply_y,yes
+f,acknowledge,right
+f,explain,to the middle of the east lake
+g,explain,to a line approximately just it's below the m--
+f,reply_y,yeah uh-huh
+g,acknowledge,east lake it's approximately level with the the bottom of the picket fence
+f,reply_y,mm right
+f,align,done that
+g,instruct,right and from there it's a straight line to another line which is ehm level with the top of the picket fence and the furthest most part of east lake that bulge that goes out the left-hand side
+f,acknowledge,mmhmm
+f,explain,so sorry say that again
+g,clarify,on a l-- eh the finish point is on a line level with the picket fence
+f,acknowledge,mmhmm
+f,explain,right
+g,check,about the middle of the picket fence and a vertical line that touches the outer m-- the left most part of east lake
+f,align,actually touches the
+f,reply_n,no
+g,reply_y,it doesn't eh doesn't actually touch the east lake
+f,acknowledge,right
+f,instruct,think that's where it is

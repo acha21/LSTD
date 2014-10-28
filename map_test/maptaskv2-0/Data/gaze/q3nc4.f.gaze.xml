@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="gaze.q3nc4.f">
+
+<look id="q3nc4.f.gaze.2" start="0.0000" end="192.4134"><nite:pointer role="type" href="gaze-types.xml#id(gtype_down)"/></look>
+
+<look id="q3nc4.f.gaze.3" start="192.4134" end="202.0139"><nite:pointer role="type" href="gaze-types.xml#id(gtype_off)"/></look>
+
+<look id="q3nc4.f.gaze.5" start="202.0139" end="210.5586"><nite:pointer role="type" href="gaze-types.xml#id(gtype_down)"/></look>
+
+<look id="q3nc4.f.gaze.6" start="210.5586" end="231.9623"><nite:pointer role="type" href="gaze-types.xml#id(gtype_off)"/></look>
+
+<look id="q3nc4.f.gaze.8" start="231.9623" end="288.9409"><nite:pointer role="type" href="gaze-types.xml#id(gtype_down)"/></look>
+<look end="289.5834" start="288.9409" id="q3nc4.f.gaze.9"><nite:pointer href="gaze-types.xml#id(gtype_up)" role="type"/></look>
+<look id="q3nc4.f.gaze.10" start="289.5834" end="314.5087"><nite:pointer role="type" href="gaze-types.xml#id(gtype_down)"/></look>
+
+</nite:root>
+

@@ -1,0 +1,51 @@
+<!-- Initial configuration settings for using the GUI coding tools on the 
+     Maptask corpus. 
+     
+     For more info on what the settings mean, see the nxtConfig.xml in 
+     the lib-directory of the NXT API release.
+     
+     Jean Carletta 1 Nov 06
+ -->
+     
+<NXTConfig>
+
+<CSLConfig>
+</CSLConfig>
+
+<DACoderConfig>
+
+    <!-- CHANGE THIS SECTION FOR YOUR OWN METADATAFILES -->
+    <metadatafile file="Data/maptask-wordlists.xml" corpussettings="dac-cs-wordlist"   guisettings="dac-gs-wordlist"/>
+
+
+    <!-- Corpus settings for the Maptask corpus -->
+    <corpussettings
+        id                      = "dac-cs-wordlist"
+        gloss                   = "The corpus settings for the citation coder for the Maptask Corpus"
+        
+        segmentationelementname = "citation"
+        transcriptionlayername  = "wordlist-layer"
+        transcriptiondelegateclassname = "MaptaskWordListTranscriptionToTextDelegate"
+
+
+        
+        nenesting               = "false"
+        neelementname           = "citation"
+        neattributename         = "repetition"
+
+        
+        annotatorspecificcodings = ""
+    />    
+
+    <guisettings
+        id                      = "dac-gs-wordlist"
+        gloss                   = "Default settings"
+        showapwindow            = "false"
+        showlogwindow           = "true"
+        applicationtitle        = "Maptask citation coder"
+    />
+
+    
+</DACoderConfig>
+
+</NXTConfig>

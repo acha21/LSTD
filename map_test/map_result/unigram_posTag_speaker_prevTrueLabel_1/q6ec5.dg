@@ -1,0 +1,194 @@
+g,ready,okay ehm
+g,query_yn,are you starting above the missionary camp
+f,query_w,missionary camp where's that
+g,reply_w,the bottom right-hand corner
+f,acknowledge,oh right yeah
+g,ready,right erm
+g,query_yn,have you got gorillas in the bottom left
+f,reply_n,no
+f,explain,i've got banana tree
+g,acknowledge,right okay
+g,instruct,well you want to go along to the end of the missionary camp left
+f,acknowledge,right
+g,instruct,and then down
+f,acknowledge,right
+g,instruct,to about four centimetres from the top of the page and then
+f,check,the bottom of the page you mean
+g,reply_y,yeah
+f,acknowledge,right
+g,instruct,and then go left
+f,acknowledge,mmhmm
+f,acknowledge,right
+g,instruct,straight along until you get to the gorillas or the banana tree or whatever it is
+g,instruct,and then up so that you're about
+g,query_yn,have you got a rope bridge
+f,reply_y,mmhmm
+g,ready,well
+g,instruct,you go up and then you turn right across the rope bridge
+f,acknowledge,right
+g,instruct,you go over the rope bridge and then you go down straight down a couple of centimetres
+f,acknowledge,mm
+g,query_yn,have you got a waterfall
+f,reply_y,mmhmm
+g,align,with water coming out of it yeah
+f,reply_y,yeah
+g,ready,well
+f,check,along the river
+g,clarify,if you just go sort of about an angle of ten degrees
+g,explain,oh i don't have a river
+f,acknowledge,oh right
+g,instruct,about an angle of ten degrees along so that you come to the edge of the waterfall
+f,acknowledge,right
+g,instruct,about the bottom
+g,acknowledge,yeah
+f,reply_y,uh-huh
+g,ready,then
+g,query_yn,do you have lost steps
+f,reply_y,yeah
+f,check,way up the top of the page
+g,reply_n,no
+f,acknowledge,uh-huh
+g,query_yn,have you got fallen pillars
+f,reply_w,sort of in the middle
+g,reply_y,yeah
+f,acknowledge,mmhmm
+g,ready,well
+g,explain,they should
+f,check,to the left well to the left
+g,reply_y,above the rope bridge
+f,reply_y,yeah
+g,ready,well
+g,explain,i've got some lost steps to-- to the right of that
+g,align,okay
+f,check,under the gazelles
+f,reply_w,you don't have gazelles
+g,reply_y,well yeah i do
+g,ready,but
+g,uncodable,erm
+g,uncodable,just
+g,instruct,between the rope bridge and the waterfall in line with the fallen pillars
+f,acknowledge,between the rope bridge and the waterfall right okay
+g,instruct,so you want to come up from the waterfall
+f,acknowledge,mmhmm
+g,instruct,straight up
+f,check,straight up
+g,reply_y,uh-huh
+f,acknowledge,right
+g,instruct,'til you get
+f,check,to in line with the fallen pillars
+g,reply_w,to the top of them
+g,instruct,and then you go along
+f,acknowledge,mmhmm
+f,acknowledge,left
+g,reply_y,yeah
+g,instruct,about four centimetres and then you curve down so that you're going underneath the fallen pillars
+f,acknowledge,right
+g,align,now you should be at the end of the fallen pillars
+f,acknowledge,right
+g,instruct,and you've to go down about four centimetres
+f,acknowledge,right
+g,instruct,and curve round along left
+f,check,to the left
+f,query_yn,do you have flamingoes
+g,reply_n,no but
+f,explain,well i do
+g,instruct,so you go round them
+f,acknowledge,right
+f,check,and up
+g,ready,well now
+g,instruct,if you just sort of curve round until you're in line with the fallen pillars but you're still going sort of straight up if you know
+f,acknowledge,right
+g,instruct,what i mean
+g,query_yn,and do you have ancient ruins
+f,reply_w,got a ruined city with three wee birds at the top
+g,explain,i think it's the same thing
+f,acknowledge,right okay
+g,instruct,ehm just sort of go about an angle of eighty degrees so that you're approaching that but you don't go into it you stick to the left-hand side of it
+f,acknowledge,right
+g,instruct,until you reach there
+g,align,then in the top left there's some stones
+f,query_w,top left of where
+g,reply_w,of the map
+f,reply_n,no i don't
+f,acknowledge,right
+g,instruct,well they're about four centimetres from the top
+f,acknowledge,right
+g,instruct,so you've to go straight up from the ruins to about four centimetres from the top
+f,check,straight up up from the middle of the ruins or straight up from the left
+g,reply_w,from about the left
+f,acknowledge,right
+f,acknowledge,right
+g,instruct,and then you've to turn right
+f,acknowledge,mmhmm
+g,align,and you've got a white mountain
+f,reply_y,mmhmm
+g,instruct,to the left-hand side of the white mountain
+g,instruct,now go up one side and down the other
+g,explain,and underneath the white mountain there's a soft furnishings store
+f,acknowledge,mm don't have that
+g,ready,well
+g,reply_w,it's about the it's about three or four centimetres down from the white mountain
+f,check,from the middle of it
+g,reply_y,uh-huh
+g,explain,it's about the same width
+f,check,s-- so like curving
+f,acknowledge,oh right i see
+g,instruct,ehm so if you come from the right-hand side of the mountain
+f,acknowledge,mmhmm
+g,instruct,along and you want to go over the soft furnishing store
+f,check,so
+g,ready,well
+f,check,sort of diagonally between them both then
+g,clarify,you come down from moun-- mountain and curve round
+f,check,curve round the mountain
+f,query_w,to where
+f,reply_w,the middle or the other end
+g,reply_y,the bottom of the mountain
+g,instruct,until you get to the left-hand side of the white mountain
+f,acknowledge,right okay
+g,instruct,that sort of
+f,check,so i've nearly made a circle round it
+g,reply_y,yeah
+f,acknowledge,right
+g,instruct,now you're going
+g,query_yn,you have the gazelles
+f,reply_y,yeah
+f,acknowledge,down quite a bit uh-huh
+g,instruct,you're going straight down and underneath them
+f,check,to their left or their right
+g,reply_w,the right
+f,acknowledge,right
+g,align,okay erm
+g,align,are you underneath the gazelles
+f,reply_y,yeah
+f,check,in the middle
+g,reply_y,uh-huh
+f,acknowledge,right
+g,instruct,just go right so that you're in line with the right-hand side of the white mountain
+f,check,do i turn back and go right sort of thing
+f,reply_w,or i'm no meant to be in the middle of the gazelles
+g,ready,right
+g,instruct,you've come down from the soft furnishing store you've come straight down
+f,check,the right-hand side of the gazelles and then turn right
+g,align,you've you've come straight down okay
+f,acknowledge,mm okay nearly
+f,acknowledge,ah
+g,clarify,from the soft furnishing store
+f,reply_y,right okay uh-huh
+g,align,and you've gone underneath the gaz-- gazelles and you're turning right sort of a right angle
+f,reply_y,okay
+f,acknowledge,right
+g,query_w,what've you got
+f,reply_w,i'm now underneath the right-hand side of the white mountain
+g,acknowledge,uh-huh
+f,reply_y,oh yeah uh-huh
+g,clarify,like
+g,instruct,just over halfway
+f,check,like in line with the gazelles
+g,reply_y,uh-huh sort of
+f,acknowledge,right uh-huh
+g,instruct,about two thirds of the way up the page
+f,reply_y,yeah
+g,acknowledge,right that's okay
+g,instruct,that's it
+f,acknowledge,that's it right

@@ -1,0 +1,191 @@
+g,query_yn,have you read it then
+g,acknowledge,okey-dokey
+f,reply_y,uh-huh
+g,instruct,go south past the diamond mine then hang a left just at the bottom of it
+f,acknowledge,right go south mm past the diamond hang a left right i'm going left
+f,query_w,how far
+g,reply_w,sor-- eh left on the paper towards your and you hang left towards the graveyard
+g,acknowledge,right
+f,clarify,graveyard
+g,clarify,you're going u--
+g,reply_y,yeah
+f,reply_n,no graveyard over here
+g,explain,there should be a wee graveya--
+g,reply_w,well as you walk towards it it should be to the right west east sorry
+g,acknowledge,right
+f,query_w,just tell me what you what it is to you dave and i'll do it for me
+f,reply_y,south
+g,reply_w,you come down past the diamond mine
+f,reply_y,aye you're south
+g,acknowledge,south
+f,query_yn,and then are going
+g,instruct,and then you go east towards the graveyard
+f,check,east
+f,explain,mind you there's no graveyard on mine
+f,acknowledge,mm
+g,instruct,well you hang hang go east for a bit
+f,check,i'll just go east
+g,clarify,'til you're about two thirds of the way across the paper
+f,acknowledge,mm
+g,align,right then
+g,instruct,head head north
+g,instruct,and then hang a right around the carved stones
+f,query_w,over them or above
+g,reply_y,above
+f,acknowledge,mm
+g,instruct,then you go south again
+g,instruct,until you get to the indian country then you do a wee chicane
+g,query_w,turn left above the indian country
+f,check,so i'm
+g,clarify,then a wee chicane round and hang a left around the gold mine
+f,check,so i'm going round indian country and down to the left then down below the gold mine
+g,clarify,n-- well you underneath the great rock rock then round then over the top of the gold mine
+f,acknowledge,oh my map's totally different dave
+g,acknowledge,right
+f,explain,i've got no great rock
+g,query_yn,have you got a gold mine
+g,acknowledge,right
+f,reply_y,aye i've got a gold mine
+g,instruct,so you go round the gold mine then you
+f,query_yn,below it or above it
+g,instruct,but what you go round the top of it then hang a left hang south go past it then south
+f,acknowledge,right i'm going past it here right and then south
+g,clarify,then south
+g,instruct,then you go about prf two thirds three quarters of the way down the page
+f,explain,three quarters of the way down the page well that's about here right
+g,acknowledge,then you hang a left
+f,acknowledge,left
+g,instruct,sorry east go east
+f,align,you mean right
+g,reply_y,aye
+f,explain,right is this below the
+g,reply_y,mmhmm
+f,ready,oh well
+g,acknowledge,right right right so you go along there
+f,acknowledge,mmhmm
+g,align,then you goes northeast
+g,query_yn,have you got a trout farm on your map
+f,reply_y,aye
+f,explain,i'm about to if we're going northeast
+g,instruct,you go northeast up to just below the trout farm go along the bottom of it
+g,query_yn,you got the cavalry
+g,reply_n,no
+f,acknowledge,no
+g,explain,i wouldnae think so
+g,explain,that's the that's the good guys
+g,ready,er right so
+g,clarify,trout farm you you go jus-- just about just about halfway past it then down south again
+f,check,so just up bes-- alongside it
+g,align,just past it
+f,reply_y,aye just past it right
+g,instruct,then you go south
+g,instruct,go south south away down to
+f,reply_y,how can i go south i've just went north past it
+g,clarify,no you don't go north past it ah
+g,acknowledge,right
+f,query_w,what the hell am i meant to do then
+g,acknowledge,you're at the trout farm right
+f,reply_y,yeah
+f,explain,i've gone along the bottom
+g,clarify,you're on the bottom
+g,instruct,then you turn a right hang south
+f,check,so i reach them you want me to did you go past it just a wee bit and then go down
+g,clarify,and then go south
+g,reply_y,yes
+f,acknowledge,mm
+g,instruct,t-- down towards a cattle stockade
+f,reply_y,yeah
+g,query_yn,eh you pass the cattle stockade on the east hand side
+f,ready,right
+g,instruct,then you go west right underneath it
+f,acknowledge,mmhmm
+g,ready,and then
+g,query_yn,have you got the bandit territory no
+f,check,so we're no it's in the left corner
+f,explain,there's i've got parched river bed in between me and a
+g,acknowledge,right
+g,instruct,well you go past the stockade then you go you hang a left to have to take it that to avoid the parched river stockade uh parched river on yours
+f,check,so
+g,instruct,go underneath that then along the bottom
+f,check,i'll m-- i'll miss the parched river bed
+g,acknowledge,and along the bottom
+f,explain,underneath the bandit territory
+g,reply_y,underneath bandit territory
+g,instruct,then north up to the finish
+f,check,up to this
+g,instruct,up to the wee cross
+f,clarify,start north
+f,acknowledge,mm avoiding the gallows i guess
+g,instruct,that your finish
+f,check,that's me finished
+g,explain,wait a minute i think you've went to the wrong bit
+g,check,have you no got a wee cross a wee finishing mark beside your bandit territory
+f,check,no
+g,acknowledge,nope
+g,acknowledge,okey-dokey right
+g,instruct,we'll go over the map again
+g,align,right you comes down
+f,align,down
+g,instruct,past the diamond mine
+f,query_yn,past the diamond mine
+g,acknowledge,along
+f,acknowledge,along
+g,query_yn,have you got the graveyard on yours
+f,reply_n,no
+g,reply_w,well there's a graveyard just past the diamond mine if
+g,instruct,if you want to mark that in
+g,ready,right
+g,instruct,you go east after the diamond mine
+g,acknowledge,right
+f,reply_y,mmhmm
+g,instruct,well there's a graveyard just before you go north again
+f,acknowledge,mmhmm so there's a wee
+g,query_w,just draw a couple of headstones or something
+f,explain,there's a wee graveyard there
+g,instruct,then you go up round the carved stones
+g,acknowledge,right
+f,instruct,up round the carved stones
+g,check,and down towards indian country
+f,reply_w,down towards
+f,clarify,past the ravine
+g,acknowledge,right
+g,explain,there's a great rock in between the indian country and the gold mine
+f,reply_w,well there's my great rock's further away it's away somewhere else
+g,acknowledge,yeah
+g,explain,there's another there's another great rock
+f,acknowledge,oh i see
+g,reply_y,mmhmm
+f,acknowledge,right
+g,explain,it's about the same bearing north as the indian country about midway between the indian country and the gold mine
+f,explain,that's another
+g,acknowledge,right
+f,explain,another wee great rock here
+g,instruct,right you follow it round and you get to the trout farm
+g,acknowledge,right follow everything round you get to the trout farm right
+f,ready,right
+f,reply_w,i missed the totem pole
+g,ready,right
+g,instruct,then just after you hang a right well go s--
+f,uncodable,south
+g,instruct,go south
+g,check,there's a fort cavalry fort
+f,clarify,just after the on which side of the line that i've just drawn down
+g,query_yn,underneath the line
+f,align,underneath the trout farm
+f,check,between that and this
+g,reply_w,underneath the trout farm slightly slightly east and underneath it
+f,query_w,and this stockade below it
+g,reply_y,yeah
+f,explain,so that's away
+g,check,stockade's directly below it
+g,instruct,then you go round past the cattle stockade
+g,ready,right
+g,query_yn,then you got your parched river bed
+f,reply_w,you're in i've got my parched river which i've avoided
+g,explain,and the bandit territory and your finishing point is pup prrr just just west and slightly above the bandit territory
+f,check,oh right so it's there
+f,check,just makes a slight
+g,check,so all that that you've got going up past the gallows in
+f,reply_w,it is rubbish
+g,reply_w,everything is just the tourist route
+g,ready,right so

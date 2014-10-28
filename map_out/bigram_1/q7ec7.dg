@@ -1,0 +1,140 @@
+g,ready,okey-dokey right so
+g,explain,your start's away up in the top
+g,instruct,you got you got a wee cross
+f,acknowledge,uh-huh
+g,acknowledge,right
+g,query_yn,have you got the diamond mine
+f,reply_y,yes i have
+g,ready,well
+g,instruct,if you dis-- come down down the west side of that and hang a left right underneath it right underneath the "d" of the diamond
+f,acknowledge,right
+f,query_yn,to what point will i draw a l--
+g,instruct,eh go along
+g,check,you've not got the graveyard sure you've not
+f,reply_n,no
+g,acknowledge,right
+g,instruct,tell you what right there's a graveyard about an inch and a half to the east of the diamond mine
+g,instruct,and you go along under the diamond mine and underneath the graveyard
+f,query_yn,have you got the ravine
+g,reply_n,no
+f,query_yn,have you got carved stones
+g,reply_y,yes
+f,ready,well
+f,check,the ravine's just an inch below the carved stones
+g,acknowledge,rightee-ho
+g,ready,so
+g,instruct,if you go along 'til about a centimetre before you get to your ravine
+f,acknowledge,aha right
+g,instruct,then head north to the we-- past you pass the west side of the carved stones
+f,acknowledge,over the top of the carved stones
+g,reply_y,yes
+f,acknowledge,right
+g,ready,right
+g,query_yn,and have you got the indian country
+f,reply_y,mmhmm
+g,instruct,so you come down the other side of the carved stones down and when you get to the top of the indian country just
+g,query_yn,you've not got the great rock eh
+g,explain,yeah just go down to the top of the indian country first
+g,acknowledge,now
+g,explain,to the left sorry to the west of the indian country there's a great rock
+g,acknowledge,right
+f,reply_n,no not on this one
+g,ready,well
+g,explain,on this one there's a great rock
+g,ready,so
+f,ready,right
+g,instruct,if you go down a what does it say a f-- about a forty-five degree angle direct from directly above the big teepee
+f,acknowledge,mmhmm
+g,instruct,or wigwam
+f,reply_y,so i'll draw a line straight across to above that
+g,acknowledge,yeah
+g,instruct,when you get to above the big teepee then it'll be go down about an inch inch and a half at a forty-five degree angle from that
+f,acknowledge,right
+g,instruct,then you go along over th-- over to the top of the gold mine
+f,acknowledge,right
+f,instruct,that's below the diamond mine
+g,reply_y,yeah they're yeah directly below uh-huh
+f,check,a good bit below it
+f,reply_y,uh-huh
+g,reply_y,yeah
+g,instruct,so you
+f,query_w,what side of the top to right in the middle
+g,reply_w,eh the west side
+f,acknowledge,right
+g,ready,right
+f,explain,near the gallows
+g,reply_y,yeah
+g,instruct,you're about forty-five degree bearing away from that
+f,acknowledge,oh right okay
+g,clarify,and you go down south until you're about two thirds of the way down towards the great rock
+f,check,where the totem pole the bottom of the where the totem pole would be
+g,check,yeah
+f,acknowledge,right
+g,instruct,and then you go
+g,query_yn,have you got the trout farm
+f,reply_y,uh-huh
+f,explain,it's away over below the indian country
+g,reply_y,yeah
+g,ready,well
+g,instruct,you go al--
+g,acknowledge,right
+f,reply_y,uh-huh
+g,align,you're you're at your totem pole on your map i think it is
+f,explain,at the bottom i'm below the trout farm
+g,ready,yeah right well
+g,instruct,if you go along underneath your totem pole for about an inch it may aye may be just over an inch
+g,acknowledge,mmhmm
+f,instruct,until the other side of the totem pole
+g,instruct,then head up towards the trout farm with your line coming down there g-- going up to the "t" the first "t"
+g,check,then have you've not got the fort sure you haven't the cavalry
+f,reply_n,no
+f,acknowledge,no
+g,ready,well
+f,ready,right
+g,instruct,if you go along after the trout farm if you
+f,query_w,i'll go up to how far from the "t"
+g,reply_w,right bel-- right underneath it
+f,acknowledge,right
+g,ready,now
+g,instruct,i'd say if you go along east about two inches
+g,check,then
+f,ready,right so
+f,instruct,i'm just past the far edge of the trout farm
+g,acknowledge,eh if you move it higher up give it a wee bit further than that
+f,acknowledge,right okay
+g,ready,then
+g,align,you've got the cattle stockade
+f,reply_y,uh-huh
+f,acknowledge,away down the bottom
+g,ready,yeah well
+g,instruct,if you go straight down passing that on the east side just right until you come to the "e"
+f,acknowledge,right
+g,ready,then
+g,instruct,go westerly under it until you come to the "c" the f-- "c" in cattle
+f,check,oh the "c" of cattle
+g,reply_y,yeah
+g,acknowledge,right
+g,instruct,i'd presume that you've got something between the bandit territory and the cattle stockade
+f,reply_y,yes
+g,check,judging b--
+f,instruct,a parched river bed
+g,acknowledge,yeah
+g,ready,well
+g,instruct,if you do-- drive over the top of that just over the top of it and then come down the other side underneath the bandit territory
+g,acknowledge,then
+g,query_yn,have you got the wee cross for your finish
+f,reply_n,no
+g,acknowledge,no
+g,ready,well
+g,instruct,about an inch to the left of the wee tree an inch and a half to the left of the wee tree that the bandit's lying up against
+f,acknowledge,mmhmm
+g,query_yn,your wee f-- your finish sign's there
+f,ready,right
+g,instruct,eh if you go under your bandit territory and up to it
+f,check,i'm under the "b" of bandit just now
+g,instruct,you just go straight up to your wee cross
+f,query_w,about how far up about an uh an inch
+g,reply_w,it's about prr an inch inch or so
+f,acknowledge,right
+g,instruct,there we go and that's us one map complete
+f,explain,that's it

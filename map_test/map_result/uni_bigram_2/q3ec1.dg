@@ -1,0 +1,229 @@
+g,instruct,starting at the beginning head due south
+g,query_yn,you'll see a diamond mine on your map
+f,reply_y,mmhmm
+g,instruct,avoid the diamond mine
+f,acknowledge,due south
+g,instruct,going due south followed by east
+f,check,to the left of the diamond mine
+f,acknowledge,to the west
+g,reply_w,east the right
+f,check,so you want me to go east then south
+g,reply_n,no
+g,acknowledge,south then east
+g,explain,we may have a different map
+f,acknowledge,uh-huh right
+g,instruct,can you head due south
+f,uncodable,sorry
+g,instruct,can you head due south
+f,explain,i can head due south
+f,explain,am i meant i'm meant to draw this on aren't i right
+g,check,and can you then head to the right past the diamond mine
+f,reply_y,yes
+g,instruct,go for it
+f,query_w,how far
+g,query_yn,you'll see a graveyard
+g,query_yn,do you see a graveyard on your map to the right of the diamond mine
+f,reply_n,no
+g,ready,right
+g,query_yn,they've obviously not marked the graveyard
+f,query_w,how far to the right of diamond mine is it
+g,reply_w,the graveyard is almost halfway in between
+g,query_yn,do you have carved stones
+f,explain,i have carved stones at the top followed by a ravine followed by an indian country
+g,acknowledge,right
+g,explain,in between the diamond mine and the carved stones is the graveyard that's where it should be
+f,reply_y,right
+f,reply_w,and then stop
+g,instruct,so what you need to do is continue past the diamond mine then past where you think the graveyard is
+f,instruct,past where it is
+g,acknowledge,yeah
+g,clarify,go rou-- same under under the graveyard south of the graveyard
+g,align,the graveyard's
+f,align,is the graveyard due east of the diamond mine
+g,align,correct
+f,explain,so i really shouldn't hit it then if i'm south of the diamond mine
+g,acknowledge,correct
+f,acknowledge,right okay
+g,instruct,s-- you then come no-- up north just to the left to the west of the carved stones
+f,acknowledge,okay
+g,clarify,so if you're almost on top of carved stones then you'll totally miss the graveyard
+f,align,okay
+f,check,right so i am now just directly north of the carved stones and slightly north of the start
+g,check,that's correct
+g,instruct,so you move east around carved stones
+f,check,the carved stones
+g,query_yn,and then do you have gallows on your map
+f,reply_y,yes
+f,explain,but they're absolutely miles away
+g,explain,that's correct that's correct
+f,check,past
+g,query_yn,all you need to do is go due south from the carved stones as far as you can see the gallows the same level as the gallows
+f,acknowledge,right
+g,align,you should be on top of the indian country correct
+f,reply_w,um and just south of the ravine
+g,explain,that's right
+g,query_yn,do you have a great rock
+f,explain,i have a great rock
+g,reply_w,it's to the west of indian country
+f,acknowledge,no
+g,acknowledge,right
+f,instruct,it's very very southwest of indian country
+g,acknowledge,that's a different great rock
+g,instruct,okay what you have to do is
+g,instruct,now that you're paral-- parallel with the gallows right
+f,acknowledge,mmhmm
+g,instruct,you're on a level with the gallows
+f,check,i'm on a level
+g,instruct,head southwest that's to the left and down past indian country
+g,reply_n,no
+f,explain,move west followed by south down to
+g,check,s-- straight southwest
+f,ready,okay
+g,instruct,not too far
+f,ready,right
+g,align,do you see the gold mine
+f,explain,i'm just below indian country
+g,align,do you see the gold mine
+f,explain,which is due we-- due west
+g,reply_y,uh-huh
+f,reply_y,yeah
+g,instruct,i want you to go
+g,explain,west making sure that you remain above the gold mine
+g,acknowledge,understand
+g,instruct,so you go due west above the gold mine
+f,acknowledge,okay
+g,instruct,but n-- not too far north 'cause otherwise you'll hit the rock so i want you to head just above the gold mine
+f,acknowledge,right
+g,align,are you above the gold mine now
+f,uncodable,i'm
+g,reply_w,just to the west of it
+f,reply_w,just i'm just to the east of it
+f,check,do you want me to go f-- slightly further
+g,reply_y,yeah
+g,clarify,i want you to go just past it
+f,acknowledge,right
+g,instruct,so you're basically in the gap between the gallows and the gold mine
+f,reply_y,and the gold mine right
+g,check,and i want you to go due sou--
+g,query_yn,do you have a trout farm
+f,reply_y,yes
+f,acknowledge,but
+g,acknowledge,right
+f,explain,it's
+g,explain,that's correct i think
+g,instruct,want you to head due south as far south as the trout farm just below the trout farm
+f,check,that is coming due south followed by due east just above the totem pole just above the totem pole if you had the totem pole
+f,align,just above the trout farm
+g,acknowledge,b-- just below the trout farm
+f,acknowledge,right
+f,explain,i'm i think i'm just below the trout farm
+g,instruct,and head east
+f,ready,east
+f,explain,and land just below the trout farm
+g,query_yn,ah do you have any other obstacles
+f,acknowledge,none
+g,reply_w,in the way
+g,clarify,well head due east just below the trout farm trying to avoid any obstacles on your way
+f,acknowledge,okay
+f,explain,i'm just below it directly below it i'm not east or west of it
+g,acknowledge,right
+g,explain,now i've got a cavalry stockade on this map
+f,query_yn,a cavalry a cattle stockade
+g,reply_n,no
+g,explain,cavalry it's a fort thing
+f,ready,right
+f,explain,well we don't
+g,instruct,so we need to avoid that
+g,query_w,which means
+f,query_yn,is it directly south
+g,explain,it's almost south of the sou-- the trout farm it's south and slightly to the east
+f,acknowledge,mmhmm
+g,instruct,so i want you to go right past the trout farm almost to the edge of the map to make sure we miss it
+f,acknowledge,okay
+g,instruct,so you're past your totem pole there as well you're
+f,check,my totem pole is directly below my gold mine
+g,acknowledge,that's all right
+g,ready,right
+g,instruct,i want you to go due south now
+f,query_w,how far
+g,query_yn,ehm do you have a cattle stockade
+f,reply_y,i do
+g,acknowledge,right
+f,explain,just above it
+g,clarify,just below it you want to go round the bottom of it
+f,check,do you want me to go to the bottom of the page
+g,reply_y,uh-huh that's correct
+f,acknowledge,right
+g,instruct,i want you to go west below the stockade
+f,explain,and below the parched river bed which i don't know if you have
+g,explain,although oh i don't have a river bed so
+f,query_yn,do you have a bandit t--
+g,reply_w,is your river bed
+g,check,whereabouts is level becau--
+f,query_yn,do you have a bandit territory
+g,reply_y,uh-huh
+f,query_yn,directly bas-- directly we-- west of your cattle stockade
+g,reply_y,correct
+f,explain,that's in the middle of the two
+g,acknowledge,right
+g,explain,my map deviates here so i presume that's why you must have an obstacle
+f,acknowledge,m--
+g,instruct,so what i want you to do is go west as far left as the sta-- s-- just the edge of the "c" of the s-- cattle stockade
+f,acknowledge,mmhmm
+g,instruct,then do you have to go up to avoid the
+f,reply_y,well if there's a very very thin line i ca-- i can go up though yes
+g,acknowledge,because that's how this map indicates
+g,check,so i want you to go up not straight up ehm northwest
+g,check,up up in a curve
+f,reply_y,i can go north then west
+g,instruct,i want you to go northwest in a one-er
+f,query_w,right will i go in a one-er
+g,reply_y,uh-huh
+g,clarify,it's a curve curve shape
+f,check,right you want me to curve
+f,query_w,where t-- where am i curving to
+g,clarify,curving up to the northwest followed by down to the southwest
+f,check,so you
+g,instruct,s-- so i want you to go basically curve up and then down
+g,reply_n,no
+f,reply_w,you want me to go you want to curve up to about the level of the great rock i don't know if you have that
+g,reply_n,not as far as that
+f,acknowledge,see m--
+g,check,only a small curve
+f,acknowledge,oh okay
+g,instruct,to about the m-- the middle of the fencing of the sto-- the cattle stockade
+f,ready,north east
+g,reply_y,northwest to the left of the page
+f,acknowledge,okay
+f,instruct,and then curve back down to the bottom of the page
+g,acknowledge,uh-huh that's correct
+g,align,'cause presumably we must be avoiding the river is that correct
+f,acknowledge,yeah
+g,instruct,and then we go due west along the bottom under the bandit territory
+f,acknowledge,okay
+g,instruct,and then curve round and up to the finish
+g,query_yn,do you have finish on your map
+f,acknowledge,i don't have a finish
+f,explain,above my bandit territory about an inch i have a great rock followed by two inches then a totem pole
+g,acknowledge,right
+g,instruct,keep going past the bandit terri-- territory
+f,clarify,due north
+g,query_w,are due west of the bandit territory yet
+f,reply_w,i am now west of bandit territory
+g,acknowledge,right
+g,instruct,continue until you're about an inch two inches away from the edge of the page
+f,acknowledge,right
+g,instruct,and curve up to it the point just above the s-- cactus of the bandit terri-- territory
+g,acknowledge,understand
+f,instruct,just dire--
+g,check,so on the level
+f,check,just basically right above it but not touching it
+g,reply_n,no
+g,clarify,the level of it but about an inch two inches in from the page
+f,acknowledge,alright
+g,instruct,understand what i mean
+f,clarify,right so basically just due north to the level of the
+g,clarify,correct
+f,reply_y,right
+g,explain,and that's your "x" that's your finish
+f,check,is it

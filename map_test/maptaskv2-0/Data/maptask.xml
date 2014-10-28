@@ -1,0 +1,817 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- NXT METADATA FOR THE MAPTASK DIALOGUE CORPUS.
+     
+
+  Colin Matheson               28.06.05
+
+-->
+<corpus 
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:noNamespaceSchemaLocation="schema/meta-standoff.xsd" 
+   description="Maptask" 
+   id="maptask"
+   links="ltxml1"
+   type="standoff">
+     <!--******************************************************************
+         GENERIC CORPUS INFORMATION 
+         names of attributes that are globally used in the corpus for
+         ID, start and end times. Note that the types and legal
+         appearance / non-appearance of all of these attributes is
+         set. IDs are free strings and start and end times are
+         numbers. Time-aligned elements must have all three
+         attributes; structural-layer elements must have ID and may
+         have start and end times; featural-layer elements must have
+         id but must not have start and end times. 
+    ******************************************************************-->
+    <reserved-attributes>
+        <identifier name="id"/>
+        <starttime name="start"/>
+        <endtime name="end"/> 
+        <agentname name="who"/>
+        <observationname name="obs"/>
+    </reserved-attributes>
+    <reserved-elements>
+        <pointername name="nite:pointer"/>
+        <child name="nite:child"/>
+        <stream name="nite:root"/>
+    </reserved-elements>
+
+    <documents/>
+    <observation-variables/>
+    <signals  path="./signals">
+      <!-- path="/Users/jeanc/under-cvs/maptask/signals" -->
+      <!-- path="/group/project/webhcrc/OTHER_SITES/maptask/signals/dialogues" -->
+      <!-- path="/disk/scratch/maptask/maptask-nonCVS/signals" -->
+        <interaction-signals>
+            <signal extension="wav" format="WAV" name="mix" type="audio" />
+<!-- possible video declaration, if you have them -->
+<!--   <signal extension="avi" format="DIVX" name="cropped" type="video"/> -->
+        </interaction-signals>
+    </signals>
+   <!--*************************************************************
+       AGENTS - designating the speakers
+    *************************************************************-->
+   <agents>
+        <agent name="f" desc="follower"/> 
+        <agent name="g" desc="giver"/> 
+   </agents>
+
+   <!--*************************************************************
+       ONTOLOGIES - type hierarchies for some kinds of codes.
+    *************************************************************-->
+    <ontologies path="ontologies">
+        <!-- gaze types -->
+        <ontology attribute-name="name"
+            description="Gaze type hierarchy"
+            element-name="gaze-type" filename="gaze-types" name="gaze-types">
+            <!-- Gloss: a short textual description of the type -->
+            <attribute name="gloss" value-type="string"/>
+            <attribute name="abbrev" value-type="string"/>
+        </ontology>
+        <!-- drawing (action) types -->
+        <ontology attribute-name="name"
+            description="Drawing type hierarchy"
+            element-name="pen-type" filename="drawing-types" name="drawing-types">
+            <!-- Gloss: a short textual description of the type -->
+            <attribute name="gloss" value-type="string"/>
+            <attribute name="abbrev" value-type="string"/>
+        </ontology>
+
+    </ontologies>
+   <!--*************************************************************
+       CORPUS RESOURCES - pooled information across the observations
+    *************************************************************-->
+  <corpus-resources path="corpus-resources">
+      <corpus-resource-file name="maptask-corpus" description="corpus info">
+         <structural-layer name="conv-layer">
+               <code name="conv">
+                  <attribute name="conversation" value-type="enumerated">
+                            <value>1</value>
+                            <value>2</value>
+                            <value>3</value>
+                            <value>4</value>
+                            <value>5</value>
+                            <value>6</value>
+                            <value>7</value>
+                            <value>8</value>
+                  </attribute> 
+                  <attribute name="map" value-type="enumerated">
+                            <value>m0</value>
+                            <value>m1</value>
+                            <value>m2</value>
+                            <value>m3</value>
+                            <value>m4</value>
+                            <value>m5</value>
+                            <value>m6</value>
+                            <value>m7</value>
+                            <value>m8</value>
+                            <value>m9</value>
+                            <value>m10</value>
+                            <value>m11</value>
+                            <value>m12</value>
+                            <value>m13</value>
+                            <value>m14</value>
+                            <value>m15</value>
+                  </attribute> 
+                  <attribute name="quad" value-type="enumerated">
+                            <value>1</value>
+                            <value>2</value>
+                            <value>3</value>
+                            <value>4</value>
+                            <value>5</value>
+                            <value>6</value>
+                            <value>7</value>
+                            <value>8</value>
+                  </attribute> 
+                  <attribute name="eyecontact" value-type="enumerated">
+                            <value>yes</value>
+                            <value>no</value>
+                  </attribute> 
+                  <attribute name="familiar" value-type="enumerated">
+                            <value>yes</value>
+                            <value>no</value>
+                  </attribute> 
+                  <pointer number="1" role="g" target="speaker-layer"/>
+                  <pointer number="1" role="f" target="speaker-layer"/>
+               </code>
+         </structural-layer>
+      </corpus-resource-file>
+      <corpus-resource-file name="maptask-participants" description="participant info">
+         <structural-layer name="speaker-layer">
+               <code name="speaker">
+                  <attribute name="age" value-type="string">
+                  </attribute>
+                  <attribute name="name" value-type="string">
+                  </attribute>
+                  <attribute name="birthplace" value-type="string">
+                  </attribute>
+                  <attribute name="gender" value-type="enumerated">
+                            <value>m</value>
+                            <value>f</value>
+                  </attribute>
+                  <attribute name="category" value-type="enumerated">
+                            <value>Glasgow</value>
+                            <value>Scotland</value>
+                            <value>ROTW</value>
+                  </attribute>
+               </code>
+         </structural-layer>
+      </corpus-resource-file>
+      <corpus-resource-file name="maptask-landmarks" description="map landmark info">
+         <structural-layer name="map-layer" draws-children-from="landmark-layer">
+               <code name="map">
+                  <attribute name="reduction_type" value-type="enumerated">
+                            <value>1</value>
+                            <value>2</value>
+                            <value>3</value>
+                            <value>4</value>
+                  </attribute> 
+                  <attribute name="giver_contrast" value-type="enumerated">
+                            <value>yes</value>
+                            <value>no</value>
+                  </attribute> 
+                  <attribute name="follower_match" value-type="enumerated">
+                            <value>yes</value>
+                            <value>no</value>
+                  </attribute> 
+               </code>
+         </structural-layer>
+         <structural-layer name="landmark-layer">
+               <code name="landmark">
+                  <attribute name="name" value-type="string">
+                  </attribute> 
+                  <attribute name="giver_map_appears" value-type="string">
+                  </attribute> 
+                  <attribute name="follower_map_appears" value-type="string">
+                  </attribute> 
+                  <attribute name="sim" value-type="enumerated">
+                            <value>dif_f01</value>
+                            <value>dif_f10</value>
+                            <value>dif_feat01</value>
+                            <value>dif_feat10</value>
+                            <value>dif_flab01</value>
+                            <value>dif_flab10</value>
+                            <value>dif_i_fnumsame</value>
+                            <value>dif_r_fnum01</value>
+                            <value>same</value>
+                  </attribute> 
+                  <attribute name="assim" value-type="enumerated">
+                            <value>sw</value>
+                            <value>ws</value>
+                            <value>ddel</value>
+                            <value>glott</value>
+                            <value>nass</value>
+                            <value>tdel</value>
+                            <value>no_assim</value>
+                  </attribute> 
+                  <attribute name="contr" value-type="enumerated">
+                            <value>contrsh</value>
+                            <value>nocontrsh</value>
+                            <value>no_contr</value>
+                  </attribute> 
+                  <attribute name="omo" value-type="enumerated">
+                            <value>yes</value>
+                            <value>no</value>
+                  </attribute> 
+               </code>
+         </structural-layer>
+      </corpus-resource-file>
+   </corpus-resources>
+
+   <!--*************************************************************
+       CODINGS - transcription and annotation for each observation
+    *************************************************************-->
+    <codings path=".">
+         <!--*************************************************************
+              AGENT CODINGS - for each speaker separately
+          *************************************************************-->
+         <agent-codings>
+            <coding-file name="timed-units" path="timed-units">
+                <time-aligned-layer name="timed-unit-layer">
+                    <code name="tu" text-content="true">
+                        <attribute name="utt" value-type="string"/>
+                        <attribute name="realisation" value-type="string"/>
+                    </code>
+                    <code name="sil">
+                        <attribute name="utt" value-type="string"/>
+                    </code>
+                    <code name="noi">
+                        <attribute name="utt" value-type="string"/>
+                        <attribute name="type" value-type="enumerated">
+                            <value>lipsmack</value>
+                            <value>outbreath</value>
+                            <value>inbreath</value>
+                            <value>breath</value>
+                            <value>laugh</value>
+                            <value>nonvocal</value>
+                            <value>phongesture</value>
+                            <value>unintelligible</value>
+                            <value>lowamp</value>
+                            <value>cough</value>
+                            <value>external</value>
+                        </attribute>
+                    </code>
+                </time-aligned-layer>
+            </coding-file>
+            <coding-file name="tokens" path="tokens">
+                <structural-layer name="token-layer" draws-children-from="timed-unit-layer">
+                    <code name="tuseq">
+                    </code>
+                    <code name="token" text-content="true">
+                        <attribute name="turef" value-type="string"/>
+                        <attribute name="estimated" value-type="enumerated">
+                            <value>start</value>
+                            <value>end</value>
+                            <value>both</value>
+                            <value>neither</value>
+                        </attribute>
+                    </code>
+                </structural-layer>
+            </coding-file>
+            <coding-file name="pr" path="prosody">
+                <structural-layer name="pr-layer" draws-children-from="timed-unit-layer">
+                    <code name="tuseq">
+                    </code>
+                    <code name="punit">
+                        <attribute name="apos" value-type="string"/>
+                        <attribute name="bi" value-type="enumerated">
+                            <value>0</value>
+                            <value>1</value>
+                            <value>2</value>
+                            <value>3</value>
+                            <value>4</value>
+                            <value>1p</value>
+                            <value>2p</value>
+                            <value>3p</value>
+                            <value>X</value>
+                        </attribute>
+                        <attribute name="bt" value-type="enumerated">
+                            <value>H</value>
+                            <value>L</value>
+                            <value>dH</value>
+                            <value>LL</value>
+                            <value>HL</value>
+                            <value>HH</value>
+                            <value>LH</value>
+                            <value>dHL</value>
+                            <value>dHH</value>
+                            <value>0</value>
+                            <value>X</value>
+                        </attribute>
+                        <attribute name="a" value-type="enumerated">
+                            <value>Hs</value>
+                            <value>Ls</value>
+                            <value>LsH</value>
+                            <value>dHs</value>
+                            <value>HpdHs</value>
+                            <value>LsdH</value>
+                            <value>LspdH</value>
+                            <value>LpHs</value>
+                            <value>LspH</value>
+                            <value>X</value>
+                            <value>0</value>
+                        </attribute>
+                        <attribute name="nuc" value-type="enumerated">
+                            <value>0</value>
+                            <value>1</value>
+                        </attribute>
+                    </code>
+                    <code name="pgap">
+                    </code>
+                </structural-layer>
+            </coding-file>
+            <coding-file name="pos" path="pos">
+                <structural-layer name="pos-layer" draws-children-from="timed-unit-layer">
+                    <code name="tw">
+                        <attribute name="microtag" value-type="string"/>
+                        <attribute name="cited" value-type="enumerated">
+                            <value>cited</value>
+                            <value>not_cited</value>
+                        </attribute>
+                        <attribute name="tag" value-type="enumerated">
+                            <value>aff</value>
+                            <value>ap</value>
+                            <value>at</value>
+                            <value>be</value>
+                            <value>bem</value>
+                            <value>ber</value>
+                            <value>bez</value>
+                            <value>cc</value>
+                            <value>cd</value>
+                            <value>cm</value>
+                            <value>cs</value>
+                            <value>do</value>
+                            <value>doz</value>
+                            <value>dpr</value>
+                            <value>dt</value>
+                            <value>ex</value>
+                            <value>fp</value>
+                            <value>gen</value>
+                            <value>hv</value>
+                            <value>hvz</value>
+                            <value>in</value>
+                            <value>jj</value>
+                            <value>jjr</value>
+                            <value>jjt</value>
+                            <value>md</value>
+                            <value>nn</value>
+                            <value>nns</value>
+                            <value>noi</value>
+                            <value>not</value>
+                            <value>np</value>
+                            <value>od</value>
+                            <value>pau</value>
+                            <value>pd</value>
+                            <value>pn</value>
+                            <value>ppg</value>
+                            <value>ppg2</value>
+                            <value>ppl</value>
+                            <value>ppo</value>
+                            <value>pps</value>
+                            <value>ppss</value>
+                            <value>pr</value>
+                            <value>ql</value>
+                            <value>qldt</value>
+                            <value>qlp</value>
+                            <value>rb</value>
+                            <value>rbr</value>
+                            <value>rp</value>
+                            <value>to</value>
+                            <value>uh</value>
+                            <value>vb</value>
+                            <value>vbd</value>
+                            <value>vbg</value>
+                            <value>vbn</value>
+                            <value>vbz</value>
+                            <value>wdt</value>
+                            <value>wpo</value>
+                            <value>wps</value>
+                            <value>wql</value>
+                            <value>wrb</value>
+                            <value>unk</value>
+                            <value>sent</value>
+                            <value>frag</value>
+                            <value>nonw</value>
+                        </attribute>
+                    </code>
+                </structural-layer>
+            </coding-file>
+            <coding-file name="moves" path="moves">
+                <structural-layer name="move-layer" draws-children-from="timed-unit-layer">
+                    <code name="move">
+                        <attribute name="label" value-type="enumerated">
+                            <value>instruct</value>
+                            <value>explain</value>
+                            <value>check</value>
+                            <value>query_yn</value>
+                            <value>query_w</value>
+                            <value>align</value>
+                            <value>reply_y</value>
+                            <value>reply_n</value>
+                            <value>reply_w</value>
+                            <value>acknowledge</value>
+                            <value>clarify</value>
+                            <value>ready</value>
+                            <value>uncodable</value>
+                        </attribute>
+                        <attribute name="meta" value-type="enumerated">
+                            <value>true_meta</value>
+                            <value>false_meta</value>
+                        </attribute>
+                        <attribute name="aban" value-type="enumerated">
+                            <value>true_aban</value>
+                            <value>false_aban</value>
+                        </attribute>
+                        <attribute name="rep" value-type="enumerated">
+                            <value>other</value>
+                            <value>self</value>
+                            <value>none</value>
+                        </attribute>
+                        <attribute name="interj" value-type="enumerated">
+                            <value>true_interj</value>
+                            <value>false_interj</value>
+                        </attribute>
+                        <attribute name="cont" value-type="enumerated">
+                            <value>true_cont</value>
+                            <value>false_cont</value>
+                        </attribute>
+                    </code>
+                    <code name="ims">
+                    </code>
+                </structural-layer>
+            </coding-file>
+            <coding-file name="landmark-refs" path="landmark-refs">
+                <structural-layer name="landmark-ref-layer" draws-children-from="timed-unit-layer">
+                    <code name="landmark_reference">
+                      <pointer number="1" role="landmark" target="landmark-layer"/>
+                        <attribute name="stat" value-type="string"/>
+                        <attribute name="men" value-type="enumerated">
+                            <value>intro</value>
+                            <value>rep0</value>
+                            <value>intro_l</value>
+                            <value>intro_q</value>
+                            <value>intro_ql</value>
+                        </attribute>
+                        <attribute name="def" value-type="enumerated">
+                            <value>indef</value>
+                            <value>def</value>
+                            <value>dctc</value>
+                            <value>dem</value>
+                            <value>demnum</value>
+                            <value>el</value>
+                            <value>null</value>
+                            <value>num</value>
+                            <value>numpro</value>
+                            <value>poss</value>
+                            <value>posspro</value>
+                            <value>pro</value>
+                            <value>relpro</value>
+                        </attribute>
+                        <attribute name="lit" value-type="enumerated">
+                            <value>l</value>
+                            <value>ld</value>
+                            <value>nl</value>
+                            <value>nld</value>
+                            <value>rl</value>
+                            <value>rld</value>
+                            <value>none</value>
+                        </attribute>
+                        <attribute name="plural" value-type="enumerated">
+                            <value>0</value>
+                            <value>1</value>
+                        </attribute>
+                        <attribute name="part_reference" value-type="enumerated">
+                            <value>yes</value>
+                            <value>no</value>
+                        </attribute>
+                    </code>
+                    <code name="landmark_denial">
+                        <attribute name="stat" value-type="string"/>
+                        <attribute name="part_reference" value-type="enumerated">
+                            <value>yes</value>
+                            <value>no</value>
+                        </attribute>
+                    </code>
+                </structural-layer>
+            </coding-file>
+            <coding-file name="gaze" path="gaze">
+                <time-aligned-layer name="look-layer">
+                    <code name="look">
+                      <pointer number="1" role="type" target="gaze-types"/>
+                    </code>
+                </time-aligned-layer>
+            </coding-file>
+            <!-- The disfluency annotation has a rather complex structure
+                 that is not represented in this metadata definition.  Here,
+                 we allow any tag in the disfluency annotation to be contained
+                 in any other tag, until we finally at bottom reach timed
+                 units.  We would prefer a stricter definition for validation
+                 purposes, but this requires someone with an understanding
+                 of the original coding, and since no code can be in more
+                 than one layer, may require diversified tag names (since 
+                 in the current data the placement of things like fps is
+                 pretty free).  We should at least document the intended
+                 structure.  Robin Lickley was the originator.
+             -->
+            <coding-file name="disf" path="disfluencies">
+                <structural-layer name="disf-layer" recursive-draws-children-from="timed-unit-layer">
+                    <code name="disf">
+                        <attribute name="len" value-type="string"/>
+                        <attribute name="type" value-type="string"/>
+                        <attribute name="complex" value-type="enumerated">
+                            <value>c</value>
+                            <value>cc</value>
+                            <value>ccc</value>
+                            <value>cccc</value>
+                            <value>simple</value>
+                        </attribute>
+                        <attribute name="overlap" value-type="enumerated">
+                            <value>overlap</value>
+                            <value>no_overlap</value>
+                        </attribute>
+                    </code>
+                    <code name="sp"/> <!-- silent pause -->
+                    <code name="fp"/> <!-- filled pause -->
+                    <code name="deg"/> <!-- what is this? -->
+                    <code name="junk"/>
+                    <code name="fix"/>
+                    <!-- interruption point, always childless -->
+                    <code name="ip">  
+                        <attribute name="time" value-type="string"/>
+                        <attribute name="complex" value-type="enumerated">
+                            <value>c</value>
+                            <value>cc</value>
+                            <value>ccc</value>
+                            <value>cccc</value>
+                            <value>simple</value>
+                        </attribute>
+                    </code>
+                    <code name="dw">  <!-- disfluent word -->
+                        <attribute name="type" value-type="string"/>
+                        <attribute name="ctype" value-type="string"/>
+                        <attribute name="cctype" value-type="string"/>
+                        <attribute name="ccctype" value-type="string"/>
+                        <attribute name="cccctype" value-type="string"/>
+                        <attribute name="frag" value-type="enumerated">
+                            <value>frag</value>
+                            <value>no_frag</value>
+                        </attribute>
+                        <attribute name="edit" value-type="enumerated">
+                            <value>edit</value>
+                            <value>not_edit</value>
+                        </attribute>
+                        <attribute name="parenthetical" value-type="enumerated">
+                            <value>parenthetical</value>
+                            <value>not_parenthetical</value>
+                        </attribute>
+                        <attribute name="complex" value-type="enumerated">
+                            <value>c</value>
+                            <value>cc</value>
+                            <value>ccc</value>
+                            <value>cccc</value>
+                            <value>simple</value>
+                        </attribute>
+                        <attribute name="overlap" value-type="enumerated">
+                            <value>overlap</value>
+                            <value>no_overlap</value>
+                        </attribute>
+                    </code>
+                </structural-layer>
+            </coding-file>
+         </agent-codings>
+         <interaction-codings>
+            <!-- at 03 Nov 06, this coding only exists for q3, q4, q7, 
+                 and q8 
+             -->
+            <coding-file name="drawing" path="drawing">
+                <time-aligned-layer name="pen-layer">
+                    <code name="pen">
+                      <pointer number="1" role="type" target="drawing-types"/>
+                    </code>
+                </time-aligned-layer>
+            </coding-file>
+            <!-- GAMES AND INTER-GAME SILENCES -->
+            <!-- games can't inherit times from moves, because they can
+                 overlap temporally 
+            -->
+            <coding-file name="games" path="games">
+
+                <structural-layer name="games-layer" draws-children-from="move-layer" inherits-time="false">
+                    <code name="game">
+                        <attribute name="type" value-type="enumerated">
+                            <value>instruct</value>
+                            <value>explain</value>
+                            <value>check</value>
+                            <value>query_yn</value>
+                            <value>query_w</value>
+                            <value>align</value>
+                            <value>uncodable</value>
+                        </attribute>
+                        <attribute name="meta" value-type="enumerated">
+                            <value>true_meta</value>
+                            <value>false_meta</value>
+                        </attribute>
+                        <attribute name="aban" value-type="enumerated">
+                            <value>true_aban</value>
+                            <value>false_aban</value>
+                        </attribute>
+                        <attribute name="em" value-type="number"/>
+                        <attribute name="initiator" value-type="enumerated">
+                            <value>giver</value>
+                            <value>follower</value>
+                        </attribute>
+                    </code>
+                    <code name="igs"/>
+                </structural-layer>
+            </coding-file>
+            <!-- TRANSACTIONS AND INTER-TRANSACTION SILENCES -->
+            <!-- transactions can't inherit times from moves, because they can
+                 overlap temporally 
+            -->
+            <coding-file name="transactions" path="transactions">
+                <structural-layer name="transaction-layer" draws-children-from="move-layer" inherits-time="false">
+                    <code name="transaction">
+                        <attribute name="type" value-type="enumerated">
+                            <value>normal</value>
+                            <value>overview</value>
+
+                            <value>uncodable</value>
+                        </attribute>
+                        <attribute name="map_start_point" value-type="number"/>
+                        <attribute name="map_end_point" value-type="number"/>
+                    </code>
+                    <code name="its"/>
+                </structural-layer>
+            </coding-file>
+         </interaction-codings>
+   </codings>
+
+    <!--*************************************************************
+       CALLABLE PROGRAMS - a registry of programs that work on this corpus
+    *************************************************************-->
+    <callable-programs>
+        <callable-program description="Reference Coder" name="net.sourceforge.nite.tools.necoder.NECoder">
+            <required-argument name="corpus" type="corpus"/>
+            <required-argument name="observation" type="observation"/>
+            <required-argument default="configuration/maptaskConfig.xml" name="config"/>
+            <required-argument default="dac-gs-maptask" name="gui-settings"/>
+            <required-argument default="dac-cs-maptask" name="corpus-settings"/>
+        </callable-program>
+        <callable-program description="Dialogue Act Coder" name="net.sourceforge.nite.tools.dacoder.DACoder">
+            <required-argument name="corpus" type="corpus"/>
+            <required-argument name="observation" type="observation"/>
+            <required-argument default="configuration/maptaskConfig.xml" name="config"/>
+            <required-argument default="dac-gs-maptask" name="gui-settings"/>
+            <required-argument default="dac-cs-maptask" name="corpus-settings"/>
+        </callable-program>      
+        <callable-program description="drawing" name="net.sourceforge.nite.tools.videolabeler.ContinuousVideoLabeling">
+            <required-argument name="corpus" type="corpus"/>
+            <required-argument name="observation" type="observation"/>
+            <required-argument default="configuration/maptaskConfig.xml" name="config"/>
+            <required-argument default="csl-gs-maptask" name="gui-settings"/>
+            <required-argument default="drawing-cs-maptask" name="corpus-settings"/>
+        </callable-program>
+        <callable-program description="gaze" name="net.sourceforge.nite.tools.videolabeler.ContinuousVideoLabeling">
+            <required-argument name="corpus" type="corpus"/>
+            <required-argument name="observation" type="observation"/>
+            <required-argument default="configuration/maptaskConfig.xml" name="config"/>
+            <required-argument default="csl-gs-maptask" name="gui-settings"/>
+            <required-argument default="gaze-cs-maptask" name="corpus-settings"/>
+        </callable-program>
+
+    </callable-programs>
+
+    <!--*************************************************************
+       OBSERVATION LIST
+    *************************************************************-->
+    <observations>
+ <observation name="q1ec1"/>
+ <observation name="q1ec2"/>
+ <observation name="q1ec3"/>
+ <observation name="q1ec4"/>
+ <observation name="q1ec5"/>
+ <observation name="q1ec6"/>
+ <observation name="q1ec7"/>
+ <observation name="q1ec8"/>
+ <observation name="q1nc1"/>
+ <observation name="q1nc2"/>
+ <observation name="q1nc3"/>
+ <observation name="q1nc4"/>
+ <observation name="q1nc5"/>
+ <observation name="q1nc6"/>
+ <observation name="q1nc7"/>
+ <observation name="q1nc8"/>
+ <observation name="q2ec1"/>
+ <observation name="q2ec2"/>
+ <observation name="q2ec3"/>
+ <observation name="q2ec4"/>
+ <observation name="q2ec5"/>
+ <observation name="q2ec6"/>
+ <observation name="q2ec7"/>
+ <observation name="q2ec8"/>
+ <observation name="q2nc1"/>
+ <observation name="q2nc2"/>
+ <observation name="q2nc3"/>
+ <observation name="q2nc4"/>
+ <observation name="q2nc5"/>
+ <observation name="q2nc6"/>
+ <observation name="q2nc7"/>
+ <observation name="q2nc8"/>
+ <observation name="q3ec1"/>
+ <observation name="q3ec2"/>
+ <observation name="q3ec3"/>
+ <observation name="q3ec4"/>
+ <observation name="q3ec5"/>
+ <observation name="q3ec6"/>
+ <observation name="q3ec7"/>
+ <observation name="q3ec8"/>
+ <observation name="q3nc1"/>
+ <observation name="q3nc2"/>
+ <observation name="q3nc3"/>
+ <observation name="q3nc4"/>
+ <observation name="q3nc5"/>
+ <observation name="q3nc6"/>
+ <observation name="q3nc7"/>
+ <observation name="q3nc8"/>
+ <observation name="q4ec1"/>
+ <observation name="q4ec2"/>
+ <observation name="q4ec3"/>
+ <observation name="q4ec4"/>
+ <observation name="q4ec5"/>
+ <observation name="q4ec6"/>
+ <observation name="q4ec7"/>
+ <observation name="q4ec8"/>
+ <observation name="q4nc1"/>
+ <observation name="q4nc2"/>
+ <observation name="q4nc3"/>
+ <observation name="q4nc4"/>
+ <observation name="q4nc5"/>
+ <observation name="q4nc6"/>
+ <observation name="q4nc7"/>
+ <observation name="q4nc8"/>
+ <observation name="q5ec1"/>
+ <observation name="q5ec2"/>
+ <observation name="q5ec3"/>
+ <observation name="q5ec4"/>
+ <observation name="q5ec5"/>
+ <observation name="q5ec6"/>
+ <observation name="q5ec7"/>
+ <observation name="q5ec8"/>
+ <observation name="q5nc1"/>
+ <observation name="q5nc2"/>
+ <observation name="q5nc3"/>
+ <observation name="q5nc4"/>
+ <observation name="q5nc5"/>
+ <observation name="q5nc6"/>
+ <observation name="q5nc7"/>
+ <observation name="q5nc8"/>
+ <observation name="q6ec1"/>
+ <observation name="q6ec2"/>
+ <observation name="q6ec3"/>
+ <observation name="q6ec4"/>
+ <observation name="q6ec5"/>
+ <observation name="q6ec6"/>
+ <observation name="q6ec7"/>
+ <observation name="q6ec8"/>
+ <observation name="q6nc1"/>
+ <observation name="q6nc2"/>
+ <observation name="q6nc3"/>
+ <observation name="q6nc4"/>
+ <observation name="q6nc5"/>
+ <observation name="q6nc6"/>
+ <observation name="q6nc7"/>
+ <observation name="q6nc8"/>
+ <observation name="q7ec1"/>
+ <observation name="q7ec2"/>
+ <observation name="q7ec3"/>
+ <observation name="q7ec4"/>
+ <observation name="q7ec5"/>
+ <observation name="q7ec6"/>
+ <observation name="q7ec7"/>
+ <observation name="q7ec8"/>
+ <observation name="q7nc1"/>
+ <observation name="q7nc2"/>
+ <observation name="q7nc3"/>
+ <observation name="q7nc4"/>
+ <observation name="q7nc5"/>
+ <observation name="q7nc6"/>
+ <observation name="q7nc7"/>
+ <observation name="q7nc8"/>
+ <observation name="q8ec1"/>
+ <observation name="q8ec2"/>
+ <observation name="q8ec3"/>
+ <observation name="q8ec4"/>
+ <observation name="q8ec5"/>
+ <observation name="q8ec6"/>
+ <observation name="q8ec7"/>
+ <observation name="q8ec8"/>
+ <observation name="q8nc1"/>
+ <observation name="q8nc2"/>
+ <observation name="q8nc3"/>
+ <observation name="q8nc4"/>
+ <observation name="q8nc5"/>
+ <observation name="q8nc6"/>
+ <observation name="q8nc7"/>
+ <observation name="q8nc8"/>
+    </observations>
+</corpus>

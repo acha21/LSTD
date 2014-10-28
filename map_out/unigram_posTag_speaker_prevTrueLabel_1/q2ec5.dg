@@ -1,0 +1,213 @@
+f,ready,right
+g,acknowledge,right mm
+g,query_yn,have you got a missionary camp down the bottom
+f,reply_y,yes
+g,explain,then that's where your start is
+f,reply_y,mmhmm
+g,ready,right
+f,acknowledge,that's right
+g,ready,okay well
+g,instruct,you need to go ehm travel left about an inch and then go down along the side of the missionary camp so you're going downwards just running along parallel to it
+f,acknowledge,right okay
+g,align,okay
+g,instruct,down so that you're about an inch above the bottom of the map
+f,acknowledge,right
+g,align,okay
+g,ready,now
+g,query_yn,you have you got a some gorillas over on the left
+f,reply_n,no
+f,explain,i've got a banana tree though
+g,acknowledge,alright that's probably
+g,explain,do you think that's probably the same
+g,reply_y,mm yeah
+f,reply_y,yeah that's probably about it
+g,instruct,so you just need to run along the bottom of the map until you get to just below the gorillas or the banana tree
+f,check,right er we'll probably have to take it down a wee bit further for for that
+g,acknowledge,right okay
+f,acknowledge,right nothing else kind of down there
+g,acknowledge,right
+f,reply_w,and i want to stop directly below
+g,reply_y,yeah
+g,ready,well
+f,acknowledge,mmhmm
+g,instruct,actually you need to then you need to bend up round the side of the gorillas so you're then going along so you're running parallel with the eh left-hand side of the map
+g,align,okay
+f,reply_y,right that's okay
+g,instruct,so you then go upwards about
+g,query_yn,and then have you got a rope bridge
+f,reply_y,yeah
+g,ready,right
+g,clarify,you need to run up vertically until you become parallel with the rope bridge
+f,explain,oh i've taken it over much further than that i'm kind of almost at the edge of the page so
+g,acknowledge,ah right
+f,check,is it okay is it safe enough to head diagonally across
+g,reply_y,yeah
+g,instruct,if you head diagonally across to the beginning of the rope bridge
+f,acknowledge,right okay
+g,instruct,and then you you're walking across the rope bridge so your line will stop and then start coming out at the other side of the rope bridge
+f,acknowledge,right fine
+g,align,okay
+g,instruct,down about an inch so you come you've come off the rope bridge and you drop down about an inch
+f,acknowledge,right
+f,explain,erm i don't know if i can do that without going in the river actually
+g,acknowledge,oh yeah
+g,explain,i for-- yeah there's a river isn't there
+g,ready,well
+g,instruct,if you just take it so that you're running alongside the river
+f,align,just right along the edge of the river
+f,acknowledge,right okay
+g,clarify,yeah so you need to run alongside the river for about um three or four inches
+g,instruct,and then
+f,reply_y,yeah
+g,query_yn,you have got a waterfall on the right-hand side
+g,ready,well then um
+g,reply_w,just 'til when you're about ehm level with the b-- with the bottom of the waterfall
+f,acknowledge,mmhmm
+g,instruct,then you go straight upwards alongside the waterfall
+f,acknowledge,right
+g,query_yn,have you got some lost steps there
+f,reply_y,erm yes i have
+g,acknowledge,oh no th--
+f,check,but quite a bit above maybe something like five inches or something above
+g,query_w,these these are in the middle
+g,query_yn,have you got some fallen pillars
+f,reply_y,yes
+g,acknowledge,okay
+g,ready,well
+g,align,where are you at the moment
+f,reply_w,um d-- just stop beside the waterfall that's right over on the right-hand side
+g,reply_y,yeah
+g,clarify,right you need to go upwards until you're level with the fallen pillars
+f,acknowledge,right okay
+g,align,okay
+f,reply_y,fine
+g,instruct,and then imagine that you had
+g,align,you see the lost steps at the top
+f,reply_y,yes
+g,instruct,if you imagine that they were there just where you've stopped
+f,acknowledge,mmhmm
+g,instruct,so you need to loop over the top of them as if you were going over something
+f,acknowledge,right
+g,instruct,so you you're going u--
+f,query_w,so which way am i heading then left or right
+g,acknowledge,right
+g,reply_w,you're going left towards the fallen pillars
+f,acknowledge,right okay
+g,align,okay
+g,instruct,if you go over the
+f,explain,so i'll let out a well i'll allow for being above the fallen pillars yeah
+g,reply_y,uh-huh yeah
+f,acknowledge,right okay
+g,instruct,and then you need to head back down again to go underneath the fallen pillars
+f,acknowledge,mmhmm
+g,align,okay
+f,explain,i've got flamingoes down here with a
+g,acknowledge,yeah
+f,explain,quite a small gappy bit
+g,acknowledge,right
+g,instruct,then if you go down and underneath what
+g,explain,i w-- i haven't got anything but i think that's where your flamingoes are
+f,ready,um well
+f,reply_w,they're just maybe an inch below and an inch to the left of the fallen pillars
+g,acknowledge,right okay
+g,instruct,so if you then go right underneath the flamingoes
+f,acknowledge,right okay
+g,instruct,and and then up right up towards th--
+g,query_yn,have you got ancient ruins
+g,reply_y,yeah okay
+f,reply_w,er i've got a ruined city abo-- maybe half the distance to the top from there
+g,acknowledge,right yeah that's right
+g,instruct,so you go right up to the ehm ruins
+f,acknowledge,uh-huh
+g,ready,and then you
+f,check,just keeping on the edge of the page yeah
+g,instruct,keeping on the edge
+g,instruct,maybe a bit in towards a bit heading towards the ruins
+f,acknowledge,right okay
+g,explain,and then have you got some stones at the left-hand s-- on the left-hand side right in the top left-hand corner
+f,reply_w,erm i've no i haven't got anything up there
+g,acknowledge,okay
+f,reply_w,i've got a rock fall kind of fairly near to the centre
+g,acknowledge,ah right
+f,check,er in between
+g,align,well you you know where the ruins are
+f,reply_y,yeah
+g,query_w,you've got where are you now
+f,reply_w,i'm just to the to the left-hand side of them
+g,acknowledge,right okay
+f,acknowledge,right
+g,instruct,now you need to go straight up so that you're now about two inches from the top of the map and about
+f,acknowledge,just just level with the side
+g,reply_y,yes
+g,clarify,and about three inches from the side
+f,acknowledge,right okay
+g,align,okay
+f,reply_y,right up to the top
+g,reply_n,so that no
+g,clarify,about two inches from the top
+f,acknowledge,right okay
+g,align,okay
+g,ready,and then
+g,query_yn,that's it and then right have you got a white mountain
+f,reply_y,yeah
+g,ready,right
+g,instruct,you need to just run vertically along and then to get as if you were climbing the mountain and going back down the other side so you go along to the white mountain
+g,check,up
+f,acknowledge,right okay
+f,check,up on the left-hand side just go up up the side
+g,reply_y,up th-- up the left yeah
+g,instruct,up the side of the mountain and then down the other side
+f,acknowledge,right okay
+g,ready,then
+g,query_yn,have you got a soft furnishings furnishings store
+f,reply_n,no
+f,explain,i've got nothing round about there 'part from the lost steps and directly below the mountain i've got gazelles
+g,acknowledge,okay
+g,ready,well
+f,query_w,or i have the gazelles anyway
+g,instruct,you need to then
+g,acknowledge,right
+g,align,you're at the bottom of the mountain now
+f,uncodable,erm
+g,ready,okay
+f,query_yn,erm am i going underneath it
+g,reply_y,yeah
+f,acknowledge,loo--
+g,instruct,you need to go underneath it but by about an inch underneath
+f,acknowledge,right okay
+g,align,okay
+g,ready,and then
+g,instruct,now now you should be level with the beginning of the mountain so you should be level with the left-hand side of the mountain
+f,acknowledge,oh right i see what you mean
+g,clarify,y-- you're going back on yourself
+f,explain,yeah well i've got a rock fall there so i can't
+g,acknowledge,right
+f,explain,i've got a rock fall just across from that so
+g,acknowledge,oh okay
+g,instruct,um well so you're now you should be underneath the mountain
+f,acknowledge,yeah
+g,align,okay
+g,instruct,now you need to drop straight down towards the gazelles
+f,acknowledge,right
+f,check,coming in at the top of them
+g,reply_y,that's right
+g,instruct,and then go round the bottom of the gazelles
+f,check,on the left-hand side
+g,instruct,and head off to the right-hand side
+f,acknowledge,right
+f,explain,i've got a big space here which presumably
+g,query_yn,so you go under the gazelles yeah
+f,check,you've got something in
+f,acknowledge,right okay
+g,explain,that's where we're finishing soon here finishing here
+g,instruct,so you're underneath the gazelles
+f,acknowledge,right
+g,reply_y,yeah
+g,instruct,straight off to the right about three inches and then we stop
+f,acknowledge,right
+g,instruct,okay so you're going in the opposite direction to the ancient ruins
+f,acknowledge,right
+g,reply_y,yeah
+f,check,is that it
+g,reply_y,okay that's it
+f,acknowledge,right fine

@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- NXT METADATA FOR THE MAPTASK WORD LIST CORPUS..
+     
+
+  Colin Matheson               28.06.05
+
+-->
+<corpus 
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:noNamespaceSchemaLocation="schema/meta-standoff.xsd" 
+   description="Maptask" 
+   id="maptaskwordlists"
+   links="ltxml1"
+   type="standoff">
+     <!--******************************************************************
+         GENERIC CORPUS INFORMATION 
+         names of attributes that are globally used in the corpus for
+         ID, start and end times. Note that the types and legal
+         appearance / non-appearance of all of these attributes is
+         set. IDs are free strings and start and end times are
+         numbers. Time-aligned elements must have all three
+         attributes; structural-layer elements must have ID and may
+         have start and end times; featural-layer elements must have
+         id but must not have start and end times. 
+    ******************************************************************-->
+    <reserved-attributes>
+        <identifier name="id"/>
+        <starttime name="start"/>
+        <endtime name="end"/> 
+        <observationname name="obs"/>
+    </reserved-attributes>
+    <reserved-elements>
+        <pointername name="nite:pointer"/>
+        <child name="nite:child"/>
+        <stream name="nite:root"/>
+    </reserved-elements>
+    <documents/>
+    <observation-variables/>
+    <!-- 3 Nov 06:  the path hasn't been verified yet (for Edinburgh
+         DICE users) and will need changed for other sites.
+    -->
+    <signals path="/group/ltg/users/amyi/maptask-sound/citations"> 
+          <!-- path="/group/corpora/public/maptask/original/wav" -->
+          <!--  path="/disk/scratch/maptask/maptask-nonCVS/signals/wordlists">  -->
+        <interaction-signals>
+            <signal extension="wav" format="WAV" name="wordlist" type="audio"/>
+        </interaction-signals>
+    </signals>
+   <!--*************************************************************
+       AGENTS - designating the speakers
+       This corpus doesn't treat the speakers as two agents in a dialogue,
+       because the word lists are monologic - otherwise, the words from
+       one would be treated as having the same time course as the words
+       from the other.
+    *************************************************************-->
+   <!-- If we named one agent (for monologue), that agent name would
+        have to be in the filenames - it's less confusing to treat monologues
+        as having no agents, with everything as an interaction-coding. 
+     -->
+   <agents/>
+
+   <!--*************************************************************
+       ONTOLOGIES - type hierarchies for some kinds of codes.
+    *************************************************************-->
+    <ontologies/>
+   <!--*************************************************************
+       CORPUS RESOURCES - pooled information across the observations
+    *************************************************************-->
+  <corpus-resources path="corpus-resources">
+      <!-- This definition is the same in the two corpora. -->
+      <!-- this isn't pointed to from anywhere, but it can be equated with
+           the citation lists by string identity of the id on the speaker
+           tags.
+       -->
+      <corpus-resource-file name="maptask-participants" description="participant info">
+         <structural-layer name="speaker-layer">
+               <code name="speaker">
+                  <attribute name="age" value-type="string">
+                  </attribute>
+                  <attribute name="name" value-type="string">
+                  </attribute>
+                  <attribute name="birthplace" value-type="string">
+                  </attribute>
+                  <attribute name="gender" value-type="enumerated">
+                            <value>m</value>
+                            <value>f</value>
+                  </attribute>
+                  <attribute name="category" value-type="enumerated">
+                            <value>Glasgow</value>
+                            <value>Scotland</value>
+                            <value>ROTW</value>
+                  </attribute>
+               </code>
+         </structural-layer>
+      </corpus-resource-file>
+      <!-- This definition is the same in the two corpora. -->
+      <corpus-resource-file name="maptask-landmarks" description="map landmark info">
+         <structural-layer name="map-layer" draws-children-from="landmark-layer">
+               <code name="map">
+                  <attribute name="reduction_type" value-type="enumerated">
+                            <value>1</value>
+                            <value>2</value>
+                            <value>3</value>
+                            <value>4</value>
+                  </attribute> 
+                  <attribute name="giver_contrast" value-type="enumerated">
+                            <value>yes</value>
+                            <value>no</value>
+                  </attribute> 
+                  <attribute name="follower_match" value-type="enumerated">
+                            <value>yes</value>
+                            <value>no</value>
+                  </attribute> 
+               </code>
+         </structural-layer>
+         <structural-layer name="landmark-layer">
+               <code name="landmark">
+                  <attribute name="name" value-type="string">
+                  </attribute> 
+                  <attribute name="giver_map_appears" value-type="string">
+                  </attribute> 
+                  <attribute name="follower_map_appears" value-type="string">
+                  </attribute> 
+                  <attribute name="sim" value-type="enumerated">
+                            <value>dif_f01</value>
+                            <value>dif_f10</value>
+                            <value>dif_feat01</value>
+                            <value>dif_feat10</value>
+                            <value>dif_flab01</value>
+                            <value>dif_flab10</value>
+                            <value>dif_i_fnumsame</value>
+                            <value>dif_r_fnum01</value>
+                            <value>same</value>
+                  </attribute> 
+                  <attribute name="assim" value-type="enumerated">
+                            <value>sw</value>
+                            <value>ws</value>
+                            <value>ddel</value>
+                            <value>glott</value>
+                            <value>nass</value>
+                            <value>tdel</value>
+                            <value>no_assim</value>
+                  </attribute> 
+                  <attribute name="contr" value-type="enumerated">
+                            <value>contrsh</value>
+                            <value>nocontrsh</value>
+                            <value>no_contr</value>
+                  </attribute> 
+                  <attribute name="omo" value-type="enumerated">
+                            <value>yes</value>
+                            <value>no</value>
+                  </attribute> 
+               </code>
+         </structural-layer>
+      </corpus-resource-file>
+   </corpus-resources>
+
+   <!--*************************************************************
+       CODINGS - transcription and annotation for each observation
+    *************************************************************-->
+    <codings path=".">
+         <interaction-codings>
+          <!-- the word lists have transcription the same as the
+               transcription in the dialogue corpus, but to differentiate
+               the two, we put "wl-" as a prefix to the tag names here.
+           -->
+            <coding-file name="wordlist" path="wordlists">
+                <time-aligned-layer name="wordlist-layer">
+                    <code name="wl-tu" text-content="true">
+                        <attribute name="utt" value-type="string"/>
+                        <attribute name="realisation" value-type="string"/>
+                    </code>
+                    <code name="wl-sil">
+                        <attribute name="utt" value-type="string"/>
+                    </code>
+                    <code name="wl-noi">
+                        <attribute name="utt" value-type="string"/>
+                        <attribute name="type" value-type="enumerated">
+                            <value>lipsmack</value>
+                            <value>outbreath</value>
+                            <value>inbreath</value>
+                            <value>breath</value>
+                            <value>laugh</value>
+                            <value>nonvocal</value>
+                            <value>phongesture</value>
+                            <value>unintelligible</value>
+                            <value>lowamp</value>
+                            <value>cough</value>
+                            <value>external</value>
+                        </attribute>
+                    </code>
+                </time-aligned-layer>
+            </coding-file>
+            <coding-file name="citations" path="citations">
+                <structural-layer name="citations-layer" draws-children-from="wordlist-layer">
+                    <code name="citation">
+                      <!-- we need enumerated values for this attribute
+                           in order to set up the coding GUI for it.
+                           In the corpus, these are the current values.
+                           Obviously it's meant to be integers.
+                       -->
+                      <attribute name="repetition" value-type="enumerated">
+                          <value>1</value>
+                          <value>2</value>
+                          <value>3</value>
+                      </attribute>
+                      <pointer number="1" role="landmark" target="landmark-layer"/>
+                    </code>
+                </structural-layer>
+            </coding-file>
+         </interaction-codings>
+   </codings>
+
+    <!--*************************************************************
+       CALLABLE PROGRAMS - a registry of programs that work on this corpus
+       The generic one comes up regardless.
+    *************************************************************-->
+    <callable-programs>
+        <callable-program description="Citation Coder" name="net.sourceforge.nite.tools.necoder.NECoder">
+            <required-argument name="corpus" type="corpus"/>
+            <required-argument name="observation" type="observation"/>
+            <required-argument default="configuration/maptaskWordListConfig.xml" name="config"/>
+            <required-argument default="dac-gs-wordlist" name="gui-settings"/>
+            <required-argument default="dac-cs-wordlist" name="corpus-settings"/>
+        </callable-program>
+    </callable-programs>
+
+    <!--*************************************************************
+       OBSERVATION LIST
+    *************************************************************-->
+    <observations>
+      <observation name="q1eta1"/>
+      <observation name="q1eta2"/>
+      <observation name="q1etb1"/>
+      <observation name="q1etb2"/>
+      <observation name="q1nta1"/>
+      <observation name="q1nta2"/>
+      <observation name="q1ntb1"/>
+      <observation name="q1ntb2"/>
+      <observation name="q2eta1"/>
+      <observation name="q2eta2"/>
+      <observation name="q2etb1"/>
+      <observation name="q2etb2"/>
+      <observation name="q2nta1"/>
+      <observation name="q2nta2"/>
+      <observation name="q2ntb1"/>
+      <observation name="q2ntb2"/>
+      <observation name="q3eta1"/>
+      <observation name="q3eta2"/>
+      <observation name="q3etb1"/>
+      <observation name="q3etb2"/>
+      <observation name="q3nta1"/>
+      <observation name="q3nta2"/>
+      <observation name="q3ntb1"/>
+      <observation name="q3ntb2"/>
+      <observation name="q4eta1"/>
+      <observation name="q4eta2"/>
+      <observation name="q4etb1"/>
+      <observation name="q4etb2"/>
+      <observation name="q4nta1"/>
+      <observation name="q4nta2"/>
+      <observation name="q4ntb1"/>
+      <observation name="q4ntb2"/>
+      <observation name="q5eta1"/>
+      <observation name="q5eta2"/>
+      <observation name="q5etb1"/>
+      <observation name="q5etb2"/>
+      <observation name="q5nta1"/>
+      <observation name="q5nta2"/>
+      <observation name="q5ntb1"/>
+      <observation name="q5ntb2"/>
+      <observation name="q6eta1"/>
+      <observation name="q6eta2"/>
+      <observation name="q6etb1"/>
+      <observation name="q6etb2"/>
+      <observation name="q6nta1"/>
+      <observation name="q6nta2"/>
+      <observation name="q6ntb1"/>
+      <observation name="q6ntb2"/>
+      <observation name="q7eta1"/>
+      <observation name="q7eta2"/>
+      <observation name="q7etb1"/>
+      <observation name="q7etb2"/>
+      <observation name="q7nta1"/>
+      <observation name="q7nta2"/>
+      <observation name="q7ntb1"/>
+      <observation name="q7ntb2"/>
+      <observation name="q8eta1"/>
+      <observation name="q8eta2"/>
+      <observation name="q8etb1"/>
+      <observation name="q8etb2"/>
+      <observation name="q8nta1"/>
+      <observation name="q8nta2"/>
+      <observation name="q8ntb1"/>
+      <observation name="q8ntb2"/>
+    </observations>
+</corpus>

@@ -1,0 +1,26 @@
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="landmark-refs.q8nc6.f">
+<landmark_denial id="q8nc6.f.ref.1" stat="0" part_reference="no">
+  <nite:child href="q8nc6.f.timed-units.xml#id(q8nc6f.8)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m0_parked_van)"/>
+</landmark_denial>
+<landmark_denial id="q8nc6.f.ref.2" stat="0" part_reference="no">
+  <nite:child href="q8nc6.f.timed-units.xml#id(q8nc6f.23)..id(q8nc6f.28)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m0_parked_van)"/>
+</landmark_denial>
+<landmark_reference id="q8nc6.f.ref.3" stat="0" lit="ld" def="def" men="rep0" plural="0" part_reference="no">
+  <nite:child href="q8nc6.f.timed-units.xml#id(q8nc6f.27)..id(q8nc6f.28)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m0_parked_van)"/>
+</landmark_reference>
+<landmark_reference id="q8nc6.f.ref.4" stat="0" lit="l" def="indef" men="intro" plural="0" part_reference="no">
+  <nite:child href="q8nc6.f.timed-units.xml#id(q8nc6f.32)..id(q8nc6f.35)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m0_parked_van)"/>
+</landmark_reference>
+<landmark_denial id="q8nc6.f.ref.5" stat="0" part_reference="no">
+  <nite:child href="q8nc6.f.timed-units.xml#id(q8nc6f.110)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m0_youth_hostel)"/>
+</landmark_denial>
+<landmark_denial id="q8nc6.f.ref.6" stat="0" part_reference="no">
+  <nite:child href="q8nc6.f.timed-units.xml#id(q8nc6f.148)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m0_thatched_mud_hut)"/>
+</landmark_denial>
+</nite:root>

@@ -1,0 +1,149 @@
+f,ready,right
+g,instruct,ehm it starts off as a cross at the top of the map
+g,instruct,ehm if you go if you start off on the left of the cross
+f,acknowledge,right
+g,explain,and is there a diamond mine just below that
+f,reply_y,yeah
+g,reply_y,yeah
+g,instruct,if you go down to the left of that 'til you're below it
+f,acknowledge,right
+g,ready,and then um
+g,align,to the right of the diamond mine there's
+f,check,go along the bottom of the diamond mine
+g,reply_y,yeah
+g,align,there's a wagon wheel sort of on the right
+g,query_yn,have you got that
+f,reply_n,nope
+g,ready,oh well
+g,instruct,if you go along um to th-- like right under the diamond mine
+g,ready,and then um
+g,instruct,you've got to go a little more than halfway along the page
+f,acknowledge,right keep going right
+g,reply_y,yeah
+g,instruct,keep going right 'til you're just past halfway
+f,acknowledge,right
+g,uncodable,um
+g,instruct,in fact even three quarters of the way
+g,ready,and then
+g,instruct,you go right up to the top again
+f,check,right up to the top
+g,reply_y,yeah
+f,query_w,how far up
+g,reply_w,just before you go off the edge
+f,acknowledge,right
+g,ready,um and then
+g,query_yn,have you got a rift valley
+f,reply_y,yeah
+g,ready,right
+g,instruct,if you go um a top er right so that you're um above the rift valley sort of in the middle of it
+f,acknowledge,right
+g,instruct,uh but don't go r-- when you're halfway along it sort of go down and through the bottom of it
+f,acknowledge,right
+g,uncodable,um
+g,query_yn,below the rift valley have you got any rocks
+f,reply_y,mmhmm
+g,ready,um
+f,query_w,quite far below
+g,reply_y,yeah
+f,acknowledge,yeah
+g,instruct,go down 'til you're just above the rocks
+f,acknowledge,right
+g,instruct,and then go down to the right-hand side of them
+f,check,go round them to the right
+g,reply_y,yeah
+g,acknowledge,oh sorry the left
+g,reply_n,no
+f,check,on the left
+g,align,helps if you know the difference
+f,acknowledge,right
+g,explain,um to the left of the rocks there's a stone creek
+f,reply_n,no i don't have that
+g,acknowledge,haven't not got that right
+g,query_yn,um have you got any white water
+f,reply_n,nope
+g,acknowledge,no
+g,query_yn,have you got anything in the middle of the page
+f,reply_y,rapids
+g,acknowledge,rapids oh
+g,explain,they're probably the same thing
+g,query_yn,um are they sort of on the left below the diamond mine
+f,reply_y,yeah
+g,reply_y,yeah
+f,acknowledge,mmhmm
+g,uncodable,ri-- um
+g,instruct,if you go down 'til you're sort of
+g,align,you're on the left of the rocks
+f,reply_y,mmhmm
+f,acknowledge,right
+g,instruct,if you go just so you're below the rocks but above the white water
+f,acknowledge,right
+g,instruct,and then go along left 'til you're on the left of the white water
+f,check,go along the top of the white water then
+g,reply_y,yeah along the top
+f,acknowledge,right
+g,uncodable,um
+g,ready,and then
+g,query_yn,have you got anything underneath the white water
+f,reply_w,a manned fort
+g,ready,right
+g,reply_w,um have you got a stone creek underneath that as well
+g,reply_y,right
+f,reply_y,yeah mmhmm
+g,instruct,if you go down um after the white water and go underneath the fort
+f,query_w,to the le-- right or the left of the fort
+g,reply_w,to the left
+g,instruct,and go underneath
+g,instruct,sorry you start off on the left and move over to the right
+f,check,so you go to
+g,instruct,so you go down and then you go underneath and you go from the left to the right
+f,acknowledge,right underneath it
+g,reply_y,yeah
+f,acknowledge,right okay
+g,query_yn,um have you got an outlaws' hideout
+f,reply_n,no
+g,ready,um
+g,uncodable,um
+g,instruct,stone slabs
+f,reply_y,yeah
+g,ready,right
+g,query_yn,have you got anything bel-- beneath the rocks
+f,reply_y,oh yeah
+f,reply_y,the outlaws' hideout uh-huh
+g,acknowledge,alright right um
+g,align,from where you are go sort of un-- up so that you're underneath the outlaws' hideout
+f,acknowledge,right
+g,instruct,and then go down to the go across to the right-hand side of the paper
+f,acknowledge,right
+g,instruct,and go
+g,query_yn,have you got a noose
+f,reply_y,yeah
+g,instruct,go right down so that you're underneath sorry so that y-- um stay on the right-hand side of the noose
+f,acknowledge,right
+g,query_yn,um have you got a swan pond
+f,reply_n,no
+g,acknowledge,no ugh
+g,ready,right
+f,acknowledge,mmhmm
+g,instruct,well if you're just underneath the noose go
+g,query_yn,have you got a saloon bar
+f,reply_y,yeah
+g,ready,right
+g,instruct,if you go left all the way along 'til you come to the saloon bar
+g,reply_y,yeah
+f,explain,the top of the saloon bar then it'll be
+f,reply_y,yeah right
+g,instruct,and then go down so you're at the bottom of the saloon bar
+f,query_w,to the right-hand of the saloon bar or the the left side
+g,reply_w,eh the right-hand
+f,acknowledge,the right side right
+g,instruct,and then left
+f,check,along the bottom
+g,reply_y,uh-huh
+f,acknowledge,right
+g,ready,and then um
+g,instruct,go about an inch and a half further along f-- than when the saloon bar ends
+f,acknowledge,right
+g,instruct,and then go up 'til you're sort of parallel top saloon bar
+f,acknowledge,right
+g,explain,that's it the finish
+f,acknowledge,right

@@ -1,0 +1,181 @@
+g,query_yn,okay have you got a start have you got a starting point
+f,explain,i do indeed
+g,ready,right
+g,instruct,if you move eh left to the edge of your page
+f,acknowledge,okay
+g,align,okay
+g,instruct,now go straight down ehm om
+f,check,past the forest fire
+g,instruct,past the forest fire
+g,query_yn,eh have have you got a picnic site marked
+f,reply_n,no i don't
+g,ready,right
+g,instruct,well go straight down to the bottom of your page almost to the bottom of the page
+g,ready,okay now
+g,query_yn,have you got an adventure playground marked on your map
+g,align,okay
+f,reply_y,yes i do
+g,instruct,go along to your right and
+f,acknowledge,oh right right sorry
+g,align,okay
+g,ready,right
+g,clarify,okay eh until you're underneath right 'til you're underneath the left-hand edge of the adventure playground
+f,acknowledge,mm
+g,instruct,and go straight up past it
+f,check,back up due north again
+g,reply_y,mmhmm
+f,acknowledge,okey-dokey
+g,clarify,and stop when you're just past the adventure playground
+f,acknowledge,mm mm
+f,check,so i'm basically forming a rectangle here
+g,reply_y,almost yeah
+f,explain,right i'm at just to the right of the forest fire
+g,align,okay
+g,ready,now go right
+g,query_yn,have you got a granite quarry marked
+f,reply_n,no
+f,explain,i've got one very far up middle of the page
+g,ready,middle of the right
+g,reply_w,almost slap-bang in the middle
+f,acknowledge,mmhmm
+g,acknowledge,right okay
+g,instruct,go l-- right until you're underneath the right-hand edge of that just past the right-hand edge of it
+f,explain,i've also got privately owned fields
+f,acknowledge,you sh-- oh
+g,query_yn,will you hit them if you g-- if you go through that
+f,ready,could well do
+f,align,they are due right of the start and directly below the granite quarry
+g,instruct,right if you just g-- if you're at the top of the right at the top of the adventure playground just eh almost touching it if you go straight right there will you miss them
+f,reply_y,mmhmm yes i will indeed
+g,ready,right
+g,instruct,if you go right along there until you're at the right-hand edge of the granite quarry
+f,acknowledge,okay
+f,acknowledge,right i've
+g,instruct,now can you go straight up and round the top of the granite quarry
+f,query_yn,do you have a fallen cairn
+g,reply_y,eh yeah
+f,check,it's up to the right
+g,reply_w,it's up at
+f,check,do you want me to go in between the two of these
+g,reply_y,uh-huh
+g,clarify,but stay quite close to g-- the granite quarry
+f,explain,i'll have to curve in 'cause privately owned fields are to the
+g,reply_y,yeah that's okay right
+f,acknowledge,okay
+f,explain,i'm just at the right-hand tip of the granite quarry at the top
+g,clarify,the right-hand tip
+f,reply_y,uh-huh
+g,align,okay
+g,instruct,well go round
+g,query_yn,have you got a train crossing
+f,reply_n,no i don't
+g,reply_n,no
+f,reply_y,well i do
+f,explain,at the very top left-hand page
+g,acknowledge,ah right
+g,explain,there's another i've got another one marked
+g,instruct,ehm okay if you go round in a s-- kind of semicircle round the top of the granite quarry until you're like level with the bottom of it of the actual wee wee drawing
+f,check,so basically i'm round the other side
+g,reply_y,uh-huh
+f,acknowledge,okay
+g,instruct,and go straight left to almost to the edge of the page
+f,query_yn,do you have a waterfall
+g,reply_y,yeah
+f,check,underneath the waterfall
+g,instruct,i want you to go up up past on the left-hand side of the waterfall if you can
+g,instruct,right i want you to go
+f,clarify,but you w-- you want me to go to underneath it
+g,instruct,i want you to go underneath it and then round the left-hand side of it from where you are now
+f,acknowledge,okay
+f,check,so i'm now at the left-hand side of the waterfall
+f,query_w,do you wish me to go north
+g,align,are you yeah
+g,instruct,i want you to go up north to the top of the waterfall
+f,acknowledge,right
+g,instruct,now go right to the edge the other right-hand edge of the waterfall
+f,query_yn,um beside a public footpath
+g,query_w,where's the public footpath in relation to the waterfall
+f,explain,it's northeast just above it so there's a space in between the waterfall and the public footpath
+g,query_yn,can you go can you go up the left-hand side of the public footpath
+f,query_yn,i can indeed
+g,ready,right
+g,instruct,go up that
+g,query_yn,until have you got corn cornfu-- fields marked at the top
+f,reply_y,yes
+g,ready,right
+g,instruct,well don't don't go up as far as the cornfields but go up in that direction
+g,align,okay
+f,acknowledge,oh right
+g,instruct,now can you go go right a couple of inches from that
+g,instruct,so you should be above your public footpath whatever it is
+f,reply_y,correct
+f,check,below the corn
+g,query_yn,right have you got have you got a fallen you've got a fallen cairn haven't you over to the right-hand side of the page
+f,check,right at the very bottom
+g,reply_n,no
+f,explain,eh sorry in the middle i mean
+g,explain,in e-- up sort of to the right-hand northeast of the granite quarry
+f,reply_y,uh-huh
+g,ready,right
+g,align,can you go fs-- see from where you are now can you go directly eh southeast to the f-- bottom of the fallen cairn
+f,check,the bottom of it
+g,reply_y,uh-huh
+f,check,underneath it
+g,reply_y,un-- go underneath it yeah
+f,acknowledge,okay
+g,instruct,right and come up the o-- the right-hand side of the fallen cairn go like north up the right-hand side of it
+f,query_w,how far up
+g,instruct,eh just stop at the top of it
+f,acknowledge,right
+g,instruct,'til i s-- see what you've got
+f,reply_n,no
+g,query_yn,right have you got limestone cliffs above where you are now
+f,reply_n,no
+g,reply_n,no
+g,ready,okay right
+g,instruct,come round almost circle the fallen cairn and almost back to like where it would join your line
+f,explain,i have a lion country if that's any use
+g,query_w,you've got what
+f,query_yn,a lion country
+g,query_yn,lion country no
+g,instruct,right can you go straight can you go straight north from where you are now to the bottom of the east lake
+f,uncodable,um
+g,query_yn,is have you got a lake at the top there
+f,reply_y,yes i do
+f,check,the lion country's slightly in the way it's slightly to the left how f--
+f,query_w,whereabouts in east lake do you want me to join
+g,align,well you s-- you've got the limestone cliffs
+f,reply_n,no i don't
+g,query_yn,have you no you don't
+f,align,there's three points on the east lake i-- the m-- on the bottom
+g,reply_y,mmhmm
+f,query_w,do you how far do you want me to s--
+f,query_w,whereabouts on
+g,instruct,well just go about the middle of the t-- sort of bottom line if you can head for the middle of the bottom line
+f,check,so that's basically to the right of the lake
+g,reply_n,no
+f,explain,i mean the right-hand side of the lake
+g,reply_y,yeah well but don't go too f-- eh yeah on the right
+f,explain,there's two sort of coastlines on the bottom of the east lake if you like one comes down one goes sort of across a bit
+g,reply_y,mmhmm
+g,ready,right
+f,check,do you wish me to join the west
+g,check,you've got the one that's coming more almost like almost eh horizontal
+f,acknowledge,all right
+f,check,you want me to m--
+g,instruct,head for the middle of that if you can
+f,acknowledge,okay
+f,query_yn,that's going past lion country to the right
+g,acknowledge,right that's fine
+f,acknowledge,okay
+f,acknowledge,going west
+g,instruct,now eh if you go follow the line of the lake follow the line l-- of the lake left
+f,acknowledge,right
+g,reply_w,and eh just stop when you're just past the bottom like the corner
+f,acknowledge,mm
+g,explain,and that should be the finish
+f,explain,so that's b-- almost below
+f,acknowledge,oh right
+g,align,almost below the b-- the like of the bit that goes up the top corner
+f,acknowledge,okey-dokey
+g,explain,that's you

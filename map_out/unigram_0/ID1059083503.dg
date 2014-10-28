@@ -1,0 +1,99 @@
+Y,Opening,Hi thank you for reaching out to Samsung technical support. How may I assist you?
+N,Opening,Hello Im trying to seek help regarding my galaxy Tab 2 is this the right room?
+Y,ConfirmIssue_Question,Just to confirm. Did you purchase device in the US?
+N,Positive,yes
+Y,Acknowledgement,Thank you for confirming.
+N,Word_Answer,im from the US just happened that im outside the US for business
+Y,Open_Question,Please provide me with the complete model code of the Tab. You can locate it at the rear panel of the device (or) at Apps>>Settings>>About device.
+N,Issue_Statement,I looked online and it seem like the issue is common.. my tab will not turn on
+N,Positive,ok
+N,YN_Question,the tab is dead i have the box w me
+Y,Open_Question,You can also locate model code on the box of device.
+N,Positive,ok model gt-p3113tsyxar
+Y,Acknowledgement,Thank you for the model code.
+Y,Transfer,I am afraid; I am not trained on the product that you are using. Please stand by while I transfer you to the appropriate agent for further assistance. Please do not disconnect the chat until you reach the agent.
+Y,Opening,Hi thank you for reaching out to Samsung technical support. How may I assist you?
+N,Opening,Hi Archie. I looked online and it seems like its a common issue my galaxy Tab 2 is dead will not turn on.
+N,Issue_Statement,I followed some online suggestions like pressing/holding power button for 30 s etc didnt work
+Y,Acknowledgement,I will be glad to assist you.
+N,Positive,Thank you I hope so
+N,Issue_Statement,Because this the first time i try a sumsung tab and its not looking good
+Y,Etc_Statement,To isolate the issue whether the issue is with the device or charger I need to ask few questions Is that okay ?
+N,Positive,ok
+N,YN_Question,to answer your question i tried a different charger for similar tab (my wife's) and its not woring
+N,Connection_check_Question,*working
+N,Positive,so Im assuming its the device not the charger
+Y,YN_Question,Could you please confirm; did you charge the device using USB cable connected to the desktop or laptop
+N,Etc_Statement,yes it is connected to my pg as we speak
+N,Connection_check_Question,*pc
+Y,Acknowledgement,Thank you for the confirmation.
+Y,YN_Question,Are you able to see the battery symbol on the tab ? when connected to the computer or laptop.
+N,Negative,No
+N,NotSolved_Answer,nothing
+Y,Wait,Thank you for waiting. I'll be with you in just a moment.
+Y,Acknowledgement,Okay thank you for the confirmation.
+Y,PresentSolution,I request you to perform hard reset. Performing hard reset will set the device to the factory defaults.
+Y,PresentSolution,It will delete all the data from the device.
+N,Positive,thats fine as long it turns on since i dont have nothing important on it [tank God]
+N,YN_Question,How can i do that?
+Y,PresentSolution,I will help you with the steps.
+N,Acknowledgement,Thank you
+Y,PresentSolution,Power the Tab off.
+Y,PresentSolution,Press and hold Volume Down and Power buttons.
+Y,PresentSolution,The Android system recovery menu appears.
+Y,PresentSolution,Press the Volume Up or Down button to select "wipe data/factory reset" and then press the Power button to make your selection.
+Y,PresentSolution,Press the Volume Up or Down button to select "Yes – delete all user data" and then press the Power button to make your selection.
+Y,PresentSolution,When the reset is complete press the volume Up or Down button to select "reboot system now" and then press the Power button to make your selection.
+Y,PresentSolution,Please follow the above steps to perfrom reset.
+N,SolvedUnknown_Answer,ok let me try
+Y,Acknowledgement,Okay please go ahead.
+N,Issue_Statement,when i press volume up + power button nothing happen no menu comes up
+Y,PresentSolution,Press the power and volume down button press both the buttons at a same time.
+N,NotSolved_Answer,yes i did nothing because i read about that on forums before i come here when i press/hold buttons nothing happen
+Y,Wait,I'm sorry for the delay. I'll be right with you.
+N,Positive,dont be sorry its my fault i bought a samsung tab lol im here
+Y,Wait,Could you please hold for 4 minutes while I gather the required information?
+N,Positive,ok
+Y,Acknowledgement,Thank you.
+Y,Acknowledgement,Thank you for holding. I appreciate your patience.
+Y,Open_Question,Cloud you please confirm; from when are you facing this issue
+N,Issue_Statement,one week. it was working until completely died and i couldn't restart it
+Y,Open_Question,Could you please confirm; the android OS of the device?
+N,Issue_Statement,how can i confirm?
+N,Etc_Statement,if it's dead you should now better which OS comes with it
+Y,PresentSolution,I do understand have you recently updated the Android OS.
+N,NotSolved_Answer,whatever OS come with it it's the same i didnt even have time to use it
+N,Negative,no updates
+Y,Acknowledgement,Okay thank you for the confirmation.
+N,Issue_Statement,so What's the verdict?
+N,Wait,I don't want to be rude but you are maing me wait for long time for no reason..
+Y,Acknowledgement,I do understand updating the Firmware will fix this issue.
+N,Open_Question,How can you update the firmware on a dead tab?
+N,Negative,that is not responding
+N,Etc_Statement,?
+Y,Etc_Statement,You need to connect the device to the desktop or laptop
+Y,PresentSolution,You need to update the Firmware through Kies software.
+N,Issue_Statement,where can i download it/use it?
+Y,PresentSolution,I will help you with the link.
+N,Acknowledgement,thank you
+Y,PresentSolution,http://www.samsung.com/us/kies/
+Y,YN_Question,Please download Kies
+N,Etc_Statement,ok downloading
+N,Issue_Statement,so im assuming when i download it/run it i will be able to update the firmware connecting the tab to my laptop using the USB port?
+Y,PresentSolution,Once it is installed please follow the steps from the below link.
+Y,Connection_check_Question,http://support-us.samsung.com/cyber/popup/iframe/pop_troubleshooting_fr.jsp?idx=418739&modelname=GT-P5113&modelcode=GT-P5113TSYXAR
+Y,Etc_Statement,Yes you need to connect the device to the laptop through USB cable
+Y,Confirm_Question,Are you able to access the above link ?
+N,Positive,yes
+N,Issue_Statement,but in the instructions it says you should turn on your tab.. in my case i can't will it still connect to kies?
+Y,PresentSolution,Once you connect it to the desktop it will connect to the Kies.
+N,Positive,ok im installing kies
+Y,PresentSolution,Okay It will take tine to install Kies.
+Y,Closing,Since it’s a lengthy procedure I suggest that you try it out and get back to us in case you need further assistance. We will be glad to assist you further. Live Chat is available 24X7. This chat session will be saved in our records for future reference and the ticket number for this chat session is:LTK11256091007X
+Y,Acknowledgement,Is that okay ?
+N,Positive,ok
+N,Acknowledgement,thank you
+N,Etc_Statement,Than you Archie
+Y,YN_Question,You're welcome. Is there anything else I can assist you with?
+N,Etc_Statement,Yes tell your company to make better tabs :)
+N,Closing,Take care

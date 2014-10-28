@@ -1,0 +1,110 @@
+g,ready,okay ehm
+g,align,you've got your starting point at the top
+f,reply_y,yeah
+g,align,can you see a diamond mine
+f,reply_y,yes uh-huh
+g,ready,right
+g,instruct,i want you to go straight down about three inches past that diamond mine on the left-hand side of it
+f,acknowledge,right
+g,align,okay
+g,query_yn,ehm can you see a graveyard
+f,reply_n,ehm no
+g,acknowledge,right that's okay
+g,instruct,ehm could you just head right about f-- sic-- five inches to the right once you've once you're about an inch past the diamond mine turn right
+f,acknowledge,right
+g,align,okay
+g,instruct,ehm now can you go up again about an inch
+f,reply_y,uh-huh
+g,ready,right
+g,query_yn,ehm can you see a fast flowing river
+f,reply_y,yes
+g,ready,right
+g,instruct,ehm could you sort of go round that in sort of a curve around the top of that
+f,query_yn,in a clockwise direction
+g,reply_y,aye
+f,acknowledge,right
+g,instruct,now keep going down about three inches
+f,reply_y,uh-huh
+g,align,can you see an apache village
+f,reply_y,yes
+g,instruct,eh could you go sort of just at a sort of angle at a right angle down the eh left-hand side of that
+f,clarify,at a r-- moving along to the left first
+g,clarify,well no sort of at an angle a sort of at a
+f,acknowledge,right
+g,align,you know what i mean
+f,reply_y,uh-huh
+g,reply_y,aye
+g,query_yn,eh can you see the carved wooden pole
+f,reply_n,no
+g,ready,right ehm
+g,instruct,you should be at at about a level with the bottom of the apache camp now
+f,reply_y,uh-huh
+g,ready,right
+g,instruct,well just ehm keep heading along about six inches
+f,check,to the
+g,clarify,to the left
+f,check,to the left
+g,align,you see the walled city
+f,reply_y,yeah
+g,instruct,just go along the top of that
+f,check,r--
+g,instruct,past the top of that
+f,acknowledge,right
+g,instruct,and now come down past it
+f,reply_y,uh-huh
+g,instruct,in sort of a big curve sort of a la-- go d-- go you're heading down now about six inches down but in a sort of curve
+f,reply_y,uh-huh
+g,instruct,not a very steep curve just a curve
+f,check,a curve to a curve to the right
+g,reply_y,aye
+f,reply_y,uh-huh
+g,instruct,and then you'll need to be going
+g,align,can you see the stone creek
+f,reply_y,yes
+g,instruct,so you'll be about three inches from there just now
+f,reply_y,uh-huh
+g,query_yn,can you sort of oh can you see flat rocks as well
+f,reply_y,yes
+g,ready,right ehm
+g,instruct,can you sort of curve up past stone creek and sort of the curve goes up to the level of the flat rocks
+f,check,on the left of the flat rocks
+g,reply_n,no
+g,instruct,just underneath them
+f,acknowledge,right okay
+g,instruct,you're sort of going past stone creek but your line's curving up past the flat rocks
+g,instruct,and then starting to come down again
+f,acknowledge,got that
+g,align,at the far right-hand side of the paper
+f,acknowledge,right
+g,query_yn,can you see the buffalo
+f,reply_y,yeah
+g,instruct,just s-- ehm go straight down the side of the paper and past the buffalo on the right-hand side of them
+f,acknowledge,right
+g,clarify,so that you'll end up underneath the buffalo
+f,reply_y,uh-huh
+g,ready,right
+f,reply_y,yeah
+g,align,see the cattle ranch
+f,reply_n,no
+g,acknowledge,no right
+g,uncodable,ehm
+g,reply_w,go along a wee bit underneath the buffalo
+f,reply_y,uh-huh
+g,instruct,not too far just an inch or something
+f,reply_y,yeah
+g,instruct,and then a small wee blip up like like you're going along the bottom of the paper but sort of a wee curve up the way like there was something in the way
+f,check,up and back down again
+g,reply_y,yeah
+f,acknowledge,right
+g,align,can you see the fort
+f,reply_y,yeah
+g,ready,right ehm
+g,explain,you should be just about an inch away from that aye
+f,check,almost
+g,acknowledge,right fine
+g,instruct,ehm now just curve round the fort underneath the fort
+f,reply_y,uh-huh
+g,instruct,and end up about an inch up from the fort and an inch along from the fort
+f,reply_y,uh-huh
+g,instruct,that's where you finish that's it
+f,acknowledge,right

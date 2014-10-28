@@ -1,0 +1,183 @@
+g,ready,okay ehm right
+g,instruct,take your line from the start and go vertically down past burnt forest
+f,acknowledge,right
+g,align,you have
+f,reply_y,yeah i i've got a burnt forest
+f,explain,but i've got a carpenter's cottage underneath that
+g,align,okay it's underneath
+g,acknowledge,right
+g,instruct,i want you to c-- i want you to take your line vertically down past burnt forest and past the carpenter's cottage right
+g,instruct,and just listen for a minute
+g,explain,and then the carpenter's cottage is to the left of a ravine
+f,reply_y,mmhmm
+g,check,i want you to take the line underneath the carpenter's cottage and then go vertically upwards through carpenter's cottage and the ravine
+f,align,between the two
+g,reply_y,yeah
+f,reply_y,yeah
+f,acknowledge,okay
+g,align,okay do that
+f,ready,right
+g,align,okay now you're at the top of the ravine ehm
+g,query_yn,is there a remote village above the ravine
+f,reply_n,no
+f,explain,i don't have a remote village
+g,acknowledge,okay
+g,instruct,well if you could just imagine that's above the ravine on a horizontal line with burnt forest
+f,align,right
+g,acknowledge,okay
+g,instruct,and go horizontally towards your right above the ravine
+f,acknowledge,right
+f,query_w,and where do i stop
+g,check,stop ah midway between the ravine and the pine grove
+f,align,right okay
+g,align,okay
+g,ready,right
+f,acknowledge,right
+g,instruct,now i want you to take that line go down towards pine grove just stop beside the writing pine grove
+f,acknowledge,right with a vertical line straight down
+g,reply_y,uh-huh
+f,acknowledge,right
+g,query_yn,oh right and do you have any obstructions underneath the pine grove
+f,reply_w,well there's an avalanche just to the right of it ehm and there's er a concealed hideout
+g,acknowledge,okay
+f,reply_w,just below there
+g,reply_w,i want you to get to the concealed hideout
+g,ready,so ehm
+g,align,is the avalanche to the right or the left of the pine grove
+f,reply_w,it's to the right
+g,acknowledge,to the right okay
+f,clarify,and just slightly below as well
+g,acknowledge,uh-huh
+g,instruct,well keep to the left-hand side of the avalanche draw the line downwards towards th-- slightly towards the right okay i want you to go really close to the avalanche but don't go past it and then keep that line going vertically downwards until you get just above the top of the concealed hideout
+f,acknowledge,right
+f,query_yn,eh are you trying to az-- avoid an obstacle here
+g,explain,i'm trying to avoid your avalanche but there's nothing here
+f,query_w,so does it oh how does it how does the line go does it go just like a straight line between just below pine grove to the hi-- concealed hideout or
+g,reply_w,if you can draw that straight line without
+f,acknowledge,i can yes
+g,uncodable,without
+f,acknowledge,mmhmm
+g,acknowledge,okay right that's fine
+g,instruct,without getting in the avalanche that's fine
+f,acknowledge,right
+f,instruct,s-- and eh i want to be just above
+g,check,just above the the peak of the concealed hideout
+f,acknowledge,right right
+g,acknowledge,okay that's fine right
+g,instruct,now i want you to go round ehm to your left of the concealed hideout
+g,check,is there a boat house
+f,reply_n,no
+f,explain,oh there's a boat house on the eh
+g,reply_y,uh-huh but
+f,check,to the right and down
+g,explain,i wa-- ehm i've got one to the left
+g,acknowledge,okay
+f,reply_y,uh-huh right
+g,instruct,ehm so if you can imagine there's a boat house there so it's kind of like in the middle of the whole map
+f,acknowledge,right
+f,align,is it in the wee bulge eh just above crane bay
+g,check,it's above that directly above that
+f,acknowledge,right okay
+g,instruct,okay if you can imagine that's there i want you to go i want you to draw it round concealed hideout come to the to the right of concealed hideout
+g,ready,okay
+f,align,right
+f,query_yn,eh to the right of concealed hi-- hideout
+g,reply_y,mmhmm
+g,align,so take that line that have you drawn and
+f,explain,is this is just to the left is this a right on the map or a le-- a right o--
+f,align,okay
+g,reply_y,the right of concealed hideout
+f,ready,right
+f,instruct,and that
+g,instruct,and then continue the line underneath concealed hideout so you're drawing to the right and then underneath concealed hideout
+f,query_yn,and underneath to the left do you mean like going from left to right underneath the concealed l-- hi-- hideout
+g,reply_y,from right to left uh-huh
+f,acknowledge,from right to left right okay
+f,check,so i come round the the concealed hideout
+g,reply_y,yeah
+f,clarify,from right to left
+f,acknowledge,right okay
+g,instruct,and then stop
+f,check,and then i go do i go down to that bulge yeah
+g,query_yn,do you see the bulge
+g,reply_w,it's like a it's an incline that goes down right the c-- the the coastline of crane bay comes up and it peaks at the top to the right of concealed to the left sorry of concealed hideout
+g,align,okay you see that
+g,explain,and then it falls again there's a d-- a big dent in crane bay just above where it it actually says crane bay
+f,acknowledge,yes i see that right
+g,align,okay
+g,instruct,well i want you to draw the line from where you are just now and then if you could make it meet the coastline where that dent is
+f,ready,right okay
+g,reply_w,and i want you to follow it until it peaks again
+f,acknowledge,right i see you right
+f,instruct,so you're drawing a to a straight line between those two eh peaks
+g,instruct,well i want i-- you to actually follow it
+f,acknowledge,oh right
+g,explain,to bay
+f,acknowledge,to the right to curve round right
+g,reply_y,yeah uh-huh
+f,acknowledge,okay
+f,check,so eh i'm going for a straight line from concealed hideout to the first eh crest
+g,reply_y,yeah
+f,clarify,and then do a curved line
+f,acknowledge,right okay
+g,reply_y,yeah
+g,instruct,until you come to the next peak there
+f,ready,right
+g,ready,okay right
+g,instruct,from now on you're going to go generally in a diagonal from right to left
+g,align,okay
+g,instruct,but i want you to draw above
+g,query_yn,have you got pebbled shore
+f,reply_y,yes
+g,explain,well on my map above directly above pebbled shore there's coconut palm
+g,acknowledge,okay
+f,explain,there's no such thing on this map
+g,instruct,so i want you to draw from right to left in a in a diagonal passing the top of pebbled shore okay can you do that and just stop at the end of pebbled shore there
+f,align,right okay
+g,reply_y,uh-huh
+f,check,so it's just a diagonal from that first crest to above pebbled shore
+g,clarify,can you make it can you make that a diagonal sink downwards a bit
+f,query_w,what you you mean curve
+g,reply_w,can make it curve dow-- curve downwards a bit
+g,check,but s--
+f,instruct,right so to make it curve above pebbled shore
+g,reply_y,yeah
+g,instruct,but still so that it's more following the the li-- the coastline again okay but coming away to go
+f,query_w,where where is the object eh you're trying to avoid
+g,reply_w,it's a-- above pebbled shore
+f,explain,it's
+g,acknowledge,to the right of pebbled shore just above
+f,explain,above and to the right right i understand now i--
+f,query_w,is it ehm how far roughly is it from the the coastline
+f,reply_y,right okay
+g,explain,ehm the same distance away as pebbled shore is away from the lower coastline
+f,check,right so curve right
+g,align,okay
+g,query_w,what have you got below pebbled shore
+f,reply_w,there's eh washed stones
+g,align,okay
+g,explain,i don't have that
+g,align,i want ehm you see where the flagship is
+f,reply_y,yes
+g,acknowledge,uh-huh okay
+g,instruct,in a horizontal line from the flagships okay imagine a line drawn there that's the finishing line about a centimetre away from the coastline
+g,align,okay
+f,instruct,to the left
+g,reply_y,uh-huh
+g,instruct,and i want you to draw from where you are just now in a semicircular shape until you come horizontal with a line
+f,acknowledge,mmhmm
+g,query_yn,beside the flagship can you do that avoiding whatever you've got underneath the pebbled shore
+f,check,ehm does this does this curve follow th--
+g,reply_w,that's towards the right
+g,instruct,towards the left sorry
+f,query_yn,does the curve follow the coastline or does it f-- go the opposite way
+g,reply_w,f-- it goes towards the edge of the paper
+f,acknowledge,right ah right
+f,clarify,and the the f-- the finish is just to the is between
+g,query_yn,it is to the left of the flagship
+f,explain,the eh the flagship and the edge of the paper
+g,reply_y,uh-huh
+g,clarify,about a centimetre away from the coastline
+f,ready,right okay so
+f,align,okay
+g,acknowledge,okay

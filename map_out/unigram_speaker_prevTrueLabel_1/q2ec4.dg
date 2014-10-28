@@ -1,0 +1,254 @@
+g,ready,right
+g,explain,at the very top of the page there's a cross
+f,acknowledge,yep
+g,query_yn,do you have a diamond mine just below it
+f,reply_y,mmhmm
+g,instruct,about an inch to your right draw a line straight down
+f,acknowledge,right
+f,check,c-- start from the cross yeah
+g,clarify,'til it's abo-- 'til it's an inch below the diamond mine
+g,acknowledge,right
+g,query_yn,do you have a wagon--
+f,reply_y,it's directly down yeah
+g,reply_y,yeah
+g,query_yn,do you have a a wagon wheel just to the right of the the diamond mine
+f,reply_n,mm no i haven't got any wagon wheel
+g,query_w,what's the f-- next thing to its right
+f,reply_w,to the right i've got eventually a cactus
+g,acknowledge,you don't have a rift valley
+f,reply_y,oh i've got a rift valley above that
+g,reply_y,yeah okay
+f,query_yn,y-- you've got the rift valley right up at the top right-hand side
+g,reply_y,you're drawing your line down
+f,reply_y,mmhmm
+g,instruct,underneath draw a line to your right and straight along at a slight angle rising up towards the back of the corner of the page
+f,uncodable,towards the right-hand corner
+g,reply_y,yeah
+f,explain,ehm that's going to take me f-- pretty near to the cactus thing so i'm trying to avoid that
+g,acknowledge,right
+f,clarify,hang on hang on right
+f,check,an inch to the right of the diamond mine
+g,reply_y,yeah
+f,check,yeah and then straight down to an inch below it
+g,align,should be now yeah if your line's below the diamond mine you should be okay
+f,acknowledge,yeah
+g,instruct,and then go st-- straight along to my right which is your right as well go straight along to the right
+f,acknowledge,okay
+f,check,to right to the edge of the page
+g,reply_n,no
+g,reply_w,to about halfway to page about four inches off before the page
+f,acknowledge,er right okay
+f,query_w,that takes me to
+g,instruct,then go s-- up to almost the very top of the page
+f,acknowledge,okay
+g,ready,right
+g,instruct,and then to your right again
+g,ready,well but
+f,acknowledge,okay hang on
+f,query_yn,have you got the rift valley there
+f,reply_y,'cause i've got the rift valley right up in that r-- top right-hand corner
+g,reply_y,yeah
+g,instruct,you're going to actually go through the rift valley
+g,align,like the rift valley's like a half moon
+f,reply_y,yeah
+g,instruct,you're going to go and you're going to come right through you're going to like intersect right almost at the midpoint of the rift valley
+f,acknowledge,right
+f,query_yn,go through the centre
+f,reply_y,i'll just take it up and go through the centre yeah
+g,acknowledge,yeah
+g,clarify,like right through the sort of midpoint like through the it's like a "u" and you're going right through the midpoint you want to be down into the "u" as though you were going if you know what i mean
+f,align,right okay
+f,explain,erm i'm not that so i should be below there when i'm taking the line up
+g,reply_y,yeah below
+g,instruct,and then like into the rift valley
+f,acknowledge,okay right
+g,ready,and right through
+f,explain,i'll have to t-- i'll i'll have to kind of change it slightly 'cause i've taken it on the wrong side of this cactus thing i think i'll just do a slight detour
+f,acknowledge,right
+f,check,and just take it straight through towards the top of the page
+g,reply_y,straight through yeah
+f,acknowledge,alright there we go
+g,instruct,and you want to go to the sort of midpoint of the rift valley you want to intersect in the midpoint of the rift valley going down the way
+g,reply_y,do you know what i mean
+f,check,not quite
+g,acknowledge,right
+g,align,you've got in you're above the rift valley first of all right
+f,reply_y,was i
+g,acknowledge,yeah
+g,query_yn,above the rift valley
+f,acknowledge,right
+g,instruct,you go above the rift valley and then you start coming down as in into the rift valley and you intersect like the line of the rift valley in the midpoint
+f,reply_y,mm that's not where i am now
+f,ready,right so where hang on right so
+g,reply_y,your rift valley is "u"-shaped yeah
+f,reply_y,yeah
+f,check,in a c-- like as the two ends are pointing up towards top of the page
+g,reply_y,yeah
+f,acknowledge,right
+f,reply_w,and i was supposed to start above it there and come down through it
+g,reply_y,yes
+f,ready,well
+f,explain,i've done it back to front but never mind right
+f,explain,eh so i should now be below it
+g,reply_y,yeah
+g,instruct,through the midpoint
+g,query_yn,below your rift valley about four inches down do you have rocks
+f,reply_y,yeah
+g,query_yn,and do you have a stone creek
+f,reply_n,erm no
+f,explain,i've got the rocks i've got like two rocks
+g,acknowledge,uh-huh
+f,query_yn,and again a couple of inches below that i've got outlaws' hideout
+g,acknowledge,yeah
+g,explain,i've got that
+f,explain,but i haven't got anything else round about that area
+g,check,you've got nothing to like the left of it
+f,reply_w,er right over i've got rapids about three inches across from the rocks
+g,explain,well i've got a stone creek there
+g,align,see in between
+g,instruct,you want to go from the rift valley right down in between the rocks
+g,reply_n,no
+f,check,thr-- through the centre of the two rocks
+g,reply_n,no not sorry
+g,explain,i i i don't mean through the two rocks i mean like to the left of the two rocks about an inch
+f,acknowledge,right okay
+f,check,so is it
+f,reply_y,well okay alright i think i've got this
+f,explain,the first part of this is a total state
+g,query_yn,do you have white water
+f,explain,er well that'll be the rapids
+g,acknowledge,yeah that's true
+g,explain,and you don't have a stone creek above your white water
+f,reply_n,no i've got
+g,query_w,or a swamp to its left
+f,explain,i've got the swamp
+g,check,to its left
+f,explain,and like directly above the rapids i've got a diamond mine
+g,explain,well that's a a stone c-- ss
+f,align,but you know right right back at the start
+g,acknowledge,oh no aye yeah
+g,check,you don't have like above the the rapids to its s-- slightly to its right you don't have a stone creek
+f,reply_n,nope
+g,ready,no well
+g,instruct,take your line right down to your rapids which is my white water and just like
+f,query_yn,am i going above or below here
+g,acknowledge,above
+f,explain,at the moment i'm at at the moment i'm just slightly to the left of the rocks
+g,acknowledge,right okay
+f,query_w,so where's where do i go from there
+g,reply_w,right round the white water or right round the rapids
+f,clarify,taking it round from the top or
+g,clarify,from the top
+g,clarify,but stay quite close 'cause you don't otherwise you're going to be in that stone creek
+f,acknowledge,right okay
+f,acknowledge,right
+f,explain,so i'm now at the top left-hand corner of the rapids
+g,acknowledge,right okay
+g,instruct,come down come straight down to below that like j-- a straight line down but take it to at least two inches below your outlaws' hideout not like you mean like s-- straight down but like
+f,check,oh i see what you mean yeah
+g,clarify,in like length further down from that on the page
+f,query_yn,have you got a manned fort below the rapids
+g,reply_n,no
+f,explain,'cause i've got that interrupting er like dir-- almost directly below it slightly to the left i've got a manned fort
+g,check,you got another stone creek
+f,acknowledge,eh oh right
+g,explain,and stone slabs
+f,reply_y,yeah it's right the way down below the manned fort
+f,query_yn,have you not got anything in between the rapids and the stone creek down at the bottom
+g,reply_n,no
+g,ready,well yeah
+g,explain,slightly to its right there's some stone slabs
+f,explain,yeah no in right in between the two of those i've got a manned fort
+g,reply_n,no
+g,query_w,how far down's the manned fort
+f,reply_w,er about two inches maybe two and a half
+g,instruct,take it further down go right under the manned go under your manned fort and between your stone creek
+f,check,the stone creek and the stone slabs
+g,reply_n,no
+g,clarify,go r-- go down under your manned fort and then
+f,query_w,which way do you want me to go round the r-- left or the right-hand side of that
+g,reply_w,go round the left-hand side
+f,acknowledge,right okay
+g,ready,and then
+g,clarify,when you get to the b-- when you get below it go up towards your ha-- outlaws' hideout and sort of take the line s-- sloping up so it's like going straight up towards the outlaws' hideout or it's going close to the hideout it's like you're so you're going to the other side of the page
+f,acknowledge,right so
+g,reply_y,yeah
+f,reply_w,it's a diagonal across the page towards that
+f,acknowledge,that sounds a bit drastic
+f,acknowledge,right
+g,query_yn,right below your outlaws' hideout a good bit below do you have a noose
+f,reply_y,yeah
+f,query_yn,have you got a gold mine there as well just
+g,reply_n,no
+f,explain,just to below and to the right of the outlaws' hideout i've got a gold mine
+g,reply_n,no i've got nothing
+f,explain,i'm going to be quite wealthy i've got all the mines
+g,check,do you have a swan pond
+f,reply_n,erm no
+g,acknowledge,no
+g,query_yn,do you have a saloon bar
+f,reply_w,er i've got a saloon bar right down on the left-hand side
+g,instruct,head for that and we'll be okay
+f,acknowledge,short cut
+g,query_yn,no ehm see the outlaws' hideout
+f,reply_y,yeah
+g,acknowledge,you're right up beside that
+f,reply_y,mmhmm i'm
+f,explain,ju-- well i've got it at the moment i'm slightly below it but
+g,align,you've got a gold mine a gold mine you got a gold mine below that
+f,acknowledge,yeah
+g,query_w,far below it
+f,uncodable,erm
+g,explain,directly below it
+f,check,not directly below it
+g,acknowledge,aye
+g,instruct,that'll be where my s-- that'll be where my stone labs
+f,explain,just just below the "u" if you take it down from the hideout er that that's just that's just at the left-hand side
+g,check,that'll be where my stone slabs are
+g,instruct,i would imagine
+f,query_yn,but are your stone slabs not kind of at the other side of that
+f,explain,'cause my stone slabs are like maybe what two and a half inches below and to the left
+g,acknowledge,aye right okay
+g,clarify,so you're saying they're it's to the right then this thing
+f,ready,the gold mine is
+g,acknowledge,right above the noose
+f,reply_y,mm aye directly above the noose that's a better description
+g,acknowledge,okay
+g,ready,well--
+g,instruct,from where that line is that you've drawn go straight down 'til you pass the noose and you're passing the noose like on its right-hand side by a wee bit
+g,align,if you know what i mean
+f,reply_y,on its right-hand side
+g,reply_y,yeah
+f,check,so that's like towards the edge of the paper here
+g,reply_y,mmhmm
+f,acknowledge,right there we go
+f,explain,i've come right down below that
+g,reply_y,yeah
+g,explain,then you don't have anything else down like
+g,reply_y,uh-huh
+f,explain,i've got the saloon bar and i've got the stone creek directly across to the left of the noose er but i've got nothing else in that area at all
+g,acknowledge,right
+f,explain,you know like below that i should say i mean in the m-- in the middle and to b-- above them and the stone slabs
+g,acknowledge,okay
+g,ready,right
+g,align,you know how the like on line with the saloon bar
+f,reply_y,mmhmm
+g,explain,about two inches along i've got a swans pond
+f,acknowledge,right
+f,explain,so i've to avoid that
+g,instruct,you want to avoid that
+g,ready,so
+f,check,so go above it
+g,instruct,need to go go up above it
+g,instruct,and then down and under the saloon bar to the finish
+f,check,phoar
+g,query_yn,is that you
+f,reply_y,that's it yeah
+g,ready,yee-ha
+g,align,okay
+g,align,home boy let's see you done
+f,clarify,what the first bit of that was a total disaster
+g,acknowledge,he'll probably kill me here
+f,query_yn,'cause i came through the rift valley the wrong way i was supposed to come from the top and go down 'til like down through it
+g,reply_y,yeah
+f,explain,'cause i well i came from underneath don't know what i was doing down there

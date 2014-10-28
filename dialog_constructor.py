@@ -1,10 +1,10 @@
 # -*- coding: utf-8 -*-
 """
 Created on Fri Jun 13 15:21:46 2014
-In the MapCorpus, all the words are tagged, and the utternces are splited by tokens(word).
-So we need to build dialouge data from the MapCorpus
+In the MapCorpus, all the words are tagged, and the utterances are split by tokens(word).
+So we need to build dialog data from the MapCorpus
 
-This program process mapcourpus and build dialog text
+This program process Map corpus and build dialog text
  
 @author: yeonchan
 """

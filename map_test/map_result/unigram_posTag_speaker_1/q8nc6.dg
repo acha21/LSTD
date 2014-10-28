@@ -1,0 +1,111 @@
+g,ready,right ehm
+g,query_yn,have you got the camera shop there
+f,reply_y,yeah
+g,ready,right
+g,query_yn,have you got the parked van
+f,reply_n,no
+g,reply_n,no
+g,clarify,below it
+f,reply_y,yeah sorry i have i have yeah
+g,ready,right ehm
+g,instruct,from the start go down down the left-hand side of the camera shop and down the left-hand side of the parked van 'til you're below the "p" in the parked van
+f,reply_n,oh no i don't have the parked i've got a different parked van
+g,acknowledge,does it say parked van
+f,reply_n,not down here no
+g,acknowledge,oh christ right
+g,clarify,just get y-- down the side of the camera shop
+g,align,right
+f,reply_y,mmhmm
+g,instruct,down about ten centimetres
+f,acknowledge,right
+g,align,okay
+f,reply_y,mmhmm
+g,ready,then
+g,align,right about
+g,query_yn,have you got the allotments there
+f,reply_y,yeah
+g,ready,right
+g,instruct,go right 'til you're directly below the left-hand side of the allotments
+f,acknowledge,mmhmm
+g,align,okay
+f,reply_y,mmhmm
+g,ready,right
+g,instruct,then go straight up 'til you're at the top left-hand side of the allotments
+f,acknowledge,right
+g,ready,okay ehm now
+g,instruct,go diagonally up and right
+f,acknowledge,mmhmm
+g,instruct,but not forty-five about twenty degrees right
+f,acknowledge,mmhmm
+g,query_yn,ehm have you got a disused monastery
+f,reply_n,no
+f,reply_y,yeah yeah
+g,reply_y,yeah
+g,ready,well
+g,clarify,go diagonal diagonally right until you're directly below the left-hand side the right-hand side of the disused monastery but ab-- you'll still be about ten centimetres below it
+g,align,okay
+f,acknowledge,right got you
+g,ready,right
+g,instruct,now go
+g,instruct,directly up and round the top of the disused monastery quite close to it 'til you're you come round in a the left-hand side of it
+f,acknowledge,mmhmm
+g,align,okay
+f,acknowledge,right
+g,query_yn,have you got the alpine garden
+f,reply_y,mmhmm
+g,ready,right ehm
+g,instruct,go left 'til you're directly below the left-hand side of the alpine garden
+f,query_yn,got you
+g,reply_y,yeah
+g,clarify,then up 'til you're at the top of the left-hand side of the alpine garden
+f,acknowledge,right
+g,ready,right
+g,query_yn,have you got a youth hostel
+f,reply_n,no
+g,reply_n,no
+g,ready,right ehm
+g,instruct,go right about three centimetres
+f,acknowledge,right
+g,align,okay
+f,reply_y,mmhmm
+g,instruct,up about five centimetres
+f,check,directly up
+g,instruct,straight up
+f,acknowledge,right
+g,align,okay
+g,instruct,right again by about three centimetres
+f,acknowledge,mmhmm
+g,align,okay
+g,query_yn,got the telephone box
+f,reply_y,yeah
+g,acknowledge,okay
+g,instruct,from where you are go diagonally down 'til you're directly below the "t" in telephone box
+f,acknowledge,right
+g,align,okay
+f,query_yn,got you
+g,instruct,then along the bottom of the word
+f,acknowledge,mmhmm
+g,align,okay
+g,query_yn,have you got the thatched mud hut
+f,reply_n,no
+g,reply_y,got the east lake though yeah
+f,reply_y,yeah
+g,ready,right ehm
+g,instruct,go up about four centimetres 'til you've just cleared the top of the telephone box
+f,acknowledge,mmhmm
+g,align,okay
+g,instruct,then up and left diagonally about four centimetres
+f,acknowledge,right
+g,align,okay
+g,ready,then
+g,instruct,straight up 'til you're bel-- you're bel-- 'til you're below the "k" in lake but ehm about a centimetre from the edge of the lake
+f,acknowledge,right
+g,align,okay
+f,reply_y,uh-huh
+g,ready,then
+g,instruct,left about s-- five centimetres and about up one
+g,align,okay
+f,reply_y,mmhmm yeah
+g,explain,that's the finish i think
+f,acknowledge,right
+g,uncodable,yup

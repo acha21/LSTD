@@ -1,0 +1,169 @@
+g,ready,okay right this is off
+g,query_yn,do you have a start
+f,reply_y,yeah start
+g,align,up at crane bay
+f,reply_y,yeah
+g,clarify,on the
+f,query_yn,on the san-- on the sandy shore
+g,reply_y,yeah
+g,query_yn,do you have a well
+f,reply_w,a well
+g,instruct,on the corner sandy shore comes down and round to the mouth of the river
+g,instruct,do you follow me
+f,reply_n,no i don't have i don't have a well
+g,query_yn,do you have local residents
+f,reply_y,yeah
+f,explain,i've got a b-- er two little houses with local residents underneath
+g,acknowledge,right okay
+g,ready,well
+g,align,s-- do you see the corner where the the shore the crane bay comes down and then turns in
+f,reply_y,yes
+g,instruct,before it comes into the mouth of the river
+f,reply_y,yes
+g,explain,well right on that corner i've got a well
+f,acknowledge,oh yeah uh-huh
+g,clarify,and i want you to bring the line down but
+f,acknowledge,right
+g,instruct,cut out as if you're going round a well
+f,acknowledge,okay
+f,check,so i go down and then round towards local residents
+g,reply_y,yep
+f,acknowledge,okay
+g,instruct,cut ut er up on up the left-hand side of local residents up to the corner where of crane bay
+g,align,do you see what i mean
+f,reply_y,yeah
+f,explain,so i'm now i go underneath the local residents
+g,reply_n,no
+f,acknowledge,no
+g,acknowledge,no
+g,instruct,cut on the left-hand side of the residents
+g,ready,right
+f,reply_y,yeah okay
+g,instruct,go up there
+g,instruct,to the point
+f,reply_w,go up towards the iron bridge
+g,align,see where the point is
+g,reply_y,oh yeah yeah yeah
+g,clarify,go up as if you're can cross over the iron bridge or whatever it is you've got there
+f,check,so i g-- i'm going to cross over the iron bridge
+g,clarify,cross over the bridge
+f,acknowledge,right okay
+g,align,okay
+f,reply_y,yeah
+g,ready,now
+g,query_w,what do you have on that side
+f,check,i have woodland
+g,ready,right well
+f,acknowledge,right
+g,instruct,don't go near that i want you to follow the course of the river
+f,acknowledge,yeah
+g,clarify,right down to the fork just above the fork
+f,check,just above the fork
+g,reply_y,uh-huh
+f,query_w,where where the dead tree is
+f,reply_w,just
+g,align,above that you know before before the river forks
+f,check,be-- before the river forks okay
+g,reply_y,uh-huh
+g,ready,right
+f,acknowledge,right i've got it
+g,ready,now
+g,query_yn,do you have farmed land
+f,check,farm land
+g,clarify,just there just to the right of the tree
+f,reply_n,no
+g,explain,right well i've got f--
+f,explain,i've mountain stream
+f,reply_y,yes
+g,query_yn,and the lagoon on the other s-- the lagoon right
+g,ready,well
+g,align,on the s-- you're on the side of the mountain stream aren't you
+f,reply_y,yeah yeah
+g,ready,right
+f,acknowledge,right
+g,clarify,well i want you to do a back-- a backwards "c" as if you're you're going round farmland and cutting the river cutting across the stream just below the dead tree
+f,acknowledge,okay
+g,instruct,so that ins-- stop when you get to the bottom of the dead tree
+f,explain,so remind me what i'm i'm i've got to go underneath the dead tree
+g,reply_n,no
+g,align,from where you are right
+f,reply_y,yeah
+g,align,just at the fork before the fork of the river
+f,reply_y,yes
+g,clarify,i want you to do a back-- a backwards "c"
+f,acknowledge,right
+g,ready,right
+g,instruct,cutting just at don't cross the river the other way from the river
+f,acknowledge,yeah okay
+g,align,see what i mean
+g,clarify,and cut the river or the stream below the level of the trees so that you're stopping just under the tree
+f,ready,okay right
+f,explain,so i go undern-- and now i'm underneath the tree
+g,reply_y,you're now underneath the tree
+f,acknowledge,okay
+g,ready,right
+f,reply_y,yeah i've got it
+g,instruct,now i want you to go directly south for about seven centimetres about two inches
+f,acknowledge,right
+g,ready,right
+f,query_yn,have you got treas-- er tr-- buried treasure
+g,reply_n,no
+f,acknowledge,okay
+f,reply_y,yeah
+g,instruct,then i want you to go directly west no to your just say to your left for about the same amount to bring you up to the shore of the lagoon
+f,check,yeah i've got it
+g,ready,right
+g,instruct,now follow the lagoon round to the tip
+g,align,see the bottom of the little lagoon
+g,ready,right
+f,reply_y,yeah got it
+g,instruct,take it round to there
+f,reply_y,yeah
+g,ready,right now
+g,align,green bay see green bay
+f,reply_y,yes i've got that
+f,query_w,with the pirate ship
+g,clarify,of the pirate ship
+g,acknowledge,right
+f,reply_y,yeah
+g,query_yn,do you have a rock fall
+f,reply_n,no
+g,ready,right
+g,ready,well f--
+f,reply_y,yes
+g,instruct,see if you follow the coast of that on the right-hand side no sorry the left-hand side of the map
+g,explain,all the way down right
+f,reply_y,yes yes
+g,query_yn,do you see the the point before it turns into green bay
+f,reply_y,yes
+g,acknowledge,right
+g,instruct,i want you to take your line from the bottom of the lagoon
+f,check,to there
+g,ready,sort of but
+g,instruct,make sure you sort of um curve it up a wee bit so that you're missing i-- 'cause i've got rocks
+f,acknowledge,okay
+g,instruct,so curve it up a wee bit
+f,acknowledge,up
+g,instruct,towards it and get to that point
+f,check,and then go to that point
+g,reply_y,yeah
+f,acknowledge,right i'm there
+g,ready,right
+f,reply_y,yeah
+g,clarify,so you're like on the coast before you turn into green bay
+f,check,i've got it
+g,ready,right
+g,instruct,now beside the pirate ship i've got a cross like for the finish
+f,check,beside the pirate ship
+g,reply_y,yeah
+g,clarify,just to the left of the pir--
+f,query_yn,so do i have to go round the outside of green bay
+g,reply_n,no
+g,query_yn,what you do is you do an "l" shape in the water
+f,reply_w,in the water
+g,instruct,to get to it just to get to the pirate ship
+f,check,by the pir-- so i'm going to the pirate ship
+g,clarify,you're going you're doing an "l" shape to the pirate ship
+f,reply_y,yeah i've got you okay
+g,explain,there that's the finish
+f,check,is that that's the end right

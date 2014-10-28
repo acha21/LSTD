@@ -1,0 +1,134 @@
+g,instruct,erm we're start oop-- starting down
+g,instruct,that's the end of that
+g,instruct,erm starting above the telephone kiosk
+f,reply_y,uh-huh
+g,explain,and we're going on the let's see left-hand side of that as i'm looking at it and come directly down
+f,reply_y,uh-huh
+g,instruct,below the stone circle and we come up
+f,explain,i don't have a stone circle
+g,explain,you don't have a stone circle
+f,reply_n,no
+g,acknowledge,ah
+g,acknowledge,right okay
+g,explain,if you come down almost to the bottom of the map that i've got
+f,reply_y,uh-huh
+f,check,to to the left of the telephone kiosk
+g,reply_y,yes
+f,acknowledge,right
+g,explain,to my what was my left as i'm looking at it here
+f,acknowledge,okay
+g,instruct,erm and come directly down
+f,reply_y,yeah
+g,clarify,and almost to the bottom
+f,reply_y,uh-huh
+g,instruct,and then come across
+g,uncodable,hmm
+g,query_yn,do you have a farmer's gate
+f,reply_n,no
+f,query_yn,i have a broken gate
+g,acknowledge,ah right okay
+g,instruct,erm come across as far as that but still at the bottom
+f,reply_y,yeah i've got it
+g,instruct,and then head up towards the left-hand side of the gate
+f,acknowledge,right
+f,explain,i've gone a bit too far then
+f,acknowledge,okay
+g,acknowledge,right
+g,instruct,come across a-- th-- come round and across the top of the gate
+f,reply_y,yeah
+g,instruct,erm and walk above steadily or gradually heading upwards but only slightly up to above the meadow if you've got that
+f,reply_y,yeah
+f,explain,but the meadow's below my broken gate
+g,reply_y,right yes
+f,explain,that's it
+g,instruct,but come over the broken gate and then head over towards that
+f,reply_y,yeah
+g,instruct,erm once you're above that head upwards to the right-hand side of the ruined monastery if you've got that
+f,explain,that's m-- away up
+g,acknowledge,mmhmm
+f,reply_y,yeah w--
+f,query_yn,have you got a
+g,instruct,head up to the right-hand side of that but avoiding the the dead tree
+f,acknowledge,right
+g,instruct,if you'll erm come above that over towards the left-hand side
+f,reply_y,yeah
+g,instruct,round down towards the top of the west lake
+f,explain,i don't have a west lake
+f,reply_n,no
+g,explain,you don't have a west lake at all
+f,explain,i've got i've got an east lake but i haven't got a west lake
+g,acknowledge,oh
+f,query_yn,have you got a stile
+g,reply_y,i've got a stile yes
+f,query_yn,is it anywhere near that
+g,check,it's j-- it's directly below that
+f,reply_y,uh-huh
+g,instruct,erm if you come d-- just loop down below the stile and round to the left-hand side
+f,acknowledge,right
+g,instruct,then come up across it to the far side of the the drawing of the stile or the stile erm head upwards erm on the map it's maybe about an inch
+f,reply_y,yeah
+g,explain,if i'm allowed to use that
+g,instruct,erm and then head diagonally down towards the bottom of the dead tree
+f,explain,i have don't have a dead tree i have a dutch elm
+g,query_w,erm it whereabouts is that is that on
+f,reply_w,it's r-- far eh way over on the right-hand side about just up from the middle of the map
+g,acknowledge,right okay well that i well i assume that's the same thing
+f,align,is it about right
+f,query_yn,have you got a popular tourist spot
+g,reply_n,erm no i haven't
+g,explain,i've got
+f,reply_y,'cause at the moment if i head diagonally i i bump into the popular tourist spot
+g,acknowledge,oh
+g,explain,i've got a great viewpoint eh above the tree eh just below the east lake
+f,acknowledge,oh no
+f,explain,i've got a rocket launch just b-- just below the east lake
+g,ready,erm well
+f,check,are we heading towards the dutch elm then
+g,reply_y,i would say so yes
+f,acknowledge,yeah okay right i suppose that
+g,instruct,and head down below that
+f,acknowledge,right okay right
+g,instruct,now loop round that on the right-hand side
+f,reply_y,yeah got it
+g,instruct,and come over gradually to the far to the left-hand side of the tree
+f,reply_y,yeah
+g,check,sloping slightly upwards
+f,reply_y,yeah got it
+g,instruct,and then come round
+g,explain,well i've got a great viewpoint here just below the east lake
+f,explain,oh i've got a great viewpoint right in the top left-hand corner
+g,explain,i've got that as well
+f,acknowledge,ah okay
+g,ready,so like
+g,query_yn,erm what have you got underneath the east lake
+f,acknowledge,rocket launch
+g,explain,well i think we'll need to ass-- assume that's
+f,reply_y,yeah
+g,clarify,to be avoided anyway
+f,reply_y,yeah
+g,instruct,so if you come round to the right-hand side of that and head upwards towards the east lake
+f,check,so i just come round on top of the dutch elm
+g,acknowledge,right
+g,clarify,you're above the e-- the elm
+f,reply_w,on the left-hand side
+g,instruct,on the left-hand side if you head directly upwards towards the east lake on the right-hand side
+f,acknowledge,okay
+g,explain,oh oh it's on the right-hand side of my great viewpoint
+f,acknowledge,okay yeah
+g,ready,right eh
+g,instruct,go almost to the edge of the lake
+f,reply_y,yeah
+g,instruct,and then head eh left
+f,acknowledge,right
+g,uncodable,uh
+f,explain,so i'm i'm i'm g-- like on the bank on the bank of the east lake
+g,reply_y,yeah
+f,acknowledge,okay
+g,explain,maybe slight-- just slightly back from it but above what i've got as a great viewpoint
+f,reply_y,yeah
+g,explain,and that's my the finish
+f,explain,that's it
+f,acknowledge,right
+f,instruct,so what-- what would we end just underneath the east lake do we
+g,acknowledge,yep yep
+f,acknowledge,right

@@ -1,0 +1,66 @@
+Y,Opening,Hi thank you for contacting Samsung Technical Support. How may I help you today?
+N,Issue_Statement,I need some help with my cell
+N,Open_Question,Model SPHL710
+Y,Acknowledgement,Sure go ahead with that.
+N,Issue_Statement,After the upgrade to 4.3 on December 17the I noticed my battery life has deteriorated
+N,PresentSolution,Among a few other issues
+Y,ConfirmIssue_Question,I understand that you have an issue with the device battery after OS update. Is that correct?
+N,Positive,yes
+N,Issue_Statement,and I also have notifications repeatedly reappearing every time I reconnect to my WIFI
+Y,Etc_Statement,I apologize fro the inconvenience this might have caused you.
+N,YN_Question,What is the fix?
+Y,Open_Question,May I know the model number of your phone ? You can find the model number beneath the phone's battery which generally starts with SGH SCH or SPH .
+N,Word_Answer,I have already sent it to you in the beginning of this conversation
+Y,Acknowledgement,Sorry for the confusion.
+Y,Acknowledgement,Thank you for the model number.
+Y,YN_Question,Did the issue persist after installing any applications?
+N,PresentSolution,No I have not added any APPS only permitted the OS update to take place on the evening of the 17th of December
+Y,YN_Question,Are you using the original battery and charger that came with the device?
+N,Positive,yes
+N,YN_Question,Please Note: the problem began immediately after the OS update.
+N,Connection_check_Question,A
+N,Cause_Statement,As did the repeated notifications
+Y,Acknowledgement,Thank you for all of the information.
+Y,PresentSolution,Let us try few troubleshooting steps which may help in resolving the issue.
+N,Positive,OK
+Y,PresentSolution,Please follow the steps mentioned below to perform a soft reset on your Phone.<br><br>  1. Turn off the handset. <br> 2. Remove the battery and wait for 30 seconds.<br> 3. Reinsert the battery and turn ON the device.<br><br>
+N,Word_Answer,OK will do.. FYI there are a number of online forums all reporting identical problems
+N,Positive,Done
+N,Etc_Statement,How as I am reconnecting to my Wi Fi the notifactions are again repeating and I will nto know if this fixed the battery issue
+Y,Open_Question,Now please go ahead performing the wipe cache partition on the devcie.
+Y,PresentSolution,Please follow the below steps to perform  the wipe cache partition on the device.
+Y,PresentSolution,1. Power the device off (remove and re-insert the battery).
+Y,PresentSolution,2. Press and hold the Volume Up key and the Home key then press and hold the Power key.
+Y,PresentSolution,3. When the device vibrates; release only the Power key.
+Y,PresentSolution,4. When the Android system recovery menu displays; release the Volume Up and the Home key.
+Y,PresentSolution,5. Navigate with the Volume keys to the wipe cache partition reset option and press the Power key to select.
+N,SolvedUnknown_Answer,OK .. I will keep you updated
+Y,Positive,Sure go ahead.
+N,Etc_Statement,OK I have selected the Wipe Cache parttion..and it is rebooting
+Y,Positive,Sure go ahead.
+N,Issue_Statement,OK rebooted and the same notifications and photos keep showing in the Notifications and I can not tell if this will fix the battery issue
+N,Wait,for at least 30 minutes or so
+Y,Positive,It is now recommended to charge the device until the device battery is full and then observe the device performance for 24hours.
+Y,Etc_Statement,In case if you still face the same issue please feel free to contact us back as we will be more than happy to help you.
+N,Issue_Statement,What about the Notifictions that keep reoccurring every time i connect or disconnect for my WIFI
+N,Connection_check_Question,from
+Y,Open_Question,May I know what kind of notifications are occuring?
+N,Acknowledgement,about 30 to 40 of the same photos / IMG
+Y,PresentSolution,I am sorry could you be more specific in the above statement?
+Y,Connection_check_Question,Not to rush you are we still connected on the chat?
+N,Word_Answer,OK  I found the answer on a forum.. Go to Application Manager  Download Manger Clear Cache and clear data Force Stop it works
+N,YN_Question,So the notification issue is resolved
+N,Etc_Statement,I just now need to hop ehte battery issue  is resolved.
+N,Etc_Statement,By the way there are a lot of users writing about the same issues I am experiencing with the latest OS upgrade to 4.3
+N,Acknowledgement,It appears to be wide spread
+Y,PresentSolution,Since we have tried with the wiping cache partition on the device.
+N,Positive,yes
+N,Etc_Statement,?
+Y,PresentSolution,I recommend you to observe the device performance for 24hours and see if the issue is resolved.
+N,Word_Answer,OK will do but accoirding to the inofrmation on line it is probably an APP that needs to be optimized for the roolout of the 4.3 upgrade
+Y,Word_Answer,I am sorry.
+Y,Issue_Statement,Could you be more specific in the statement?
+N,Etc_Statement,have a nice day.. but I do nto think you guys were ready fro this rollout and the issues that are occurring..
+N,Closing,bye
+Y,PresentSolution,We are trying our level best to resolve the issue.
+Y,Closing,It was a pleasure assisting you. Thank you for contacting Samsung Technical Support. If you have a minute please click on the blue “X close” button to receive a transcript of your chat and fill out a brief survey to help us serve you better. Have a wonderful day!

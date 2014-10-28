@@ -1,0 +1,176 @@
+g,instruct,right eh from start position you move down past the camera shop to the bottom left corner
+f,acknowledge,right right
+g,reply_y,yes
+f,explain,the camera shop's ri-- directly below the start position right
+g,instruct,you move down to l-- past the left-hand side of the camera shop
+f,acknowledge,no right
+g,query_yn,and have you got parked van marked there beneath the camera shop
+f,reply_n,no
+g,acknowledge,no
+f,explain,no-- it's just allotments to the eh right
+g,instruct,you move
+f,check,and slightly below
+g,instruct,well approximately three inches below the camera shop you make an arc and then move up up and around the left-hand side of the allotments
+f,query_w,and where do i stop
+g,clarify,stop just at the bot-- the top right corner of the allotments just above that little shed
+f,acknowledge,right
+f,acknowledge,right
+g,instruct,then you move in an angle slo-- sloping slightly upwards to approximately a third of the way across the page from the right and stop
+f,check,so what is this eh there's a flight museum here on the
+g,explain,it's not marked on my map
+f,acknowledge,oh right
+f,explain,ehm it's eh on the same level as the start position basically
+g,query_yn,slightly below approximately on level with the top of the camera shop
+f,acknowledge,right
+f,check,so you make an angle and that's a straight line
+g,reply_y,a straight line yes
+f,acknowledge,right
+f,check,from there to just above the camera shop
+g,reply_y,yeah
+g,clarify,approximately two thirds away t-- from the right-hand side of the page
+g,reply_n,no sorry
+f,check,uh from the right-hand side of the page
+g,clarify,one third away from the right-hand side of the page
+f,acknowledge,right
+f,explain,that's just below the flight museum
+f,acknowledge,okay
+f,reply_y,yes uh-huh
+g,ready,well pu-- have you got yacht well
+g,query_yn,have you got yacht well
+g,reply_w,well it's just slightly to the left of the yacht club on a level with the camera shop roof
+f,acknowledge,okay
+f,query_w,and where do we go after that
+g,instruct,you turn straight up the page and make a straight line which curves over and around top of the disused monastery
+g,query_yn,have you got that mark
+f,query_w,what on top of the monastery
+g,reply_w,above the monastery
+f,acknowledge,and t-- uh right okay that's okay
+g,instruct,to the left up the to the right and then curves over to the left
+f,acknowledge,right
+f,check,so we're going from like above the allotments to just above the yacht club no just above but ehm about
+g,acknowledge,approximately three inches
+g,clarify,three four inches
+f,check,same level as the camera shop basically
+g,reply_y,yeah
+f,check,and then eh from there going to disused monastery
+g,reply_y,yes
+f,acknowledge,right
+g,instruct,curving around the top of the disused monastery
+f,acknowledge,yeah right
+f,acknowledge,right
+f,check,so curve around the disused monastery then where
+g,clarify,and stop on the level with the base of it then the curve reverses itself and goes approximately li-- like it was before and then goes vertically up the side of the gr-- the alpine garden
+f,acknowledge,right
+f,query_yn,could you just say that again
+g,clarify,right from the disused monastery the left-hand side of disused monastery the curve makes a dip rather than a rise a trough
+f,acknowledge,right
+g,instruct,and stops level with the left-hand side of the alpine garden
+f,acknowledge,right
+f,check,so it's a a curve eh pointing upwards to get to the disused monastery
+g,reply_n,no
+g,clarify,a curve poin-- going down the way uh
+f,check,that's what i mean
+f,check,i mean eh the apex of the curve is higher than the two base points basically
+g,reply_y,yes
+f,acknowledge,right
+f,check,and then a the reverse of the concavity of the thing to come round to the alpine garden
+g,reply_y,yeah
+g,clarify,you stop on a level with the m-- disused monastery to slightly to the left of the alpine garden
+f,acknowledge,right
+f,acknowledge,right
+g,clarify,then you go up vertically 'til just above the alpine garden
+g,instruct,then you mak-- go right to the end of the alpine garden
+g,instruct,then vertically again to the top of the youth hostel
+f,query_yn,there is no youth hostel
+g,reply_w,then about three inches
+f,query_w,where was the youth hostel
+f,acknowledge,right
+f,explain,right i think i know where it is
+f,query_w,right ehm where where would i be going after that
+g,clarify,youth hostel was t-- upwards and to the right of the alpine garden if you go up from four inches from where you stopped at the alpine garden vertically after where
+g,align,after where
+f,reply_y,after the this youth hostel
+g,instruct,after youth hostel
+g,instruct,you'd be going an inch to your right and then a diagonal line sloping at approximately eh what'd it be now hundred and thirty five degrees from vertical
+f,acknowledge,right
+f,explain,eh can you give me a name of an object i'll be going to
+g,acknowledge,the telephone box
+f,acknowledge,right okay uh right
+f,check,so i go up just below th-- just to below the parked van
+f,query_yn,have you got a parked van
+g,reply_n,no
+g,clarify,you go to about t-- two inches below the parked van
+f,acknowledge,right
+f,acknowledge,right
+f,check,and then from there
+f,ready,so it's
+f,acknowledge,right
+g,instruct,you go two inches right from that and
+g,instruct,two inches right and then a straight line diagonally 'til underneath the telephone box
+f,acknowledge,all right
+f,check,underneath the telephone telephone box
+g,reply_y,yes
+f,acknowledge,right
+g,instruct,not directly underneath it
+f,uncodable,ehm
+g,instruct,you're going to draw a s-- you're going to have to draw a straight line adding on to that that passes underneath the telephone box
+f,acknowledge,right right okay
+f,acknowledge,okay
+g,instruct,then there's a straight line going under the telephone box
+f,acknowledge,right
+g,instruct,and a vertical line going up the right-hand side of the telephone box
+f,query_w,and where does it go to
+g,reply_w,it stops about level with the top of the telephone box
+g,instruct,then there's a sort of exponential curve that goes up to your right from that point and it starts to become vertical to the left of the telephone box on a l-- line left of the telephone box
+f,query_w,and where's it going to is it going to the level crossing
+g,reply_w,it's going
+g,explain,not marked on my map
+g,clarify,it's going to the right to the left of the thatched mud hut and
+f,explain,i don't have a thatched mud hut
+g,acknowledge,no
+f,query_yn,whe-- have you got an east lake
+g,reply_y,yes
+g,explain,it stops approximately th-- on a line through the middle of the east lake
+f,acknowledge,mm right
+f,explain,ehm well i've got a level crossing just below the the the ehm east lake
+g,align,it'll probably mean go through that then
+f,check,through the level crossing
+f,acknowledge,ehm aren't we meant to eh avoid obstacles
+g,instruct,avoid them
+f,acknowledge,yeah
+g,ready,right ehm
+f,query_w,i need to go ehm where where is it going is it going to eh eh parked van or some place
+g,reply_w,ehm no
+f,query_w,eh where
+g,clarify,it's going to the right of the parked van underneath the lef-- the very left-hand point of the east lake
+f,acknowledge,right
+f,check,so it's between ehm
+g,clarify,it's on a level with the picket fence
+g,query_yn,have you got that top left corner
+f,reply_y,yeah i've got that
+g,check,the finish point is on a level with that underneath the most left point of the east lake
+f,acknowledge,right
+f,explain,r-- i'll go round it the level crossing
+f,acknowledge,okay
+g,ready,right
+f,check,is it a straight line or a curve
+g,reply_y,it curves
+g,explain,eh if the telephone box is there it curves up and then goes like that
+f,ready,right
+g,instruct,from that's from seen from my point of view
+f,check,and that's from the right-hand side of the telephone box
+g,align,from the right-hand side of the telephone box it goes to the left-hand point
+f,reply_y,right
+f,explain,well i can't do an exponential so
+g,explain,that's the path marked there
+f,explain,i'll see what i can do
+f,acknowledge,right
+g,instruct,that you at the finish point
+f,check,i'm just at the eh left-hand bottom corner of the east lake
+g,clarify,the left-hand bot-- corner
+f,acknowledge,right
+g,instruct,you go just about an inch to your left and that's the finish point
+g,check,and that's the finish point
+f,acknowledge,right
+g,clarify,on a level with the picket fence
+f,check,on a level with the picket fence

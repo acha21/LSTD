@@ -1,0 +1,40 @@
+Y,Opening,Hi thanks for reaching out to Samsung tech support. How can I help you today?
+N,Opening,Hi im trying to open a service ticket but I get " Invalid Serial Number" error.
+Y,Acknowledgement,I am sorry to hear that I will do my best to help you.
+Y,Open_Question,Could you please provide me with the complete model number of the device?
+N,Word_Answer,GT-P5113TSYXAR
+N,Etc_Statement,S/N R22C901RZ3D
+Y,Open_Question,Could you give me a detailed description of the issue to assist you better?
+N,Issue_Statement,I thing the problem is with the power adapter. I try to charge it but it does not charges. I tried and connected the Tablet to my laptop using the usb cable and I see teh battery Icon like if it is charging but the images goes on and off.
+Y,YN_Question,Did you check with different power outlets?
+N,Word_Answer,I tried with my Samsung galaxy s3 adapter and the same results.
+Y,Acknowledgement,Thanks for confirming.
+N,Opening,hello?
+Y,Positive,I am with you.
+Y,Open_Question,Where did you buy the product?
+N,Connection_check_Question,B&H
+Y,Open_Question,Did you purchase the unit in the US?
+N,Positive,yes
+Y,Acknowledgement,Thanks for the information.
+Y,YN_Question,Do you want me to file a service request?
+N,Open_Question,yes...that's what I'm trying to do.
+Y,Open_Question,Please provide me the following details.
+Y,PresentSolution,Full Name:-
+Y,Connection_check_Question,Email:-
+Y,Connection_check_Question,Phone:-
+Y,Connection_check_Question,Address:-
+N,Connection_check_Question,Luis M Ramirez
+N,Connection_check_Question,guimoramirez@yahoo.com
+N,Connection_check_Question,787-504-7528
+N,Issue_Statement,Jardines de Caparra WW 11 Calle 18 Bayamon PR 00959
+Y,Wait,Thank you for waiting. I'll be with you in just a moment.
+Y,Acknowledgement,Thanks for the details.
+Y,Wait,Would you mind holding for few minutes while I file a service request?
+N,Positive,ok
+Y,Acknowledgement,Thank you.
+Y,Acknowledgement,Thanks for waiting.
+N,Acknowledgement,Service.
+Y,YN_Question,I have filed a service request on your behalf the transaction number is "4119397800".
+Y,Acknowledgement,You will receive an Email with the details of service.
+Y,PresentSolution,Please ship the unit for service.
+N,Acknowledgement,thanks

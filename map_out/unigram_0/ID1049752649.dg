@@ -1,0 +1,32 @@
+Y,Opening,Hi thank you for contacting Samsung Technical Support. How may I help you today?
+N,NotSolved_Answer,hey youtube app doesn't work on my phone !
+Y,ConfirmIssue_Question,I understand that youtube Application is not working on the device. Is that correct?
+N,Connection_check_Question,yup
+Y,Acknowledgement,Thank you for confirming. I will be glad to assist you.
+Y,Open_Question,May I know the model number of the device? You can find it in setting>>About device which starts with SGH  SCH SPH or GT.
+N,Word_Answer,gt s 7562
+Y,Acknowledgement,Thank you for the model number. Let me see what I can do for you.
+Y,Open_Question,May I know from where you have purchased the device?
+N,Cause_Statement,usa
+Y,Etc_Statement,I'm sorry to inform you that the device which you have specified is an International model device and we in live chat are trained on the US model devices only which are carrier specific. However I can provide you with the basic troubleshooting steps for the device. This might or Might not work. Is that okay?
+N,Positive,okay
+Y,YN_Question,May I know the error message that you see when you try to access the Application ?
+N,Issue_Statement,error while playing video please try again later
+Y,YN_Question,Is the error shows to all the videos?
+N,Positive,all of them
+Y,PresentSolution,Let us clear the cache and data of the Application.
+N,ConfirmIssue_Question,after that
+Y,PresentSolution,Please goto the settings>>Application manager>>All>>Youtube>>Clear data.
+N,Wait,wait a second
+Y,Positive,Sure I will be with you.
+N,Positive,done
+Y,PresentSolution,Please check with the result.
+N,Etc_Statement,oooh it's working :D
+Y,Confirm_Question,Is the issue resolved?
+N,Connection_check_Question,yup
+Y,Acknowledgement,I'm glad to know that.
+Y,YN_Question,Can I help you with anything else?
+N,Acknowledgement,thank you :D
+Y,YN_Question,You're welcome. Is there anything else I can assist you with?
+N,Negative,merry christmas :D .. no
+Y,Acknowledgement,Thank you. Happy New Year.

@@ -1,0 +1,39 @@
+Y,Opening,Hi thank you for contacting Samsung Technical Support. How may I help you today?
+N,Issue_Statement,hi; how can i sync my phone with outlook; pc; widow 7.
+Y,ConfirmIssue_Question,I understand that you want to sync the phone with Outlook.
+Y,Acknowledgement,I will be happy to help you.
+N,Word_Answer,sph l710
+Y,Acknowledgement,Thank you for the model number.
+N,Connection_check_Question,thx
+Y,PresentSolution,I would like to inform you that you can sync the phone with Outlook with the help of Kies software.
+Y,Positive,My pleasure.
+N,Word_Answer,connected cable; restarted pc
+Y,YN_Question,Have you downloaded the Kies software on PC?
+N,Negative,no
+Y,Etc_Statement,Not to worry.
+Y,Acknowledgement,I will provide you with the required information.
+N,Word_Answer,thx; and - i m not  a computer genius
+Y,Etc_Statement,Not to worry.
+Y,PresentSolution,I will provide you with the web link. Please click on the below link to download the Kies software on PC.
+Y,Connection_check_Question,http://www.samsung.com/kies
+Y,PresentSolution,Are you able to access the above web link?
+N,Positive,done
+N,Wait,2 min left for downloading
+N,Connection_check_Question,running...
+Y,PresentSolution,Please download the Kies software on PC(Kies for Windows) reboot the PC to complete the installation process and to make changes effective.
+Y,PresentSolution,After rebooting the PC please connect the phone to PC via USB cable and try to sync the phone.
+N,SolvedUnknown_Answer,if i restart comp i will lose u.
+Y,Etc_Statement,Not to worry.
+Y,PresentSolution,I will provide you with the web link. Please click on the below link to get the instructions to sync the phone to Outlook.
+Y,Connection_check_Question,http://www.samsung.com/in/support/usefulsoftware/KIESTUTORIAL/JSP
+Y,PresentSolution,Please click on the above web link and let me know whether it is accessible.
+N,SolvedUnknown_Answer,i have it
+Y,Acknowledgement,Thank you.
+N,Issue_Statement,so after restart just follow this link?
+Y,PresentSolution,Yes please.
+Y,PresentSolution,If you experience any issues in syncing the phone please get back to is any time.
+Y,PresentSolution,Please feel free to contact us for further assistance. We will be glad to assist you anytime. We are available 24/7.
+Y,Etc_Statement,You can contact us any time.
+N,Connection_check_Question,thx
+Y,YN_Question,You're welcome. Is there anything else I can assist you with?
+Y,Connection_check_Question,I don't mean to rush you but I haven't had a response from you. Are we still connected in this chat?

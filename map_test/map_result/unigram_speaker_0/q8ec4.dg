@@ -1,0 +1,289 @@
+g,uncodable,erm
+g,instruct,are you at the cross at the start
+f,acknowledge,okay yeah
+g,ready,right so
+g,instruct,go er about two inches to your ehm to your left at a sort of a-- angle
+g,instruct,about
+f,check,two inches to the my
+g,instruct,your left a sort of angle about forty-five degrees
+f,uncodable,erm
+g,uncodable,to er
+f,query_w,what's two inches sort about
+g,reply_w,well it's two inches
+g,reply_w,i don't know actually er
+g,instruct,er well ten centimetres then maybe say
+f,check,ten er to forty-five degrees slope
+g,clarify,to the horizontal
+f,query_yn,have you got allotments to my right is it
+g,reply_n,no
+g,explain,it's different it's a different map ehm
+f,reply_y,yeah
+f,explain,erm t-- it can't be to my left anyway 'cause that's off the page from the start
+g,ready,well
+g,explain,it's to my right so it must be to your left
+f,reply_n,no
+f,explain,it's the map's turned round so it must be to my right as well if it's to your right it's to my right
+g,acknowledge,oh right sorry
+g,ready,right
+g,instruct,go to your right then ten centimetres to your right
+f,query_yn,erm right along or to an angle did you say
+g,ready,well i
+g,instruct,imagine there's like a ehm a line like horizontal
+g,ready,right
+f,reply_y,yeah
+g,instruct,and then let's say f-- ph thirty degrees up the way
+f,check,up the way
+g,instruct,so it's at an angle
+f,check,up the way
+g,instruct,so it's like an angle like that
+f,check,up the way
+g,acknowledge,oh dear
+f,check,angled up
+f,query_yn,t-- do you have a lake
+g,reply_y,uh-huh
+f,check,just above the start point right
+g,ready,right
+g,instruct,down below that
+f,query_w,how does it go from there
+g,instruct,down below that
+g,instruct,to about halfway down the middle of the lake
+f,acknowledge,halfway
+f,query_w,what's that halfway what
+g,align,the b-- see where the bottom of the the bottom line of the lake
+f,reply_y,yeah er
+g,ready,right
+f,check,to the right-hand side underneath it
+f,reply_y,yeah
+g,reply_y,uh-huh about a
+g,ready,right
+f,reply_y,yeah
+g,align,about halfway under that
+g,ready,right
+f,explain,halfway well never mind
+g,align,see the bottom line of the lake right
+f,explain,oh you mean halfway from just where i would be if i went across oh no
+g,ready,right
+g,align,see the bottom line of the lake right
+f,acknowledge,right
+g,instruct,halfway along that
+f,acknowledge,halfway along okay
+g,ready,right
+f,acknowledge,right
+g,ready,and then
+g,ready,then
+g,instruct,straight down
+f,check,straight down
+g,instruct,about
+g,instruct,er maybe five centimetres
+f,acknowledge,right i've got some allotments here
+f,check,so does it go to your right again does it go right
+g,reply_w,it sort of curves round
+f,acknowledge,curves round okay right
+g,ready,and then then
+f,check,along to your right
+g,clarify,it's like an "s" shape right but n-- not like a steep "s" shape like a sort of er sort of stretched out "s" shape
+f,acknowledge,right
+g,instruct,a wee bit ehm 'til you're about er halfway down the page when you get to the bottom curve that comes back out the way
+f,query_yn,erm do i go along right
+g,instruct,and then you go to your left
+f,check,go to my left
+g,instruct,for about er five centimetres
+f,query_yn,is there an obstacle down at the bottom left-hand corner of your page
+g,instruct,er but you shouldn't be down there
+g,align,this is you're over on the right-hand side at the right-hand si-- half of your page
+f,ready,erm well
+g,reply_n,no
+f,explain,a we-- is it called the west lake the start
+g,explain,it's east lake at the start of mine
+f,acknowledge,oh
+f,explain,i've got a start at the west lake
+f,query_yn,have we got the right maps
+f,acknowledge,bollocks
+f,acknowledge,oh
+g,ready,right
+g,explain,well i don't have i don't know about
+g,align,are you over at the right-hand side how about halfway down the page at the moment
+f,acknowledge,okay
+f,explain,eas-- hold on start up at the east lake
+f,query_w,where's the start
+g,instruct,what do you want me to start again
+f,reply_y,yeah
+f,explain,'cause i've got a start underneath the west lake so i'm at
+g,acknowledge,oh do you know what i've been doing oh god
+f,query_w,what
+g,explain,i've i've started from the finish that's why i wasnae even looking at that i just saw the cross er right
+g,ready,oops right
+g,align,so we should be at the bottom left-hand corner of the map here right
+f,acknowledge,right
+g,explain,i've went through the the other way round that's really stupid right eh
+f,acknowledge,okay right
+g,instruct,so the start's about
+f,explain,you're at the west lake
+g,instruct,the start's about a third of the way up the page
+g,ready,right
+f,acknowledge,yeah no it's all right
+f,explain,i've got that marked on
+g,ready,right
+f,explain,and i've got west lake above it
+g,explain,well i've not got that
+f,check,just above to the right
+g,reply_n,no wonder we're having problems there
+g,ready,right so er
+g,instruct,just sort of go to your left
+f,check,go to my left
+g,instruct,about a centimetre
+f,acknowledge,oh w-- a centimetre right hold on right now a centimetre okay right
+g,instruct,and then go straight down
+f,check,straight down
+f,query_w,to where how long
+g,instruct,to about two centimetres from the bottom of the page
+f,align,two centimetres from the bottom of the page okay
+g,instruct,then go to your right about eh five centimetres
+f,acknowledge,fffffff
+f,check,five centimetres right
+g,instruct,and then go
+f,query_yn,er ch do you have any an allotments
+g,reply_y,uh-huh
+f,acknowledge,allotments yeah
+f,acknowledge,right
+g,ready,so you
+f,query_w,where is it with respect to that
+g,ready,well
+g,instruct,if you go straight up the way you'll be hitting the allotments so
+f,reply_y,yeah right yeah
+g,ready,well s--
+g,instruct,just go straight up the way so you're a bit left of the allotments
+f,check,just left
+g,clarify,up about half a centimetre ef-- left
+f,acknowledge,okay right
+g,instruct,and then like curve round the top of the allotments
+f,acknowledge,okay
+g,instruct,and then go in an angle about say thirty degrees from the say
+g,align,say the allotments are the horizontal right
+f,reply_y,yeah
+g,instruct,go in an angle about thirty degrees up from that
+g,ready,right
+f,query_yn,from the left-hand side of the or the right-hand side of the allotments above the right-hand side
+g,instruct,above the right-hand side
+f,check,thirty degrees
+g,ready,roughly
+f,acknowledge,thir--
+g,instruct,and then say about ehm eh over to about two thirds of the way over the side of the page to the right
+g,reply_n,no
+f,query_yn,erm do you have a flight museum anywhere
+f,reply_n,no
+f,check,erm what is it two thirds the way across the page an angle of thirty degrees okay
+f,acknowledge,two thirds right should be about there yeah okay
+g,instruct,and then you go straight up say about er to about halfway up the page
+f,check,halfway up
+f,query_yn,is there a disused monastery
+g,reply_y,mmhmm
+f,reply_y,there yeah
+f,reply_y,yeah
+g,align,so y-- right where you are at the moment's just like see where it says disused monastery right
+g,instruct,you should just be about next to that where it says that
+f,acknowledge,okay right
+g,ready,and then
+f,query_w,and do i go underneath it or above it
+g,clarify,over the top of it
+f,check,over the top
+f,acknowledge,okay
+f,check,round to my
+g,instruct,round and then and then li-- when you're round the side of that a l-- a straight line to about er maybe ten centimetres out from the side the left-hand side of the page
+f,acknowledge,six centimetres right
+f,query_yn,do you have an alpine garden just above you
+g,reply_y,uh-huh
+f,reply_y,yes
+g,ready,so you
+f,query_w,how does it go
+g,ready,well
+g,align,it goes to the left of that
+f,acknowledge,to the left okay
+g,instruct,so and then you're up to the top of the alpine garden
+f,acknowledge,okay
+g,instruct,and then you go to your right about er five centimetres maybe
+f,acknowledge,okay
+g,instruct,and then straight up
+g,query_yn,have you got a youth hostel
+f,reply_n,no
+f,query_w,whereabouts is the youth hostel
+g,ready,well
+g,clarify,it's sort of directly above the alpine garden except a bit to the right so eh
+f,acknowledge,slightly to the right okay
+f,query_w,directly above it how much
+g,ready,well
+g,align,where are you just now
+g,ready,right
+f,explain,erm about one centimetre from the side of the alpine garden that's above it and along one
+g,instruct,go along a wee bit
+g,align,until see the "d" of the alpine garden on the in between the "d" of the see where it says alpine garden
+f,reply_y,yeah
+g,ready,right
+g,instruct,just look at that the d-- in between the "d" and "e" just put a straight line straight above that
+g,ready,right
+f,acknowledge,okay right
+g,reply_w,about er maybe ffffphhhhh ten centimetres
+f,acknowledge,right ten centimetres okay
+f,check,and
+g,instruct,and then g-- go to your right about five centimetres
+f,acknowledge,right five okay
+g,ready,and then erm
+f,query_yn,do you have a parked van just above this no
+f,reply_y,yeah
+g,reply_y,aye just above that line
+g,instruct,but you shouldn't be that near it you should be
+f,acknowledge,no i'm
+g,instruct,right so the point you're at go er southeast
+f,acknowledge,southeast okay
+g,instruct,about er until you get to about halfway down the middle of the page
+f,acknowledge,okay southeast
+f,acknowledge,right okay
+g,instruct,and then go straight for five centimetres
+f,acknowledge,okay right
+g,query_w,or then
+f,query_yn,is there a telephone box there
+g,reply_y,uh-huh so
+g,instruct,skirt round the bottom
+f,check,yeah just under the telephone box
+g,reply_y,uh-huh
+f,reply_y,yeah
+g,instruct,and then go straight up
+f,check,straight up to the east lake
+g,instruct,just about the top of the
+f,check,over the top of the
+g,reply_n,no no
+g,instruct,just to the top of the telephone box
+g,align,see where the top is
+f,check,the top of the telephone box
+g,instruct,to level with that
+f,acknowledge,yeah okay
+g,ready,and then er
+g,instruct,directions on er maybe north northwest for about er
+f,check,northwest
+g,clarify,until you're about a third of the way
+f,query_yn,is there a level crossing there
+f,reply_n,no
+g,reply_n,no no say that
+g,ready,right erm
+g,instruct,where you are you go northwest for about until there's about a quarter left on the page
+g,align,if you see what i mean
+f,acknowledge,okay northwest
+f,acknowledge,oh
+f,explain,i have a level crossing just at this point
+g,ready,well
+g,instruct,i don't know maybe go through that it's straight up after that
+f,check,straight up after that
+g,instruct,until you get to the bottom of the east lake and then you go to the
+g,query_yn,have you got a finish
+f,acknowledge,okay right
+g,instruct,and then go to your left that sh-- should be you finished
+f,check,go to my left
+g,reply_y,mmhmm
+g,instruct,until you get like the bottom part of the east lake erm you should just be like about
+f,acknowledge,okay
+g,instruct,three centimetres from that
+f,acknowledge,okay
+g,explain,four centimetres maybe i don't know
+f,acknowledge,right
+g,instruct,that should be it finished
+f,query_w,okay a-- after that

@@ -1,0 +1,260 @@
+g,ready,right
+g,query_yn,top left sandy shore
+f,acknowledge,okay
+g,reply_w,down at the bottom of it bottom left of it follow the s-- line stream i presume it is to the top of the well
+g,explain,you don't have a stream
+f,explain,i don't have a well
+g,ready,right
+g,query_yn,do you have a well
+g,reply_n,no
+f,acknowledge,right
+g,ready,right
+f,explain,i've got the sandy shore and i've got a cross saying start
+g,acknowledge,right okay
+g,instruct,now down slightly to
+f,query_w,down the middle or straight
+g,clarify,slightly sloped slightly sloped that way
+g,ready,right
+f,check,to the towards the west or east
+g,clarify,east
+f,acknowledge,right okay
+f,check,straight
+g,instruct,but don't go down too far
+g,reply_y,uh-huh
+g,ready,and then
+g,acknowledge,you don't have a well
+f,reply_n,no
+g,ready,right
+g,query_w,so before does your stream turn to the right
+f,explain,i don't have a stream
+g,explain,you don't have anything
+f,query_yn,are we talking about the top left
+g,reply_y,yes
+f,acknowledge,right okay
+g,query_yn,do you have anything
+f,reply_n,no nothing at all
+g,query_yn,is your page just blank
+f,reply_n,no no
+f,check,but this bit up here is
+g,align,okay
+g,instruct,right down about three centimetres
+f,reply_y,uh-huh
+g,clarify,and then slightly to the east that way and then turn to the west and like curve round like that except it'll be the other way
+f,acknowledge,okay
+g,ready,and then
+g,instruct,after you finish the curve continue to the east
+g,query_yn,do you have a house with local residents
+f,query_yn,under crane bay
+g,reply_y,yeah
+f,query_yn,do you see this river coming down
+g,clarify,the big river
+f,reply_y,yeah
+f,query_yn,have you got an iron bridge
+g,reply_n,no
+g,reply_n,no
+g,reply_n,no
+g,acknowledge,mm
+f,query_yn,are you going to the treasure
+g,query_yn,treasure
+g,check,a pirate ship at the bottom bottom left
+f,reply_n,no
+f,acknowledge,okay never mind
+f,query_yn,have you got hills
+g,reply_y,yeah
+f,acknowledge,right
+f,query_w,where are you going above the hills
+g,reply_w,above the hills
+f,query_w,to the east of that or what
+g,instruct,to the east of that
+g,clarify,nearly to the end of the hills
+f,explain,i'm just going straight down there then
+g,reply_n,no
+g,instruct,we're just going east
+g,query_yn,have you passed like have you done the curvy bit
+f,reply_y,well sort of yeah
+g,ready,right
+g,instruct,and then sort of curve on to the east along the east
+f,query_w,how far down the page am i now
+f,acknowledge,okay
+g,clarify,ten centimetres
+f,check,east
+f,check,i just keep going east
+g,clarify,east
+g,reply_w,to about couple centimetres off the top off the end of the hills
+f,reply_w,we've probably got different hills
+f,acknowledge,okay that's me
+g,ready,and
+g,clarify,then curve upwards
+f,acknowledge,mmhmm
+g,instruct,back to the stream to where you c-- to where you cross the stream
+f,check,this big thing
+g,query_yn,do you have like two black lines and then a big stream
+f,acknowledge,right
+f,explain,i'll tell you what i've got i've got this bit of water from where the start is
+f,acknowledge,okay
+g,reply_y,uh-huh
+f,explain,and i've got one big sort of river thing coming down and that's it
+g,ready,right
+g,uncodable,s--
+f,explain,and then it splits into two
+g,check,you've got crane bay
+f,acknowledge,mmhmm
+g,align,at the top
+f,reply_y,yeah
+g,uncodable,uh
+g,ready,right
+g,instruct,and you've got like the two bits round two lines round crane bay
+f,reply_y,uh-huh
+g,instruct,so you cross that go up go back up and cross that
+f,query_w,how far down the river bit
+g,instruct,about two centimetres from where the two lines meet more sort of come into one
+f,query_w,describe what you've got
+g,ready,right
+g,explain,i've got i've got my forked stream on the page
+g,ready,right
+g,query_yn,have you got something saying forked stream
+f,reply_y,i have
+f,check,halfway down
+g,instruct,right now go up to the left from that
+g,ready,right
+g,align,okay
+g,instruct,follow the stream up
+f,explain,but i thought we're starting at the top
+g,acknowledge,yeah i know
+f,check,follow the stream to the fork
+g,explain,list-- i know this is me explaining what i've got
+g,acknowledge,on the page
+f,acknowledge,oh alright okay
+g,ready,right
+g,instruct,and then when it gets to the top one bit of the stream goes up and one bit goes left and up
+f,check,one bit goes up
+g,instruct,it round crane bay
+f,align,mine just goes straight up goes like that into crane bay
+f,query_w,how do you cross it anyway
+f,query_yn,have you got bridges
+g,reply_n,no
+g,explain,i don't have a bridge but maybe that's your bridge then that's how it's crossed
+g,query_yn,you got a bridge
+f,query_yn,up at the very very top at crane bay
+g,query_w,how many centimetres off the top of the page
+g,reply_y,yeah that could be it
+f,reply_w,but i've got a house just below that local residents
+g,reply_y,yeah
+g,explain,so have i
+f,check,so am i going on top of that or what
+g,reply_y,mmhmm
+f,check,under it
+g,instruct,go up
+g,reply_n,no
+g,instruct,round the round to the le-- the left of the house
+f,acknowledge,right okay
+g,query_w,and up to probably where your bridge is then
+f,acknowledge,right okay
+g,ready,right
+g,instruct,and then you go right
+f,query_yn,over the bridge
+g,query_yn,over the bridge
+f,reply_y,uh-huh
+g,explain,well i don't know i don't have the bridge but it looks over the bridge
+g,query_yn,have you another bridge no
+f,acknowledge,not that side
+g,query_yn,up near where that one is no
+g,instruct,well keep going right for about four centimetres
+g,query_yn,do you have a wood
+f,reply_y,yeah
+g,instruct,you're roughly in line with the wood or slightly
+f,acknowledge,okay
+g,explain,sort of nearly the middle of the wood but not quite down a bit
+f,acknowledge,mmhmm
+g,check,in the middle
+g,ready,right
+g,instruct,now go down and round the forked stream
+f,explain,quite a lot
+g,instruct,round the forked stream 'til you come to like about the "m" in stream
+g,ready,now
+g,query_yn,do you have farmed land
+f,reply_n,nope
+g,query_yn,do you have a dead tree
+f,reply_y,yeah
+g,query_yn,right in like where two streams meet you have a dead tree
+f,reply_y,uh-huh
+g,ready,right
+g,instruct,to the right of that across the stream there's a big bit of farmed land
+g,ready,right
+f,acknowledge,mmhmm
+g,instruct,about seven or eight centimetres along
+g,instruct,so what you've got to do now is like go round that
+g,reply_n,no
+f,explain,in the between the farmed land and the stream or round the whole thing
+g,clarify,round the farmed land
+f,acknowledge,right
+f,check,so way out to m-- east
+g,reply_w,way out 'til about
+g,reply_y,yeah
+g,reply_w,to about two centimetres off the end the page
+f,acknowledge,okay
+g,instruct,then about four centimetres down
+f,acknowledge,mmhmm
+g,instruct,and then back in again
+f,explain,about in line with this dead tree
+g,align,so you're just below the dead tree
+f,acknowledge,okay
+g,instruct,and then you cross the stream so's that you are actually below the dead tree
+f,explain,i don't actually have anything to cross it with but
+g,query_yn,neither do i
+f,acknowledge,that's okay
+g,ready,right
+g,query_yn,do you have pine grove
+f,reply_y,yeah
+f,check,bottom right
+g,query_yn,do you have a lagoon
+f,reply_n,no
+f,query_w,oh where
+g,check,about the middle
+f,explain,i've got green bay
+f,reply_y,oh yeah i've got lagoon yeah
+g,acknowledge,mm right
+g,instruct,from where you are below the dead tree go straight down 'til you're in line with the lagoon
+f,check,straight down uh past the buried treasure
+g,explain,which i don't have
+f,check,never mind
+f,acknowledge,okay
+g,instruct,and then go west 'til you nearly reach the lagoon
+g,ready,right
+g,instruct,and then down round that to the bottom the tip of the lagoon
+g,ready,right now
+g,query_yn,do you have a rock fall
+f,reply_n,no
+g,query_yn,right you have green bay
+f,acknowledge,mmhmm
+g,query_yn,do you have ehm
+g,ready,right
+g,align,green bay is a bay right see the top point of green bay the outer point
+f,check,the westerly one
+g,reply_y,yeah
+g,instruct,westerly point the top the end bit of land
+f,acknowledge,mmhmm
+g,align,that like comes to a point right
+f,explain,the bit that looks a bit like india or something
+g,reply_y,yeah mmhmm
+g,ready,right
+g,instruct,so you come from the bottom of the lagoon and you're wanting to go there but the wee
+g,check,if you look in the top line of green bay there's like a wee dent in it
+f,acknowledge,mmhmm
+g,reply_w,that's a rock fall of about three centimetres high
+f,acknowledge,okay
+g,instruct,so you have to come from the bottom of the lagoon over that and then down to the tip
+f,acknowledge,right
+g,ready,'kay
+g,ready,now
+g,clarify,just like cur--
+g,query_yn,do you have a pirate ship
+f,reply_y,yeah
+g,ready,right yeah and
+g,check,you're meant to finish just at the front of the pirate ship so just like curve round
+f,check,over the water
+g,reply_y,yeah
+f,check,anywhere in this pirate ship
+g,reply_w,the the west the front
+f,reply_y,aye okay
+g,explain,and that's you

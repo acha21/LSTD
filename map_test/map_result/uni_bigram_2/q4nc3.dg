@@ -1,0 +1,548 @@
+g,instruct,right lynn you're at the start
+f,ready,right
+g,reply_y,uh-huh
+f,query_yn,up at the top left-hand page
+g,reply_y,uh-huh
+g,query_yn,and you've got a burnt forest beside you just below it
+f,acknowledge,right
+g,explain,what my map says is it's actually a curved line but i don't know whether to give you a curved line or a straight line i'll give you a curved line right
+f,acknowledge,mmhmm
+g,check,have you got anything like to the r-- to the left of the burnt forest
+f,reply_w,i've got a burnt forest and then straight below it i've got a carpenter's cottage then a ravine that's all i've got
+g,explain,well i haven't got the carpenter's cottage
+f,ready,it's
+g,check,is that directly beside the ravine
+f,reply_w,uh-huh it's directly
+g,check,a wee bit up
+f,reply_w,well a wee bit up but i-- near enough
+g,query_yn,have you got the remote village
+f,reply_y,n-- up at up at this side
+g,reply_w,beside the burnt forest
+f,reply_n,no
+f,acknowledge,right okay
+g,explain,no well what i suggest you do lllll ehm is like right there's a there's a line about quarter of the way down and it's the bottom of it it's from the start right and the bottom of it is in parallel with the ravine
+g,acknowledge,you know the word
+f,acknowledge,uh-huh
+g,ready,ravine
+g,query_yn,have you got that
+f,reply_w,i've got ravine
+g,acknowledge,right
+g,instruct,so it's like
+g,reply_y,uh-huh
+f,check,so i start from start an--
+g,instruct,and it's like a curve
+f,query_yn,will i go underneath the burnt forest
+g,reply_n,no no you don't
+f,reply_n,no sorry
+f,acknowledge,right
+g,instruct,it's just like a r-- a kind of slight curve
+f,acknowledge,right
+g,reply_w,uh-huh and it's just to parallel with the ravine the word ravine
+g,acknowledge,okay
+f,check,aye wait a minute
+f,check,which way am i going
+f,explain,right i'm at the start
+g,acknowledge,sorry yeah
+g,explain,it's a
+f,explain,you know what i mean i'm
+g,clarify,it's a curve to the right
+f,clarify,a curve to the right
+f,check,you've
+g,reply_y,uh-huh
+g,reply_n,no
+f,check,not got the burnt forest you have got ah no you haven't
+g,query_yn,i have got the burnt forest
+g,check,and it's not through it it's like
+f,check,so i'm going a curve and it goes down to the ravine
+g,reply_y,uh-huh
+f,acknowledge,right
+f,uncodable,jus--
+g,reply_n,no not to the ravine parallel with it
+g,align,bu-- right the bottom of the curve is like parallel with the word start
+g,align,do you know what i mean
+g,instruct,it's just a curve
+g,query_yn,know what a curve is
+f,clarify,uh-huh
+g,acknowledge,uh-huh
+f,clarify,right and i'm going towards down towards the ravine
+g,reply_y,well the bottom of it
+f,explain,sorry i can't
+g,acknowledge,right
+f,reply_y,right
+g,instruct,just draw a straight line
+f,acknowledge,oh right oh god a straight line
+g,clarify,okay just draw a straight line
+f,check,oh but it's kind of curvy
+g,acknowledge,that'll be easy uh-huh
+g,acknowledge,uh-huh
+f,explain,but i'm still up at i'm still up at the top of page
+g,acknowledge,uh-huh
+f,explain,right i get what you mean now
+f,instruct,at the top of the burnt
+g,reply_y,mmhmm
+f,ready,right okay right
+g,instruct,and you s-- finish your curve at where's the start you know parallel ehm just parallel no no no no f-- just down from start
+g,acknowledge,okay an--
+f,acknowledge,right okay okay i've got it i've got it i've got it
+f,align,ah right
+g,reply_w,and it's like parallel to the ravine the bottom of it is like well not parallel but on the same line as the ravine
+f,explain,on the straight line i've go-- it's kind of like as though it's just dubbed directly above the "a"
+g,acknowledge,what
+f,clarify,sorry on you go
+f,explain,right i've drawn this line
+g,align,right
+g,check,is it is it stopping just down from start in a straight line from start
+f,reply_y,uh-huh
+f,check,well it's kind of curvy
+g,acknowledge,uh-huh good good
+g,check,curvy to the right
+f,reply_y,i'm all right curvy to the right
+g,ready,right
+g,instruct,and then you go across and stop
+g,acknowledge,aye
+f,explain,this is a-- by the way this is about like five centimetres down from the top of the page this about right
+g,reply_y,yeah
+f,acknowledge,aye right okay
+g,clarify,it should stop at v-- you know doing the just in a straight line from the ravine
+g,acknowledge,right
+f,reply_y,right i've got it
+g,instruct,in a straight line to like a straight line across like
+f,reply_w,towards the pine grove
+f,check,you got a pine grove
+g,reply_y,no uh-huh yeah yeah
+g,check,no not across to there
+g,clarify,vertical right a vertical line this is quite good vertical line and stop just where the "r" is in forest down from forest
+g,align,do you know what i mean
+f,acknowledge,oh wait a minute a vertical line
+g,reply_y,mmhmm
+g,reply_n,oh no no
+g,instruct,a horizontal line
+f,check,you mean i'm going down towards the ravine i'll be in the ravine
+g,check,right a vertical a
+f,check,towards the right
+g,reply_y,horizontal line mmhmm
+f,query_w,and where do i stop
+g,reply_w,just down from where the "r" is
+g,align,okay
+f,check,from pine grove
+g,reply_y,mmhmm
+f,acknowledge,right okay
+g,ready,right
+f,explain,oh i'm not allowed to move
+f,acknowledge,right
+g,ready,and then and then
+g,clarify,go up again ehm you know how you got the ravine just go up and past the ravine
+g,query_yn,have you got the remote village no
+f,reply_w,i'm a-- i'm really past the ravine by now
+f,explain,i'm at the pine grove i'm at at towards the right-hand side of the page
+g,instruct,well go back don't pass the pi-- don't pass the ravine
+f,check,oh the "r" of the ravine
+g,align,pardon
+f,align,i thought you meant the "r" of the pine grove
+g,reply_n,no
+f,check,right wait a minu--
+g,acknowledge,don't pass the ravine okay
+g,check,it's the "r" of the burnt forest i was talking about
+f,check,oh so you this line was only about two centimetres long
+g,acknowledge,uh-huh yeah
+f,acknowledge,right
+f,acknowledge,right
+f,explain,i'm not past the ravine
+g,acknowledge,right okay
+g,instruct,and go up
+f,check,up
+g,ready,up now
+f,instruct,up towards the top of the page
+g,reply_n,no
+g,check,up towards just right up to the top of the ravine past the birds
+f,check,you mean down to the ravine
+g,reply_n,no
+g,check,up right up to the top of the ravine
+f,reply_w,i'm above the ravine
+f,acknowledge,right
+g,align,you're kidding
+f,ready,right okay wait a minute right
+f,explain,i came from the burnt forest
+g,acknowledge,mmhmm
+f,explain,and i came and i did a d-- a kind of a curvy right just to like towards like
+f,align,you see where it says burnt forest
+g,reply_y,mmhmm
+f,check,just about parallel where it says burnt forest so i'm up there
+f,query_yn,do you know where i am
+g,acknowledge,right
+f,instruct,about five centimetres from the top of the page
+g,check,do you want to start again
+f,reply_y,right
+g,align,right start okay
+f,reply_y,right
+g,explain,vertical line down to the r-- ravine
+f,acknowledge,oh just vertically down
+g,reply_y,uh-huh vertically down
+g,align,okay
+f,ready,right
+f,instruct,down towards
+g,explain,but missing out anything that might be in between
+f,acknowledge,right
+g,ready,okay
+f,instruct,can you do this
+f,reply_y,aye
+g,instruct,i think you can
+f,acknowledge,right
+g,instruct,right vertically down 'til you're like in a straight
+g,acknowledge,okay
+f,reply_y,right
+f,explain,i'm at diag--
+f,acknowledge,right i know what you mean now
+f,explain,right i'm at the ravine
+f,check,and then i go along to where it says "r" of the ravine
+g,reply_n,no
+g,check,you go along to where it says "r" of the burnt forest
+f,acknowledge,oh right
+g,explain,a horizontal line
+g,reply_y,okay
+f,acknowledge,right okay
+g,instruct,just in line with the "r" of the burnt forest
+f,acknowledge,oh right i've got you now right i've got that
+g,align,and then you go up a vertical line
+f,reply_y,to the top of the ravine
+g,acknowledge,uh-huh
+f,acknowledge,right okay
+f,explain,and i've got the carpenter's cottage
+f,explain,so i have to miss that
+g,reply_y,yeah you'll have to miss that
+f,check,so see the wee seagulls at the ravine
+g,reply_y,uh-huh
+f,align,just about up there
+g,reply_y,above that yeah
+f,acknowledge,oh i've got you now right
+g,instruct,and then a horizontal line
+f,reply_y,uh-huh
+g,clarify,under the remote village
+g,query_yn,have you got that
+f,reply_n,i've not got the remote village is it
+f,reply_y,uh-huh
+g,clarify,well don't go very far just go a little bit above the seagulls in the ravine
+g,acknowledge,okay
+f,ready,right
+g,instruct,and then draw a horizontal line
+f,check,just to about the end of the ravine
+g,reply_y,uh-huh
+f,ready,right
+g,reply_w,well a wee bit further
+f,acknowledge,right
+g,reply_y,okay
+f,check,have to just towards halfway between the pine grove no
+f,align,you got the pine grove
+g,reply_y,no i ha-- oh yeah i have yeah
+g,acknowledge,right uh-huh across to there
+f,explain,oh as far as that
+g,acknowledge,uh-huh
+g,reply_w,it doesn't matter i'm just going to tell you to draw straight lines
+f,acknowledge,okay
+g,ready,okay
+g,instruct,and like you go right go in a vertical line down just until you you're underneath the pine grove
+f,align,right okay
+g,reply_y,okay
+f,reply_y,uh-huh
+g,ready,and then
+g,uncodable,ehm
+g,explain,oh i can't get you
+g,query_w,have you got anything
+f,reply_w,i've got an avalanche
+g,explain,i haven't got that
+g,query_w,where's that
+f,align,right see the pine grove
+g,reply_y,uh-huh
+f,reply_w,it's just below it to your right
+g,acknowledge,below it right
+g,check,tell you what miss out
+g,query_yn,have you got i don't think you'll have the concealed hideout
+f,reply_y,i do
+g,check,have you oh you do
+f,reply_y,uh-huh
+g,instruct,oh well right just draw a line right draw a line until
+g,check,what you've got to do is
+g,explain,i would suppose that your avalanche is ehm miss-- right your avalanche is like outwith the line
+g,align,do you know what i mean
+f,reply_y,uh-huh yeah it is
+g,explain,so like the line is within well m-- in my map i think the line is within the avalanche
+f,check,the avalanche is quite far to the right
+g,acknowledge,okay right
+g,explain,what you do is w-- wh-- in my picture i've got two och how could you say bumps right i would say the avalanche is missed out it's drawn to miss out the avalanche
+f,acknowledge,uh-huh
+g,query_yn,but includes within this line it includes the concealed hideout
+f,ready,right
+g,instruct,so could you draw something that would
+f,query_yn,do you want me to go down towards the concealed hideout
+g,reply_y,uh-huh
+g,clarify,missing out the avalanche
+f,reply_y,uh-huh
+g,instruct,and goi-- and go round the concealed hideout concealed hideout
+f,check,to your right
+g,uncodable,uh-huh
+g,instruct,go round it and include it in the line
+f,explain,right i'm just drawing my line underneath the word concealed hideout now
+g,acknowledge,oh good right
+f,reply_y,uh-huh
+g,align,you d-- have you done that yeah d-- drawn it underneath
+f,explain,i've drawn my line
+f,reply_w,and it's just i'm just at the down below the "t" of concealed hideout
+g,acknowledge,oh right okay
+g,instruct,well draw a a horizontal line over
+g,query_yn,have you got the boat house
+f,reply_y,uh-huh
+g,explain,over to the boat house
+g,ready,right
+f,check,you mean vertical down to the boat house
+g,reply_n,no
+g,clarify,horizontal over to the boat house
+f,acknowledge,oh right horizontal over to the boat house right
+f,explain,okay i'm directly above the boat house now
+g,check,you're above it
+f,reply_y,mmhmm
+f,explain,my my boat house is down below crane bay
+g,reply_n,i haven't got that
+g,clarify,you're above the boat house though
+f,explain,i've got a boat house there's crane bay and i've got a boat house just
+f,explain,do--
+g,reply_y,okay right
+g,explain,oh i've got two boat houses
+f,acknowledge,alright
+f,query_yn,do you do you see do you see where my boat house is
+g,reply_y,ehm uh-huh
+g,instruct,right well go back up again to the concealed hideout
+f,check,i'm at the concealed hideout
+g,align,and you're you've drawn a horizontal line
+f,uncodable,i'm just
+f,align,see where the boat house is
+g,reply_y,uh-huh
+g,explain,i've got two
+f,explain,b-- the boat house at crane bay
+g,ready,well
+f,explain,mm the one the one further down the page
+g,reply_y,uh-huh yeah
+f,reply_y,right
+f,explain,i'm just about my line's just about five centimetres above it
+g,acknowledge,okay that's good
+g,acknowledge,right
+g,instruct,draw it over to the other
+g,query_yn,have you got another boat house
+f,explain,i've only got one boat house
+g,acknowledge,oh right
+g,explain,well i've got two
+f,acknowledge,oh right
+f,explain,i've not
+g,explain,i've got one parallel to the concealed hideout well just about
+g,instruct,well what you could do is draw a line underneath the concealed hideout until you get
+g,align,right see the "b" of crane bay
+f,reply_y,uh-huh
+g,instruct,well until you stop at the "b"
+f,acknowledge,oh right
+f,explain,i've gone along too far then
+g,acknowledge,uh-huh
+g,query_yn,stop at the "b"
+f,acknowledge,right okay
+g,instruct,and then go right down horizontal i mean vertical go right down
+f,check,to what
+g,align,you know how you've got that have you got the crane bay have you got the actual outline of it
+f,reply_y,uh-huh
+g,reply_y,well go right down
+f,check,until i touch the outline
+g,reply_n,no no no no no
+f,ready,right okay
+g,clarify,until you're nearly touching it you're maybe just like half a mil-- half a centimetre
+f,acknowledge,right okay
+g,clarify,away from it
+g,acknowledge,okay
+f,explain,that's me
+g,instruct,and f-- and follow it
+g,align,you know how that wee curve
+f,reply_y,uh-huh
+g,align,there's a wee curve
+g,instruct,follow that wee curve
+g,acknowledge,right
+f,instruct,down towards the boat house
+g,reply_n,no
+g,clarify,the other way sorry the other way to your left
+f,check,off to my left
+g,reply_y,uh-huh
+f,acknowledge,right
+f,instruct,just follow that wee hump
+g,acknowledge,uh-huh
+g,acknowledge,okay
+f,acknowledge,right okay
+g,query_yn,and ehm have you got a coconut palm
+f,reply_n,no
+g,acknowledge,no
+g,instruct,oh well what you'll have to do is ehm eh follow that again go over the bump
+g,align,have you come to the bump
+f,acknowledge,i've come to the bump
+g,acknowledge,right
+g,instruct,follow it again
+f,acknowledge,uh-huh
+g,instruct,just so far like ehm uh maybe about two centimetres
+f,acknowledge,mmhmm
+g,instruct,over the bump
+g,ready,right
+f,reply_y,right i've done that
+g,query_w,and then ehm how could you say this
+g,query_yn,have you got the pebbled shore
+f,reply_w,i've got the pebbled shore
+g,instruct,ehm well come round right follow the line down 'til you're maybe about och say about a centimetre and a half above the pebbled shore
+g,align,do you know what i mean
+g,reply_y,draw a curve
+f,clarify,right just following the coast line
+g,reply_y,uh-huh
+f,acknowledge,right okay that's me
+g,instruct,and then come up over the pebbled shore
+f,reply_y,above it
+g,acknowledge,uh-huh
+f,acknowledge,right okay
+g,align,okay
+g,instruct,and then just 'til you're right
+f,explain,i've got washed stones below it
+g,query_w,what
+f,align,see the pebbled shore
+g,reply_y,uh-huh
+f,reply_w,got uh washed stones below it
+g,query_yn,have you
+f,query_yn,have you not
+g,acknowledge,well miss out them
+f,acknowledge,right
+f,explain,i'm just at the i'm at er i'm at the left-hand side of the page just now
+g,acknowledge,mmhmm
+f,ready,okay
+g,reply_y,uh-huh right
+f,explain,just at just at the pebbled shore
+g,reply_y,well come right down
+f,acknowledge,right
+g,check,vertical
+f,query_w,towards
+f,reply_y,uh-huh
+f,query_w,towards what
+g,query_yn,have you got a flagship
+f,reply_y,uh-huh
+g,ready,well come right down
+g,acknowledge,right
+f,acknowledge,uh-huh
+g,instruct,vertical and then go back to your ehm ehm go to your right
+f,check,yeah
+f,instruct,to miss the washed stones
+g,acknowledge,uh-huh
+f,acknowledge,right
+g,align,are you maybe are right tell me where you are just now are you like
+f,reply_w,i'm just at the right of the washed stones at the left-hand side of the page
+g,acknowledge,i've not got washed stones
+f,check,i'm
+f,reply_y,aye
+g,check,so are you two mi-- two about two centimetres above from the bottom of the page just now
+f,check,i'm about
+g,align,are you if in parallel with the flagship
+f,reply_y,uh-huh
+g,query_w,or in the same level
+g,reply_w,oh well that's it
+f,acknowledge,well no
+f,explain,i could go down but i've got the the flagship there's a wee there's a wee bit of bay sticking out
+g,acknowledge,uh-huh right
+g,query_w,where are you where have you stopped
+f,explain,i've stopped about six centimetres up i mean i'm i'm about three or four centimetres up from the flagship
+g,reply_n,oh no
+g,explain,what the line stops at the flagship well not at the flagship about two centimetres away from it
+f,acknowledge,right
+f,query_yn,what do you want me to do do you want me to
+g,ready,ehm
+f,query_yn,do you want do you want me to miss that wee jut out of the bay draw a line round that
+g,query_w,where
+f,align,do you know how the flagship
+g,reply_y,uh-huh
+f,explain,there's a wee bit of bay that juts out
+g,reply_y,uh-huh
+f,check,do you want me to draw a line round that so i'm going to miss it
+g,query_w,where are you oh oh what l-- what side of the pebbled shore are you
+g,reply_w,what
+f,reply_w,i'm near en-- i'm near enough the right now 'cause i had to miss the washed stones
+g,check,you're at the right of it
+f,acknowledge,mmhmm
+g,explain,you should be at the left of it
+f,acknowledge,right okay
+g,clarify,could you go round
+f,check,i'll go round the washed stones the other way
+g,reply_w,to i don't have the washed stones
+g,ready,right so
+f,check,you want me to be at the left of the pebbled shore
+g,reply_y,uh-huh i want you to go round the left of the pebbled shore
+f,acknowledge,oh i did do that
+g,acknowledge,oh you did do
+f,acknowledge,uh-huh
+g,align,you said the right
+f,acknowledge,i know
+f,explain,but i'm now at the 'cause i've had to miss the washed stones so i'm now near enough the right
+g,query_w,where are your washed stones
+f,reply_w,the washed stones are
+f,align,see the pebbled shore
+g,reply_y,uh-huh
+f,explain,they're about three centimetres down to the left
+g,acknowledge,oh right okay
+g,check,all right so you jutted them out
+f,reply_y,uh-huh
+g,acknowledge,oh good
+f,check,so i came back round to the right and jutted them out
+g,reply_y,uh-huh
+g,align,so you're now so where are you now right you're about
+f,reply_y,right
+f,align,see the flagship
+g,reply_y,uh-huh
+f,explain,see the wee bit of bay that's jutting out
+g,reply_y,uh-huh
+f,acknowledge,right
+f,explain,i'm exactly two centimetres up above that about that wee that that wee tip comes out
+g,instruct,well go down until you're in a v--
+g,align,right see the windows of the flagship
+f,reply_y,aye
+g,align,this stops at the windows
+f,query_yn,can i go actually into crane bay
+g,reply_n,no
+f,reply_y,right
+f,check,so i go down
+g,reply_n,no
+g,explain,you're away fr-- right you see the wee bit that's jutting out
+f,reply_y,uh-huh
+g,reply_y,just across from the windows
+f,reply_y,uh-huh
+g,clarify,you're about a centimetre and a half away from that
+g,align,okay
+f,ready,right
+f,explain,that's where i am just now
+g,ready,right
+g,explain,that's the finish
+f,acknowledge,oh right
+f,explain,so i don't actually touch the flagship
+g,acknowledge,no
+f,reply_y,right
+f,check,so i just cr-- put a cross and finish
+g,reply_y,uh-huh
+f,explain,so it's about a centimetre up from that wee jutty-out bit that's the finish
+g,reply_n,no
+g,align,are you at the windows are you finished just in a v-- horizontal line from the windows of the flagship
+f,reply_w,ah it's have i got to go horizontally
+g,acknowledge,uh-huh
+f,explain,oh it's it's it's in a wee recess bit
+g,uncodable,sorry
+g,acknowledge,uh-huh
+f,align,see the how you've got the jutty-out bit then it goes in and out
+f,check,is that where the finish is
+g,reply_y,uh-huh
+f,acknowledge,right
+f,explain,so i c-- i
+g,explain,but it's not actually in crane bay
+f,acknowledge,aye i know where you are
+g,align,okay
+g,reply_y,uh-huh
+f,instruct,so i do that and then do a cross and finish
+g,reply_y,uh-huh
+f,reply_y,right okay i know where you are now
+g,acknowledge,okay
+f,explain,and am i directly above the windows
+g,instruct,just in f-- horizontal to it
+f,acknowledge,right
+g,reply_y,okay

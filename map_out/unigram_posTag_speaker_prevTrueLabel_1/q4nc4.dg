@@ -1,0 +1,424 @@
+g,ready,right neil
+f,acknowledge,okay right
+f,query_w,where are we going
+g,ready,start
+f,query_w,where am i starting
+f,reply_w,oh right i've got it yeah i've found the start
+g,query_yn,have you got the start just above
+f,reply_y,yeah i've found it uh-huh
+g,query_yn,have you got a camera shop below it no
+f,reply_y,yes
+g,query_yn,you have
+f,reply_y,yes
+g,acknowledge,right a camera shop
+g,ready,right
+g,instruct,head due south from that just down for about twelve centimetres
+g,query_yn,have you got a parked van at the bottom
+g,reply_y,go round
+f,explain,so wait a minute i've got to go round the i've got
+f,reply_y,round the
+f,acknowledge,left-hand side of the camera shop right
+g,instruct,go round the left hand side of the camera shop in between the edge of the page and the camera shop
+g,align,right
+f,reply_y,right
+f,explain,i don't have a parked van at the bottom
+g,query_yn,you don't have a parked van
+g,instruct,well go down aim towards the bottom and s-- stay about two centimetres up from the bottom of the page
+f,acknowledge,right
+f,explain,i've got a yacht club on the far right-hand side
+g,acknowledge,a yacht club
+g,ready,right
+g,instruct,so you go down to just bel--
+g,align,see where the the words yacht club are
+f,reply_y,uh-huh
+g,instruct,just go sort of go down towards the bottom of the page and draw a line towards the yacht club for about three centimetres underneath where the if you drew a line right across the bottom of the page it wo-- the line would end up under yacht club
+g,align,right do you see what i'm
+f,check,are we doing that under ya--
+f,reply_y,so i want to go down
+g,reply_n,no
+g,clarify,don't g-- don't go along to the yacht club though
+f,check,but i want to go straight down to there
+g,reply_y,right
+g,instruct,you go down the side of the camera shop right for about twelve centimetres and do a sort of a "u" shape for and the bottom of the "u" shape should be about three centimetres long
+g,align,right do you know what i'm meaning
+f,check,three centimetres long
+g,reply_y,right
+f,check,and a-- a-- what i'm doing it at yacht club i'm going i'm going
+g,acknowledge,no do-- all right okay
+g,explain,we'll we'll forg--
+f,check,i'm going i'm going right i'm going right towards the yacht club
+g,explain,we'll forget about the yacht club just now
+f,check,no but but that's how far down i want to come
+g,reply_y,yeah uh-huh uh-huh
+f,acknowledge,right
+g,instruct,down towards aye where the yacht club is right
+f,acknowledge,right okay
+f,acknowledge,right i know that yeah
+g,instruct,but forget the yacht club 'cause you're nowhere near that you're at the other side of the page
+f,acknowledge,right
+g,instruct,eh so we're going down it's now you do
+f,explain,so i take it i'm trying to miss a parked van that's at the bottom of the page here
+g,reply_y,right uh-huh
+g,instruct,there's a parked van
+f,acknowledge,right
+g,align,and you're sort of you're sort of
+f,acknowledge,i've got it
+g,align,you've worked it out already
+g,instruct,eh we're doing a "u" shape round the parked van but it's a sort of three cent-- see if you imagine a "u" right the stems of the "u" the vertical bits are sort of three centimetres between
+f,query_yn,see if i go right down if i go right down the bottom and turn right will i miss it
+g,reply_y,yes
+g,reply_y,aye
+f,acknowledge,right okay i'll
+g,instruct,right go right down to the bottom
+f,acknowledge,right
+g,instruct,turn right for three centimetres
+g,align,okay
+f,reply_y,right
+g,instruct,three or four centimetres
+g,align,okay
+f,reply_y,right
+g,instruct,now you're heading back up sort of two thir--
+g,query_yn,have you got allotments
+f,reply_y,allotments
+f,reply_y,yeah
+g,ready,right
+g,instruct,you're going up to the sort of left-hand top left-hand side of the allotments
+f,acknowledge,right
+g,instruct,from the bottom
+g,align,right
+g,instruct,that should be a di-- a straight line up the way
+g,acknowledge,okay
+f,acknowledge,right okay
+f,explain,i'll come along a wee bit just so i can make sure i miss that right okay
+g,acknowledge,right okay
+g,check,so you've got a sort of "u" shape so far except it only
+f,acknowledge,right okay right
+g,align,right okay
+f,query_yn,got it
+f,acknowledge,mm
+g,align,you're up at the top f-- left-hand side of the allotments okay
+f,acknowledge,fine
+g,align,now see your yacht club
+f,reply_y,yeah
+g,instruct,eh go to the left-hand side of the yacht club and up about f-- six centimetres
+g,acknowledge,right
+f,reply_y,right
+f,check,so i've got to go underneath the flight museum
+g,reply_n,no
+f,query_yn,have you got that
+g,reply_y,i've not got a flight museum right
+f,acknowledge,right
+f,explain,so i've got
+g,clarify,so you're you're going diagonally sort of north northeast it's not it's it's a sort of two o'clock almost three o'clock from the allotments over
+g,acknowledge,you're at the top
+f,query_yn,what side of the allotments am i at am i at the left-hand side of the allot--
+g,align,the left-hand side top
+f,acknowledge,right okay
+g,ready,right
+g,instruct,so you're going over the top of the allotments right now
+f,check,and down to the yacht club
+g,reply_n,eh no no
+f,check,down to
+g,clarify,you're up you're going up sort of two o'clock in between two o'clock and three o'clock
+f,acknowledge,right
+g,instruct,you're going up the way to the see if you draw a line up the left-hand side of the yacht club right the way up the page
+f,acknowledge,oh right okay
+g,ready,right
+f,check,so i'm going
+g,clarify,you're only going about i would say about two centimetres up from the allotments if you know what i mean
+g,align,do you see what i mean
+g,ready,but you're
+f,check,two centimetres up from the allotments
+g,instruct,up from the allotments but along about twelve centimetres
+g,acknowledge,okay
+f,acknowledge,oh my god
+g,align,right are we starting
+f,query_yn,can we do it in straight lines
+g,acknowledge,right sta-- aye right see
+f,explain,'cause straight
+g,align,you're at the top left-hand side of the allotments are you there
+f,reply_y,yeah right
+g,acknowledge,right okay
+g,instruct,see if you drew a straight line just east for about twelve thirteen centimetres
+g,align,okay
+f,reply_y,east
+g,reply_y,right
+f,acknowledge,right okay right
+f,acknowledge,i'm going right
+g,instruct,just go go up about a centimetre from the edge of that so you're sort of going diagonally up that way if you know what i mean from it's about twelve or thirteen centimetres
+f,acknowledge,right okay right
+f,explain,i've got that
+g,instruct,not directly east but up a wee bit gradually aiming up the way
+f,acknowledge,yeah right got it got it right okay right
+g,align,okay
+g,ready,right
+f,explain,i'm a-- and i've just come to the left-hand side of the all-- the yacht club
+g,reply_y,yes
+f,acknowledge,right okay
+g,instruct,but you're about thirteen fourteen centimetres up the page
+f,check,f-- not as many as that
+g,acknowledge,you're not oh j--
+f,explain,i'm about six
+g,reply_n,oh no
+g,align,see your see your line from the top left-hand side of the allotments
+f,query_w,where is it in relation to like the west lake
+g,reply_w,i've not got a west lake
+f,check,have you not
+g,reply_n,no
+f,acknowledge,disused monastery
+g,reply_y,i've got a disused monastery aye
+f,query_w,where are we in relation to that
+g,ready,right
+g,explain,in relation to that we're due south about ten fif-- ten twelve centimetres
+f,check,cannae be due south
+g,query_yn,have you got a disused
+f,reply_n,we're not due south
+g,query_yn,is y-- is your is your d--
+g,reply_w,is your disused monastery in the centre of the page
+f,reply_y,yeah right in the centre
+g,query_yn,right hold on have you got a sar--
+g,instruct,right start from again start the beginning
+f,query_w,where's your yacht club
+g,reply_w,where's my yacht club
+f,acknowledge,far right
+g,reply_w,away over at the bottom
+f,acknowledge,right
+f,acknowledge,okay
+g,align,right at the bottom right-hand side
+f,acknowledge,okay right
+g,explain,we've got the same map haven't we
+g,explain,it's my fault i know what
+f,explain,paul this is this is lousy
+g,align,i know what you're meaning
+f,acknowledge,right
+g,ready,right
+g,instruct,can we go back to the allotments
+g,align,are you at the top
+f,reply_y,yeah right we're back at the allotments okay
+g,align,you're at the you're just at the side of the allotments right
+f,acknowledge,right okay
+g,align,okay
+f,reply_y,right
+g,ready,right
+g,align,see the allotments
+g,align,just draw a line right over the top of that east right
+f,acknowledge,right okay
+g,instruct,right over towar-- to stay about six centimetres from the edge of the page right east just go straight east
+f,acknowledge,right okay right
+g,instruct,forget about getting it up a wee bit
+g,ready,right
+g,reply_y,right
+f,acknowledge,uh-huh okay
+g,instruct,so that's where we are we're about i would say we're if you you could we're about six centimetres from the edge of the page from the right-hand edge of the page and about six or seven centimetres up from the bottom as well
+g,acknowledge,right
+f,acknowledge,right okay
+g,align,correct
+g,ready,right
+f,acknowledge,right fine right
+g,acknowledge,oh dear
+g,instruct,draw draw a line from there
+g,align,you've got a disused monastery right
+f,reply_y,yeah
+f,acknowledge,right okay
+g,clarify,you're going from where you are just now just straight up and round the top of the monastery like a wee hill over the top of the monastery right going from the right-hand side of the monastery over to the left-hand side
+f,acknowledge,right fine
+g,align,okay
+f,query_yn,got you
+g,instruct,now you're coming down and you're doing the exact same hump again except invert it and you're going up
+g,query_yn,have you got an alpine garden
+f,reply_y,have i hell
+g,acknowledge,you've not
+g,ready,right
+f,reply_n,no
+f,reply_y,oh yeah i do yeah i do
+g,query_yn,you do have an alpine garden
+f,reply_y,uh-huh
+g,instruct,well you're doing a sort of hump you're just going up the side of the alpine garden
+g,ready,right
+g,instruct,up the left-hand side sorry
+f,check,up the left-hand side of it
+g,clarify,the left-hand side of the alpine garden
+g,align,so you should have
+g,acknowledge,you're
+f,check,so i'm going across underneath the alpine garden
+g,reply_y,right uh-huh
+g,clarify,you're going across to underneath the left-hand side of the alpine garden then you're going straight up
+g,align,okay
+f,reply_y,okay
+g,instruct,just to the top of just to the top left-hand bit of the alpine garden
+f,acknowledge,okay
+g,query_yn,have you got a youth hostel
+f,reply_n,no
+g,check,you've not
+g,ready,right
+g,instruct,the youth hostel is about it's a couple of centimetres to the left eh to the right and a couple of centimetres above the alpine garden right so it's very c--
+g,acknowledge,d--
+f,check,couple of centimetres to the right and a couple of centimetres above
+f,acknowledge,right
+g,align,above right
+g,ready,so it's sort of
+g,instruct,now you're going eh i would say about you're at the left-hand side of the alpine garden go across about two centimetres right just east
+f,check,the left-hand s--
+g,ready,right
+g,align,you're you're at the top left of the alpine garden
+f,acknowledge,right okay i'm here right
+g,align,or have you drawn another line
+f,reply_n,i've got it no i'm at the top
+g,acknowledge,right
+f,check,top left of the alpine garden
+g,instruct,top left of the alpine garden
+g,instruct,draw a line about two centimetres right but just directly across
+g,align,okay
+f,check,so i'm coming into about the middle of the alpine garden
+g,reply_y,yea-- eh uh-huh
+g,clarify,over to the
+g,align,you see the wee two two wee bricks at the edge of the alpine garden
+g,instruct,there's two wee
+f,acknowledge,there's two
+f,uncodable,about
+g,explain,two i don't know what they are is it bricks or is it grass right whatever it is och well it's two centimetres along anyway yes
+f,check,to the middle of the alpine garden
+g,reply_y,aye
+g,clarify,just a wee bit to the right of middle
+f,acknowledge,right
+g,instruct,sort of two thirds of the way along
+f,acknowledge,right got it
+g,ready,eh right
+f,query_yn,got you
+g,instruct,and then you're going up about thr-- four centimetres st-- directly north right about four centimetres
+g,align,okay
+g,instruct,so you should be from the you should be round about above the letter "e" or "n" of garden eh about six centimetres or something is that right
+g,reply_y,okay
+f,acknowledge,yeah right okay fine yeah
+f,explain,we're not we're not bad we're a wee bit
+g,explain,eh a wee bit
+f,check,eh a wee bit a wee bit inside it
+g,explain,no it's it's my fault
+f,acknowledge,right
+g,instruct,eh right so you're up there eh go right for about three centimetres
+g,align,eh
+f,check,th-- to underneath the parked van
+f,reply_y,under the parked
+g,reply_y,underneath the pa-- uh-huh underneath the parked van
+f,query_w,what what letter am i under
+g,instruct,go th-- go right
+g,align,you should be under the letter "d"
+f,acknowledge,right okay
+f,acknowledge,right
+g,align,right under the letter "d"
+f,explain,i'm under "d"
+g,acknowledge,right
+g,query_yn,have you got a telephone box
+f,reply_y,ehm yeah
+g,uncodable,police
+f,explain,but it's away down on the right-hand side
+g,acknowledge,right okay
+g,instruct,you're doing a massive diagonal sort of south east
+g,acknowledge,right
+f,reply_y,okay
+g,align,right to the bottom right to the letter "t" from where you are
+f,check,to the letter "t"
+g,instruct,to the letter "t" of telephone box
+f,acknowledge,okay
+g,ready,right
+g,instruct,and then you're just going right drawing a line right underneath as if you're underlining telephone box and back up the right-hand side up the way now i'll tell you about that in a minute
+f,align,up right
+g,align,right so you're going up
+g,query_yn,have you got a thatched m-- thatched mud hut
+f,reply_n,i've got no thatched mud huts anywhere
+g,acknowledge,you've not
+g,explain,there's a thatched mud hut about
+f,check,apart from at home
+f,acknowledge,right
+g,query_yn,you've got a mud hut
+g,explain,you've got a mud hut about six centimetres above the telephone box directly above it
+g,acknowledge,right
+f,reply_y,directly above it okay
+g,instruct,eh so what you're doing is sort of drawing
+f,check,so i'm missing it then
+g,instruct,if you c-- if you can imagine an "s" round the thatched mud hut and the telephone box right
+f,acknowledge,oh wow
+g,instruct,if y-- if y-- f-- oh forget
+f,check,oh groovy
+g,explain,you've not got the mud huts
+f,reply_y,i've got it yeah
+g,ready,right
+f,explain,i've got a level crossing
+f,query_yn,have you got a les-- a level crossing
+g,reply_n,i have not no i've not
+f,explain,right so i've got to miss i
+g,align,right hold on where are you just now
+f,ready,right
+g,align,you're at the bottom of "x" oh right are you up a bit
+f,reply_w,i i've just come up a wee bit
+g,check,you've come up a wee bit
+g,instruct,well i would go up from the "x" right you're going up about three centimetres
+g,align,okay
+f,check,to the top of the telephone box
+f,acknowledge,right fine
+g,instruct,to the top of the telephone box right
+f,uncodable,no--
+g,instruct,and then you're sort of going diagonally across about eh i would say exactly sort of t-- what's it north i don't know what's the one northwest
+f,acknowledge,northwest uh-huh
+f,reply_y,yeah
+f,acknowledge,right
+g,instruct,if you go exactly northwest for about three centimetres four centimetres four centimetres right
+g,instruct,exactly northwest for four centimetres you should end up above the letter round about "t" or "e" of telephone box about s-- eight centimetres above it
+g,query_yn,is that right see where i am
+f,reply_y,okay i've got it yeah
+g,align,"t" or "e"
+g,reply_y,then go
+g,query_yn,have you got the east lake up at the top
+f,reply_y,i've got the east lake yeah
+g,query_yn,you have got the east lake
+g,query_yn,have you got a finish
+g,query_yn,you haven't got a fini--
+f,reply_n,no i don't no
+g,acknowledge,right okay
+g,query_w,eh where are you just now
+g,reply_w,you're at th-- oh you're beside my thatched mud hut
+f,acknowledge,so i
+g,clarify,eh you're going up just go directly north to the side of the east lake under the letter "k" "e" you know "k" or "e" in east lake
+g,align,just to the edge of the east lake right
+f,check,am i doing an "s" round telephone
+g,acknowledge,an "f"
+f,acknowledge,an "s"
+g,acknowledge,an "s"
+g,acknowledge,uh-huh
+f,explain,i've only got half an "s"
+g,reply_y,yeah aye
+f,acknowledge,right
+g,reply_y,you're not going the other you're aye
+g,instruct,you're only doing
+f,check,so i'm going up towards "k" or "e"
+g,clarify,"k" or "e"
+f,acknowledge,right okay i can right
+g,clarify,just directly north to "k" or "e"
+f,acknowledge,right
+g,instruct,and you're about half a centimetre away from the edge of the east lake the bottom edge of it
+g,acknowledge,okay
+f,acknowledge,right okay
+g,instruct,and then i would say you're about three cen-- four centimetres
+g,align,you're following the edge of the east lake right up for about a centimetre beyond the left-hand edge of it
+g,align,see where it gets pointy
+f,check,so i'm going up i'm going up the l-- so i'm going over to the left here
+g,reply_y,yes
+f,check,a-- and over to the the corn--
+g,clarify,you're going over to the over to the left over to the corner
+g,instruct,and about a centimetre beyond the corner keeping the same contour as the lake same edge of it
+g,acknowledge,right
+f,reply_y,okay
+g,explain,and that's the finish that's it about a centimetre beyond the edge of that
+f,acknowledge,right
+f,explain,we're there
+g,reply_w,sorry about the mess here in your diagram
+f,check,so the parked van didn't come in
+g,query_yn,eh the parked van was nothing to do with it
+f,acknowledge,and the picket fence
+f,reply_w,and the west lake
+g,reply_n,eh the picket fence no that was another red herring
+g,explain,eh the west i've not got a west lake
+g,instruct,your yacht club should be absolutely
+f,acknowledge,the yacht club's away out of it as well yeah okay
+g,acknowledge,right that's okay that's good
+g,instruct,i think we're roughly in the same area

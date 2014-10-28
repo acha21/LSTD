@@ -1,0 +1,177 @@
+g,ready,right
+g,explain,the start's just above the telephone kiosk
+f,acknowledge,right
+f,reply_y,on the left yeah uh-huh
+g,ready,right
+g,instruct,go down past the left side of the telephone kiosk
+f,acknowledge,uh-huh
+f,acknowledge,right down
+g,align,right down
+g,instruct,for about ten centimetres
+f,acknowledge,mmhmm
+g,ready,now
+f,acknowledge,right down
+g,explain,my map there's a stone circle
+f,explain,there's a stone circle
+g,acknowledge,yeah
+g,ready,so
+g,query_w,what you do is
+g,reply_w,if you
+f,explain,there's no stone circle here there's a broken gate to the right
+g,acknowledge,yeah
+g,ready,well
+g,explain,i've got a stone circle marked on mine
+g,instruct,so you need to go underneath it so where you go is you go down the left-hand side
+g,instruct,it's directly underneath the telephone kiosk
+f,acknowledge,uh-huh
+g,ready,right so you it's
+g,instruct,down about ten centimetres which should bring you right well i'll tell you p-- put it about twelve you're about two centimetres up from the bottom
+f,acknowledge,mmhmm
+g,align,of this of the paper
+f,reply_y,uh-huh right
+g,instruct,and go left for about five
+f,acknowledge,okay
+g,align,centime-- no right for about five i mean
+f,reply_y,right
+g,instruct,'cause that would take
+f,check,that's towards
+g,clarify,towards the gate
+g,ready,but
+g,instruct,then stop when you're
+f,check,you said five towards the gate
+f,explain,but the gate's on the r-- is on the right to on the l-- e--
+g,reply_y,uh-huh that's what i mean
+g,align,you're five five centimetres right
+f,reply_y,okay right fine
+g,instruct,right just straight along
+f,acknowledge,uh-huh
+f,check,to the gate
+f,uncodable,d-- undernea--
+g,instruct,'til you're directly underneath the left-hand side of the gate
+f,acknowledge,okay right uh-huh
+g,ready,right
+g,instruct,move straight up
+f,acknowledge,mmhmm
+g,instruct,and m-- go up past the left-hand side of the gate
+f,acknowledge,mmhmm
+g,instruct,'til you're abo-- right above it
+f,acknowledge,mmhmm
+g,query_yn,are you there
+f,reply_y,uh-huh
+g,ready,right
+g,query_yn,have you got you've got overnight stop or something haven't you
+f,reply_y,overnight accommodation yeah
+f,acknowledge,to the right
+g,ready,right
+g,ready,well
+g,instruct,t-- go up to there
+f,acknowledge,up to there okay right
+f,query_w,underneath it or just over it or what
+f,acknowledge,okay
+g,explain,it doesn't matter as long as you're just about at it
+f,acknowledge,uh-huh
+g,ready,right
+g,instruct,now go
+g,query_yn,have you got the ruined monastery
+f,reply_y,uh-huh
+f,acknowledge,right at the top
+g,instruct,go up
+g,instruct,to the top of that
+f,acknowledge,uh-huh
+g,instruct,'til you're right above it
+f,acknowledge,mmhmm
+g,align,you know above the centre
+f,reply_y,uh-huh t--
+g,instruct,and go over and down the other side and go down diagonally about three centimetres
+f,acknowledge,right down uh-huh three centimetres
+g,align,right
+g,reply_y,got to watch
+g,explain,'cause there's a lake west lake i don't think
+f,explain,there's no lake here
+g,acknowledge,i know
+g,explain,'cause i did this one earlier
+f,acknowledge,no okay right
+g,ready,right so
+g,instruct,what you do is you go up sort of take up diagonally left on a very very slight angle eh for about five centimetres until you're underneath the stile
+g,query_yn,have you got a stile
+f,acknowledge,uh-uh
+f,explain,i've got a dutch elm
+g,query_yn,isn't that over the other side
+f,acknowledge,mmhmm
+f,acknowledge,oh the stile's there right okay
+g,ready,right
+g,instruct,well you're going down there and you go along until you're underneath the left-hand side of the stile and then go up and over the top of it and stop there
+f,acknowledge,mmhmm
+g,query_yn,are you there
+f,reply_y,uh-huh
+g,ready,right
+f,reply_y,yeah
+g,instruct,go up about three centimetres direct straight up
+f,acknowledge,uh-huh
+g,instruct,and then along about two to the right
+f,acknowledge,mmhmm
+g,instruct,and you go down diagonal ano-- and underneath the bottom of dead tree which'll be the dutch elm probably
+g,ready,you there
+f,explain,the stile right i've got a stile i've to go up or whatever i've got the popular tourist spot on that side
+g,ready,well
+g,instruct,avoid it then
+f,acknowledge,uh-huh
+f,check,and go right down to the e-- right to the what the dutch elm
+g,reply_w,underneath the dead tree
+f,acknowledge,uh-huh
+g,ready,right now
+g,instruct,go round to the top of the dead tree going up the the right-hand side
+f,acknowledge,mmhmm yeah
+g,ready,right
+g,query_yn,have you got a great viewpoint just underneath the east lake
+f,ready,ehm
+f,explain,i've got the rocket launch pad underneath the east lake
+g,ready,hmm
+g,ready,right well
+g,explain,i've got two great viewpoints
+g,acknowledge,yeah
+g,ready,well
+f,reply_w,'cause i've got the great viewpoint to the r-- left-hand to the right to the left-hand side of the east
+g,explain,i've got t-- i've got one there and i've got ano-- another one under the lake
+g,explain,i think maybe it might be a printing mistake
+f,acknowledge,yeah okay
+f,query_w,what do i do
+g,check,right what you you do is go about two centimetres up diagonally from where you are you should be right directly above the dead tree
+f,reply_y,mmhmm
+g,ready,right
+g,instruct,go up about two centimetres diagonally
+f,acknowledge,mmhmm
+g,ready,and then
+g,instruct,'til and then straight up to the lake you should be just about under the "e" of the lake
+f,check,under the "e" of the lake
+g,reply_y,under "e" it says east lake
+f,acknowledge,okay yeah fine
+g,ready,right
+g,align,at the bottom of the lake
+f,reply_y,mmhmm
+g,ready,right
+g,instruct,follow the lake up to the left
+f,acknowledge,uh-huh
+g,ready,right
+f,acknowledge,to the left okay
+g,clarify,and stop at the bo-- when it reache-- when it turns a corner ninety degrees stop right
+f,check,the first corner or the second corner
+g,clarify,the first corner
+f,acknowledge,uh-huh okay fine
+g,query_w,when you're going up the left
+f,acknowledge,uh-huh
+g,instruct,and then go for go about another two centimetres following the same route you were taking
+f,acknowledge,mmhmm
+g,instruct,just going past the bottom
+f,acknowledge,mmhmm
+g,instruct,until you should be underneath the the
+f,acknowledge,mmhmm
+g,align,you know see how the lake goes up diagonal it go--
+f,reply_y,mmhmm
+g,instruct,it goes up diagonal after it turns ninety degrees it turns another corner
+f,acknowledge,mmhmm
+g,explain,right and there's another corner there
+f,acknowledge,uh-huh
+g,instruct,you should be directly under that and that's the finish
+f,acknowledge,okay fine
+f,query_yn,is is that it

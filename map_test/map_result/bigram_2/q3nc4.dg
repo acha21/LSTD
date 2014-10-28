@@ -1,0 +1,165 @@
+g,ready,okay
+g,explain,the start's above the crest falls
+f,acknowledge,right
+g,instruct,you start there and go to the left
+f,reply_y,mmhmm
+g,instruct,a bit and then down by the side of the crest falls
+g,instruct,and then along roughly horizontally to about an inch from the left-hand side of the page then go up
+f,align,an inch from the left-hand side of the page
+g,acknowledge,yeah
+f,instruct,past the banana tree
+g,explain,well i've not got a banana tree on mine
+f,acknowledge,okay
+f,query_w,and then to where
+g,instruct,and then go up the way by about four inches three inches
+f,acknowledge,three inches okay
+g,query_yn,have you got baboons marked on yours
+f,reply_n,no
+g,acknowledge,no right
+g,query_yn,have you got a footbridge marked
+f,reply_y,i have
+g,acknowledge,okay
+g,instruct,well turn right so that you go across the footbridge
+f,check,turn right so i go across the footbridge right
+g,reply_y,and watch out beyond it
+g,query_yn,have you got a poisoned stream marked
+f,reply_n,no
+g,acknowledge,no right
+g,clarify,well just beyond the footbridge is a poisoned stream
+f,acknowledge,right
+g,align,so and are you on the footbridge footbridge
+f,reply_y,mmhmm
+g,ready,okay
+g,instruct,well go to the end of the footbridge
+f,acknowledge,right
+g,instruct,and then down
+f,check,straight down
+g,check,straight down by about an inch
+f,acknowledge,okay
+g,instruct,bit more than an inch
+f,align,right
+g,instruct,eh now go horizontally along towards your right
+f,query_w,for how long
+g,reply_w,about three inches
+g,query_yn,have you got an old temple marked
+f,reply_y,i do
+g,acknowledge,right okay
+g,instruct,well you go up the left-hand side of the old temple as you see it
+f,check,straight up or
+g,acknowledge,straight up yeah
+f,instruct,curve round
+f,reply_y,okay
+g,uncodable,okay eh
+g,query_yn,now have you got something marked eh just above the old temple or to the left of the old temple
+f,reply_w,i've got slate mountain
+g,acknowledge,slate mountain okay
+g,instruct,well go above that and round
+f,check,straight up
+g,check,still going to your left
+f,check,still going to my left
+g,instruct,y-- well y-- you're straight up just beyond the old temple
+f,acknowledge,uh-huh
+g,acknowledge,okay
+g,instruct,now g-- you're wanting to go left
+g,query_yn,have you got an abandoned truck marked
+f,reply_y,uh-huh
+g,ready,right
+g,clarify,well you're wanting to go just below that but missing out any obstacles
+g,explain,that there are
+f,check,right so i'm going underneath this mountain and along to the abandoned truck not underneath the mountain above the mountain
+g,reply_y,above the mountain yeah
+f,check,so it's to the right of the mountain that i'm going
+g,reply_n,no it's to the
+g,reply_w,the abandoned truck's to the left of the old temple
+f,reply_y,yes
+f,explain,but the m-- the mountain's a-- between the abandoned truck and the old temple
+g,acknowledge,right okay
+g,reply_w,so is the the mountain roughly level with the abandoned truck
+f,reply_y,more or less yes
+g,ready,more or less okay
+g,instruct,go above the the mountain
+f,acknowledge,right
+g,check,and then dip down under the abandoned truck
+f,acknowledge,okay
+g,instruct,so you're under the abandoned truck
+f,query_yn,i'm under the abandoned truck
+g,query_yn,go along to the left-hand edge of the abandoned truck
+f,reply_y,right
+g,instruct,and then down by
+g,query_yn,have you got baboons marked
+f,reply_n,no
+g,acknowledge,no okay
+g,instruct,go eh about an inch down after the abandoned truck
+f,acknowledge,right
+g,instruct,inch and a half say
+f,align,okay
+g,instruct,eh and then horizontally along 'til about half an inch from the left-hand side of the page
+f,align,okey-doke
+g,acknowledge,okay
+g,instruct,now go vertically up
+g,query_yn,have you got white mountain marked
+f,reply_y,i do
+g,ready,you do okay
+g,instruct,go up to the left-hand side of white mountain
+f,check,do you want me to come in the page at all
+g,uncodable,yes
+g,instruct,just a wee bit so that you are not far from white mountain when you go past it
+g,acknowledge,then go up beyond white mountain
+f,align,on its left-hand side
+g,reply_y,eh yeah it's on its left-hand side
+f,reply_y,right
+g,clarify,'til you're about eh two and a half inches from the top of the page and just about above white mountain
+f,query_yn,ehm have you got a lemon grove marked
+g,reply_n,no
+f,acknowledge,right
+f,instruct,two and a half inches from the top of the page
+g,reply_y,yeah roughly
+f,explain,and above white mountain
+f,acknowledge,ehm
+g,query_yn,have you got a pyramid marked
+f,reply_y,uh-huh
+g,acknowledge,right okay
+g,instruct,well go horizontally along and over the top of the pyramid and down the s-- other side of the pyramid
+g,query_yn,have you got cobbled street marked
+f,reply_n,no
+g,acknowledge,no okay
+g,instruct,well go underneath the pyramid
+f,reply_y,horizontally
+g,reply_y,yes
+g,instruct,that's so so that'll be you moving to your left
+f,acknowledge,right
+g,instruct,and then to the edge of the pyramid
+f,reply_y,okay
+g,check,the left-hand edge
+g,instruct,and then go down at a bit of an angle
+g,acknowledge,eh
+f,query_w,which way
+f,reply_w,sorry
+g,clarify,slightly acute angle
+f,acknowledge,southwest
+g,acknowledge,yes that way yeah
+f,align,okay
+f,query_w,for how long
+g,instruct,for just a wee bit just maybe a couple of inches
+f,reply_w,right
+g,clarify,and then go down
+g,query_yn,have you got remote village marked
+f,reply_y,uh-huh
+g,acknowledge,right okay
+g,instruct,well you're wanting to go down just to the left of remote village
+f,align,okay
+g,instruct,and then underneath remote village
+f,check,right that doesn't have to be in a straight line or anything
+g,acknowledge,eh aye
+g,clarify,fairly horizontal
+g,instruct,and the finish is just southeast of remote village
+f,explain,oh i do have a poisoned stream marked
+f,acknowledge,sorry
+g,explain,well there's two poisoned streams marked
+f,reply_y,uh-huh
+g,acknowledge,yeah
+f,query_w,so the finish is where
+g,reply_w,it's just southeast of the remo-- remote village
+f,explain,southeast of the remote village so it's there
+f,acknowledge,okay
+g,instruct,okay that's you finished

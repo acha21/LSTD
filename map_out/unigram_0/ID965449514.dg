@@ -1,0 +1,47 @@
+Y,Opening,Hi thanks for reaching out to Samsung tech support. How can I help you today?
+N,Opening,Hi I have an oddball technical question
+N,Opening,hello?
+Y,Acknowledgement,Please go ahead.
+Y,Acknowledgement,I will be glad to help you with all the information you need.
+N,Issue_Statement,I am a consultant for a large industial machinery manufacturer and they're looking at using a table as a machine interface
+N,Issue_Statement,excuse me a tablet
+N,Etc_Statement,However I can't find any specifications for temperature range and lifespan for your tablet
+N,Etc_Statement,So basically I need more detailed specs like temp range and expected life span.
+N,YN_Question,And if the tablet has any ratings for Particulate/Moisture resistance that would be awesome too.
+N,Word_Answer,I know these are not standard consumer questions... So I'm fine waiting if you need to transfer
+Y,Acknowledgement,Please allow me to go through the inquiry.
+N,Acknowledgement,Sure thank you for your time.
+Y,Acknowledgement,You are welcome.
+Y,Wait,Would you mind holding a few minutes while I gather the required information for your request?
+N,Positive,Yes no problem.
+Y,Acknowledgement,Thank you.
+N,Word_Answer,If I don't respond right away when you get back its because I'm working on a variety of tasks.
+Y,Wait,Thank you for holding.
+Y,Open_Question,Do you have the model number of the Tab with you?
+N,Etc_Statement,If your company can direct me to a PDF of detailed documentation that would be awesome as you go about looking for the answers
+N,ConfirmIssue_Question,No. We would just work with your standard wi-fi only tablet cheapest model ordered in bulk quantites.
+Y,Wait,Please hold for a few more minutes I am still working on the issue.
+N,Negative,No problem
+Y,Acknowledgement,Thank you.
+Y,Wait,Thank you for holding.
+N,Etc_Statement,Not an issue take your time.
+Y,Etc_Statement,I have double checked with the information. I am really sorry to inform that the details you have requested are not updated in our databases.
+N,Open_Question,Okay do you have the ability to transer me to or give me the number for a department who may know this information?
+N,YN_Question,Or may be able to answer my questions?
+N,Etc_Statement,Surely samsung must have these specs somewhere.
+N,Etc_Statement,?
+Y,Wait,I'm sorry for the delay. I'll be right with you.
+N,Positive,Not a problem. I'm happy waiting
+Y,Acknowledgement,Thank you for your patience.
+Y,Acknowledgement,I really apologize for the inconvenience.
+N,Acknowledgement,Its no inconvenience.
+Y,Connection_check_Question,*delay.
+Y,Etc_Statement,Sorry for the typo.
+Y,Etc_Statement,I have checked with my supervisor I am sorry the requested information is not updated in our databases.
+Y,Word_Answer,You can reach our dedicated phone support at 1-800-SAMSUNG (1-800-726-7864). They are available from Mon - Sun : 9am - 9pm (EST).
+N,Issue_Statement,Is this what I should do next?
+Y,PresentSolution,We through Live chat have checked with all the information you request. If you wish you can reach our phone support for more assistance.
+N,Acknowledgement,Okay thank you
+Y,YN_Question,I am sorry; I could not help you fix the issue over the chat. Is there anything else I might be able to assist you with?
+N,Negative,No I anticipated it would be difficult to get this info. Thanks anyway
+Y,Closing,Thank you for chatting with us. If you have a minute please click on the blue “X close” button to receive a transcript of your chat and fill out a brief survey to help us serve you better. Have a wonderful day!<BR> Follow Samsung Service on <a href="http://www.facebook.com/samsungsupport" target="_blank">Facebook</a> <a href="http://twitter.com/samsungsupport" target="_blank">Twitter</a> and <a href="http://www.youtube.com/samsungservice" target="_blank">YouTube</a>.

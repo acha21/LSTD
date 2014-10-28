@@ -1,0 +1,30 @@
+<nite:root xmlns:nite="http://nite.sourceforge.net/" id="landmark-refs.q7nc6.f">
+<landmark_reference id="q7nc6.f.ref.1" stat="0" lit="l" def="indef" men="intro_l" plural="0" part_reference="no">
+  <nite:child href="q7nc6.f.timed-units.xml#id(q7nc6f.30)..id(q7nc6f.32)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m1_banana_tree)"/>
+</landmark_reference>
+<landmark_denial id="q7nc6.f.ref.2" stat="0" part_reference="no">
+  <nite:child href="q7nc6.f.timed-units.xml#id(q7nc6f.54)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m1_poisoned_stream)"/>
+</landmark_denial>
+<landmark_reference id="q7nc6.f.ref.3" stat="0" lit="l" def="null" men="intro" plural="0" part_reference="no">
+  <nite:child href="q7nc6.f.timed-units.xml#id(q7nc6f.69)..id(q7nc6f.70)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m1_slate_mountain)"/>
+</landmark_reference>
+<landmark_denial id="q7nc6.f.ref.4" stat="0" part_reference="no">
+  <nite:child href="q7nc6.f.timed-units.xml#id(q7nc6f.84)..id(q7nc6f.89)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m1_baboons)"/>
+</landmark_denial>
+<landmark_reference id="q7nc6.f.ref.5" stat="0" lit="l" def="indef" men="intro" plural="0" part_reference="no">
+  <nite:child href="q7nc6.f.timed-units.xml#id(q7nc6f.119)..id(q7nc6f.121)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m1_lemon_grove)"/>
+</landmark_reference>
+<landmark_denial id="q7nc6.f.ref.6" stat="0" part_reference="no">
+  <nite:child href="q7nc6.f.timed-units.xml#id(q7nc6f.155)..id(q7nc6f.158)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m1_cobbled_street)"/>
+</landmark_denial>
+<landmark_reference id="q7nc6.f.ref.7" stat="0" lit="l" def="indef" men="rep0" plural="0" part_reference="no">
+  <nite:child href="q7nc6.f.timed-units.xml#id(q7nc6f.156)..id(q7nc6f.158)"/>
+  <nite:pointer role="landmark" href="maptask-landmarks.xml#id(m1_remote_village)"/>
+</landmark_reference>
+</nite:root>

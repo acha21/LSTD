@@ -1,0 +1,21 @@
+Y,Opening,Hi thank you for contacting Samsung Technical Support. How may I help you today?
+N,Word_Answer,Hi Laura - Can you tell me if a Galaxy SIII Model: SPH-L710 is Sim Card compatible?
+Y,PresentSolution,I understand that you are inquiring if you can use a SIM card with the device.
+N,Positive,Yes
+Y,Acknowledgement,I understand your concern. I will be glad to provide you with the information.
+Y,Acknowledgement,Thank you for the model number.
+Y,PresentSolution,I should inform you that these devices are not compatible with sim cards.
+Y,Wait,The sim card will be inbuilt for these devices.
+N,YN_Question,So you cannot add a Sim Card?
+Y,Positive,Yes.
+Y,Etc_Statement,You cannot use sim card with this phone.
+N,Etc_Statement,I guess than from what you are saying is dont buy this phone but get 1 from the carrier or find a GSM Phone rather than a CDMA Phone?
+Y,Word_Answer,Yes you can purchase a GSM phone which will have a sim card.
+Y,Connection_check_Question,http://www.samsung.com/us/mobile/cell-phones/SGH-I747ZRBATT-specs
+Y,PresentSolution,You may consider purchasing the phone in the weblink above.
+N,Issue_Statement,GSM Phones can use any carrier?
+Y,PresentSolution,Yes. However you need to unlock them to change the carrier. Otherwise you can directly purchase an unlocked phone reaching any near by BestBuy or ebay or amazon stores.
+N,Acknowledgement,$$$$$$$$ hahahahaha - Thank You I will look into this
+Y,YN_Question,You're welcome. Is there anything else I can assist you with?
+N,Negative,No that is all Thank You
+Y,Closing,It was a pleasure assisting you. Thank you for contacting Samsung Technical Support. If you have a minute please click on the blue “X close” button to receive a transcript of your chat and fill out a brief survey to help us serve you better. Have a wonderful day!

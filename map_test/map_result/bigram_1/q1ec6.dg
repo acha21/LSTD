@@ -1,0 +1,107 @@
+g,ready,right
+g,instruct,go south and you'll pass some cliffs on your right
+f,acknowledge,okay
+f,reply_y,yeah
+g,instruct,and keep going down south
+f,acknowledge,mmhmm
+g,instruct,past a forge on your right
+f,query_w,past a what
+g,check,a forge
+g,instruct,well keep going down
+g,acknowledge,right
+g,check,and then loop towards the east
+f,clarify,underneath what wheatfields
+f,check,so i go straight
+g,instruct,not as far down as that
+g,acknowledge,no
+f,instruct,not as far down as that
+f,acknowledge,right
+f,instruct,and do a loop
+g,clarify,and do a loop
+g,instruct,and then start going back up again you're going kind of northeast
+f,acknowledge,right
+g,acknowledge,right
+g,explain,you there's a
+f,query_yn,and am i going to come like between these cliffs and pine or
+g,instruct,oh you go up past the pine pine's on your right
+f,acknowledge,right okay
+g,instruct,and go up past it 'til you're just above the top of the pine
+f,acknowledge,right okay
+g,instruct,and then east again
+f,check,east again
+g,check,east again
+f,reply_y,right okay right
+g,ready,right
+f,acknowledge,sorry right
+g,ready,right
+g,instruct,east sort of for a wee bit
+g,acknowledge,um
+g,instruct,and then start going southeast
+f,acknowledge,right okay
+g,instruct,there's a pine forest on your way
+f,reply_y,ehm yeah that's right uh-huh
+g,acknowledge,right
+f,acknowledge,right okay
+g,clarify,'til you get to just underneath the pine forest
+f,acknowledge,right
+g,instruct,and then start going south
+f,acknowledge,okay
+g,instruct,and then go east again and you loop round about a bakery
+f,acknowledge,yeah
+g,acknowledge,right
+f,check,i'm going east underneath the bakery
+g,clarify,underneath the bakery
+f,acknowledge,right okay
+g,acknowledge,uh-huh right
+g,clarify,and coming back round towards the west
+f,acknowledge,whoa whoa wait a minute right
+g,align,right
+f,instruct,i'm coming down by the pine forest i'm going right down straight down and then you s--
+g,instruct,'til you're not 'til you're at the top of the bakery
+g,acknowledge,right
+f,acknowledge,ah right sorry right okay
+g,instruct,and loop round a bit until you're underneath it right and then west
+g,acknowledge,right
+f,reply_y,right okay right got that
+g,instruct,and then down south
+f,acknowledge,okay
+g,explain,and there's a crane bay
+f,reply_y,yeah that's it
+g,acknowledge,right
+f,reply_y,uh-huh
+g,check,and it's got a
+g,query_w,can you curve follow the curve
+f,acknowledge,yeah right
+f,reply_y,uh-huh
+g,instruct,of crane bay so you're going west
+f,acknowledge,yep
+g,ready,right and then um
+g,reply_y,you're going southwest
+f,reply_y,mmhmm
+g,instruct,between the wheatfields and the warehouse between the two of them
+f,acknowledge,right okay
+g,ready,right
+g,instruct,you're going
+f,acknowledge,yep
+g,ready,and then
+g,instruct,like go west
+f,acknowledge,right
+g,instruct,so you're underneath them between them
+f,check,between them
+g,reply_y,um mmhmm
+f,acknowledge,right okay
+g,ready,and then
+g,instruct,southwest towards the edge of the map
+f,acknowledge,right okay
+g,ready,right
+g,instruct,and then south
+f,acknowledge,mm right
+g,ready,and then um
+g,instruct,you're going east you come to the lighthouse
+f,check,so right down past the caves
+g,instruct,until you then go east until you get to the lighthouse
+f,align,right okay
+g,ready,right
+g,query_yn,that's the end
+f,acknowledge,above or below
+g,clarify,at the side

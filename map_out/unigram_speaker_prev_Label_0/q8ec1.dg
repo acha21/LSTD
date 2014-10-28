@@ -1,0 +1,324 @@
+g,ready,right neil erm
+f,acknowledge,right
+g,explain,about one and a half centimetres above the extinct volcano is your start point
+f,explain,well i've got that already marked
+f,acknowledge,right
+g,ready,right
+g,acknowledge,ah
+g,instruct,go alon--
+g,uncodable,erm
+g,instruct,go along to your left
+f,acknowledge,right
+g,instruct,about three centimetres
+f,acknowledge,right
+g,instruct,and curve round the extinct volcano
+f,check,down the way
+g,instruct,down the way
+f,check,down the way right
+f,check,towards the bottom left-hand corner
+g,instruct,erm m-- a small slope
+f,check,a small slope right
+g,instruct,and h-- along under the tribal settlement along 'til you
+g,acknowledge,oh right
+f,explain,i don't have a tribal settlement um
+g,uncodable,erm
+f,query_yn,you got a rope bridge
+g,reply_y,yes
+f,explain,am i should i be vertically under the right-hand side of the rope bridge
+g,reply_y,yes
+f,acknowledge,right
+f,acknowledge,okay
+g,explain,erm should be above the bottom of the page by about two centimetres two and a half centimetres
+f,reply_y,oh should i indeed
+f,acknowledge,okay
+g,ready,and
+f,acknowledge,right
+g,align,where are you now you still under
+f,check,em i'm under the rope bridge
+f,check,about
+g,acknowledge,right-hand side
+f,acknowledge,left-hand side
+g,instruct,left-hand side
+g,instruct,go left-hand side of the rope bridge go along
+f,reply_n,no right-hand side of the rope bridge sorry
+g,acknowledge,right-hand side
+f,explain,i thought you meant the page
+g,instruct,erm go along by about nine centimetres
+f,acknowledge,right
+g,instruct,in
+g,instruct,up seven centimetres
+f,ready,right so
+f,query_w,where am i in relation to the rope bridge now
+g,instruct,erm you should be across by about four centimetres eh and under by about four centimetres
+f,acknowledge,right
+g,ready,and
+g,instruct,curve round
+f,query_w,which way
+g,clarify,er so the slope it gets lower
+f,query_w,oh whe-- whe-- whe-- towards the right or the left
+g,align,to the right
+f,query_yn,have you got a saxon barn
+g,query_yn,hu-- you're not up there are you
+f,reply_n,no i no i'm not
+f,check,should am i going toward the rope bridge
+f,check,am i going across the rope bridge
+g,reply_y,yeah towards the rope bridge
+g,reply_y,across the rope bridge
+f,check,am i going across the r-- right it's across the rope bridge
+g,reply_y,yeah
+f,acknowledge,right
+g,instruct,stop after you you reach the end of the rope bridge
+f,reply_y,right i'm at the other end of the rope bridge right
+g,instruct,and down by three centimetres
+f,query_yn,have you got machete
+g,reply_n,no
+f,acknowledge,right
+g,query_w,where whereabouts is the machete
+f,explain,it's along by about three centimetres and couple down from the rope bridge
+g,acknowledge,a couple dow-- oh right
+f,acknowledge,right okay right
+g,query_w,are you close to it
+f,reply_n,not yet
+f,acknowledge,right
+g,instruct,not yet
+f,check,so three centimetres down from the rope bridge
+g,reply_y,yeah
+f,acknowledge,right
+g,query_w,how close are you to it now
+f,check,about
+g,query_yn,are you er directly across from it
+f,reply_n,no
+g,reply_n,no
+g,reply_w,er under it
+f,reply_y,yeah
+f,check,not directly under it but under it
+f,reply_y,yeah
+g,clarify,under it by enough to miss it
+g,reply_y,yeah
+f,reply_y,yeah am i going right now
+g,reply_y,yeah
+g,instruct,er you go right by eight centimetres
+f,check,above the start point
+f,ready,well
+g,reply_y,yes above the start point
+f,acknowledge,right
+f,explain,so i should be above the start point now
+g,reply_y,yeah
+f,acknowledge,right
+g,instruct,you should be above the start point
+g,query_yn,and do you see a collapsed shelter
+f,reply_y,yeah
+g,clarify,above you to the right
+f,acknowledge,mmhmm
+g,ready,well
+g,instruct,you go to the left of this
+f,acknowledge,mmhmm
+g,instruct,and by about twelve centimetres
+f,query_yn,have you got a crevasse
+g,query_yn,up is is there an an obstacle erm
+f,reply_n,no
+g,instruct,acro-- along from the saxon barn at all
+f,explain,i've got a crevasse
+g,reply_y,yeah
+g,ready,well
+g,query_yn,is that directly along from the saxon barn
+f,reply_y,yeah
+g,instruct,well go above that
+f,check,above the c--
+g,instruct,up and you go directly beside the collapsed shelter by about er say fifteen centimetres above the creva-- crevice
+f,acknowledge,right
+f,query_yn,so have you got
+f,ready,right so
+f,reply_w,go about five centimetres above the crevasse
+g,reply_y,yeah
+f,check,directly above the start point
+g,reply_w,five centimetres above the crevi-- crevasse
+f,reply_y,uh-huh
+f,query_w,which is fifteen centimetres from where i am now
+g,ready,eh well
+g,instruct,not as much as that
+f,ready,well
+g,uncodable,ehm
+f,acknowledge,okay right
+f,check,that's where i want to be
+g,reply_w,by about a centimetre above the crevasse then
+g,reply_y,yeah
+f,acknowledge,right
+g,instruct,and go along the top of the crevasse
+f,check,to cross to the left-hand side of it
+g,uncodable,er
+g,align,by
+g,query_yn,you've got the saxon barn haven't you
+f,reply_y,yeah
+g,ready,well
+g,instruct,you go along and you go from above the crevasse well from the side down to under just under the saxon barn in a slope
+f,explain,so i'm curving ab-- i'm sloping then
+g,reply_y,yeah
+f,check,so i'm now under the saxon barn
+f,acknowledge,right
+g,reply_w,er at the right-hand side
+g,reply_y,yes well
+f,acknowledge,okay
+g,instruct,and go along 'til you get to the end of the saxon barn
+f,acknowledge,right
+g,instruct,to your left
+f,acknowledge,okay
+g,query_yn,and is there a an do you see another obstacle
+f,reply_n,no
+g,reply_n,below no
+g,instruct,go
+f,explain,i've got a white mountain
+g,query_w,a white mountain whereabouts oh
+g,reply_n,no no no no
+f,reply_y,directly above the saxon barn
+f,acknowledge,right okay
+g,reply_n,no it's below
+g,instruct,erm go down by about four centimetres
+f,acknowledge,right
+g,uncodable,erm
+g,instruct,go along four
+f,query_w,which way
+g,instruct,well go along five
+f,query_w,which way
+g,acknowledge,left
+f,acknowledge,right
+g,uncodable,erm
+f,query_w,how much of the path have i done by the way am i over halfway there
+g,reply_y,just under halfway yeah
+f,check,just tons to go
+f,acknowledge,yeah right
+f,reply_y,yeah
+g,query_yn,and you've got the white mountain above you yeah
+g,ready,so
+g,instruct,you go up say six centimetres u-- dilec rectly across from the saxon barn to your left
+f,reply_y,so i'm now opposite the saxon barn
+g,reply_y,yes
+f,acknowledge,right
+g,instruct,and you slope towards the white mountain and past the white mountain
+g,instruct,the slope
+f,check,on the right-hand side
+g,clarify,on the left-hand side
+f,check,the left
+g,acknowledge,by one centimetre
+f,explain,but that's not sloping it should be
+g,instruct,well gentle sl-- very gentle slope
+f,explain,so i'm now at the left-hand side of the bottom of the white mountain
+g,instruct,er go along the side er away from the m-- white mountain by a-- from the s-- left side of a white mountain by about one centimetre
+f,check,am i to go up to the top of the mountain
+g,reply_y,yeah
+g,clarify,'til you reach the peak
+g,instruct,stop
+g,reply_n,no you don't
+f,check,so am i actually going to the peak of the wh-- white mountain
+f,check,to
+g,clarify,you go one centimetre to the left of the peak same level as the peak and
+f,check,wait a minute one centimetre to the left of the peak
+g,reply_y,yeah
+f,acknowledge,right
+f,explain,need my tippex now
+g,ready,so it's like
+f,acknowledge,right i've got it i've got it right
+g,uncodable,and er
+g,query_yn,do you see any other obstacles
+g,ready,ssss
+f,explain,i've got some submerged rocks to the r-- to the right
+g,align,to the right
+g,query_w,how close to the right
+f,reply_w,ah about ten to fifteen centimetres away ten quite a way away anyway
+g,align,okay
+g,ready,right
+f,query_yn,not near enough just now
+g,ready,well
+g,instruct,go up six centimetres directly up
+f,acknowledge,okay
+g,query_yn,and is there a mountain slate mountain
+g,reply_y,yes
+f,explain,i've got a slate mountain to the right
+g,ready,well
+g,query_yn,are you dir-- directly opposite that
+f,check,just about
+f,reply_y,the bottom of it yeah
+g,reply_y,yeah
+f,reply_y,yeah
+g,ready,well
+g,instruct,go along and go along to your right one until you get about one centimetre from the slate mountain again and
+f,acknowledge,right
+g,clarify,along the slope one centimetre away from it
+f,check,do i climb it just like the white mountain
+g,reply_y,yeah similar to it
+f,acknowledge,right
+f,check,so i'm at the top
+g,align,yeah you go right over the peak and
+f,check,right and down the other side
+g,reply_y,down again yeah
+f,acknowledge,okay
+g,query_yn,and er is the obstacle you mentioned anywhere near
+f,reply_n,no
+g,reply_n,no
+f,explain,i've got a golden beach underneath me
+g,reply_y,yeah
+g,reply_w,i've got a golden beach as well
+g,explain,that's quite a bit away
+f,reply_y,yeah
+g,reply_y,yeah
+g,ready,well
+g,instruct,go two centimetres down from the bottom of the sli-- slate mountain on your right just two centimetres down
+f,acknowledge,okay
+g,instruct,and go along left 'til you're about one centimetre away from the bottom of the slate mountain directly beneath the slate mountain that is
+f,check,oh on the left-hand side
+g,reply_y,yeah on the left-hand side of
+g,align,one centimetre away
+f,check,so i'm getting near to where i jumped over the mountain
+g,reply_y,yeah
+f,check,only underneath it right
+f,explain,now i've got some submerged rocks underneath me here
+g,query_w,how close
+f,check,directly underneath
+g,clarify,directly underneath
+f,ready,well just um
+f,explain,if i go another couple of centimetres i'll be miss them
+g,instruct,you'll miss them
+f,acknowledge,mmhmm
+g,instruct,if you go along a couple
+f,check,to the left
+g,ready,er well
+g,instruct,go along another couple of centimetres then
+f,explain,so i'm under the point where i jumped over the mountain now
+f,check,under the point where i jumped over the mountain
+g,clarify,you're under just well under to you should be under to the left
+g,reply_y,yeah
+f,reply_w,off the point where i jumped over the mountain
+g,clarify,one centimetre to the left
+f,check,of the point
+g,reply_y,yeah
+f,acknowledge,okay
+f,acknowledge,right
+g,align,erm you okay
+f,explain,i've missed the rocks now if i go if i go straight down i'll miss the rocks
+g,ready,right
+g,instruct,erm eh go along another one centimetre
+f,acknowledge,right
+g,align,okay
+g,uncodable,erm
+g,instruct,down directly down until you are opposite to the right of the white mountain the bottom of the white mountain
+f,query_yn,have you got a secret valley
+g,reply_y,yes
+f,check,so
+f,reply_n,hit it no
+g,instruct,are you going to go right through this
+f,reply_n,no
+g,reply_n,no
+f,check,so
+f,explain,i'm now at the bottom left of the secret valley
+g,reply_y,yes
+f,acknowledge,right
+g,acknowledge,ah
+g,instruct,just go about one centimetre down from the where the white mountain is er you should be opposite from the white mountain so one centimetre down again
+f,acknowledge,right
+g,instruct,and along you sh-- 'til you're just under the secret right-hand side of the secret valley now
+f,acknowledge,right
+g,instruct,and along by one centimetre
+f,acknowledge,okay
+g,instruct,that's you
+f,explain,that's me
+g,explain,yeah well it should be anyway
