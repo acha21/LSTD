@@ -8,7 +8,7 @@ This module is made in the purpose of a evaluating dialact_callfier
 from os import listdir
 from os.path import isfile, join
 import diact_classifier
-
+import sys
 
 def evaluate(resultFolder, goldenFolderName):
     ''' calculate precision of resultFolder
@@ -17,6 +17,7 @@ def evaluate(resultFolder, goldenFolderName):
     resultFolder : The output of classifier should be in this folder in the same form of goldenStandard
     goldenFolder : The golden standard of classifier should be here 
     '''
+
     rsFiles = [f for f in listdir(resultFolder) if isfile(join(resultFolder,f))]
     goldFiles = [f for f in listdir(goldenFolderName) if isfile(join(goldenFolderName,f))]
     
@@ -69,6 +70,6 @@ def evaluateCV(classifer, resultFolder, goldenFolderName, fold=10):
     return avg_acc/1
     
 if __name__=="__main__":
-  
-    print evaluate("ss_dialog","ss_dialog")
+    print sys.argv[1] 
+    print evaluate(sys.argv[1],sys.argv[2])
     print "ok"

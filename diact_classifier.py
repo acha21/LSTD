@@ -64,7 +64,11 @@ def loadposTags():
     global posOf_allFiles
     pos_file = open("pos_map","r")
     posOf_allFiles = pickle.load(pos_file)
-   
+
+def validation_previous_n_uts_maxEnt(trainfiles, testfiles):
+    model = MaxentModel()
+    model.begin_add_event();
+
 def previous_n_uts_maxEnt(trainfiles, testfiles):
     """Using maxEntropy model, and feature such as ngram, postag of previous n utterences, classify DAs
     
@@ -177,9 +181,10 @@ def previous_n_uts_maxEnt(trainfiles, testfiles):
 
 
 def getSpeakerDA_STN(line):
-    speaker = line.split(",")[0]
-    label = line.split(",")[1]
-    stn = "".join(line.split(",")[2:])
+    strOfLine = line.split(",")
+    speaker = strOfLine[0]
+    label = strOfLine[1]
+    stn = "".join(strOfLine[2:])
     return (speaker, label, stn)
 
 def contextWindow_maxEnt(trainfiles, testfiles):
@@ -230,9 +235,9 @@ def contextWindow_maxEnt(trainfiles, testfiles):
             feature.append("speaker_"+s)
 
             if(ps!=None):
-                     feature.append("pspeaker_"+ps)
+                feature.append("pspeaker_"+ps)
             if(ns!=None):
-                     feature.append("nspeaker_"+ns)
+                feature.append("nspeaker_"+ns)
          
             model.add_event(feature, l)
            
@@ -396,12 +401,12 @@ def test(input_folderName, outPath):
     """ test all of the parameter setting(pSet) using MaxEntropy. """
 
     folds = makeFolds(input_folderName,10)
-    test , train = div_test_train_fold(folds, 0)
+    test, train = div_test_train_fold(folds, 0)
     
-    files = []    
+    files = []
     files+=test
     files+=train
-    loadposTags()  
+    loadposTags()
     # parameter setting
     # In pSet, outPathName and options for whether some of features are used for classifying DA
     # _outPathName, _use_unigram, _use_bigram, _use_trigram, _use_speaker, _use_postag, _use_true_label, _prev
@@ -417,38 +422,38 @@ def test(input_folderName, outPath):
 
     
     pSet = [
-    (outPath + "unigram_0", True, False, False, False, False, 0, 0),
-    (outPath + "unigram_1", True, False, False, False, False, 0, 1),
-    (outPath + "unigram_2", True, False, False, False, False, 0, 2),
+    (outPath + "unigram_0", True, False, False, False, False, 0, 0)
+    # (outPath + "unigram_1", True, False, False, False, False, 0, 1),
+    # (outPath + "unigram_2", True, False, False, False, False, 0, 2),
     
-    (outPath + "bigram_0", False, True, False, False, False, 0, 0),
-    (outPath + "bigram_1", False, True, False, False, False, 0, 1),
-    (outPath + "bigram_2", False, True, False, False, False, 0, 2),
+    # (outPath + "bigram_0", False, True, False, False, False, 0, 0),
+    # (outPath + "bigram_1", False, True, False, False, False, 0, 1),
+    # (outPath + "bigram_2", False, True, False, False, False, 0, 2),
     
-    (outPath + "uni_bigram_0", True, True, False, False, False, 0, 0),
-    (outPath + "uni_bigram_1", True, True, False, False, False, 0, 1),
-    (outPath + "uni_bigram_2", True, True, False, False, False, 0, 2),
+    # (outPath + "uni_bigram_0", True, True, False, False, False, 0, 0),
+    # (outPath + "uni_bigram_1", True, True, False, False, False, 0, 1),
+    # (outPath + "uni_bigram_2", True, True, False, False, False, 0, 2),
     
-    (outPath + "unigram_speaker_0", True, False, False, True, False, 0, 0),
-    (outPath + "unigram_speaker_1", True, False, False, True, False, 0, 1),
-    (outPath + "unigram_speaker_2", True, False, False, True, False, 0, 2),
+    # (outPath + "unigram_speaker_0", True, False, False, True, False, 0, 0),
+    # (outPath + "unigram_speaker_1", True, False, False, True, False, 0, 1),
+    # (outPath + "unigram_speaker_2", True, False, False, True, False, 0, 2),
 
-    (outPath + "uni_bigram_speaker_0", True, True, False, True, False, 0, 0),
-    (outPath + "uni_bigram_speaker_1", True, True, False, True, False, 0, 1),
-    (outPath + "uni_bigram_speaker_2", True, True, False, True, False, 0, 2),    
+    # (outPath + "uni_bigram_speaker_0", True, True, False, True, False, 0, 0),
+    # (outPath + "uni_bigram_speaker_1", True, True, False, True, False, 0, 1),
+    # (outPath + "uni_bigram_speaker_2", True, True, False, True, False, 0, 2),    
         
-    (outPath + "unigram_speaker_prev_Label_0", True, False, False, True, False, 2, 0),
-    (outPath + "unigram_speaker_prev_Label_1", True, False, False, True, False, 2, 1),
+    # (outPath + "unigram_speaker_prev_Label_0", True, False, False, True, False, 2, 0),
+    # (outPath + "unigram_speaker_prev_Label_1", True, False, False, True, False, 2, 1),
 
     
-    (outPath + "unigram_speaker_prevTrueLabel_0", True, False, False, True, False, 1, 0),
-    (outPath + "unigram_speaker_prevTrueLabel_1", True, False, False, True, False, 1, 1),
+    # (outPath + "unigram_speaker_prevTrueLabel_0", True, False, False, True, False, 1, 0),
+    # (outPath + "unigram_speaker_prevTrueLabel_1", True, False, False, True, False, 1, 1),
     
-    (outPath + "unigram_posTag_speaker_prev_Label_0", True, False, False, True, True, 2, 0),
-    (outPath + "unigram_posTag_speaker_prev_Label_1", True, False, False, True, True, 2, 1),
+    # (outPath + "unigram_posTag_speaker_prev_Label_0", True, False, False, True, True, 2, 0),
+    # (outPath + "unigram_posTag_speaker_prev_Label_1", True, False, False, True, True, 2, 1),
 
-    (outPath + "unigram_posTag_speaker_prevTrueLabel_0", True, False, False, True, True, 1, 0),
-    (outPath + "unigram_posTag_speaker_prevTrueLabel_1", True, False, False, True, True, 1, 1)
+    # (outPath + "unigram_posTag_speaker_prevTrueLabel_0", True, False, False, True, True, 1, 0),
+    # (outPath + "unigram_posTag_speaker_prevTrueLabel_1", True, False, False, True, True, 1, 1)
     
     ]
 
@@ -476,26 +481,24 @@ def testInformationScienceI(input_folderName, outPath):
         makeOutDir(_outPathName)
         print "%s : %f" % (_outPathName,evaluate.evaluateCV(contextWindow_maxEnt,_outPathName,input_folderName))
 
-'''
+
 
 if __name__=="__main__":
-    input_folder = ""
-    if len(sys.argv)==1:
-        print "please enter input path as first argument"
-    else:
-        input_folder = sys.argv[1]
+    input_folder = "./dialog"
+    # if len(sys.argv)==1:
+    #     print "please enter input path as first argument"
+    # else:
+    #     input_folder = sys.argv[1]
     
-    outPath = "./ss_out3/" 
+    outPath = "./map_out2/" 
     #posTagging(input_folder) # if you have posmap file you have to run this function
     test(input_folder, outPath)
     
+    # ./map_test/map_result_isiunigram_posTag_speaker_prev_Label_0 : 0.652026
+    # ./map_test/map_result_isiunigram_posTag_speaker_prev_Label_1 : 0.663277
 
-    ./map_test/map_result_isiunigram_posTag_speaker_prev_Label_0 : 0.652026
-    ./map_test/map_result_isiunigram_posTag_speaker_prev_Label_1 : 0.663277
-    [Finished in 61.0s]
+    # [Finished in 61.0s]
 
-    
-'''
 
 if __name__=="__main__":
     
